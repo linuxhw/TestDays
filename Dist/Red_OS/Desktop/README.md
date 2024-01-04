@@ -945,8 +945,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 129      | 66.84%  |
-| Yes       | 64       | 33.16%  |
+| No        | 130      | 67.71%  |
+| Yes       | 62       | 32.29%  |
 
 Has Ethernet
 ------------
@@ -2153,7 +2153,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 0.8%    |
 | VIA VT6105/VT6106S [Rhine-III]                                    | 1        | 0.4%    |
 | TP-Link USB 10/100 LAN                                            | 1        | 0.4%    |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 0.4%    |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 0.4%    |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 0.4%    |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 0.4%    |
 | Samsung Galaxy series, misc. (tethering mode)                     | 1        | 0.4%    |
@@ -2206,7 +2206,7 @@ Wireless models
 | Intel Wireless 7265                                             | 2        | 4.35%   |
 | Intel Tiger Lake PCH CNVi WiFi                                  | 2        | 4.35%   |
 | Intel Alder Lake-S PCH CNVi WiFi                                | 2        | 4.35%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                             | 1        | 2.17%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                           | 1        | 2.17%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]      | 1        | 2.17%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                              | 1        | 2.17%   |
 | Realtek RTL8852BE PCIe 802.11ax Wireless Network Controller     | 1        | 2.17%   |
@@ -2278,7 +2278,7 @@ Ethernet models
 | Qualcomm Atheros Attansic L2 Fast Ethernet                        | 1        | 0.5%    |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 0.5%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 0.5%    |
-| MediaTek X55                                                      | 1        | 0.5%    |
+| MediaTek M40Air_EEA                                               | 1        | 0.5%    |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1        | 0.5%    |
 | Intel I210 Gigabit Network Connection                             | 1        | 0.5%    |
 | Intel Ethernet Controller I225-LM                                 | 1        | 0.5%    |
@@ -2381,10 +2381,9 @@ Controller models
 | Realtek Bluetooth Radio                             | 9        | 27.27%  |
 | Intel Bluetooth wireless interface                  | 6        | 18.18%  |
 | Intel Wireless-AC 3168 Bluetooth                    | 4        | 12.12%  |
+| Intel Bluetooth Device                              | 4        | 12.12%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 9.09%   |
-| Intel Bluetooth Device                              | 2        | 6.06%   |
-| Intel AX201 Bluetooth                               | 2        | 6.06%   |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 1        | 3.03%   |
+| TP-Link UB500 Adapter                               | 1        | 3.03%   |
 | MediaTek Wireless_Device                            | 1        | 3.03%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 3.03%   |
 | IMC Networks Bluetooth Radio                        | 1        | 3.03%   |
@@ -2525,48 +2524,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Foxline RAM FL2666D4U19-8G 8GB DIMM DDR4 2667MT/s                 | 6        | 2.9%    |
-| Foxline RAM FL2666D4S19-8G ]. 8GB SODIMM DDR4 2667MT/s            | 5        | 2.42%   |
-| Unknown                                                           | 4        | 1.93%   |
-| Samsung RAM M378A1K43EB2-CWE 8GB DIMM DDR4 3200MT/s               | 3        | 1.45%   |
-| Patriot RAM PSD44G266681 4GB DIMM DDR4 2667MT/s                   | 3        | 1.45%   |
-| Crucial RAM CT8G4DFS824A.C8FDD1 8GB DIMM DDR4 3200MT/s            | 3        | 1.45%   |
-| AMD RAM R748G2606U2S 8GB DIMM DDR4 3200MT/s                       | 3        | 1.45%   |
-| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                         | 2        | 0.97%   |
-| Unknown RAM Module 2GB DIMM SDRAM 800MT/s                         | 2        | 0.97%   |
-| Unknown RAM Module 2GB DIMM SDRAM                                 | 2        | 0.97%   |
-| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                         | 2        | 0.97%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                              | 2        | 0.97%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 2        | 0.97%   |
-| SK hynix RAM HMT451U6MFR8C-PB 4GB DIMM DDR3 1800MT/s              | 2        | 0.97%   |
-| Samsung RAM Module 1GB DIMM DDR2 533MT/s                          | 2        | 0.97%   |
-| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s                   | 2        | 0.97%   |
-| Patriot RAM PSD48G240082 8GB DIMM DDR4 2400MT/s                   | 2        | 0.97%   |
-| Neo Forza RAM NMUD480E82-2666E 8GB DIMM DDR4 2667MT/s             | 2        | 0.97%   |
-| KingTiger RAM Module 2GB DIMM DDR3 1333MT/s                       | 2        | 0.97%   |
-| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s               | 2        | 0.97%   |
-| Kingston RAM 99U5734-036.A00G 16GB DIMM DDR4 2667MT/s             | 2        | 0.97%   |
-| HomeNet RAM HN SO 8GB 8192MB SODIMM DDR4 3200MT/s                 | 2        | 0.97%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s               | 2        | 0.97%   |
-| Foxline RAM FL2666D4S19S-16G 16GB SODIMM DDR4 2667MT/s            | 2        | 0.97%   |
-| Crucial RAM ST51264BA1339.16FK 4GB DIMM DDR3 1333MT/s             | 2        | 0.97%   |
-| Crucial RAM CT8G4SFRA32A.C16FG 8GB SODIMM DDR4 3200MT/s           | 2        | 0.97%   |
-| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 3600MT/s              | 2        | 0.97%   |
-| Crucial RAM CT8G4DFS824A.C8FHD1 8GB DIMM DDR4 3200MT/s            | 2        | 0.97%   |
-| Crucial RAM CT8G4DFRA32A.M8FR 8192MB DIMM DDR4 3533MT/s           | 2        | 0.97%   |
-| Crucial RAM CT8G4DFRA266.C8FP 8GB DIMM DDR4 2667MT/s              | 2        | 0.97%   |
-| Crucial RAM CT8G4DFD8213.C16FHP 8GB DIMM DDR4 2133MT/s            | 2        | 0.97%   |
-| Crucial RAM CT4G4DFS8213.C8FBD2 4GB DIMM DDR4 2800MT/s            | 2        | 0.97%   |
-| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s             | 2        | 0.97%   |
-| Apacer RAM D12.2324CH.002 8GB DIMM DDR4 3200MT/s                  | 2        | 0.97%   |
-| A-DATA RAM Module 8GB SODIMM DDR4 2667MT/s                        | 2        | 0.97%   |
-| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3600MT/s                       | 2        | 0.97%   |
-| Unknown RAM Module 8GB DIMM DDR4 2133MT/s                         | 1        | 0.48%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                         | 1        | 0.48%   |
-| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                         | 1        | 0.48%   |
-| Unknown RAM Module 512MB DIMM SDRAM                               | 1        | 0.48%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Foxline RAM FL2666D4U19-8G 8GB DIMM DDR4 2667MT/s              | 6        | 2.9%    |
+| Foxline RAM FL2666D4S19-8G ]. 8GB SODIMM DDR4 2667MT/s         | 5        | 2.42%   |
+| Unknown                                                        | 4        | 1.93%   |
+| Samsung RAM M378A1K43EB2-CWE 8GB DIMM DDR4 3200MT/s            | 3        | 1.45%   |
+| Patriot RAM PSD44G266681 4GB DIMM DDR4 2667MT/s                | 3        | 1.45%   |
+| Crucial RAM CT8G4DFS824A.C8FDD1 8GB DIMM DDR4 3200MT/s         | 3        | 1.45%   |
+| AMD RAM R748G2606U2S 8GB DIMM DDR4 3200MT/s                    | 3        | 1.45%   |
+| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                      | 2        | 0.97%   |
+| Unknown RAM Module 2GB DIMM SDRAM 800MT/s                      | 2        | 0.97%   |
+| Unknown RAM Module 2GB DIMM SDRAM                              | 2        | 0.97%   |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                      | 2        | 0.97%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                           | 2        | 0.97%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 2        | 0.97%   |
+| SK hynix RAM HMT451U6MFR8C-PB 4GB DIMM DDR3 1800MT/s           | 2        | 0.97%   |
+| Samsung RAM Module 1GB DIMM DDR2 533MT/s                       | 2        | 0.97%   |
+| Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s                | 2        | 0.97%   |
+| Patriot RAM PSD48G240082 8GB DIMM DDR4 2400MT/s                | 2        | 0.97%   |
+| Neo Forza RAM NMUD480E82-2666E 8GB DIMM DDR4 2667MT/s          | 2        | 0.97%   |
+| KingTiger RAM Module 2GB DIMM DDR3 1333MT/s                    | 2        | 0.97%   |
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s            | 2        | 0.97%   |
+| Kingston RAM 99U5734-036.A00G 16GB DIMM DDR4 2667MT/s          | 2        | 0.97%   |
+| HomeNet RAM HN SO 8GB 8192MB SODIMM DDR4 3200MT/s              | 2        | 0.97%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s            | 2        | 0.97%   |
+| Foxline RAM FL2666D4S19S-16G 16GB SODIMM DDR4 2667MT/s         | 2        | 0.97%   |
+| Crucial RAM ST51264BA1339.16FK 4GB DIMM DDR3 1333MT/s          | 2        | 0.97%   |
+| Crucial RAM CT8G4SFRA32A.C16FG 8GB SODIMM DDR4 3200MT/s        | 2        | 0.97%   |
+| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 3600MT/s           | 2        | 0.97%   |
+| Crucial RAM CT8G4DFS824A.C8FHD1 8GB DIMM DDR4 3200MT/s         | 2        | 0.97%   |
+| Crucial RAM CT8G4DFRA32A.M8FR 8192MB DIMM DDR4 3533MT/s        | 2        | 0.97%   |
+| Crucial RAM CT8G4DFRA266.C8FP 8GB DIMM DDR4 2667MT/s           | 2        | 0.97%   |
+| Crucial RAM CT8G4DFD8213.C16FHP 8GB DIMM DDR4 2133MT/s         | 2        | 0.97%   |
+| Crucial RAM CT4G4DFS8213.C8FBD2 4GB DIMM DDR4 2800MT/s         | 2        | 0.97%   |
+| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s          | 2        | 0.97%   |
+| Apacer RAM D12.2324CH.002 8GB DIMM DDR4 3200MT/s               | 2        | 0.97%   |
+| A-DATA RAM Module 8GB SODIMM DDR4 2667MT/s                     | 2        | 0.97%   |
+| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3600MT/s                    | 2        | 0.97%   |
+| Unknown RAM Module 8GB DIMM DDR4 2133MT/s                      | 1        | 0.48%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                      | 1        | 0.48%   |
+| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                      | 1        | 0.48%   |
+| Unknown RAM Module 512MB DIMM SDRAM                            | 1        | 0.48%   |
 
 Memory Kind
 -----------
@@ -2777,8 +2776,8 @@ Camera device models
 | Creative VF0530 Live! Cam Chat IM         | 1        | 2.7%    |
 | Chicony HP High Definition 1MP Webcam     | 1        | 2.7%    |
 | Chicony HP 0.3MP Webcam                   | 1        | 2.7%    |
-| Arkmicro Acme CA04                        | 1        | 2.7%    |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR        | 1        | 2.7%    |
+| Arkmicro USB2.0 PC CAMERA                 | 1        | 2.7%    |
+| Apple iPhone 5/5C/5S/6/SE                 | 1        | 2.7%    |
 | AlcorMicroCorp SHUNCCM                    | 1        | 2.7%    |
 | Alcor Micro USB FHD Camera                | 1        | 2.7%    |
 

@@ -892,7 +892,7 @@ Hard drive models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3        | 2.5%    |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3        | 2.5%    |
 | WDC WD40EZRX-00SPEB0 4TB                            | 2        | 1.67%   |
 | WDC WD20EFRX-68EUZN0 2TB                            | 2        | 1.67%   |
 | WDC WD10EZEX-08WN4A0 1TB                            | 2        | 1.67%   |
@@ -902,7 +902,7 @@ Hard drive models
 | Seagate ST2000DM008-2FR102 2TB                      | 2        | 1.67%   |
 | Seagate ST2000DL003-9VT166 2TB                      | 2        | 1.67%   |
 | Seagate ST1000DM003-1SB102 1TB                      | 2        | 1.67%   |
-| Seagate Expansion Desk 6TB                          | 2        | 1.67%   |
+| Seagate Expansion Desk 8TB                          | 2        | 1.67%   |
 | Samsung SSD 970 EVO 250GB                           | 2        | 1.67%   |
 | Kingston SA400S37120G 120GB SSD                     | 2        | 1.67%   |
 | Crucial CT500MX500SSD1 500GB                        | 2        | 1.67%   |
@@ -1649,7 +1649,7 @@ Monitor models
 | Hewlett-Packard x23LED HWP2912 1920x1080 509x286mm 23.0-inch           | 1        | 2.33%   |
 | Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                    | 1        | 2.33%   |
 | Goldstar HDR WQHD GSM7756 3440x1440 820x346mm 35.0-inch                | 1        | 2.33%   |
-| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                   | 1        | 2.33%   |
+| Goldstar E2260 GSM57DF 1920x1080 480x270mm 21.7-inch                   | 1        | 2.33%   |
 | Goldstar E1641 GSM8B3E 1366x768 344x194mm 15.5-inch                    | 1        | 2.33%   |
 | GDH Digital TV GDH0030 1440x900 1150x650mm 52.0-inch                   | 1        | 2.33%   |
 | Dell U2722D DEL422D 2560x1440 597x336mm 27.0-inch                      | 1        | 2.33%   |
@@ -1666,7 +1666,7 @@ Monitor models
 | BenQ G610HDAL BNQ785B 1366x768 344x194mm 15.5-inch                     | 1        | 2.33%   |
 | BenQ EW2440L BNQ7938 1920x1080 531x298mm 24.0-inch                     | 1        | 2.33%   |
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch           | 1        | 2.33%   |
-| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                       | 1        | 2.33%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                       | 1        | 2.33%   |
 | AOC 2778X AOC2778 2560x1440 600x340mm 27.2-inch                        | 1        | 2.33%   |
 | Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch  | 1        | 2.33%   |
 | Ancor Communications ASUS VS228 ACI22FD 1920x1080 480x270mm 21.7-inch  | 1        | 2.33%   |
@@ -1865,7 +1865,7 @@ Controller models
 | Realtek RTL8188CUS 802.11n WLAN Adapter                               | 1        | 1.45%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                 | 1        | 1.45%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                             | 1        | 1.45%   |
-| Qualcomm Redmi 9T                                                     | 1        | 1.45%   |
+| Qualcomm FP3                                                          | 1        | 1.45%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                      | 1        | 1.45%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)        | 1        | 1.45%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                      | 1        | 1.45%   |
@@ -1974,7 +1974,7 @@ Ethernet models
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express           | 2        | 4%      |
 | Realtek USB 10/100/1G/2.5G LAN                                    | 1        | 2%      |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 2%      |
-| Qualcomm Redmi 9T                                                 | 1        | 2%      |
+| Qualcomm FP3                                                      | 1        | 2%      |
 | Nvidia MCP79 Ethernet                                             | 1        | 2%      |
 | Intel I350 Gigabit Network Connection                             | 1        | 2%      |
 | Intel I211 Gigabit Network Connection                             | 1        | 2%      |
@@ -2076,7 +2076,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 6        | 35.29%  |
 | MediaTek Wireless_Device                            | 3        | 17.65%  |
 | Intel AX200 Bluetooth                               | 2        | 11.76%  |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 1        | 5.88%   |
+| TP-Link UB500 Adapter                               | 1        | 5.88%   |
 | Realtek Bluetooth Radio                             | 1        | 5.88%   |
 | Micro Star International Bluetooth Dongle           | 1        | 5.88%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 5.88%   |
@@ -2137,7 +2137,7 @@ Sound card models
 | AMD Navi 10 HDMI Audio                                                                            | 2        | 2.47%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 2        | 2.47%   |
 | Texas Instruments PCM2902 Audio Codec                                                             | 1        | 1.23%   |
-| RME ADI-2 DAC (58830529)                                                                          | 1        | 1.23%   |
+| RME ADI-2 DAC (51060020)                                                                          | 1        | 1.23%   |
 | Nvidia MCP79 High Definition Audio                                                                | 1        | 1.23%   |
 | Nvidia GP107GL High Definition Audio Controller                                                   | 1        | 1.23%   |
 | Nvidia GP104 High Definition Audio Controller                                                     | 1        | 1.23%   |
@@ -2208,7 +2208,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR 1333MT/s                    | 1        | 1.92%   |
 | Transcend RAM JM1600KLN-8GK 4096MB DIMM DDR3 1600MT/s       | 1        | 1.92%   |
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3733MT/s          | 1        | 1.92%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s         | 1        | 1.92%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s         | 1        | 1.92%   |
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
 | Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3 1600MT/s         | 1        | 1.92%   |
 | SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.92%   |
@@ -2225,7 +2225,7 @@ Memory module models
 | Kingston RAM KHX3333C16D4/8GX 8GB DIMM DDR4 3800MT/s        | 1        | 1.92%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3733MT/s        | 1        | 1.92%   |
 | Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s        | 1        | 1.92%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s         | 1        | 1.92%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s         | 1        | 1.92%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s         | 1        | 1.92%   |
 | Kingston RAM HP32D4U2S8MR-8 8GB DIMM DDR4 3200MT/s          | 1        | 1.92%   |
 | Kingston RAM ACR128X64D2S800C6 1GB SODIMM DDR2 975MT/s      | 1        | 1.92%   |

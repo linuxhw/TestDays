@@ -1886,48 +1886,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| ViewSonic VA2261 Series VSC0F30 1920x1080 477x268mm 21.5-inch           | 3        | 2.86%   |
-| KTC 23L13-H-AN KTC2302 1920x1080 510x287mm 23.0-inch                    | 3        | 2.86%   |
-| AOC 1950w AOC1950 1366x768 410x230mm 18.5-inch                          | 3        | 2.86%   |
-| ViewSonic VA2405-FHD VSCA939 1920x1080 527x296mm 23.8-inch              | 2        | 1.9%    |
-| Unknown MS306 0030 1920x1080 708x398mm 32.0-inch                        | 2        | 1.9%    |
-| Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch     | 2        | 1.9%    |
-| Samsung Electronics S22F350 SAM0D1B 1920x1080 477x268mm 21.5-inch       | 2        | 1.9%    |
-| Lenovo LEN C32q-20 LEN65F8 2560x1440 698x393mm 31.5-inch                | 2        | 1.9%    |
-| KTC W9023S5 KTC1852 1360x768 410x230mm 18.5-inch                        | 2        | 1.9%    |
-| AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                         | 2        | 1.9%    |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                          | 2        | 1.9%    |
-| AOC 1621w AOC1621 1366x768 344x194mm 15.5-inch                          | 2        | 1.9%    |
-| ViewSonic XG2405 VSC0D39 1920x1080 527x296mm 23.8-inch                  | 1        | 0.95%   |
-| ViewSonic VX2478 Series VSCE032 2560x1440 526x296mm 23.8-inch           | 1        | 0.95%   |
-| ViewSonic VX2452 Series VSCDE2E 1920x1080 521x293mm 23.5-inch           | 1        | 0.95%   |
-| ViewSonic VX2240w VSC6B20 1680x1050 495x291mm 22.6-inch                 | 1        | 0.95%   |
-| ViewSonic VX1935wm VSC2A1E 1440x900 408x255mm 18.9-inch                 | 1        | 0.95%   |
-| ViewSonic VA703-3Series VSC631E 1280x1024 338x270mm 17.0-inch           | 1        | 0.95%   |
-| ViewSonic VA702b VSC231C 1280x1024 338x270mm 17.0-inch                  | 1        | 0.95%   |
-| ViewSonic VA2415-FHD VSC533C 1920x1080 527x296mm 23.8-inch              | 1        | 0.95%   |
-| ViewSonic VA2248 SERIES VSC0E28 1920x1080 477x268mm 21.5-inch           | 1        | 0.95%   |
-| ViewSonic VA1931 Series VSCAC25 1366x768 410x230mm 18.5-inch            | 1        | 0.95%   |
-| ViewSonic VA1903 Series VSC8A31 1366x768 410x230mm 18.5-inch            | 1        | 0.95%   |
-| ViewSonic LCD Monitor VX2240w 3600x1080                                 | 1        | 0.95%   |
-| ViewSonic LCD Monitor VA2261                                            | 1        | 0.95%   |
-| Unknown LCD Monitor XXX AAA 1920x1080                                   | 1        | 0.95%   |
-| Unknown LCD Monitor RTK 2944x1080                                       | 1        | 0.95%   |
-| Sony LCD Monitor TV                                                     | 1        | 0.95%   |
-| Samsung Electronics SyncMaster SAM0546 1920x1080 510x287mm 23.0-inch    | 1        | 0.95%   |
-| Samsung Electronics SyncMaster SAM0286 1280x720 372x209mm 16.8-inch     | 1        | 0.95%   |
-| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch      | 1        | 0.95%   |
-| Samsung Electronics SA300/SA350 SAM0788 1366x768 410x230mm 18.5-inch    | 1        | 0.95%   |
-| Samsung Electronics S20B300 SAM08A8 1600x900 443x249mm 20.0-inch        | 1        | 0.95%   |
-| Samsung Electronics LCD Monitor SAM7016 3840x2160 1872x1053mm 84.6-inch | 1        | 0.95%   |
-| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch  | 1        | 0.95%   |
-| Samsung Electronics C24FG70 SAM0D58 1920x1080 532x304mm 24.1-inch       | 1        | 0.95%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch       | 1        | 0.95%   |
-| RIS HD915L RIS0709 1360x768 410x230mm 18.5-inch                         | 1        | 0.95%   |
-| Philips PHL 272V8 PHLC21A 1920x1080 598x336mm 27.0-inch                 | 1        | 0.95%   |
-| Panasonic LCD Monitor TV                                                | 1        | 0.95%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| ViewSonic VA2261 Series VSC0F30 1920x1080 477x268mm 21.5-inch          | 3        | 2.86%   |
+| KTC 23L13-H-AN KTC2302 1920x1080 510x287mm 23.0-inch                   | 3        | 2.86%   |
+| AOC 1950w AOC1950 1366x768 410x230mm 18.5-inch                         | 3        | 2.86%   |
+| ViewSonic VA2405-FHD VSCA939 1920x1080 527x296mm 23.8-inch             | 2        | 1.9%    |
+| Unknown MS306 0030 1920x1080 708x398mm 32.0-inch                       | 2        | 1.9%    |
+| Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch    | 2        | 1.9%    |
+| Samsung Electronics S22F350 SAM0D1B 1920x1080 477x268mm 21.5-inch      | 2        | 1.9%    |
+| Lenovo LEN C32q-20 LEN65F8 2560x1440 698x393mm 31.5-inch               | 2        | 1.9%    |
+| KTC W9023S5 KTC1852 1360x768 410x230mm 18.5-inch                       | 2        | 1.9%    |
+| AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                        | 2        | 1.9%    |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                         | 2        | 1.9%    |
+| AOC 1621w AOC1621 1366x768 344x194mm 15.5-inch                         | 2        | 1.9%    |
+| ViewSonic XG2405 VSC0D39 1920x1080 527x296mm 23.8-inch                 | 1        | 0.95%   |
+| ViewSonic VX2478 Series VSCE032 2560x1440 526x296mm 23.8-inch          | 1        | 0.95%   |
+| ViewSonic VX2452 Series VSCDE2E 1920x1080 521x293mm 23.5-inch          | 1        | 0.95%   |
+| ViewSonic VX2240w VSC6B20 1680x1050 495x291mm 22.6-inch                | 1        | 0.95%   |
+| ViewSonic VX1935wm VSC2A1E 1440x900 408x255mm 18.9-inch                | 1        | 0.95%   |
+| ViewSonic VA703-3Series VSC631E 1280x1024 338x270mm 17.0-inch          | 1        | 0.95%   |
+| ViewSonic VA702b VSC231C 1280x1024 338x270mm 17.0-inch                 | 1        | 0.95%   |
+| ViewSonic VA2415-FHD VSC533C 1920x1080 527x296mm 23.8-inch             | 1        | 0.95%   |
+| ViewSonic VA2248 SERIES VSC0E28 1920x1080 477x268mm 21.5-inch          | 1        | 0.95%   |
+| ViewSonic VA1931 Series VSCAC25 1366x768 410x230mm 18.5-inch           | 1        | 0.95%   |
+| ViewSonic VA1903 Series VSC8A31 1366x768 410x230mm 18.5-inch           | 1        | 0.95%   |
+| ViewSonic LCD Monitor VX2240w 3600x1080                                | 1        | 0.95%   |
+| ViewSonic LCD Monitor VA2261                                           | 1        | 0.95%   |
+| Unknown LCD Monitor XXX AAA 1920x1080                                  | 1        | 0.95%   |
+| Unknown LCD Monitor RTK 2944x1080                                      | 1        | 0.95%   |
+| Sony LCD Monitor TV                                                    | 1        | 0.95%   |
+| Samsung Electronics SyncMaster SAM0546 1920x1080 510x287mm 23.0-inch   | 1        | 0.95%   |
+| Samsung Electronics SyncMaster SAM0286 1280x720 372x209mm 16.8-inch    | 1        | 0.95%   |
+| Samsung Electronics SM2333TN SAM06FC 1920x1080 477x268mm 21.5-inch     | 1        | 0.95%   |
+| Samsung Electronics SA300/SA350 SAM0788 1366x768 410x230mm 18.5-inch   | 1        | 0.95%   |
+| Samsung Electronics S20B300 SAM08A8 1600x900 443x249mm 20.0-inch       | 1        | 0.95%   |
+| Samsung Electronics LCD Monitor SAM7016 3840x2160 950x540mm 43.0-inch  | 1        | 0.95%   |
+| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch | 1        | 0.95%   |
+| Samsung Electronics C24FG70 SAM0D58 1920x1080 532x304mm 24.1-inch      | 1        | 0.95%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 1        | 0.95%   |
+| RIS HD915L RIS0709 1360x768 410x230mm 18.5-inch                        | 1        | 0.95%   |
+| Philips PHL 272V8 PHLC21A 1920x1080 598x336mm 27.0-inch                | 1        | 0.95%   |
+| Panasonic LCD Monitor TV                                               | 1        | 0.95%   |
 
 Monitor Resolution
 ------------------
@@ -1943,9 +1943,9 @@ Monitor screen resolution
 | 1366x768 (WXGA)    | 15       | 15.46%  |
 | 1600x900 (HD+)     | 6        | 6.19%   |
 | 1280x1024 (SXGA)   | 6        | 6.19%   |
-| 2560x1440 (QHD)    | 5        | 5.15%   |
+| 3840x2160 (4K)     | 5        | 5.15%   |
 | Unknown            | 5        | 5.15%   |
-| 3840x2160 (4K)     | 4        | 4.12%   |
+| 2560x1440 (QHD)    | 4        | 4.12%   |
 | 1680x1050 (WSXGA+) | 4        | 4.12%   |
 | 1440x900 (WXGA+)   | 4        | 4.12%   |
 | 1360x768           | 4        | 4.12%   |
@@ -2270,7 +2270,7 @@ Ethernet models
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 0.82%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 0.82%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.82%   |
-| Qualcomm Redmi 9T                                                 | 1        | 0.82%   |
+| Qualcomm FP3                                                      | 1        | 0.82%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 0.82%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.82%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 0.82%   |
@@ -2377,7 +2377,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 3        | 15.79%  |
 | Intel AX200 Bluetooth                               | 3        | 15.79%  |
 | Intel Bluetooth wireless interface                  | 2        | 10.53%  |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 1        | 5.26%   |
+| TP-Link UB500 Adapter                               | 1        | 5.26%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1        | 5.26%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 5.26%   |
 | Intel Bluetooth Device                              | 1        | 5.26%   |
@@ -2532,7 +2532,7 @@ Memory module models
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                           | 1        | 1.16%   |
 | Smart RAM SM5643285D8N6CHIBH 256MB DIMM DDR 266MT/s                  | 1        | 1.16%   |
 | SK hynix RAM Module 2GB DIMM DDR3 1333MT/s                           | 1        | 1.16%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s            | 1        | 1.16%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s               | 1        | 1.16%   |
 | SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s                 | 1        | 1.16%   |
 | SK hynix RAM HMA451R7MFR8N-TF 4GB RIMM DDR4 2133MT/s                 | 1        | 1.16%   |
 | Samsung RAM Module 4GB DIMM DDR3 1066MT/s                            | 1        | 1.16%   |
@@ -2729,15 +2729,15 @@ Camera device models
 | Model                                             | Desktops | Percent |
 |---------------------------------------------------|----------|---------|
 | Logitech Webcam C270                              | 2        | 11.11%  |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                | 2        | 11.11%  |
+| Apple iPhone 5/5C/5S/6/SE                         | 2        | 11.11%  |
 | Unknown HD camera                                 | 1        | 5.56%   |
 | Sony CEVCECM                                      | 1        | 5.56%   |
 | Samsung Galaxy series, misc. (MTP mode)           | 1        | 5.56%   |
 | Microdia USB Camera                               | 1        | 5.56%   |
 | Logitech Webcam C930e                             | 1        | 5.56%   |
+| Logitech Webcam C925e                             | 1        | 5.56%   |
 | Logitech Webcam C170                              | 1        | 5.56%   |
 | Logitech Webcam C110                              | 1        | 5.56%   |
-| Logitech Logitech Webcam C925e                    | 1        | 5.56%   |
 | Logitech C922 Pro Stream Webcam                   | 1        | 5.56%   |
 | Logitech C505e HD Webcam                          | 1        | 5.56%   |
 | GEMBIRD USB2.0 PC CAMERA                          | 1        | 5.56%   |

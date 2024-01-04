@@ -1129,7 +1129,7 @@ Monitor models
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch      | 1        | 11.11%  |
 | Dell U2412M DELA07B 1920x1200 518x324mm 24.1-inch                  | 1        | 11.11%  |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch   | 1        | 11.11%  |
-| Ancor Communications VE228 ACI22FA 1920x1080 477x268mm 21.5-inch   | 1        | 11.11%  |
+| Ancor Communications VE228 ACI22FA 1920x1080 480x270mm 21.7-inch   | 1        | 11.11%  |
 | Acer H193HQV ACR01B8 1366x768 410x230mm 18.5-inch                  | 1        | 11.11%  |
 | Acer G246HL ACR02FF 1920x1080 531x299mm 24.0-inch                  | 1        | 11.11%  |
 
@@ -1498,7 +1498,7 @@ Memory module models
 |----------------------------------------------------------|----------|---------|
 | Ramos RAM EMB2GB481CL4-13HA 2GB DIMM 1227MT/s            | 1        | 16.67%  |
 | PNY RAM 8GBF1X08QFHH38-135-K 8GB DIMM DDR4 3600MT/s      | 1        | 16.67%  |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s      | 1        | 16.67%  |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3600MT/s       | 1        | 16.67%  |
 | Crucial RAM RM25664BA1339.8FR 2GB DIMM DDR3 1333MT/s     | 1        | 16.67%  |
 | Crucial RAM BLS16G4D32AESC.M16FE 16GB DIMM DDR4 3200MT/s | 1        | 16.67%  |
 | Unknown                                                  | 1        | 16.67%  |

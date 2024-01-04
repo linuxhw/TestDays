@@ -1212,8 +1212,8 @@ Drive models with a malfunction
 | Seagate ST3500418AS 500GB             | 1        | 1      | 4.55%   |
 | Samsung Electronics SSD 970 EVO 500GB | 1        | 1      | 4.55%   |
 | Samsung Electronics SP2504C 250GB     | 1        | 1      | 4.55%   |
-| Samsung Electronics HD160JJ/ 160GB    | 1        | 1      | 4.55%   |
-| Maxtor 6E040L0 41GB                   | 1        | 1      | 4.55%   |
+| Samsung Electronics HD160JJ 160GB     | 1        | 1      | 4.55%   |
+| Maxtor 6E040L0 40GB                   | 1        | 1      | 4.55%   |
 | Kingston SA400S37120G 120GB SSD       | 1        | 1      | 4.55%   |
 | Intel SSDSC2BF120A5 120GB             | 1        | 3      | 4.55%   |
 | HPE MB4000GEFNA 4TB                   | 1        | 2      | 4.55%   |
@@ -1840,7 +1840,7 @@ Monitor models
 | Samsung Electronics C27F398 SAM0D45 1920x1080 598x336mm 27.0-inch      | 1        | 1.35%   |
 | Philips PHL 243S7 PHL090F 1920x1080 527x296mm 23.8-inch                | 1        | 1.35%   |
 | Philips PHL 241P6Q PHL08DB 1920x1080 527x296mm 23.8-inch               | 1        | 1.35%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 1        | 1.35%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch                | 1        | 1.35%   |
 | Philips 190B PHL086C 1280x1024 376x301mm 19.0-inch                     | 1        | 1.35%   |
 | MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                | 1        | 1.35%   |
 | Lenovo LI2215sD LEN65CC 1920x1080 476x267mm 21.5-inch                  | 1        | 1.35%   |
@@ -2282,7 +2282,7 @@ Controller models
 
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
-| ASUS ASUS USB-BT500                | 2        | 20%     |
+| ASUS Bluetooth Device              | 2        | 20%     |
 | Qualcomm Atheros  Bluetooth Device | 1        | 10%     |
 | Qualcomm Atheros AR3011 Bluetooth  | 1        | 10%     |
 | MediaTek Wireless_Device           | 1        | 10%     |
@@ -2415,48 +2415,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s            | 3        | 3.7%    |
-| Kingston RAM 99U5471-054.A00LF 8192MB DIMM DDR3 1600MT/s          | 2        | 2.47%   |
-| Corsair RAM CMK32GX4M4A2666C16 8GB DIMM DDR4 3000MT/s             | 2        | 2.47%   |
-| Unknown RAM SM3S320SD0488CABC 8192MB SODIMM DDR3 1600MT/s         | 1        | 1.23%   |
-| Unknown RAM Module 8192MB DIMM DDR3 800MT/s                       | 1        | 1.23%   |
-| Unknown RAM Module 64MB DIMM DRAM 100MT/s                         | 1        | 1.23%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                              | 1        | 1.23%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s                    | 1        | 1.23%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                      | 1        | 1.23%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                              | 1        | 1.23%   |
-| Unknown RAM Module 256MB DIMM DRAM 100MT/s                        | 1        | 1.23%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                     | 1        | 1.23%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 667MT/s                      | 1        | 1.23%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                              | 1        | 1.23%   |
-| Unknown RAM Module 128MB DIMM DRAM 100MT/s                        | 1        | 1.23%   |
-| Unknown RAM Module 1024MB DIMM DDR 400MT/s                        | 1        | 1.23%   |
-| Unknown RAM Module 1024MB DIMM DDR                                | 1        | 1.23%   |
-| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s                | 1        | 1.23%   |
-| Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s             | 1        | 1.23%   |
-| Unknown RAM 1600 CL9 Series 8192MB DIMM DDR3 1066MT/s             | 1        | 1.23%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 1.23%   |
-| Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s             | 1        | 1.23%   |
-| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s                | 1        | 1.23%   |
-| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                        | 1        | 1.23%   |
-| SK hynix RAM HMT451U7BFR8A-PB 4GB DIMM 1600MT/s                   | 1        | 1.23%   |
-| SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 1.23%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s              | 1        | 1.23%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s              | 1        | 1.23%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM 1600MT/s                   | 1        | 1.23%   |
-| SK hynix RAM HMT325U6CFR8C-PB 8GB DIMM DDR3 1866MT/s              | 1        | 1.23%   |
-| SK hynix RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2667MT/s              | 1        | 1.23%   |
-| Samsung RAM Module 2GB DIMM DDR3 1333MT/s                         | 1        | 1.23%   |
-| Samsung RAM M393A4K40BB0-CPB 32GB DIMM DDR4 2133MT/s              | 1        | 1.23%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s               | 1        | 1.23%   |
-| Samsung RAM M378B1G73DB0-CK0 8GB DIMM DDR3 2133MT/s               | 1        | 1.23%   |
-| Ramaxel RAM RMUA5180ME78HBF-2666 16GB DIMM DDR4 2667MT/s          | 1        | 1.23%   |
-| Nanya RAM Module 2GB DIMM DDR3 1333MT/s                           | 1        | 1.23%   |
-| Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s                | 1        | 1.23%   |
-| Micron RAM Module 2GB DIMM DDR3 1333MT/s                          | 1        | 1.23%   |
-| Micron RAM DVM64453C DATARAM 8192MB DIMM DDR3 1600MT/s            | 1        | 1.23%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s         | 3        | 3.7%    |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s          | 2        | 2.47%   |
+| Corsair RAM CMK32GX4M4A2666C16 8GB DIMM DDR4 3000MT/s          | 2        | 2.47%   |
+| Unknown RAM SM3S320SD0488CABC 8192MB SODIMM DDR3 1600MT/s      | 1        | 1.23%   |
+| Unknown RAM Module 8192MB DIMM DDR3 800MT/s                    | 1        | 1.23%   |
+| Unknown RAM Module 64MB DIMM DRAM 100MT/s                      | 1        | 1.23%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                           | 1        | 1.23%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s                 | 1        | 1.23%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                   | 1        | 1.23%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                           | 1        | 1.23%   |
+| Unknown RAM Module 256MB DIMM DRAM 100MT/s                     | 1        | 1.23%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                  | 1        | 1.23%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 667MT/s                   | 1        | 1.23%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 1        | 1.23%   |
+| Unknown RAM Module 128MB DIMM DRAM 100MT/s                     | 1        | 1.23%   |
+| Unknown RAM Module 1024MB DIMM DDR 400MT/s                     | 1        | 1.23%   |
+| Unknown RAM Module 1024MB DIMM DDR                             | 1        | 1.23%   |
+| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s             | 1        | 1.23%   |
+| Unknown RAM 3000 C16 Series 8192MB DIMM DDR4 2133MT/s          | 1        | 1.23%   |
+| Unknown RAM 1600 CL9 Series 8192MB DIMM DDR3 1066MT/s          | 1        | 1.23%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.23%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s              | 1        | 1.23%   |
+| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s             | 1        | 1.23%   |
+| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                     | 1        | 1.23%   |
+| SK hynix RAM HMT451U7BFR8A-PB 4GB DIMM 1600MT/s                | 1        | 1.23%   |
+| SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 1.23%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s           | 1        | 1.23%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s           | 1        | 1.23%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM 1600MT/s                | 1        | 1.23%   |
+| SK hynix RAM HMT325U6CFR8C-PB 8GB DIMM DDR3 1866MT/s           | 1        | 1.23%   |
+| SK hynix RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2667MT/s           | 1        | 1.23%   |
+| Samsung RAM Module 2GB DIMM DDR3 1333MT/s                      | 1        | 1.23%   |
+| Samsung RAM M393A4K40BB0-CPB 32GB DIMM DDR4 2133MT/s           | 1        | 1.23%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR2 2133MT/s         | 1        | 1.23%   |
+| Samsung RAM M378B1G73DB0-CK0 8GB DIMM DDR3 2133MT/s            | 1        | 1.23%   |
+| Ramaxel RAM RMUA5180ME78HBF-2666 16GB DIMM DDR4 2667MT/s       | 1        | 1.23%   |
+| Nanya RAM Module 2GB DIMM DDR3 1333MT/s                        | 1        | 1.23%   |
+| Nanya RAM M2X4G64CB8HG5N-DG 4GB DIMM DDR3 1867MT/s             | 1        | 1.23%   |
+| Micron RAM Module 2GB DIMM DDR3 1333MT/s                       | 1        | 1.23%   |
+| Micron RAM DVM64453C DATARAM 8192MB DIMM DDR3 1600MT/s         | 1        | 1.23%   |
 
 Memory Kind
 -----------
@@ -2633,7 +2633,7 @@ Camera device models
 | Realtek HD 720P Webcam                    | 1        | 6.25%   |
 | Microsoft LifeCam Studio                  | 1        | 6.25%   |
 | Microdia Camera                           | 1        | 6.25%   |
-| MacroSilicon USB Video                    | 1        | 6.25%   |
+| MacroSilicon USB3. 0 capture              | 1        | 6.25%   |
 | Logitech C920 PRO HD Webcam               | 1        | 6.25%   |
 | Logitech BRIO Ultra HD Webcam             | 1        | 6.25%   |
 | KYE Systems (Mouse Systems) Genius Webcam | 1        | 6.25%   |

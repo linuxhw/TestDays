@@ -803,12 +803,12 @@ Hard drive models
 | Samsung SSD 860 EVO 250GB                           | 1        | 2.38%   |
 | Samsung SSD 850 EVO 2TB                             | 1        | 2.38%   |
 | Samsung SSD 840 PRO Series 256GB                    | 1        | 2.38%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 1        | 2.38%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 1        | 2.38%   |
 | Samsung HD502IJ 500GB                               | 1        | 2.38%   |
-| Realtek RTS5763DL NVMe SSD Controller 512GB         | 1        | 2.38%   |
+| Realtek RTS5763DL NVMe SSD Controller 256GB         | 1        | 2.38%   |
 | Phison NVMe SSD Drive 1TB                           | 1        | 2.38%   |
-| Phison E12 NVMe Controller 512GB                    | 1        | 2.38%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 1        | 2.38%   |
+| Phison E12 NVMe Controller 1TB                      | 1        | 2.38%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                 | 1        | 2.38%   |
 | Kingston SUV400S37240G 240GB SSD                    | 1        | 2.38%   |
 | Kingston SQ500S37480G 480GB SSD                     | 1        | 2.38%   |
 | Intel SSDSA2CW080G3 80GB                            | 1        | 2.38%   |
@@ -1767,8 +1767,8 @@ Controller models
 | Intel Bluetooth wireless interface             | 2        | 20%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2        | 20%     |
 | ASUS Broadcom BCM20702A0 Bluetooth             | 2        | 20%     |
+| Intel Bluetooth Device                         | 1        | 10%     |
 | Intel AX210 Bluetooth                          | 1        | 10%     |
-| Intel AX201 Bluetooth                          | 1        | 10%     |
 | IMC Networks Bluetooth Radio                   | 1        | 10%     |
 | Broadcom BCM20702A0 Bluetooth 4.0              | 1        | 10%     |
 
@@ -1827,7 +1827,7 @@ Sound card models
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 2.44%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 2.44%   |
 | GN Netcom Jabra EVOLVE LINK                                                | 1        | 2.44%   |
-| C-Media Electronics TONOR TC30 Audio Device                                | 1        | 2.44%   |
+| C-Media Electronics TONOR TC-777 Audio Device                              | 1        | 2.44%   |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                  | 1        | 2.44%   |
 | AMD SBx00 Azalia (Intel HDA)                                               | 1        | 2.44%   |
 | AMD Renoir Radeon High Definition Audio Controller                         | 1        | 2.44%   |

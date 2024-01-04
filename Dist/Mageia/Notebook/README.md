@@ -745,8 +745,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 22        | 57.89%  |
-| Yes       | 16        | 42.11%  |
+| No        | 23        | 60.53%  |
+| Yes       | 15        | 39.47%  |
 
 Has Ethernet
 ------------
@@ -954,7 +954,7 @@ Hard drive models
 | Kingston SA2000M8500G 500GB                  | 1         | 1.96%   |
 | Kingston NVMe SSD Drive 1TB                  | 1         | 1.96%   |
 | KingFast SSD 256GB                           | 1         | 1.96%   |
-| JMicron Generic 250GB                        | 1         | 1.96%   |
+| JMicron Generic 2TB                          | 1         | 1.96%   |
 | Intel SSDPEKNU010TZ 1024GB                   | 1         | 1.96%   |
 
 HDD Vendor
@@ -1036,8 +1036,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 22        | 26     | 73.33%  |
-| 0.51-1.0   | 8         | 15     | 26.67%  |
+| 0.01-0.5   | 22        | 25     | 70.97%  |
+| 0.51-1.0   | 8         | 15     | 25.81%  |
+| 1.01-2.0   | 1         | 1      | 3.23%   |
 
 Space Total
 -----------
@@ -1597,7 +1598,7 @@ Monitor models
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch               | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch               | 1         | 2.44%   |
 | LG Display LCD Monitor LGD0215 1920x1080 345x194mm 15.6-inch              | 1         | 2.44%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch                   | 1         | 2.44%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch                   | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN1735 1920x1080 382x215mm 17.3-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch           | 1         | 2.44%   |
@@ -1605,7 +1606,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN14D7 1920x1080 309x173mm 13.9-inch          | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN1364 1366x768 293x164mm 13.2-inch           | 1         | 2.44%   |
 | Chimei Innolux LCD Monitor CMN1357 1920x1080 293x165mm 13.2-inch          | 1         | 2.44%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.44%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 380x210mm 17.1-inch | 1         | 2.44%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch  | 1         | 2.44%   |
 | BOE LCD Monitor BOE0B2B 1920x1200 345x215mm 16.0-inch                     | 1         | 2.44%   |
 | BOE LCD Monitor BOE0868 1920x1080 309x174mm 14.0-inch                     | 1         | 2.44%   |
@@ -1996,8 +1997,8 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 5         | 16.13%  |
+| Realtek Bluetooth Radio                             | 3         | 9.68%   |
 | Intel AX200 Bluetooth                               | 3         | 9.68%   |
-| Realtek Bluetooth Radio                             | 2         | 6.45%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 6.45%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 6.45%   |
 | IMC Networks Bluetooth Device                       | 2         | 6.45%   |
@@ -2005,9 +2006,8 @@ Controller models
 | Foxconn / Hon Hai BCM20702A0                        | 2         | 6.45%   |
 | Taiyo Yuden Bluetooth Device (V2.1+EDR)             | 1         | 3.23%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 3.23%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 3.23%   |
 | Lite-On Bluetooth Device                            | 1         | 3.23%   |
-| Intel AX201 Bluetooth                               | 1         | 3.23%   |
+| Intel Bluetooth Device                              | 1         | 3.23%   |
 | IMC Networks Wireless_Device                        | 1         | 3.23%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 3.23%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 3.23%   |
@@ -2123,18 +2123,18 @@ Memory module models
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s           | 1         | 2.7%    |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 2.7%    |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 2.7%    |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 2.7%    |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 1         | 2.7%    |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.7%    |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.7%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 1         | 2.7%    |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.7%    |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 2.7%    |
-| Samsung RAM M4 70T5663QZ3-CE6 2GB SODIMM DDR2 667MT/s            | 1         | 2.7%    |
-| Samsung RAM K3LKBKB0BM-MGCP 4GB Row Of Chips LPDDR5 6400MT/s     | 1         | 2.7%    |
+| Samsung RAM M4 70T5663QZ3-CE6 2048MB SODIMM DDR2 667MT/s         | 1         | 2.7%    |
+| Samsung RAM K3LKBKB0BM-MGCP 8GB Row Of Chips LPDDR5 6400MT/s     | 1         | 2.7%    |
 | Micron RAM 8KTS51264HDZ-1G6E1 4096MB SODIMM DDR3 1600MT/s        | 1         | 2.7%    |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 1         | 2.7%    |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s            | 1         | 2.7%    |
-| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s           | 1         | 2.7%    |
+| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s        | 1         | 2.7%    |
 | Kingston RAM KFYHV1-HYC 4GB SODIMM DDR3 1600MT/s                 | 1         | 2.7%    |
 | Kingston RAM KCRXJ6-MIE 16GB SODIMM DDR4 2667MT/s                | 1         | 2.7%    |
 | Kingston RAM ACR16D3LS1KBG/8G 8GB SODIMM DDR3 1600MT/s           | 1         | 2.7%    |
@@ -2186,8 +2186,8 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 15        | 50%     |
-| 8192  | 10        | 33.33%  |
+| 4096  | 14        | 46.67%  |
+| 8192  | 11        | 36.67%  |
 | 2048  | 3         | 10%     |
 | 16384 | 2         | 6.67%   |
 
@@ -2287,8 +2287,8 @@ Camera device models
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
 | Realtek Integrated_Webcam_HD                                               | 3         | 8.11%   |
+| Chicony USB2.0 Camera                                                      | 3         | 8.11%   |
 | Chicony Integrated Camera                                                  | 3         | 8.11%   |
-| Chicony Chicony USB2.0 Camera                                              | 3         | 8.11%   |
 | IMC Networks USB2.0 VGA UVC WebCam                                         | 2         | 5.41%   |
 | Chicony FJ Camera                                                          | 2         | 5.41%   |
 | Suyin HP TrueVision HD Integrated Webcam                                   | 1         | 2.7%    |
@@ -2311,7 +2311,7 @@ Camera device models
 | Chicony 1.3M HD WebCam                                                     | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 1         | 2.7%    |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                                         | 1         | 2.7%    |
+| Apple iPhone 5/5C/5S/6/SE                                                  | 1         | 2.7%    |
 | Alcor Micro USB 2.0 Camera                                                 | 1         | 2.7%    |
 | Alcor Micro Asus Integrated Webcam                                         | 1         | 2.7%    |
 | Acer BisonCam,NB Pro                                                       | 1         | 2.7%    |

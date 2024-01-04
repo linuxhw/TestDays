@@ -903,8 +903,8 @@ Motherboard manufacture year
 | 2019    | 27       | 11.34%  |
 | 2018    | 23       | 9.66%   |
 | 2013    | 20       | 8.4%    |
-| 2017    | 16       | 6.72%   |
-| 2015    | 16       | 6.72%   |
+| 2015    | 17       | 7.14%   |
+| 2017    | 15       | 6.3%    |
 | 2012    | 15       | 6.3%    |
 | 2010    | 14       | 5.88%   |
 | 2011    | 12       | 5.04%   |
@@ -1031,8 +1031,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 163      | 67.92%  |
-| Yes       | 77       | 32.08%  |
+| No        | 165      | 68.75%  |
+| Yes       | 75       | 31.25%  |
 
 Has Ethernet
 ------------
@@ -1370,13 +1370,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 134      | 160    | 44.67%  |
-| 0.01-0.5   | 100      | 271    | 33.33%  |
-| 1.01-2.0   | 20       | 60     | 6.67%   |
-| 3.01-4.0   | 15       | 113    | 5%      |
-| 2.01-3.0   | 13       | 28     | 4.33%   |
-| 4.01-10.0  | 12       | 86     | 4%      |
-| 10.01-20.0 | 6        | 39     | 2%      |
+| 0.51-1.0   | 134      | 159    | 44.52%  |
+| 0.01-0.5   | 100      | 271    | 33.22%  |
+| 1.01-2.0   | 21       | 61     | 6.98%   |
+| 3.01-4.0   | 15       | 113    | 4.98%   |
+| 2.01-3.0   | 13       | 28     | 4.32%   |
+| 4.01-10.0  | 12       | 86     | 3.99%   |
+| 10.01-20.0 | 6        | 39     | 1.99%   |
 
 Space Total
 -----------
@@ -2093,7 +2093,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch  | 2        | 1.33%   |
 | Samsung Electronics S19C150 SAM0AE6 1366x768 410x230mm 18.5-inch     | 2        | 1.33%   |
 | Hewlett-Packard ZR2440w HWP2956 1920x1200 520x320mm 24.0-inch        | 2        | 1.33%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 2        | 1.33%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                    | 2        | 1.33%   |
 | Dell P2417H DELA0DA 1920x1080 527x296mm 23.8-inch                    | 2        | 1.33%   |
 | BenQ GW2765 BNQ78D6 2560x1440 597x336mm 27.0-inch                    | 2        | 1.33%   |
 | ___ LCDTV16 ___9000 1360x768                                         | 1        | 0.67%   |
@@ -2614,8 +2614,8 @@ Controller models
 | Broadcom BCM20702A0 Bluetooth 4.0                        | 2        | 8%      |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE    | 2        | 8%      |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                    | 1        | 4%      |
+| Intel Bluetooth Device                                   | 1        | 4%      |
 | Intel AX210 Bluetooth                                    | 1        | 4%      |
-| Intel AX201 Bluetooth                                    | 1        | 4%      |
 | Intel AX200 Bluetooth                                    | 1        | 4%      |
 | Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 4%      |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter         | 1        | 4%      |
@@ -2740,19 +2740,19 @@ Memory module models
 | Model                                                      | Desktops | Percent |
 |------------------------------------------------------------|----------|---------|
 | Kingston RAM CL16-16-16 D4-2400 8192MB DIMM DDR4 2400MT/s  | 9        | 3.5%    |
-| GeIL RAM CL11-11-11 D3-1600 8192MB DIMM DDR3 1600MT/s      | 9        | 3.5%    |
-| G.Skill RAM F4-2666C19-8GIS 8192MB DIMM DDR4 3000MT/s      | 9        | 3.5%    |
-| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3                 | 6        | 2.33%   |
+| GeIL RAM CL11-11-11 D3-1600 4GB DIMM 1600MT/s              | 9        | 3.5%    |
+| G.Skill RAM F4-2666C19-8GIS 8GB DIMM DDR4 3000MT/s         | 9        | 3.5%    |
+| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s        | 6        | 2.33%   |
 | Kingston RAM 9905678-173.A00G 8192MB DIMM DDR4 2400MT/s    | 5        | 1.95%   |
 | Crucial RAM CT8G4DFD8213.C16FBD2 8192MB DIMM DDR4 2500MT/s | 5        | 1.95%   |
-| Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 2400MT/s      | 4        | 1.56%   |
+| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s        | 4        | 1.56%   |
 | Samsung RAM Module 8192MB DIMM DDR4 3200MT/s               | 4        | 1.56%   |
 | Micron RAM 4ATF51264AZ-2G3B1 4GB DIMM DDR4 2800MT/s        | 4        | 1.56%   |
 | G.Skill RAM F3-1600C11-8GNT 8GB DIMM DDR3 1600MT/s         | 4        | 1.56%   |
 | Crucial RAM CT8G4DFS8213.C8FDD1 8192MB DIMM DDR4 2400MT/s  | 4        | 1.56%   |
 | Crucial RAM CT16G4DFD824A.C16FDD 16GB DIMM DDR4 2667MT/s   | 4        | 1.56%   |
 | Kingston RAM 99U5471-058.A00LF 8192MB DIMM DDR3 1600MT/s   | 3        | 1.17%   |
-| Crucial RAM CT102464BD160B.M16 8192MB DIMM DDR3 1600MT/s   | 3        | 1.17%   |
+| Crucial RAM CT102464BD160B.M16 8GB DIMM DDR3 1600MT/s      | 3        | 1.17%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1600MT/s               | 2        | 0.78%   |
 | Unknown RAM Module 8192MB DIMM 1333MT/s                    | 2        | 0.78%   |
 | SK hynix RAM Module 2048MB DIMM DDR3 1600MT/s              | 2        | 0.78%   |
@@ -2763,7 +2763,7 @@ Memory module models
 | Micron RAM 8ATF1G64AZ-2G3E1 8GB DIMM DDR4 2400MT/s         | 2        | 0.78%   |
 | Micron RAM 18ASF2G72AZ-2G6D1 16GB DIMM DDR4 2667MT/s       | 2        | 0.78%   |
 | Kingston RAM KHX1600C9D3/8GX 8192MB DIMM DDR3 2133MT/s     | 2        | 0.78%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s        | 2        | 0.78%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s     | 2        | 0.78%   |
 | Crucial RAM CT8G4DFS8266.C8FN 8192MB DIMM DDR4 2667MT/s    | 2        | 0.78%   |
 | Crucial RAM CT8G4DFD824A.C16FBD1 8GB DIMM DDR4 2400MT/s    | 2        | 0.78%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1333MT/s               | 1        | 0.39%   |

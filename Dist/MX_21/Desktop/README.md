@@ -1080,7 +1080,7 @@ Hard drive models
 | Corsair MP400 2TB                | 2        | 0.73%   |
 | China SSD 512GB                  | 2        | 0.73%   |
 | China SATA SSD 512GB             | 2        | 0.73%   |
-| XPG GAMMIX S50 Lite 512GB        | 1        | 0.37%   |
+| XPG GAMMIX S50 Lite 1TB          | 1        | 0.37%   |
 | WDC WDS500G2B0C-00PXH0 500GB     | 1        | 0.37%   |
 | WDC WDS250G2B0A-00SM50 250GB SSD | 1        | 0.37%   |
 
@@ -1179,9 +1179,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 82       | 129    | 49.1%   |
+| 0.01-0.5   | 82       | 128    | 49.1%   |
 | 0.51-1.0   | 49       | 59     | 29.34%  |
-| 1.01-2.0   | 20       | 27     | 11.98%  |
+| 1.01-2.0   | 20       | 28     | 11.98%  |
 | 3.01-4.0   | 6        | 6      | 3.59%   |
 | 4.01-10.0  | 5        | 12     | 2.99%   |
 | 2.01-3.0   | 4        | 5      | 2.4%    |
@@ -1882,48 +1882,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| ViewSonic VX1935wm-3 VSCB81E 1440x900 410x256mm 19.0-inch             | 2        | 1.52%   |
-| Sony SDM-M81 SNY0480 1280x1024 359x287mm 18.1-inch                    | 2        | 1.52%   |
-| Samsung Electronics C32JG5x SAM0FE0 2560x1440 697x392mm 31.5-inch     | 2        | 1.52%   |
-| MSI G27C6 MSI5CA9 1920x1080 598x336mm 27.0-inch                       | 2        | 1.52%   |
-| Medion MD22322 MEB8101 2560x1440 699x393mm 31.6-inch                  | 2        | 1.52%   |
-| Fujitsu Siemens B22W-7 LED FUS0838 1680x1050 474x296mm 22.0-inch      | 2        | 1.52%   |
-| Xiaomi Mi TV XMD004A 1440x900 708x398mm 32.0-inch                     | 1        | 0.76%   |
-| Vizio M220MV VIZ0062 1920x1080 480x270mm 21.7-inch                    | 1        | 0.76%   |
-| ViewSonic VX2433wm VSC3822 1920x1080 520x290mm 23.4-inch              | 1        | 0.76%   |
-| ViewSonic VA2012wSERIES VSC6A1C 1680x1050 430x270mm 20.0-inch         | 1        | 0.76%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 1        | 0.76%   |
-| Sony TV *00 SNY7105 3840x2160 1218x685mm 55.0-inch                    | 1        | 0.76%   |
-| Sony SDM-HS74P SNY3170 1280x1024 338x270mm 17.0-inch                  | 1        | 0.76%   |
-| Sony SDM-HS53 SNY2250 1024x768 304x228mm 15.0-inch                    | 1        | 0.76%   |
-| Sangyo LCD Monitor M27A3 1920x1080                                    | 1        | 0.76%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1        | 0.76%   |
-| Samsung Electronics U28H75x SAM0DFE 3840x2160 608x345mm 27.5-inch     | 1        | 0.76%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch     | 1        | 0.76%   |
-| Samsung Electronics SyncMaster SAM05CD 1920x1080                      | 1        | 0.76%   |
-| Samsung Electronics SyncMaster SAM0594 1680x1050 459x296mm 21.5-inch  | 1        | 0.76%   |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch  | 1        | 0.76%   |
-| Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch   | 1        | 0.76%   |
-| Samsung Electronics SyncMaster SAM0286 1280x720 372x209mm 16.8-inch   | 1        | 0.76%   |
-| Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch  | 1        | 0.76%   |
-| Samsung Electronics SMB2030 SAM063C 1600x900 443x249mm 20.0-inch      | 1        | 0.76%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 0.76%   |
-| Samsung Electronics S23B550 SAM0919 1920x1080 510x290mm 23.1-inch     | 1        | 0.76%   |
-| Samsung Electronics LCD Monitor SMT24A550                             | 1        | 0.76%   |
-| Samsung Electronics LCD Monitor SAM0C39 1920x1080 885x498mm 40.0-inch | 1        | 0.76%   |
-| Samsung Electronics LCD Monitor C32R50x 3840x1080                     | 1        | 0.76%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 0.76%   |
-| SAC DP2 SAC2700 2560x1440 597x335mm 27.0-inch                         | 1        | 0.76%   |
-| RTK FHD HDR RTKBC32 1920x1080 597x336mm 27.0-inch                     | 1        | 0.76%   |
-| Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch              | 1        | 0.76%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch              | 1        | 0.76%   |
-| Philips 226VL PHLC081 1920x1080 480x268mm 21.6-inch                   | 1        | 0.76%   |
-| Philips 170C PHL0848 1280x1024 338x270mm 17.0-inch                    | 1        | 0.76%   |
-| Philips 109E5 PHL000E 1920x1440 360x270mm 17.7-inch                   | 1        | 0.76%   |
-| Panasonic TV MEIA09B 1280x720 698x392mm 31.5-inch                     | 1        | 0.76%   |
-| NEC Computers EA221WM NEC673D 1680x1050 474x296mm 22.0-inch           | 1        | 0.76%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| ViewSonic VX1935wm-3 VSCB81E 1440x900 410x256mm 19.0-inch              | 2        | 1.52%   |
+| Sony SDM-M81 SNY0480 1280x1024 359x287mm 18.1-inch                     | 2        | 1.52%   |
+| Samsung Electronics C32JG5x SAM0FE0 2560x1440 697x392mm 31.5-inch      | 2        | 1.52%   |
+| MSI G27C6 MSI5CA9 1920x1080 598x336mm 27.0-inch                        | 2        | 1.52%   |
+| Medion MD22322 MEB8101 2560x1440 699x393mm 31.6-inch                   | 2        | 1.52%   |
+| Fujitsu Siemens B22W-7 LED FUS0838 1680x1050 474x296mm 22.0-inch       | 2        | 1.52%   |
+| Xiaomi Mi TV XMD004A 1440x900 708x398mm 32.0-inch                      | 1        | 0.76%   |
+| Vizio M220MV VIZ0062 1920x1080 480x270mm 21.7-inch                     | 1        | 0.76%   |
+| ViewSonic VX2433wm VSC3822 1920x1080 520x290mm 23.4-inch               | 1        | 0.76%   |
+| ViewSonic VA2012wSERIES VSC6A1C 1680x1050 433x271mm 20.1-inch          | 1        | 0.76%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 0.76%   |
+| Sony TV *30 SNY7105 3840x2160 1660x934mm 75.0-inch                     | 1        | 0.76%   |
+| Sony SDM-HS74P SNY3170 1280x1024 338x270mm 17.0-inch                   | 1        | 0.76%   |
+| Sony SDM-HS53 SNY2250 1024x768 304x228mm 15.0-inch                     | 1        | 0.76%   |
+| Sangyo LCD Monitor M27A3 1920x1080                                     | 1        | 0.76%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1        | 0.76%   |
+| Samsung Electronics U28H75x SAM0DFE 3840x2160 608x345mm 27.5-inch      | 1        | 0.76%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch      | 1        | 0.76%   |
+| Samsung Electronics SyncMaster SAM05CD 1920x1080                       | 1        | 0.76%   |
+| Samsung Electronics SyncMaster SAM0594 1680x1050 459x296mm 21.5-inch   | 1        | 0.76%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 470x300mm 22.0-inch   | 1        | 0.76%   |
+| Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch    | 1        | 0.76%   |
+| Samsung Electronics SyncMaster SAM0286 1280x720 372x209mm 16.8-inch    | 1        | 0.76%   |
+| Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch   | 1        | 0.76%   |
+| Samsung Electronics SMB2030 SAM063C 1600x900 443x249mm 20.0-inch       | 1        | 0.76%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 1        | 0.76%   |
+| Samsung Electronics S23B550 SAM0919 1920x1080 510x290mm 23.1-inch      | 1        | 0.76%   |
+| Samsung Electronics LCD Monitor SMT24A550                              | 1        | 0.76%   |
+| Samsung Electronics LCD Monitor SAM0C39 1920x1080 885x498mm 40.0-inch  | 1        | 0.76%   |
+| Samsung Electronics LCD Monitor C32R50x 3840x1080                      | 1        | 0.76%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 1        | 0.76%   |
+| SAC DP2 SAC2700 2560x1440 597x335mm 27.0-inch                          | 1        | 0.76%   |
+| RTK FHD HDR RTKBC32 1920x1080 597x336mm 27.0-inch                      | 1        | 0.76%   |
+| Philips PHL 276E9Q PHLC17B 1920x1080 598x336mm 27.0-inch               | 1        | 0.76%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch               | 1        | 0.76%   |
+| Philips 226VL PHLC081 1920x1080 480x268mm 21.6-inch                    | 1        | 0.76%   |
+| Philips 170C PHL0848 1280x1024 338x270mm 17.0-inch                     | 1        | 0.76%   |
+| Philips 109E5 PHL000E 1920x1440 360x270mm 17.7-inch                    | 1        | 0.76%   |
+| Panasonic TV MEIA09B 1280x720 698x392mm 31.5-inch                      | 1        | 0.76%   |
+| NEC Computers EA221WM NEC673D 1680x1050 474x296mm 22.0-inch            | 1        | 0.76%   |
 
 Monitor Resolution
 ------------------
@@ -1975,11 +1975,12 @@ Diagonal size in inches
 | 19      | 5        | 4.07%   |
 | 18      | 4        | 3.25%   |
 | 34      | 3        | 2.44%   |
-| 65      | 2        | 1.63%   |
 | 54      | 2        | 1.63%   |
 | 20      | 2        | 1.63%   |
 | 15      | 2        | 1.63%   |
 | 84      | 1        | 0.81%   |
+| 75      | 1        | 0.81%   |
+| 65      | 1        | 0.81%   |
 | 61      | 1        | 0.81%   |
 | 52      | 1        | 0.81%   |
 | 40      | 1        | 0.81%   |
@@ -2002,10 +2003,10 @@ Physical width
 | 351-400     | 7        | 5.83%   |
 | 301-350     | 7        | 5.83%   |
 | Unknown     | 7        | 5.83%   |
-| 1001-1500   | 6        | 5%      |
+| 1001-1500   | 5        | 4.17%   |
 | 701-800     | 3        | 2.5%    |
+| 1501-2000   | 2        | 1.67%   |
 | 801-900     | 1        | 0.83%   |
-| 1501-2000   | 1        | 0.83%   |
 
 Aspect Ratio
 ------------
@@ -2241,7 +2242,7 @@ Wireless models
 | Qualcomm Atheros AR93xx Wireless Network Adapter                               | 1        | 1.32%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                 | 1        | 1.32%   |
 | Qualcomm Atheros AR5413/AR5414 Wireless Network Adapter [AR5006X(S) 802.11abg] | 1        | 1.32%   |
-| Microsoft XBOX ACC                                                             | 1        | 1.32%   |
+| Microsoft Xbox Wireless Adapter for Windows                                    | 1        | 1.32%   |
 | Microsoft Xbox 360 Wireless Adapter                                            | 1        | 1.32%   |
 | Mercucys MW300UM RTL8192EU wifi                                                | 1        | 1.32%   |
 | MediaTek WiFi                                                                  | 1        | 1.32%   |
@@ -2303,7 +2304,7 @@ Ethernet models
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1        | 0.79%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 0.79%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1        | 0.79%   |
-| OPPO RMX3623                                                      | 1        | 0.79%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1        | 0.79%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 1        | 0.79%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 0.79%   |
 | Intel Ethernet Connection I218-V                                  | 1        | 0.79%   |
@@ -2410,7 +2411,7 @@ Controller models
 | Realtek Bluetooth Radio                               | 4        | 11.43%  |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 3        | 8.57%   |
 | Intel Bluetooth wireless interface                    | 3        | 8.57%   |
-| TP-Link TP-Cdj+ UB5A Adapter                          | 2        | 5.71%   |
+| TP-Link UB500 Adapter                                 | 2        | 5.71%   |
 | Intel AX210 Bluetooth                                 | 2        | 5.71%   |
 | Foxconn / Hon Hai Bluetooth Device                    | 2        | 5.71%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 2        | 5.71%   |
@@ -2419,7 +2420,7 @@ Controller models
 | Intel AX200 Bluetooth                                 | 1        | 2.86%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 1        | 2.86%   |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE | 1        | 2.86%   |
-| Apple Bluetooth Host Controller                       | 1        | 2.86%   |
+| Apple Bluetooth USB Host Controller                   | 1        | 2.86%   |
 
 Sound
 -----
@@ -2456,7 +2457,7 @@ Sound card vendors
 | Ensoniq                 | 1        | 0.49%   |
 | Digidesign              | 1        | 0.49%   |
 | Cambridge Silicon Radio | 1        | 0.49%   |
-| BR25                    | 1        | 0.49%   |
+| BR23                    | 1        | 0.49%   |
 | BEHRINGER International | 1        | 0.49%   |
 
 Sound Model
@@ -2556,48 +2557,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s             | 4        | 2.8%    |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 3        | 2.1%    |
-| Unknown RAM Module 4GB DIMM SDRAM                                 | 2        | 1.4%    |
-| Unknown RAM Module 2GB DIMM DDR2 333MT/s                          | 2        | 1.4%    |
-| Unknown RAM Module 2GB DIMM 667MT/s                               | 2        | 1.4%    |
-| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s              | 2        | 1.4%    |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s               | 2        | 1.4%    |
-| G.Skill RAM F4-4000C18-16GTZR 16GB DIMM DDR4 2667MT/s             | 2        | 1.4%    |
-| Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s           | 2        | 1.4%    |
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s            | 2        | 1.4%    |
-| Unknown                                                           | 2        | 1.4%    |
-| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                         | 1        | 0.7%    |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                         | 1        | 0.7%    |
-| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                         | 1        | 0.7%    |
-| Unknown RAM Module 4GB DIMM DDR2 533MT/s                          | 1        | 0.7%    |
-| Unknown RAM Module 4GB DIMM 667MT/s                               | 1        | 0.7%    |
-| Unknown RAM Module 4GB DIMM                                       | 1        | 0.7%    |
-| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                         | 1        | 0.7%    |
-| Unknown RAM Module 2GB DIMM DDR2 1067MT/s                         | 1        | 0.7%    |
-| Unknown RAM Module 2GB DIMM 800MT/s                               | 1        | 0.7%    |
-| Unknown RAM Module 2GB DIMM 1333MT/s                              | 1        | 0.7%    |
-| Unknown RAM Module 1GB DIMM SDRAM                                 | 1        | 0.7%    |
-| Unknown RAM Module 1GB DIMM DDR2 533MT/s                          | 1        | 0.7%    |
-| Unknown (AB) RAM Module 2GB DIMM LPDDR3 1333MT/s                  | 1        | 0.7%    |
-| Unknown (0x0E9D) RAM KINSOTIN8GB2666MHZ 8GB SODIMM DDR4 2667MT/s  | 1        | 0.7%    |
-| Unifosa RAM Module 2GB DIMM DDR3 1333MT/s                         | 1        | 0.7%    |
-| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s                  | 1        | 0.7%    |
-| Transcend RAM JM1333KLN-8GK 4GB DIMM DDR3 1333MT/s                | 1        | 0.7%    |
-| SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.7%    |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 1        | 0.7%    |
-| SK hynix RAM HMT41GU6MFR8C 8GB DIMM DDR3 1866MT/s                 | 1        | 0.7%    |
-| SK hynix RAM HMT41GU6BFR8C-PB 8GB DIMM DDR3 1600MT/s              | 1        | 0.7%    |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s              | 1        | 0.7%    |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.7%    |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM 1600MT/s                   | 1        | 0.7%    |
-| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM 1333MT/s                   | 1        | 0.7%    |
-| SK hynix RAM HMT351R7EFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.7%    |
-| SK hynix RAM HMT125U6DFR8C-H9 2GB DIMM DDR3 1333MT/s              | 1        | 0.7%    |
-| SK hynix RAM HMA851U6DJR6N-WM 4GB DIMM DDR4 2933MT/s              | 1        | 0.7%    |
-| Samsung RAM Module 8GB DIMM DDR3 1600MT/s                         | 1        | 0.7%    |
+| Model                                                            | Desktops | Percent |
+|------------------------------------------------------------------|----------|---------|
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s            | 4        | 2.8%    |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 3        | 2.1%    |
+| Unknown RAM Module 4GB DIMM SDRAM                                | 2        | 1.4%    |
+| Unknown RAM Module 2GB DIMM DDR2 333MT/s                         | 2        | 1.4%    |
+| Unknown RAM Module 2GB DIMM 667MT/s                              | 2        | 1.4%    |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s             | 2        | 1.4%    |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s              | 2        | 1.4%    |
+| G.Skill RAM F4-4000C18-16GTZR 16GB DIMM DDR4 2667MT/s            | 2        | 1.4%    |
+| Crucial RAM BLS8G4D32AESBK.M8FE1 8GB DIMM DDR4 3600MT/s          | 2        | 1.4%    |
+| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3400MT/s           | 2        | 1.4%    |
+| Unknown                                                          | 2        | 1.4%    |
+| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                        | 1        | 0.7%    |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1        | 0.7%    |
+| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                        | 1        | 0.7%    |
+| Unknown RAM Module 4GB DIMM DDR2 533MT/s                         | 1        | 0.7%    |
+| Unknown RAM Module 4GB DIMM 667MT/s                              | 1        | 0.7%    |
+| Unknown RAM Module 4GB DIMM                                      | 1        | 0.7%    |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                        | 1        | 0.7%    |
+| Unknown RAM Module 2GB DIMM DDR2 1067MT/s                        | 1        | 0.7%    |
+| Unknown RAM Module 2GB DIMM 800MT/s                              | 1        | 0.7%    |
+| Unknown RAM Module 2GB DIMM 1333MT/s                             | 1        | 0.7%    |
+| Unknown RAM Module 1GB DIMM SDRAM                                | 1        | 0.7%    |
+| Unknown RAM Module 1GB DIMM DDR2 533MT/s                         | 1        | 0.7%    |
+| Unknown (AB) RAM Module 2GB DIMM LPDDR3 1333MT/s                 | 1        | 0.7%    |
+| Unknown (0x0E9D) RAM KINSOTIN8GB2666MHZ 8GB SODIMM DDR4 2667MT/s | 1        | 0.7%    |
+| Unifosa RAM Module 2GB DIMM DDR3 1333MT/s                        | 1        | 0.7%    |
+| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s                 | 1        | 0.7%    |
+| Transcend RAM JM1333KLN-8GK 4GB DIMM DDR3 1333MT/s               | 1        | 0.7%    |
+| SK hynix RAM HMT451U6AFR8A-PB 4GB DIMM DDR3 1600MT/s             | 1        | 0.7%    |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1        | 0.7%    |
+| SK hynix RAM HMT41GU6MFR8C 8GB DIMM DDR3 1866MT/s                | 1        | 0.7%    |
+| SK hynix RAM HMT41GU6BFR8C-PB 8GB DIMM DDR3 1600MT/s             | 1        | 0.7%    |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s             | 1        | 0.7%    |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s             | 1        | 0.7%    |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM 1600MT/s                  | 1        | 0.7%    |
+| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM 1333MT/s                  | 1        | 0.7%    |
+| SK hynix RAM HMT351R7EFR8A-PB 4GB DIMM DDR3 1600MT/s             | 1        | 0.7%    |
+| SK hynix RAM HMT125U6DFR8C-H9 2GB DIMM DDR3 1333MT/s             | 1        | 0.7%    |
+| SK hynix RAM HMA851U6DJR6N-WM 4GB DIMM DDR4 2933MT/s             | 1        | 0.7%    |
+| Samsung RAM Module 8GB DIMM DDR3 1600MT/s                        | 1        | 0.7%    |
 
 Memory Kind
 -----------
@@ -2791,7 +2792,7 @@ Camera device models
 | Sunplus HD 720P webcam               | 2        | 8.33%   |
 | Microsoft LifeCam HD-3000            | 2        | 8.33%   |
 | Logitech Webcam C270                 | 2        | 8.33%   |
-| Sunplus 5Mega Webcam                 | 1        | 4.17%   |
+| Sunplus USB Camera                   | 1        | 4.17%   |
 | Sonix USB Camera                     | 1        | 4.17%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro | 1        | 4.17%   |
 | Microsoft LifeCam VX-500 [1357]      | 1        | 4.17%   |
@@ -2805,7 +2806,7 @@ Camera device models
 | Generalplus GENERAL WEBCAM           | 1        | 4.17%   |
 | Chicony HP Prem AF Webcam KQ245AA    | 1        | 4.17%   |
 | Chicony HD Webcam                    | 1        | 4.17%   |
-| Arkmicro Acme CA04                   | 1        | 4.17%   |
+| Arkmicro USB2.0 PC CAMERA            | 1        | 4.17%   |
 
 Security
 --------

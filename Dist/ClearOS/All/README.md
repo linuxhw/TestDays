@@ -1774,7 +1774,7 @@ Memory module models
 | pqi RAM Module 1024MB DIMM DDR2 800MT/s                        | 1         | 3.13%   |
 | Nanya RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 3.13%   |
 | Kingston RAM Module 2048MB DIMM DDR2 533MT/s                   | 1         | 3.13%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
+| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s       | 1         | 3.13%   |
 | Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s            | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s          | 1         | 3.13%   |
 

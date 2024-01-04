@@ -1044,7 +1044,7 @@ Hard drive models
 | WDC WD10JPVX-60JC3T0 1TB              | 1         | 1.05%   |
 | WDC WD10JPVX-22JC3T0 1TB              | 1         | 1.05%   |
 | WDC WD10JPCX-24UE4T0 1TB              | 1         | 1.05%   |
-| Unknown SD/MMC/MS PRO 128GB           | 1         | 1.05%   |
+| Unknown SD/MMC/MS PRO 512GB           | 1         | 1.05%   |
 | Transcend TS1TSSD230S 1TB             | 1         | 1.05%   |
 | Transcend TS128GMSA370 128GB SSD      | 1         | 1.05%   |
 | Toshiba XG6 NVMe SSD Controller 512GB | 1         | 1.05%   |
@@ -1063,7 +1063,7 @@ Hard drive models
 | Seagate ST500LT012-9WS142 500GB       | 1         | 1.05%   |
 | Seagate ST1000LX015-1U7172 1TB        | 1         | 1.05%   |
 | Seagate ST1000LM035-1RK1 1TB          | 1         | 1.05%   |
-| Seagate Expansion 1TB                 | 1         | 1.05%   |
+| Seagate Expansion 2TB                 | 1         | 1.05%   |
 
 HDD Vendor
 ----------
@@ -1148,8 +1148,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 44        | 47     | 64.71%  |
-| 0.51-1.0   | 24        | 28     | 35.29%  |
+| 0.01-0.5   | 43        | 46     | 62.32%  |
+| 0.51-1.0   | 25        | 28     | 36.23%  |
+| 1.01-2.0   | 1         | 1      | 1.45%   |
 
 Space Total
 -----------
@@ -1710,7 +1711,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC464C 1366x768 309x174mm 14.0-inch     | 1         | 1.18%   |
 | Samsung Electronics LCD Monitor SDC4150 3456x2160 336x210mm 15.6-inch    | 1         | 1.18%   |
 | Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch    | 1         | 1.18%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                         | 1         | 1.18%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                           | 1         | 1.18%   |
 | LG Display LCD Monitor LGD1325 1600x900 382x215mm 17.3-inch              | 1         | 1.18%   |
 | LG Display LCD Monitor LGD05FF 1920x1080 344x194mm 15.5-inch             | 1         | 1.18%   |
 | LG Display LCD Monitor LGD05F3 1920x1080 309x174mm 14.0-inch             | 1         | 1.18%   |
@@ -1723,7 +1724,7 @@ Monitor models
 | LG Display LCD Monitor LGD02CA 1366x768 345x194mm 15.6-inch              | 1         | 1.18%   |
 | LG Display LCD Monitor LGD027A 1600x900 382x215mm 17.3-inch              | 1         | 1.18%   |
 | LG Display LCD Monitor LGD0259 1920x1080 345x194mm 15.6-inch             | 1         | 1.18%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch                  | 1         | 1.18%   |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch                  | 1         | 1.18%   |
 | InfoVision LCD Monitor IVO0579 1366x768 310x170mm 13.9-inch              | 1         | 1.18%   |
 | Hewlett-Packard LA2205 HWP2847 1680x1050 473x296mm 22.0-inch             | 1         | 1.18%   |
 | Goldstar 27EA63 GSM598B 1920x1080 600x340mm 27.2-inch                    | 1         | 1.18%   |
@@ -2153,7 +2154,7 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                | 4         | 7.14%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)    | 4         | 7.14%   |
 | Intel AX200 Bluetooth                             | 4         | 7.14%   |
-| Intel AX201 Bluetooth                             | 3         | 5.36%   |
+| Intel Bluetooth Device                            | 3         | 5.36%   |
 | HP Broadcom 2070 Bluetooth Combo                  | 3         | 5.36%   |
 | Realtek RTL8723B Bluetooth                        | 2         | 3.57%   |
 | Lite-On Atheros AR3012 Bluetooth                  | 2         | 3.57%   |
@@ -2282,7 +2283,7 @@ Memory module models
 |------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM 800MT/s                            | 1         | 6.25%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 6.25%   |
-| Team RAM TEAMGROUP-SD4-2666 32GB SODIMM DDR4 2667MT/s            | 1         | 6.25%   |
+| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s            | 1         | 6.25%   |
 | Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s            | 1         | 6.25%   |
 | SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 6.25%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 6.25%   |

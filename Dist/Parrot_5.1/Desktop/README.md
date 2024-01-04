@@ -1209,7 +1209,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM02B7 1280x720                       | 1        | 6.67%   |
 | Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch      | 1        | 6.67%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch            | 1        | 6.67%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                       | 1        | 6.67%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1        | 6.67%   |
 | Insignia TV BBY0030 3840x2160 708x398mm 32.0-inch                      | 1        | 6.67%   |
 | Hewlett-Packard LA1956x HWP3021 1280x1024 376x301mm 19.0-inch          | 1        | 6.67%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 1        | 6.67%   |
@@ -1377,7 +1377,7 @@ Controller models
 |--------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 5        | 16.67%  |
 | Intel Ethernet Connection I217-V                                   | 2        | 6.67%   |
-| vivo V2134                                                         | 1        | 3.33%   |
+| vivo iQOO Neo7 ç«éç                                  | 1        | 3.33%   |
 | TP-Link Archer T4U ver.3                                           | 1        | 3.33%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)        | 1        | 3.33%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter           | 1        | 3.33%   |

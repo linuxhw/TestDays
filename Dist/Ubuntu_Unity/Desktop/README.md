@@ -1471,8 +1471,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 287      | 61.46%  |
-| No        | 180      | 38.54%  |
+| Yes       | 285      | 61.03%  |
+| No        | 182      | 38.97%  |
 
 Has Ethernet
 ------------
@@ -1713,7 +1713,7 @@ Hard drive models
 | Seagate ST3250310AS 250GB              | 4        | 0.46%   |
 | Seagate ST3160815AS 160GB              | 4        | 0.46%   |
 | Seagate ST2000DM008-2FR102 2TB         | 4        | 0.46%   |
-| Seagate Expansion Desk 6TB             | 4        | 0.46%   |
+| Seagate Expansion Desk 8TB             | 4        | 0.46%   |
 | Samsung SSD 850 PRO 256GB              | 4        | 0.46%   |
 | Samsung SSD 840 EVO 250GB              | 4        | 0.46%   |
 | Samsung HD322HJ 320GB                  | 4        | 0.46%   |
@@ -1833,9 +1833,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 360      | 557    | 58.06%  |
-| 0.51-1.0   | 152      | 201    | 24.52%  |
-| 1.01-2.0   | 47       | 67     | 7.58%   |
+| 0.01-0.5   | 359      | 555    | 57.9%   |
+| 0.51-1.0   | 152      | 202    | 24.52%  |
+| 1.01-2.0   | 48       | 68     | 7.74%   |
 | 2.01-3.0   | 25       | 36     | 4.03%   |
 | 3.01-4.0   | 19       | 40     | 3.06%   |
 | 4.01-10.0  | 15       | 29     | 2.42%   |
@@ -2117,8 +2117,8 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 284      | 48.14%  |
-| IDE  | 220      | 37.29%  |
+| SATA | 283      | 47.97%  |
+| IDE  | 221      | 37.46%  |
 | NVMe | 50       | 8.47%   |
 | RAID | 33       | 5.59%   |
 | SCSI | 2        | 0.34%   |
@@ -2592,48 +2592,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 3        | 0.66%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                 | 3        | 0.66%   |
-| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch  | 3        | 0.66%   |
-| AOC 24G2W1G4 AOC2402 1920x1080 527x296mm 23.8-inch                    | 3        | 0.66%   |
-| Ancor Communications VE247 ACI2493 1920x1080 531x299mm 24.0-inch      | 3        | 0.66%   |
-| Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch  | 2        | 0.44%   |
-| Samsung Electronics S19D300 SAM0B34 1366x768 410x230mm 18.5-inch      | 2        | 0.44%   |
-| Philips 226VL PHLC081 1920x1080 480x268mm 21.6-inch                   | 2        | 0.44%   |
-| Medion MD30999PD MED89C4 1440x900 408x255mm 18.9-inch                 | 2        | 0.44%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                     | 2        | 0.44%   |
-| LG Electronics LCD Monitor LG IPS WSXGA 1440x900                      | 2        | 0.44%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                 | 2        | 0.44%   |
-| Hewlett-Packard L1950 HWP26E7 1280x1024 380x300mm 19.1-inch           | 2        | 0.44%   |
-| Hewlett-Packard 24o HPN337B 1920x1080 531x299mm 24.0-inch             | 2        | 0.44%   |
-| HannStar Display LCD Monitor Hanns.G Hi221 1680x1050                  | 2        | 0.44%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 2        | 0.44%   |
-| Goldstar HDR 4K GSM774F 3840x2160 697x392mm 31.5-inch                 | 2        | 0.44%   |
-| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 2        | 0.44%   |
-| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                      | 2        | 0.44%   |
-| Dell S2340L DELD058 1920x1080 509x286mm 23.0-inch                     | 2        | 0.44%   |
-| Dell E172FP DELA00A 1280x1024 338x270mm 17.0-inch                     | 2        | 0.44%   |
-| BenQ G2020HD BNQ781E 1600x900 443x249mm 20.0-inch                     | 2        | 0.44%   |
-| AOC F19 AOC1900 1366x768 410x230mm 18.5-inch                          | 2        | 0.44%   |
-| AOC e2752Vq AOC2752 1920x1080 600x340mm 27.2-inch                     | 2        | 0.44%   |
-| AOC 27G1G4 AOC2701 1920x1080 598x336mm 27.0-inch                      | 2        | 0.44%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                       | 2        | 0.44%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                        | 2        | 0.44%   |
-| Ancor Communications ASUS VS228 ACI22FD 1920x1080 480x270mm 21.7-inch | 2        | 0.44%   |
-| Acer S200HL ACR0294 1600x900 442x249mm 20.0-inch                      | 2        | 0.44%   |
-| Acer AL1751 ACRAD40 1280x1024 340x270mm 17.1-inch                     | 2        | 0.44%   |
-| Yakumo 19DXJ YAK03C6 1280x1024 376x301mm 19.0-inch                    | 1        | 0.22%   |
-| Westinghouse LD-2685VX WDE17E8 1920x1080 710x400mm 32.1-inch          | 1        | 0.22%   |
-| Vizio E480i-C2 VIZ1004 1920x1080 477x268mm 21.5-inch                  | 1        | 0.22%   |
-| ViewSonic VA2407 Series VSC8C31 1920x1080 521x293mm 23.5-inch         | 1        | 0.22%   |
-| ViewSonic VA2231 Series VSCBB25 1920x1080 480x270mm 21.7-inch         | 1        | 0.22%   |
-| ViewSonic VA1931 Series VSC5826 1366x768 410x230mm 18.5-inch          | 1        | 0.22%   |
-| Vestel LCD Monitor 48UHD_LCD_TV                                       | 1        | 0.22%   |
-| Unknown LCD Monitor Maxdata/XXXXXXX o.disp3.1_19 3200x1080            | 1        | 0.22%   |
-| Unknown (XXX) 1772E XXX1772 1280x1024 320x250mm 16.0-inch             | 1        | 0.22%   |
-| Unknown (ADA) LCD Monitor ADA0004 1280x800 150x100mm 7.1-inch         | 1        | 0.22%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 3        | 0.66%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                  | 3        | 0.66%   |
+| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch   | 3        | 0.66%   |
+| AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                     | 3        | 0.66%   |
+| Ancor Communications VE247 ACI2493 1920x1080 531x299mm 24.0-inch       | 3        | 0.66%   |
+| Samsung Electronics SyncMaster SAM027E 1680x1050 474x296mm 22.0-inch   | 2        | 0.44%   |
+| Samsung Electronics S19D300 SAM0B34 1366x768 410x230mm 18.5-inch       | 2        | 0.44%   |
+| Philips 226VL PHLC081 1920x1080 480x268mm 21.6-inch                    | 2        | 0.44%   |
+| Medion MD30999PD MED89C4 1440x900 408x255mm 18.9-inch                  | 2        | 0.44%   |
+| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 2        | 0.44%   |
+| LG Electronics LCD Monitor LG IPS WSXGA 1440x900                       | 2        | 0.44%   |
+| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                  | 2        | 0.44%   |
+| Hewlett-Packard L1950 HWP26E7 1280x1024 380x300mm 19.1-inch            | 2        | 0.44%   |
+| Hewlett-Packard 24o HPN337B 1920x1080 531x299mm 24.0-inch              | 2        | 0.44%   |
+| HannStar Display LCD Monitor Hanns.G Hi221 1680x1050                   | 2        | 0.44%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 2        | 0.44%   |
+| Goldstar HDR 4K GSM774F 3840x2160 697x392mm 31.5-inch                  | 2        | 0.44%   |
+| Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                 | 2        | 0.44%   |
+| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 2        | 0.44%   |
+| Dell S2340L DELD058 1920x1080 509x286mm 23.0-inch                      | 2        | 0.44%   |
+| Dell E172FP DELA00A 1280x1024 338x270mm 17.0-inch                      | 2        | 0.44%   |
+| BenQ G2020HD BNQ781E 1600x900 443x249mm 20.0-inch                      | 2        | 0.44%   |
+| AOC F19 AOC1900 1366x768 410x230mm 18.5-inch                           | 2        | 0.44%   |
+| AOC e2752Vq AOC2752 1920x1080 600x340mm 27.2-inch                      | 2        | 0.44%   |
+| AOC 27G1G4 AOC2701 1920x1080 598x336mm 27.0-inch                       | 2        | 0.44%   |
+| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                        | 2        | 0.44%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                         | 2        | 0.44%   |
+| Ancor Communications ASUS VS228 ACI22FD 1920x1080 480x270mm 21.7-inch  | 2        | 0.44%   |
+| Acer S200HL ACR0294 1600x900 442x249mm 20.0-inch                       | 2        | 0.44%   |
+| Acer AL1751 ACRAD40 1280x1024 340x270mm 17.1-inch                      | 2        | 0.44%   |
+| Yakumo 19DXJ YAK03C6 1280x1024 376x301mm 19.0-inch                     | 1        | 0.22%   |
+| Westinghouse LD-2685VX WDE17E8 1920x1080 710x400mm 32.1-inch           | 1        | 0.22%   |
+| Vizio E480i-C2 VIZ1004 1920x1080 477x268mm 21.5-inch                   | 1        | 0.22%   |
+| ViewSonic VA2407 Series VSC8C31 1920x1080 521x293mm 23.5-inch          | 1        | 0.22%   |
+| ViewSonic VA2231 Series VSCBB25 1920x1080 477x268mm 21.5-inch          | 1        | 0.22%   |
+| ViewSonic VA1931 Series VSC5826 1366x768 410x230mm 18.5-inch           | 1        | 0.22%   |
+| Vestel LCD Monitor 48UHD_LCD_TV                                        | 1        | 0.22%   |
+| Unknown LCD Monitor Maxdata/XXXXXXX o.disp3.1_19 3200x1080             | 1        | 0.22%   |
+| Unknown (XXX) 1772E XXX1772 1280x1024 320x250mm 16.0-inch              | 1        | 0.22%   |
+| Unknown (ADA) LCD Monitor ADA0004 1280x800 150x100mm 7.1-inch          | 1        | 0.22%   |
 
 Monitor Resolution
 ------------------
@@ -3093,7 +3093,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2        | 0.39%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet         | 2        | 0.39%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2        | 0.39%   |
-| Qualcomm Redmi 9T                                                 | 2        | 0.39%   |
+| Qualcomm FP3                                                      | 2        | 0.39%   |
 
 Net Controller Kind
 -------------------
@@ -3197,21 +3197,20 @@ Controller models
 | Intel Bluetooth wireless interface                       | 5        | 6.02%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                        | 4        | 4.82%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                 | 3        | 3.61%   |
+| Intel Bluetooth Device                                   | 3        | 3.61%   |
 | IMC Networks Bluetooth Radio                             | 3        | 3.61%   |
-| Apple Bluetooth Host Controller                          | 3        | 3.61%   |
-| TP-Link TP-Cdj+ UB5A Adapter                             | 2        | 2.41%   |
+| TP-Link UB500 Adapter                                    | 2        | 2.41%   |
 | Realtek  Bluetooth 4.2 Adapter                           | 2        | 2.41%   |
 | Qualcomm Atheros Bluetooth USB Host Controller           | 2        | 2.41%   |
 | MediaTek Wireless_Device                                 | 2        | 2.41%   |
 | Intel Wireless-AC 3168 Bluetooth                         | 2        | 2.41%   |
-| Intel Bluetooth Device                                   | 2        | 2.41%   |
 | Intel AX210 Bluetooth                                    | 2        | 2.41%   |
 | Intel AX200 Bluetooth                                    | 2        | 2.41%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]            | 2        | 2.41%   |
+| Apple Bluetooth USB Host Controller                      | 2        | 2.41%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter                  | 1        | 1.2%    |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth               | 1        | 1.2%    |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)           | 1        | 1.2%    |
-| Intel AX201 Bluetooth                                    | 1        | 1.2%    |
 | Integrated System Solution KY-BT100 Bluetooth Adapter    | 1        | 1.2%    |
 | Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 1.2%    |
 | Conwise CW6622                                           | 1        | 1.2%    |
@@ -3219,6 +3218,7 @@ Controller models
 | Broadcom BCM2035 Bluetooth dongle                        | 1        | 1.2%    |
 | ASUS Broadcom BCM20702A0 Bluetooth                       | 1        | 1.2%    |
 | ASUS Bluetooth Adapter                                   | 1        | 1.2%    |
+| Apple Bluetooth Host Controller                          | 1        | 1.2%    |
 
 Sound
 -----
@@ -3379,8 +3379,8 @@ Memory module models
 | Micron RAM 8JTF25664AZ-1G4D1 2GB DIMM DDR3 1333MT/s    | 2        | 0.92%   |
 | Micron RAM 16KTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s    | 2        | 0.92%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s      | 2        | 0.92%   |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2666MT/s      | 2        | 0.92%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s    | 2        | 0.92%   |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2666MT/s   | 2        | 0.92%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s    | 2        | 0.92%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s  | 2        | 0.92%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s    | 2        | 0.92%   |
 | G.Skill RAM F4-2400C15-8GVR 8GB DIMM DDR4 3200MT/s     | 2        | 0.92%   |
@@ -3532,47 +3532,47 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Zhuhai Poskey Printer              | 1        | 2.56%   |
-| Xerox Phaser 6130N                 | 1        | 2.56%   |
-| Seiko Epson L375 Series            | 1        | 2.56%   |
-| Seiko Epson L365 Series            | 1        | 2.56%   |
-| Samsung SCX-472x Series            | 1        | 2.56%   |
-| Samsung SCX-3200 Series            | 1        | 2.56%   |
-| Samsung M267x 287x Series          | 1        | 2.56%   |
-| Ricoh SP 150SUw                    | 1        | 2.56%   |
-| QinHeng CH340S                     | 1        | 2.56%   |
-| Lexmark International CS727de      | 1        | 2.56%   |
-| Kyocera FS-1020D Printer           | 1        | 2.56%   |
-| HP Officejet 4500 G510g-m          | 1        | 2.56%   |
-| HP OfficeJet 3830 series           | 1        | 2.56%   |
-| HP LaserJet P2055 series           | 1        | 2.56%   |
-| HP LaserJet M14-M17                | 1        | 2.56%   |
-| HP LaserJet M101-M106              | 1        | 2.56%   |
-| HP LaserJet 1020                   | 1        | 2.56%   |
-| HP LaserJet 1018                   | 1        | 2.56%   |
-| HP ENVY Photo 7800 series          | 1        | 2.56%   |
-| HP ENVY 4500 series                | 1        | 2.56%   |
-| HP Deskjet F4500 series            | 1        | 2.56%   |
-| HP DeskJet F2100 Printer series    | 1        | 2.56%   |
-| HP DeskJet 5650c                   | 1        | 2.56%   |
-| HP DeskJet 2620 All-in-One Printer | 1        | 2.56%   |
-| HP Deskjet 2540 series             | 1        | 2.56%   |
-| HP DeskJet 2130 series             | 1        | 2.56%   |
-| HP Deskjet 1050 J410               | 1        | 2.56%   |
-| HP ColorLaserJet M253-M254         | 1        | 2.56%   |
-| HP Color LaserJet 2605             | 1        | 2.56%   |
-| Canon TR8500 series                | 1        | 2.56%   |
-| Canon PIXMA MX920 Series           | 1        | 2.56%   |
-| Canon PIXMA MX720 Series           | 1        | 2.56%   |
-| Canon PIXMA MG2900 Series          | 1        | 2.56%   |
-| Canon MF632C/634C                  | 1        | 2.56%   |
-| Canon MF4320-4350                  | 1        | 2.56%   |
-| Canon LBP6230/6240                 | 1        | 2.56%   |
-| Canon iP7200 series                | 1        | 2.56%   |
-| Brother MFC-L2740DW                | 1        | 2.56%   |
-| Brother HL-L3270CDW series         | 1        | 2.56%   |
+| Model                           | Desktops | Percent |
+|---------------------------------|----------|---------|
+| Zhuhai Poskey Printer           | 1        | 2.56%   |
+| Xerox Phaser 6130N              | 1        | 2.56%   |
+| Seiko Epson L375 Series         | 1        | 2.56%   |
+| Seiko Epson L365 Series         | 1        | 2.56%   |
+| Samsung SCX-472x Series         | 1        | 2.56%   |
+| Samsung SCX-3200 Series         | 1        | 2.56%   |
+| Samsung M267x 287x Series       | 1        | 2.56%   |
+| Ricoh SP 150SUw                 | 1        | 2.56%   |
+| QinHeng CH340S                  | 1        | 2.56%   |
+| Lexmark International CS727de   | 1        | 2.56%   |
+| Kyocera FS-1020D Printer        | 1        | 2.56%   |
+| HP Officejet 4500 G510g-m       | 1        | 2.56%   |
+| HP OfficeJet 3830 series        | 1        | 2.56%   |
+| HP LaserJet P2055 series        | 1        | 2.56%   |
+| HP LaserJet M14-M17             | 1        | 2.56%   |
+| HP LaserJet M101-M106           | 1        | 2.56%   |
+| HP LaserJet 1020                | 1        | 2.56%   |
+| HP LaserJet 1018                | 1        | 2.56%   |
+| HP ENVY Photo 7800 series       | 1        | 2.56%   |
+| HP ENVY 4500 series             | 1        | 2.56%   |
+| HP Deskjet F4500 series         | 1        | 2.56%   |
+| HP DeskJet F2100 Printer series | 1        | 2.56%   |
+| HP DeskJet 5650c                | 1        | 2.56%   |
+| HP DeskJet 2600 series          | 1        | 2.56%   |
+| HP Deskjet 2540 series          | 1        | 2.56%   |
+| HP DeskJet 2130 series          | 1        | 2.56%   |
+| HP Deskjet 1050 J410            | 1        | 2.56%   |
+| HP ColorLaserJet M253-M254      | 1        | 2.56%   |
+| HP Color LaserJet 2605          | 1        | 2.56%   |
+| Canon TR8500 series             | 1        | 2.56%   |
+| Canon PIXMA MX920 Series        | 1        | 2.56%   |
+| Canon PIXMA MX720 Series        | 1        | 2.56%   |
+| Canon PIXMA MG2900 Series       | 1        | 2.56%   |
+| Canon MF632C/634C               | 1        | 2.56%   |
+| Canon MF4320-4350               | 1        | 2.56%   |
+| Canon LBP6230/6240              | 1        | 2.56%   |
+| Canon iP7200 series             | 1        | 2.56%   |
+| Brother MFC-L2740DW             | 1        | 2.56%   |
+| Brother HL-L3270CDW series      | 1        | 2.56%   |
 
 Scanner Vendor
 --------------
@@ -3656,7 +3656,7 @@ Camera device models
 |-------------------------------------------------|----------|---------|
 | Logitech Webcam C270                            | 7        | 9.21%   |
 | Samsung Galaxy series, misc. (MTP mode)         | 4        | 5.26%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR              | 4        | 5.26%   |
+| Apple iPhone 5/5C/5S/6/SE                       | 4        | 5.26%   |
 | Microsoft LifeCam HD-3000                       | 3        | 3.95%   |
 | Logitech Webcam C310                            | 3        | 3.95%   |
 | GEMBIRD USB2.0 PC CAMERA                        | 3        | 3.95%   |
@@ -3665,7 +3665,7 @@ Camera device models
 | Microdia Camera                                 | 2        | 2.63%   |
 | Logitech HD Webcam C910                         | 2        | 2.63%   |
 | Logitech HD Webcam C615                         | 2        | 2.63%   |
-| IMC Networks XHC Camera                         | 2        | 2.63%   |
+| IMC Networks Integrated Camera                  | 2        | 2.63%   |
 | Generalplus 808 Camera #9 (web-cam mode)        | 2        | 2.63%   |
 | Chicony CNF7042                                 | 2        | 2.63%   |
 | Z-Star Vega USB 2.0 Camera                      | 1        | 1.32%   |
@@ -3693,7 +3693,7 @@ Camera device models
 | Jieli USB PHY 2.0                               | 1        | 1.32%   |
 | iPassion PC Camera/Webcam controller            | 1        | 1.32%   |
 | IDS Imaging Development Systems USB 3.0 Camera  | 1        | 1.32%   |
-| Huawei UVC Camera                               | 1        | 1.32%   |
+| Huawei HiCamera                                 | 1        | 1.32%   |
 
 Security
 --------
@@ -3764,9 +3764,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 368      | 77.97%  |
-| 1     | 91       | 19.28%  |
-| 2     | 10       | 2.12%   |
+| 0     | 374      | 79.24%  |
+| 1     | 86       | 18.22%  |
+| 2     | 9        | 1.91%   |
 | 4     | 3        | 0.64%   |
 
 Unsupported Device Types
@@ -3779,21 +3779,21 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 50       | 42.74%  |
-| Net/wireless             | 21       | 17.95%  |
-| Communication controller | 15       | 12.82%  |
-| Multimedia controller    | 7        | 5.98%   |
-| Modem                    | 4        | 3.42%   |
-| Unassigned class         | 3        | 2.56%   |
-| Sound                    | 3        | 2.56%   |
-| Dvb card                 | 2        | 1.71%   |
-| Chipcard                 | 2        | 1.71%   |
-| Card reader              | 2        | 1.71%   |
-| Camera                   | 2        | 1.71%   |
-| Tv card                  | 1        | 0.85%   |
-| Storage/raid             | 1        | 0.85%   |
-| Storage                  | 1        | 0.85%   |
-| Net/ethernet             | 1        | 0.85%   |
-| Fingerprint reader       | 1        | 0.85%   |
-| Bluetooth                | 1        | 0.85%   |
+| Graphics card            | 43       | 39.09%  |
+| Net/wireless             | 21       | 19.09%  |
+| Communication controller | 15       | 13.64%  |
+| Multimedia controller    | 7        | 6.36%   |
+| Modem                    | 4        | 3.64%   |
+| Unassigned class         | 3        | 2.73%   |
+| Sound                    | 3        | 2.73%   |
+| Dvb card                 | 2        | 1.82%   |
+| Chipcard                 | 2        | 1.82%   |
+| Card reader              | 2        | 1.82%   |
+| Camera                   | 2        | 1.82%   |
+| Tv card                  | 1        | 0.91%   |
+| Storage/raid             | 1        | 0.91%   |
+| Storage                  | 1        | 0.91%   |
+| Net/ethernet             | 1        | 0.91%   |
+| Fingerprint reader       | 1        | 0.91%   |
+| Bluetooth                | 1        | 0.91%   |
 

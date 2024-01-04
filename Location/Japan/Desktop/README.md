@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 877
+Total: 879
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| HP            | 0A54h                       | [6db4931db4](https://linux-hardware.org/?probe=6db4931db4) | Jan 02, 2024 |
+| HP            | 0A54h                       | [cbf6bc2e02](https://linux-hardware.org/?probe=cbf6bc2e02) | Jan 02, 2024 |
 | MAXSUN        | MS-Terminator B550M         | [57ce047c4c](https://linux-hardware.org/?probe=57ce047c4c) | Dec 24, 2023 |
 | MSI           | MAG B650M MORTAR WIFI       | [7e506254e0](https://linux-hardware.org/?probe=7e506254e0) | Dec 22, 2023 |
 | Dell          | 0WMJ54 A01                  | [6cacd38012](https://linux-hardware.org/?probe=6cacd38012) | Dec 21, 2023 |
@@ -1156,7 +1158,7 @@ Version of the Linux kernel
 
 | Version                  | Desktops | Percent |
 |--------------------------|----------|---------|
-| 5.16.7-desktop-1omv4003  | 28       | 3.96%   |
+| 5.16.7-desktop-1omv4003  | 28       | 3.95%   |
 | 6.2.6-desktop-1omv2390   | 23       | 3.25%   |
 | 5.10.14-desktop-1omv4002 | 17       | 2.4%    |
 | 6.4.11-desktop-1omv2390  | 10       | 1.41%   |
@@ -1175,19 +1177,19 @@ Version of the Linux kernel
 | 5.13.0-40-generic        | 5        | 0.71%   |
 | 5.13.0-30-generic        | 5        | 0.71%   |
 | 5.11.0-38-generic        | 5        | 0.71%   |
-| 6.6.2-desktop-1omv2390   | 4        | 0.57%   |
-| 6.2.0-35-generic         | 4        | 0.57%   |
-| 6.2.0-33-generic         | 4        | 0.57%   |
-| 5.4.0-66-generic         | 4        | 0.57%   |
-| 5.19.0-41-generic        | 4        | 0.57%   |
-| 5.19.0-38-generic        | 4        | 0.57%   |
-| 5.15.0-50-generic        | 4        | 0.57%   |
-| 5.15.0-46-generic        | 4        | 0.57%   |
-| 5.13.0-39-generic        | 4        | 0.57%   |
-| 5.10.0-16-amd64          | 4        | 0.57%   |
-| 5.0.0-29-generic         | 4        | 0.57%   |
-| 4.15.0-72-generic        | 4        | 0.57%   |
-| 4.15.0-48-generic        | 4        | 0.57%   |
+| 6.6.2-desktop-1omv2390   | 4        | 0.56%   |
+| 6.2.0-35-generic         | 4        | 0.56%   |
+| 6.2.0-33-generic         | 4        | 0.56%   |
+| 5.4.0-66-generic         | 4        | 0.56%   |
+| 5.19.0-41-generic        | 4        | 0.56%   |
+| 5.19.0-38-generic        | 4        | 0.56%   |
+| 5.15.0-50-generic        | 4        | 0.56%   |
+| 5.15.0-46-generic        | 4        | 0.56%   |
+| 5.13.0-39-generic        | 4        | 0.56%   |
+| 5.10.0-16-amd64          | 4        | 0.56%   |
+| 5.0.0-29-generic         | 4        | 0.56%   |
+| 4.15.0-72-generic        | 4        | 0.56%   |
+| 4.15.0-48-generic        | 4        | 0.56%   |
 | 6.2.6-76060206-generic   | 3        | 0.42%   |
 | 6.2.0-36-generic         | 3        | 0.42%   |
 | 6.1.0-13-amd64           | 3        | 0.42%   |
@@ -1207,16 +1209,16 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4.0   | 113      | 17.38%  |
-| 5.15.0  | 52       | 8%      |
-| 4.15.0  | 48       | 7.38%   |
-| 5.13.0  | 29       | 4.46%   |
-| 5.16.7  | 28       | 4.31%   |
+| 5.4.0   | 113      | 17.36%  |
+| 5.15.0  | 52       | 7.99%   |
+| 4.15.0  | 48       | 7.37%   |
+| 5.13.0  | 29       | 4.45%   |
+| 5.16.7  | 28       | 4.3%    |
 | 5.8.0   | 27       | 4.15%   |
 | 5.11.0  | 27       | 4.15%   |
-| 6.2.6   | 26       | 4%      |
-| 5.19.0  | 23       | 3.54%   |
-| 5.10.14 | 18       | 2.77%   |
+| 6.2.6   | 26       | 3.99%   |
+| 5.19.0  | 23       | 3.53%   |
+| 5.10.14 | 18       | 2.76%   |
 | 6.2.0   | 16       | 2.46%   |
 | 5.3.0   | 16       | 2.46%   |
 | 5.10.0  | 16       | 2.46%   |
@@ -1227,7 +1229,7 @@ Linux kernel without a distro release
 | 6.1.0   | 6        | 0.92%   |
 | 5.16.13 | 6        | 0.92%   |
 | 4.18.0  | 5        | 0.77%   |
-| 6.6.2   | 4        | 0.62%   |
+| 6.6.2   | 4        | 0.61%   |
 | 6.5.6   | 3        | 0.46%   |
 | 6.5.0   | 3        | 0.46%   |
 | 6.0.8   | 3        | 0.46%   |
@@ -1236,6 +1238,7 @@ Linux kernel without a distro release
 | 5.12.4  | 3        | 0.46%   |
 | 4.4.0   | 3        | 0.46%   |
 | 6.6.7   | 2        | 0.31%   |
+| 6.6.1   | 2        | 0.31%   |
 | 6.4.8   | 2        | 0.31%   |
 | 6.3.5   | 2        | 0.31%   |
 | 6.2.2   | 2        | 0.31%   |
@@ -1246,7 +1249,6 @@ Linux kernel without a distro release
 | 6.0.0   | 2        | 0.31%   |
 | 5.9.0   | 2        | 0.31%   |
 | 5.7.9   | 2        | 0.31%   |
-| 5.19.10 | 2        | 0.31%   |
 
 Kernel Major Ver.
 -----------------
@@ -1258,26 +1260,26 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4     | 114      | 17.78%  |
-| 5.15    | 61       | 9.52%   |
-| 6.2     | 49       | 7.64%   |
-| 4.15    | 48       | 7.49%   |
-| 5.10    | 41       | 6.4%    |
+| 5.4     | 114      | 17.76%  |
+| 5.15    | 61       | 9.5%    |
+| 6.2     | 49       | 7.63%   |
+| 4.15    | 48       | 7.48%   |
+| 5.10    | 41       | 6.39%   |
 | 5.13    | 34       | 5.3%    |
-| 5.8     | 31       | 4.84%   |
-| 5.16    | 31       | 4.84%   |
+| 5.8     | 31       | 4.83%   |
+| 5.16    | 31       | 4.83%   |
 | 5.19    | 29       | 4.52%   |
 | 5.11    | 29       | 4.52%   |
 | 6.1     | 24       | 3.74%   |
 | 5.3     | 19       | 2.96%   |
-| 5.0     | 18       | 2.81%   |
+| 5.0     | 18       | 2.8%    |
 | 6.4     | 15       | 2.34%   |
 | 6.0     | 12       | 1.87%   |
 | 4.18    | 12       | 1.87%   |
+| 6.6     | 10       | 1.56%   |
 | 6.5     | 10       | 1.56%   |
-| 6.6     | 9        | 1.4%    |
 | 5.9     | 7        | 1.09%   |
-| 5.12    | 6        | 0.94%   |
+| 5.12    | 6        | 0.93%   |
 | 6.3     | 5        | 0.78%   |
 | 5.14    | 5        | 0.78%   |
 | 5.7     | 4        | 0.62%   |
@@ -1390,9 +1392,9 @@ Language
 
 | Lang        | Desktops | Percent |
 |-------------|----------|---------|
-| ja_JP       | 297      | 50.77%  |
-| en_US       | 164      | 28.03%  |
-| Unknown     | 63       | 10.77%  |
+| ja_JP       | 298      | 50.85%  |
+| en_US       | 164      | 27.99%  |
+| Unknown     | 63       | 10.75%  |
 | zh_CN       | 12       | 2.05%   |
 | pt_BR       | 12       | 2.05%   |
 | en_GB       | 10       | 1.71%   |
@@ -1436,12 +1438,12 @@ Type of filesystem
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Ext4    | 429      | 72.1%   |
-| Overlay | 66       | 11.09%  |
-| Btrfs   | 39       | 6.55%   |
+| Ext4    | 430      | 72.15%  |
+| Overlay | 66       | 11.07%  |
+| Btrfs   | 39       | 6.54%   |
 | Tmpfs   | 24       | 4.03%   |
 | Xfs     | 15       | 2.52%   |
-| Unknown | 12       | 2.02%   |
+| Unknown | 12       | 2.01%   |
 | Zfs     | 5        | 0.84%   |
 | Jfs     | 2        | 0.34%   |
 | F2fs    | 2        | 0.34%   |
@@ -1471,8 +1473,8 @@ Hosting more than one Linux/BSD
 
 | Dual boot | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 439      | 73.91%  |
-| Yes       | 155      | 26.09%  |
+| No        | 439      | 73.78%  |
+| Yes       | 156      | 26.22%  |
 
 Dual Boot (Win)
 ---------------
@@ -1659,9 +1661,9 @@ Motherboard manufacture year
 | 2020    | 47       | 8.17%   |
 | 2019    | 37       | 6.43%   |
 | 2021    | 32       | 5.57%   |
+| 2016    | 31       | 5.39%   |
 | 2010    | 31       | 5.39%   |
-| 2016    | 30       | 5.22%   |
-| 2017    | 29       | 5.04%   |
+| 2017    | 28       | 4.87%   |
 | 2015    | 27       | 4.7%    |
 | 2009    | 26       | 4.52%   |
 | 2014    | 25       | 4.35%   |
@@ -1744,12 +1746,12 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 1.01-2.0   | 265      | 40.4%   |
-| 2.01-3.0   | 133      | 20.27%  |
-| 3.01-4.0   | 78       | 11.89%  |
-| 4.01-8.0   | 75       | 11.43%  |
-| 0.51-1.0   | 53       | 8.08%   |
-| 8.01-16.0  | 28       | 4.27%   |
+| 1.01-2.0   | 265      | 40.33%  |
+| 2.01-3.0   | 133      | 20.24%  |
+| 3.01-4.0   | 78       | 11.87%  |
+| 4.01-8.0   | 75       | 11.42%  |
+| 0.51-1.0   | 54       | 8.22%   |
+| 8.01-16.0  | 28       | 4.26%   |
 | 16.01-24.0 | 10       | 1.52%   |
 | 0.01-0.5   | 8        | 1.22%   |
 | 24.01-32.0 | 4        | 0.61%   |
@@ -1787,8 +1789,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 339      | 58.05%  |
-| No        | 245      | 41.95%  |
+| Yes       | 333      | 57.02%  |
+| No        | 251      | 42.98%  |
 
 Has Ethernet
 ------------
@@ -1854,29 +1856,29 @@ Geographic location (city)
 
 | City        | Desktops | Percent |
 |-------------|----------|---------|
-| Tokyo       | 56       | 9.02%   |
-| Yokohama    | 28       | 4.51%   |
+| Tokyo       | 56       | 9%      |
+| Yokohama    | 28       | 4.5%    |
 | Osaka       | 22       | 3.54%   |
-| Nagoya      | 19       | 3.06%   |
-| Shinjuku    | 16       | 2.58%   |
+| Nagoya      | 19       | 3.05%   |
+| Shinjuku    | 16       | 2.57%   |
 | Minato-ku   | 11       | 1.77%   |
 | Tsukuba     | 9        | 1.45%   |
 | Sapporo     | 9        | 1.45%   |
 | Fukuoka     | 9        | 1.45%   |
 | Saitama     | 7        | 1.13%   |
 | Minatomirai | 7        | 1.13%   |
-| Takamatsu   | 6        | 0.97%   |
-| Niigata     | 6        | 0.97%   |
-| Miyazaki    | 6        | 0.97%   |
-| Kobe        | 6        | 0.97%   |
-| Kameido     | 6        | 0.97%   |
-| Chiyoda-ku  | 6        | 0.97%   |
-| Okayama     | 5        | 0.81%   |
-| Kochi       | 5        | 0.81%   |
-| Kawasaki    | 5        | 0.81%   |
-| Kanazawa    | 5        | 0.81%   |
-| Honcho      | 5        | 0.81%   |
-| Hiroshima   | 5        | 0.81%   |
+| Takamatsu   | 6        | 0.96%   |
+| Niigata     | 6        | 0.96%   |
+| Miyazaki    | 6        | 0.96%   |
+| Kobe        | 6        | 0.96%   |
+| Kameido     | 6        | 0.96%   |
+| Chiyoda-ku  | 6        | 0.96%   |
+| Okayama     | 5        | 0.8%    |
+| Kochi       | 5        | 0.8%    |
+| Kawasaki    | 5        | 0.8%    |
+| Kanazawa    | 5        | 0.8%    |
+| Honcho      | 5        | 0.8%    |
+| Hiroshima   | 5        | 0.8%    |
 | Utsunomiya  | 4        | 0.64%   |
 | Toyokawa    | 4        | 0.64%   |
 | Tokushima   | 4        | 0.64%   |
@@ -1909,7 +1911,7 @@ Hard drive vendors
 | Vendor                      | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
 | Seagate                     | 186      | 292    | 17.71%  |
-| WDC                         | 179      | 311    | 17.05%  |
+| WDC                         | 179      | 312    | 17.05%  |
 | Samsung Electronics         | 94       | 136    | 8.95%   |
 | Hitachi                     | 69       | 95     | 6.57%   |
 | Crucial                     | 66       | 93     | 6.29%   |
@@ -1973,7 +1975,7 @@ Hard drive models
 | Seagate ST3500418AS 500GB                           | 7        | 0.59%   |
 | Seagate ST2000DM008-2FR102 2TB                      | 7        | 0.59%   |
 | Seagate ST1000DM010-2EP102 1TB                      | 7        | 0.59%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 7        | 0.59%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 7        | 0.59%   |
 | Crucial CT1000MX500SSD1 1TB                         | 7        | 0.59%   |
 | WDC WD10EZEX-00BN5A0 1TB                            | 6        | 0.5%    |
 | SPCC Solid State Disk 256GB                         | 6        | 0.5%    |
@@ -2010,12 +2012,12 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 182      | 284    | 35.41%  |
-| WDC                 | 159      | 259    | 30.93%  |
-| Hitachi             | 68       | 94     | 13.23%  |
-| Toshiba             | 54       | 71     | 10.51%  |
-| Samsung Electronics | 21       | 24     | 4.09%   |
-| HGST                | 10       | 12     | 1.95%   |
+| Seagate             | 182      | 284    | 35.34%  |
+| WDC                 | 159      | 260    | 30.87%  |
+| Hitachi             | 68       | 94     | 13.2%   |
+| Toshiba             | 54       | 71     | 10.49%  |
+| Samsung Electronics | 21       | 24     | 4.08%   |
+| HGST                | 10       | 12     | 1.94%   |
 | Maxtor              | 5        | 7      | 0.97%   |
 | Hewlett-Packard     | 3        | 9      | 0.58%   |
 | Fujitsu             | 3        | 3      | 0.58%   |
@@ -2024,6 +2026,7 @@ Hard disk drive vendors
 | USB3.0              | 1        | 1      | 0.19%   |
 | TO Exter            | 1        | 1      | 0.19%   |
 | StoreJet            | 1        | 1      | 0.19%   |
+| SABRENT             | 1        | 1      | 0.19%   |
 | Quantum             | 1        | 1      | 0.19%   |
 | KESU                | 1        | 1      | 0.19%   |
 
@@ -2088,9 +2091,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 396      | 774    | 46.1%   |
-| SSD     | 304      | 492    | 35.39%  |
-| NVMe    | 145      | 240    | 16.88%  |
+| HDD     | 397      | 776    | 46.16%  |
+| SSD     | 304      | 492    | 35.35%  |
+| NVMe    | 145      | 239    | 16.86%  |
 | Unknown | 13       | 22     | 1.51%   |
 | MMC     | 1        | 1      | 0.12%   |
 
@@ -2104,7 +2107,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 522      | 1235   | 74.04%  |
+| SATA | 522      | 1236   | 74.04%  |
 | NVMe | 145      | 238    | 20.57%  |
 | SAS  | 37       | 55     | 5.25%   |
 | MMC  | 1        | 1      | 0.14%   |
@@ -2119,13 +2122,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 388      | 692    | 51.25%  |
-| 0.51-1.0   | 169      | 261    | 22.32%  |
-| 1.01-2.0   | 104      | 152    | 13.74%  |
-| 3.01-4.0   | 41       | 65     | 5.42%   |
-| 4.01-10.0  | 29       | 58     | 3.83%   |
-| 2.01-3.0   | 23       | 35     | 3.04%   |
-| 10.01-20.0 | 3        | 3      | 0.4%    |
+| 0.01-0.5   | 386      | 690    | 50.66%  |
+| 0.51-1.0   | 169      | 257    | 22.18%  |
+| 1.01-2.0   | 111      | 160    | 14.57%  |
+| 3.01-4.0   | 41       | 65     | 5.38%   |
+| 4.01-10.0  | 29       | 58     | 3.81%   |
+| 2.01-3.0   | 23       | 35     | 3.02%   |
+| 10.01-20.0 | 3        | 3      | 0.39%   |
 
 Space Total
 -----------
@@ -2137,15 +2140,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 101-250        | 157      | 25.53%  |
-| 251-500        | 99       | 16.1%   |
-| 501-1000       | 84       | 13.66%  |
-| More than 3000 | 65       | 10.57%  |
-| 1001-2000      | 55       | 8.94%   |
-| 1-20           | 44       | 7.15%   |
-| 2001-3000      | 35       | 5.69%   |
-| 51-100         | 35       | 5.69%   |
-| Unknown        | 30       | 4.88%   |
+| 101-250        | 157      | 25.49%  |
+| 251-500        | 99       | 16.07%  |
+| 501-1000       | 84       | 13.64%  |
+| More than 3000 | 65       | 10.55%  |
+| 1001-2000      | 56       | 9.09%   |
+| 1-20           | 44       | 7.14%   |
+| 2001-3000      | 35       | 5.68%   |
+| 51-100         | 35       | 5.68%   |
+| Unknown        | 30       | 4.87%   |
 | 21-50          | 11       | 1.79%   |
 
 Space Used
@@ -2302,7 +2305,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Detected | 358      | 971    | 57.28%  |
-| Works    | 214      | 484    | 34.24%  |
+| Works    | 214      | 485    | 34.24%  |
 | Malfunc  | 53       | 74     | 8.48%   |
 
 Storage controller
@@ -2414,10 +2417,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 462      | 57.53%  |
-| NVMe | 147      | 18.31%  |
-| IDE  | 140      | 17.43%  |
-| RAID | 41       | 5.11%   |
+| SATA | 462      | 57.46%  |
+| NVMe | 147      | 18.28%  |
+| IDE  | 141      | 17.54%  |
+| RAID | 41       | 5.1%    |
 | SCSI | 7        | 0.87%   |
 | SAS  | 6        | 0.75%   |
 
@@ -3484,8 +3487,8 @@ Controller vendors
 | MediaTek                        | 10       | 4.93%   |
 | Qualcomm Atheros Communications | 7        | 3.45%   |
 | TP-Link                         | 5        | 2.46%   |
-| ASUSTek Computer                | 5        | 2.46%   |
-| Broadcom                        | 3        | 1.48%   |
+| Broadcom                        | 4        | 1.97%   |
+| ASUSTek Computer                | 4        | 1.97%   |
 | Lite-On Technology              | 2        | 0.99%   |
 | IMC Networks                    | 2        | 0.99%   |
 | BUFFALO                         | 2        | 0.99%   |
@@ -3512,19 +3515,16 @@ Controller models
 | Realtek Bluetooth Radio                             | 11       | 5.42%   |
 | MediaTek Wireless_Device                            | 10       | 4.93%   |
 | Intel AX210 Bluetooth                               | 9        | 4.43%   |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 5        | 2.46%   |
+| Intel Bluetooth Device                              | 6        | 2.96%   |
+| TP-Link UB500 Adapter                               | 5        | 2.46%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 5        | 2.46%   |
 | Qualcomm Atheros  Bluetooth Device                  | 3        | 1.48%   |
-| Intel Bluetooth Device                              | 3        | 1.48%   |
-| Intel AX201 Bluetooth                               | 3        | 1.48%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 2        | 0.99%   |
 | Lite-On Bluetooth Device                            | 2        | 0.99%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2        | 0.99%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 2        | 0.99%   |
 | IMC Networks Bluetooth Device                       | 2        | 0.99%   |
 | BUFFALO Bluetooth Radio                             | 2        | 0.99%   |
-| ASUS BCM20702A0                                     | 2        | 0.99%   |
-| Apple Bluetooth Host Controller                     | 2        | 0.99%   |
 | Actions general adapter                             | 2        | 0.99%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1        | 0.49%   |
 | Realtek Bluetooth Radio                             | 1        | 0.49%   |
@@ -3535,9 +3535,13 @@ Controller models
 | Broadcom HP Portable Bumble Bee                     | 1        | 0.49%   |
 | Broadcom Bluetooth V3.0 USB Device                  | 1        | 0.49%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 0.49%   |
+| Broadcom BCM20702A0                                 | 1        | 0.49%   |
 | ASUS Qualcomm Bluetooth 4.1                         | 1        | 0.49%   |
 | ASUS Bluetooth Radio                                | 1        | 0.49%   |
 | ASUS Bluetooth Device                               | 1        | 0.49%   |
+| ASUS BCM20702A0                                     | 1        | 0.49%   |
+| Apple Bluetooth USB Host Controller                 | 1        | 0.49%   |
+| Apple Bluetooth Host Controller                     | 1        | 0.49%   |
 
 Sound
 -----
@@ -3708,7 +3712,7 @@ Memory module models
 | SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s     | 4        | 1.39%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1800MT/s    | 4        | 1.39%   |
 | Unknown RAM Module 2048MB DIMM SDRAM                     | 3        | 1.04%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s      | 3        | 1.04%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s      | 3        | 1.04%   |
 | Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2933MT/s       | 3        | 1.04%   |
 | Nanya RAM M2X4G64CB8HG9N-DG 4GB DIMM DDR3 1600MT/s       | 3        | 1.04%   |
 | KLEVV RAM KD48GU881-26N190A 8GB DIMM DDR4 2667MT/s       | 3        | 1.04%   |
@@ -3732,7 +3736,7 @@ Memory module models
 | Kingston RAM CBD26D4U9S8ME-8 8GB DIMM DDR4 2667MT/s      | 2        | 0.69%   |
 | Kingston RAM 9905622-057.A00G 4096MB DIMM DDR4 2133MT/s  | 2        | 0.69%   |
 | G.Skill RAM F3-2400C10-4GTX 4GB DIMM DDR3 2400MT/s       | 2        | 0.69%   |
-| Crucial RAM CT51264BA160BJ.C8F 4096MB DIMM DDR3 1600MT/s | 2        | 0.69%   |
+| Crucial RAM CT51264BA160BJ.C8F 4GB DIMM DDR3 1600MT/s    | 2        | 0.69%   |
 | Crucial RAM CT16G4DFD8266.C16FD1 16GB DIMM DDR4 2667MT/s | 2        | 0.69%   |
 | Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3100MT/s   | 2        | 0.69%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s    | 2        | 0.69%   |
@@ -3965,9 +3969,9 @@ Camera device models
 | Model                                          | Desktops | Percent |
 |------------------------------------------------|----------|---------|
 | Logitech Webcam C270                           | 6        | 9.09%   |
-| MacroSilicon USB Video                         | 3        | 4.55%   |
+| MacroSilicon USB3. 0 capture                   | 3        | 4.55%   |
 | BUFFALO USB 2.0 Camera                         | 3        | 4.55%   |
-| Sunplus FHD Camera Microphone                  | 2        | 3.03%   |
+| Sunplus Integrated_Webcam_HD                   | 2        | 3.03%   |
 | Microdia Webcam Vitade AF                      | 2        | 3.03%   |
 | Logitech Webcam C310                           | 2        | 3.03%   |
 | Logitech HD Webcam C615                        | 2        | 3.03%   |
@@ -3999,7 +4003,7 @@ Camera device models
 | Logitech HD Webcam C910                        | 1        | 1.52%   |
 | Logitech BRIO Ultra HD Webcam                  | 1        | 1.52%   |
 | Jieli USB PHY 2.0                              | 1        | 1.52%   |
-| Huawei UVC Camera                              | 1        | 1.52%   |
+| Huawei HiCamera                                | 1        | 1.52%   |
 | HD USB Camera HD USB Camera                    | 1        | 1.52%   |
 | GEMBIRD USB2.0 PC CAMERA                       | 1        | 1.52%   |
 | Etron BUFFALO BSW32KM03 USB PC Camera          | 1        | 1.52%   |

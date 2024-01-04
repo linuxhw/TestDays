@@ -1013,48 +1013,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| Kingston SA400S37120G 120GB SSD      | 5        | 5.05%   |
-| Seagate ST500DM002-1BD142 500GB      | 4        | 4.04%   |
-| Hitachi HDS721050CLA362 500GB        | 3        | 3.03%   |
-| WDC WD800JD-00MSA1 80GB              | 2        | 2.02%   |
-| Toshiba HDWD120 2TB                  | 2        | 2.02%   |
-| Toshiba DT01ACA050 500GB             | 2        | 2.02%   |
-| Seagate ST3500413AS 500GB            | 2        | 2.02%   |
-| Seagate ST250LT021-1AF14C 250GB      | 2        | 2.02%   |
-| Samsung SSD 980 500GB                | 2        | 2.02%   |
-| Samsung SSD 860 EVO 250GB            | 2        | 2.02%   |
-| Kingston SA400S37480G 480GB SSD      | 2        | 2.02%   |
-| Kingston SA400S37240G 240GB SSD      | 2        | 2.02%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD | 2        | 2.02%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD     | 1        | 1.01%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD     | 1        | 1.01%   |
-| WDC WDS120G2G0B-00EPW0 120GB SSD     | 1        | 1.01%   |
-| WDC WD800JD-75MSA3 80GB              | 1        | 1.01%   |
-| WDC WD800JD-60LSA5 80GB              | 1        | 1.01%   |
-| WDC WD7500BPVX-22JC3T0 752GB         | 1        | 1.01%   |
-| WDC WD7500AACS-00D6B0 752GB          | 1        | 1.01%   |
-| WDC WD6400AARS-00Y5B1 640GB          | 1        | 1.01%   |
-| WDC WD5000LPVT-22G33T0 500GB         | 1        | 1.01%   |
-| WDC WD5000AZLX-60K2TA0 500GB         | 1        | 1.01%   |
-| WDC WD5000AVDS-73U7B1 500GB          | 1        | 1.01%   |
-| WDC WD5000AAKX-00ERMA0 500GB         | 1        | 1.01%   |
-| WDC WD5000AAKX-001CA0 500GB          | 1        | 1.01%   |
-| WDC WD40EZRZ-75GXCB0 4TB             | 1        | 1.01%   |
-| WDC WD40EZAZ-00ZGHB0 4TB             | 1        | 1.01%   |
-| WDC WD3200SD-01KNB0 320GB            | 1        | 1.01%   |
-| WDC WD3200AAJS-00L7A0 320GB          | 1        | 1.01%   |
-| WDC WD3200AAJS-00B4A0 320GB          | 1        | 1.01%   |
-| WDC WD2500AAJS-22B4A0 250GB          | 1        | 1.01%   |
-| WDC WD20EARX-00PASB0 2TB             | 1        | 1.01%   |
-| WDC WD2000JD-00HBB0 200GB            | 1        | 1.01%   |
-| WDC WD1600AAJS-75B4A0 160GB          | 1        | 1.01%   |
-| WDC WD1600AAJS-00B4A0 160GB          | 1        | 1.01%   |
-| WDC WD15EARS-00S8B1 1TB              | 1        | 1.01%   |
-| WDC WD10EZEX-08RKKA0 1TB             | 1        | 1.01%   |
-| WDC WD1002FAEX-00Z3A0 1TB            | 1        | 1.01%   |
-| Transcend TS120GSSD220S 120GB        | 1        | 1.01%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Kingston SA400S37120G 120GB SSD  | 5        | 5.05%   |
+| Seagate ST500DM002-1BD142 500GB  | 4        | 4.04%   |
+| Hitachi HDS721050CLA362 500GB    | 3        | 3.03%   |
+| WDC WD800JD-00MSA1 80GB          | 2        | 2.02%   |
+| Toshiba HDWD120 2TB              | 2        | 2.02%   |
+| Toshiba DT01ACA050 500GB         | 2        | 2.02%   |
+| Seagate ST3500413AS 500GB        | 2        | 2.02%   |
+| Seagate ST250LT021-1AF14C 250GB  | 2        | 2.02%   |
+| Samsung SSD 980 500GB            | 2        | 2.02%   |
+| Samsung SSD 860 EVO 250GB        | 2        | 2.02%   |
+| Kingston SA400S37480G 480GB SSD  | 2        | 2.02%   |
+| Kingston SA400S37240G 240GB SSD  | 2        | 2.02%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB | 2        | 2.02%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD | 1        | 1.01%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD | 1        | 1.01%   |
+| WDC WDS120G2G0B-00EPW0 120GB SSD | 1        | 1.01%   |
+| WDC WD800JD-75MSA3 80GB          | 1        | 1.01%   |
+| WDC WD800JD-60LSA5 80GB          | 1        | 1.01%   |
+| WDC WD7500BPVX-22JC3T0 752GB     | 1        | 1.01%   |
+| WDC WD7500AACS-00D6B0 752GB      | 1        | 1.01%   |
+| WDC WD6400AARS-00Y5B1 640GB      | 1        | 1.01%   |
+| WDC WD5000LPVT-22G33T0 500GB     | 1        | 1.01%   |
+| WDC WD5000AZLX-60K2TA0 500GB     | 1        | 1.01%   |
+| WDC WD5000AVDS-73U7B1 500GB      | 1        | 1.01%   |
+| WDC WD5000AAKX-00ERMA0 500GB     | 1        | 1.01%   |
+| WDC WD5000AAKX-001CA0 500GB      | 1        | 1.01%   |
+| WDC WD40EZRZ-75GXCB0 4TB         | 1        | 1.01%   |
+| WDC WD40EZAZ-00ZGHB0 4TB         | 1        | 1.01%   |
+| WDC WD3200SD-01KNB0 320GB        | 1        | 1.01%   |
+| WDC WD3200AAJS-00L7A0 320GB      | 1        | 1.01%   |
+| WDC WD3200AAJS-00B4A0 320GB      | 1        | 1.01%   |
+| WDC WD2500AAJS-22B4A0 250GB      | 1        | 1.01%   |
+| WDC WD20EARX-00PASB0 2TB         | 1        | 1.01%   |
+| WDC WD2000JD-00HBB0 200GB        | 1        | 1.01%   |
+| WDC WD1600AAJS-75B4A0 160GB      | 1        | 1.01%   |
+| WDC WD1600AAJS-00B4A0 160GB      | 1        | 1.01%   |
+| WDC WD15EARS-00S8B1 1TB          | 1        | 1.01%   |
+| WDC WD10EZEX-08RKKA0 1TB         | 1        | 1.01%   |
+| WDC WD1002FAEX-00Z3A0 1TB        | 1        | 1.01%   |
+| Transcend TS120GSSD220S 120GB    | 1        | 1.01%   |
 
 HDD Vendor
 ----------
@@ -1355,10 +1355,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 35       | 50.72%  |
-| IDE  | 27       | 39.13%  |
-| NVMe | 4        | 5.8%    |
-| RAID | 3        | 4.35%   |
+| SATA | 35       | 51.47%  |
+| IDE  | 27       | 39.71%  |
+| NVMe | 4        | 5.88%   |
+| RAID | 2        | 2.94%   |
 
 Processor
 ---------
@@ -1752,7 +1752,7 @@ Monitor models
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2        | 3.33%   |
 | Acer KA220HQ ACR0467 1920x1080 477x268mm 21.5-inch                     | 2        | 3.33%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1        | 1.67%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch     | 1        | 1.67%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 1.67%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1        | 1.67%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1        | 1.67%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1        | 1.67%   |
@@ -1768,7 +1768,7 @@ Monitor models
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch      | 1        | 1.67%   |
 | Samsung Electronics LCD Monitor SyncMaster 1680x1050                   | 1        | 1.67%   |
 | Samsung Electronics LCD Monitor SAM0DFB 3840x2160 1020x570mm 46.0-inch | 1        | 1.67%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch  | 1        | 1.67%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch  | 1        | 1.67%   |
 | Samsung Electronics LCD Monitor SAM0659 1920x1080                      | 1        | 1.67%   |
 | Philips PHL 247E6 PHLC0E7 1920x1080 521x293mm 23.5-inch                | 1        | 1.67%   |
 | Philips LCD Monitor FTV                                                | 1        | 1.67%   |
@@ -1782,7 +1782,7 @@ Monitor models
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                   | 1        | 1.67%   |
 | Goldstar IPS231 GSM5816 1920x1080 510x290mm 23.1-inch                  | 1        | 1.67%   |
 | Goldstar HDR 4K GSM7706 3840x2160 600x340mm 27.2-inch                  | 1        | 1.67%   |
-| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                 | 1        | 1.67%   |
+| Goldstar FHD GSM5B54 1920x1080 480x270mm 21.7-inch                     | 1        | 1.67%   |
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                   | 1        | 1.67%   |
 | Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                    | 1        | 1.67%   |
 | Goldstar 2D HD TV GSM59C8 1366x768 509x286mm 23.0-inch                 | 1        | 1.67%   |
@@ -2295,9 +2295,9 @@ Memory module models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s                     | 2        | 5.26%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s                     | 2        | 5.26%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s                   | 2        | 5.26%   |
-| Kingston RAM 99U5471-054.A00LF 8192MB DIMM DDR3 1600MT/s                | 2        | 5.26%   |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s                   | 2        | 5.26%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                               | 1        | 2.63%   |
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                                | 1        | 2.63%   |
 | Unknown RAM Module 2048MB DIMM DDR2 333MT/s                             | 1        | 2.63%   |
@@ -2316,7 +2316,7 @@ Memory module models
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s                       | 1        | 2.63%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s                     | 1        | 2.63%   |
 | Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s                | 1        | 2.63%   |
-| Kingston RAM 99U5584-009.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 2.63%   |
+| Kingston RAM 99U5584-009.A00LF 4096MB DIMM DDR3 1600MT/s                | 1        | 2.63%   |
 | Kingston RAM 99U5584-007.A 4GB DIMM DDR3 1333MT/s                       | 1        | 2.63%   |
 | Kingston RAM 99U5584-003.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 2.63%   |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 2.63%   |

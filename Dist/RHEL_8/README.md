@@ -1002,8 +1002,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 151       | 77.84%  |
-| Yes       | 43        | 22.16%  |
+| No        | 150       | 77.32%  |
+| Yes       | 44        | 22.68%  |
 
 Has Ethernet
 ------------
@@ -1238,7 +1238,7 @@ Hard drive models
 | Seagate ST2000DM001-1ER164 2TB                     | 2         | 0.6%    |
 | Seagate ST1000LM049-2GH172 1TB                     | 2         | 0.6%    |
 | Seagate ST1000DM003-9YN162 1TB                     | 2         | 0.6%    |
-| Seagate Expansion 1TB                              | 2         | 0.6%    |
+| Seagate Expansion 2TB                              | 2         | 0.6%    |
 | Samsung SSD 860 QVO 1TB                            | 2         | 0.6%    |
 | Samsung SSD 860 EVO 500GB                          | 2         | 0.6%    |
 | Samsung SSD 850 EVO 500GB                          | 2         | 0.6%    |
@@ -1346,13 +1346,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 72        | 120    | 45.57%  |
-| 0.51-1.0   | 50        | 80     | 31.65%  |
-| 1.01-2.0   | 20        | 26     | 12.66%  |
-| 3.01-4.0   | 9         | 19     | 5.7%    |
-| 4.01-10.0  | 5         | 10     | 3.16%   |
-| 2.01-3.0   | 1         | 1      | 0.63%   |
-| 10.01-20.0 | 1         | 1      | 0.63%   |
+| 0.01-0.5   | 71        | 119    | 46.1%   |
+| 0.51-1.0   | 48        | 80     | 31.17%  |
+| 1.01-2.0   | 19        | 27     | 12.34%  |
+| 3.01-4.0   | 10        | 20     | 6.49%   |
+| 4.01-10.0  | 4         | 9      | 2.6%    |
+| 2.01-3.0   | 1         | 1      | 0.65%   |
+| 10.01-20.0 | 1         | 1      | 0.65%   |
 
 Space Total
 -----------
@@ -2018,13 +2018,13 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch  | 7         | 2.68%   |
 | Lenovo LEN P27u-10 LEN61B0 3840x2160 597x336mm 27.0-inch          | 5         | 1.92%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch          | 5         | 1.92%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch    | 5         | 1.92%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch    | 5         | 1.92%   |
 | LG Display LCD Monitor LGD0676 1920x1080 309x174mm 14.0-inch      | 3         | 1.15%   |
 | Lenovo TIO24Gen3 LEN10B4 1920x1080 527x296mm 23.8-inch            | 3         | 1.15%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch      | 3         | 1.15%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch          | 3         | 1.15%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch          | 3         | 1.15%   |
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                 | 3         | 1.15%   |
-| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                 | 3         | 1.15%   |
+| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                 | 3         | 1.15%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch  | 3         | 1.15%   |
 | BOE LCD Monitor BOE086E 1920x1080 344x194mm 15.5-inch             | 3         | 1.15%   |
 | BOE LCD Monitor BOE07C9 1920x1080 309x173mm 13.9-inch             | 3         | 1.15%   |
@@ -2044,7 +2044,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch   | 2         | 0.77%   |
 | AU Optronics LCD Monitor AUO562D 1920x1080 293x165mm 13.2-inch    | 2         | 0.77%   |
 | AU Optronics LCD Monitor AUO313E 1600x900 309x174mm 14.0-inch     | 2         | 0.77%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch    | 2         | 0.77%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch    | 2         | 0.77%   |
 | Unknown                                                           | 2         | 0.77%   |
 | ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch     | 1         | 0.38%   |
 | ViewSonic VA2259 Series VSC5E32 1920x1080 476x268mm 21.5-inch     | 1         | 0.38%   |
@@ -2542,17 +2542,17 @@ Controller vendors
 | Vendor                          | Computers | Percent |
 |---------------------------------|-----------|---------|
 | Intel                           | 91        | 70.54%  |
+| Broadcom                        | 9         | 6.98%   |
 | Cambridge Silicon Radio         | 8         | 6.2%    |
-| Broadcom                        | 7         | 5.43%   |
 | Qualcomm Atheros Communications | 5         | 3.88%   |
 | Realtek Semiconductor           | 4         | 3.1%    |
 | IMC Networks                    | 4         | 3.1%    |
 | Foxconn / Hon Hai               | 3         | 2.33%   |
-| ASUSTek Computer                | 3         | 2.33%   |
 | Ralink                          | 1         | 0.78%   |
 | Micro Star International        | 1         | 0.78%   |
 | MediaTek                        | 1         | 0.78%   |
 | Dell                            | 1         | 0.78%   |
+| ASUSTek Computer                | 1         | 0.78%   |
 
 Bluetooth Model
 ---------------
@@ -2564,7 +2564,7 @@ Controller models
 
 | Model                                                                               | Computers | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                                                               | 32        | 24.81%  |
+| Intel Bluetooth Device                                                              | 34        | 26.36%  |
 | Intel Bluetooth wireless interface                                                  | 22        | 17.05%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 21        | 16.28%  |
 | Intel AX200 Bluetooth                                                               | 9         | 6.98%   |
@@ -2573,10 +2573,9 @@ Controller models
 | Realtek Bluetooth Radio                                                             | 3         | 2.33%   |
 | IMC Networks Bluetooth Radio                                                        | 3         | 2.33%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 2         | 1.55%   |
-| Intel Bluetooth Device                                                              | 2         | 1.55%   |
 | Intel AX210 Bluetooth                                                               | 2         | 1.55%   |
+| Broadcom BCM20702A0                                                                 | 2         | 1.55%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 2         | 1.55%   |
-| ASUS BCM20702A0                                                                     | 2         | 1.55%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 1         | 0.78%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 0.78%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 0.78%   |
@@ -2728,8 +2727,7 @@ Memory module models
 
 | Model                                                           | Computers | Percent |
 |-----------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 2.06%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 2         | 2.06%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 4         | 4.12%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 2         | 2.06%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s          | 2         | 2.06%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s          | 2         | 2.06%   |
@@ -2748,15 +2746,15 @@ Memory module models
 | SK hynix RAM HMT41GU7BFR8A-PB 8GB DIMM DDR3 1600MT/s            | 1         | 1.03%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 1.03%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4096MB DIMM DDR3 1333MT/s         | 1         | 1.03%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 1         | 1.03%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 1.03%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.03%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s       | 1         | 1.03%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4096MB DIMM DDR3 1333MT/s         | 1         | 1.03%   |
 | SK hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 1.03%   |
 | SK hynix RAM HMAA8GR7CJR4N-XN 64GB DIMM DDR4 3200MT/s           | 1         | 1.03%   |
 | SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s          | 1         | 1.03%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s          | 1         | 1.03%   |
 | SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s            | 1         | 1.03%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s          | 1         | 1.03%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s       | 1         | 1.03%   |
 | SK hynix RAM HMA84GR7MFR4N-UH 32GB DIMM DDR4 2400MT/s           | 1         | 1.03%   |
 | SK hynix RAM HMA82GS7MFR8N-TF 16GB SODIMM DDR4 2133MT/s         | 1         | 1.03%   |
 | SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 1.03%   |
@@ -2766,8 +2764,9 @@ Memory module models
 | Samsung RAM Module 32GB SODIMM DDR4 3200MT/s                    | 1         | 1.03%   |
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                    | 1         | 1.03%   |
 | Samsung RAM Module 16GB DIMM DDR4 2666MT/s                      | 1         | 1.03%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s           | 1         | 1.03%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s        | 1         | 1.03%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 1.03%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 1.03%   |
 
 Memory Kind
 -----------
@@ -2866,14 +2865,14 @@ Printer device models
 ![Printer Model](./All/images/pie_chart/printer_model.svg)
 
 
-| Model                              | Computers | Percent |
-|------------------------------------|-----------|---------|
-| HP LaserJet Professional P 1102w   | 1         | 16.67%  |
-| HP ENVY 4500 series                | 1         | 16.67%  |
-| HP DeskJet 2620 All-in-One Printer | 1         | 16.67%  |
-| Canon E560 series                  | 1         | 16.67%  |
-| Canon CanoScan LiDE 300            | 1         | 16.67%  |
-| Brother DCP-1610W                  | 1         | 16.67%  |
+| Model                            | Computers | Percent |
+|----------------------------------|-----------|---------|
+| HP LaserJet Professional P 1102w | 1         | 16.67%  |
+| HP ENVY 4500 series              | 1         | 16.67%  |
+| HP DeskJet 2600 series           | 1         | 16.67%  |
+| Canon E560 series                | 1         | 16.67%  |
+| Canon CanoScan LiDE 300          | 1         | 16.67%  |
+| Brother DCP-1610W                | 1         | 16.67%  |
 
 Scanner Vendor
 --------------
@@ -2943,10 +2942,10 @@ Camera device models
 | Bison Integrated Camera                           | 8         | 5.59%   |
 | Realtek Integrated_Webcam_HD                      | 7         | 4.9%    |
 | Bison SunplusIT Integrated Camera                 | 5         | 3.5%    |
+| Sunplus Integrated_Webcam_HD                      | 4         | 2.8%    |
 | Logitech HD Pro Webcam C920                       | 4         | 2.8%    |
 | Hopewin Electronic Material FULL HD 1080P Webcam  | 4         | 2.8%    |
 | Chicony Integrated Camera (1280x720@30)           | 4         | 2.8%    |
-| Sunplus Integrated_Webcam_HD                      | 3         | 2.1%    |
 | Samsung Galaxy series, misc. (MTP mode)           | 3         | 2.1%    |
 | Lite-On Integrated Camera                         | 3         | 2.1%    |
 | Chicony ThinkPad T490 Webcam                      | 3         | 2.1%    |
@@ -2965,7 +2964,6 @@ Camera device models
 | Sunplus Laptop_Integrated_Webcam_FHD              | 1         | 0.7%    |
 | Sunplus Integrated Webcam                         | 1         | 0.7%    |
 | Sunplus HP HD Webcam [Fixed]                      | 1         | 0.7%    |
-| Sunplus FHD Camera Microphone                     | 1         | 0.7%    |
 | Remo Tech OBSBOT Tiny 4K                          | 1         | 0.7%    |
 | Realtek USB2.0 VGA UVC WebCam                     | 1         | 0.7%    |
 | Realtek USB Camera                                | 1         | 0.7%    |
@@ -2978,6 +2976,7 @@ Camera device models
 | Microdia Laptop_Integrated_Webcam_E4HD            | 1         | 0.7%    |
 | Microdia Integrated_Webcam_HD                     | 1         | 0.7%    |
 | Luxvisions Innotech Limited Integrated RGB Camera | 1         | 0.7%    |
+| Logitech Webcam C925e                             | 1         | 0.7%    |
 
 Security
 --------

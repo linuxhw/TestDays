@@ -686,8 +686,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 28        | 63.64%  |
-| Yes       | 16        | 36.36%  |
+| No        | 27        | 61.36%  |
+| Yes       | 17        | 38.64%  |
 
 Has Ethernet
 ------------
@@ -870,7 +870,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 1TB                     | 1         | 1.96%   |
+| TO Exter nal USB 3.0 480GB                   | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -966,8 +966,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 26        | 31     | 96.3%   |
-| 0.51-1.0   | 1         | 1      | 3.7%    |
+| 0.01-0.5   | 27        | 32     | 100%    |
 
 Space Total
 -----------

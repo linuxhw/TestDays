@@ -930,8 +930,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 94       | 59.12%  |
-| Yes       | 65       | 40.88%  |
+| No        | 95       | 59.75%  |
+| Yes       | 64       | 40.25%  |
 
 Has Ethernet
 ------------
@@ -1170,14 +1170,14 @@ Hard drive models
 | WDC WD20EFRX-68EUZN0 2TB            | 2        | 0.53%   |
 | WDC WD2003FZEX-00Z4SA0 2TB          | 2        | 0.53%   |
 | WDC WD2002FAEX-007BA0 2TB           | 2        | 0.53%   |
-| Unknown SD/MMC/MS PRO 128GB         | 2        | 0.53%   |
+| Unknown SD/MMC/MS PRO 512GB         | 2        | 0.53%   |
 | Unknown HUH728080ALE601 8TB         | 2        | 0.53%   |
 | Silicon Motion NVMe SSD Drive 512GB | 2        | 0.53%   |
 | Seagate ST31000524AS 1TB            | 2        | 0.53%   |
 | Seagate ST2000DM006-2DM164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-9YN164 2TB      | 2        | 0.53%   |
 | Seagate ST2000DM001-1ER164 2TB      | 2        | 0.53%   |
-| Seagate Expansion Desk 6TB          | 2        | 0.53%   |
+| Seagate Expansion Desk 8TB          | 2        | 0.53%   |
 | SanDisk NVMe SSD Drive 1TB          | 2        | 0.53%   |
 | Samsung SSD 970 EVO Plus 500GB      | 2        | 0.53%   |
 
@@ -1278,12 +1278,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 102      | 196    | 43.78%  |
-| 0.51-1.0   | 64       | 117    | 27.47%  |
-| 1.01-2.0   | 37       | 92     | 15.88%  |
-| 4.01-10.0  | 12       | 32     | 5.15%   |
-| 3.01-4.0   | 10       | 47     | 4.29%   |
-| 2.01-3.0   | 5        | 45     | 2.15%   |
+| 0.01-0.5   | 100      | 194    | 43.1%   |
+| 0.51-1.0   | 65       | 119    | 28.02%  |
+| 1.01-2.0   | 37       | 92     | 15.95%  |
+| 4.01-10.0  | 12       | 32     | 5.17%   |
+| 3.01-4.0   | 10       | 47     | 4.31%   |
+| 2.01-3.0   | 5        | 45     | 2.16%   |
 | 10.01-20.0 | 3        | 22     | 1.29%   |
 
 Space Total
@@ -1981,17 +1981,17 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 3        | 1.56%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 3        | 1.56%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3        | 1.56%   |
 | Xiaomi Woieyeks-4K XMD009A 2880x1800 480x270mm 21.7-inch             | 2        | 1.04%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch | 2        | 1.04%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2        | 1.04%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2        | 1.04%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                     | 2        | 1.04%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                       | 2        | 1.04%   |
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch         | 2        | 1.04%   |
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch           | 2        | 1.04%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2        | 1.04%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 2        | 1.04%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                    | 2        | 1.04%   |
 | BenQ LCD Monitor GW2283 3840x1080                                    | 2        | 1.04%   |
 | BenQ LCD Monitor GW2283                                              | 2        | 1.04%   |
 | Xerox XM7-22w XER08E8 1680x1050 474x296mm 22.0-inch                  | 1        | 0.52%   |
@@ -2510,7 +2510,7 @@ Controller models
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 2%      |
 | ASUS Bluetooth Radio                                | 1        | 2%      |
 | ASUS BCM20702A0                                     | 1        | 2%      |
-| Apple Bluetooth Host Controller                     | 1        | 2%      |
+| Apple Bluetooth USB Host Controller                 | 1        | 2%      |
 
 Sound
 -----
@@ -2649,7 +2649,7 @@ Memory module models
 | TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s    | 1        | 1.11%   |
 | Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s       | 1        | 1.11%   |
 | Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s     | 1        | 1.11%   |
-| Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 2400MT/s  | 1        | 1.11%   |
+| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s    | 1        | 1.11%   |
 | Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s             | 1        | 1.11%   |
 | SK hynix RAM Module 8GB DIMM DDR4 2133MT/s             | 1        | 1.11%   |
 | SK hynix RAM Module 16GB DIMM DDR4 3200MT/s            | 1        | 1.11%   |

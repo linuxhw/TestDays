@@ -957,8 +957,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 50        | 63.29%  |
-| Yes       | 29        | 36.71%  |
+| No        | 50        | 62.5%   |
+| Yes       | 30        | 37.5%   |
 
 Has Ethernet
 ------------
@@ -1107,7 +1107,7 @@ Hard drive models
 | Seagate ST500LM012 HN-M500MBB 500GB         | 2         | 1.85%   |
 | Samsung MZNLH128HBHQ-000H1 128GB SSD        | 2         | 1.85%   |
 | Hitachi HTS543232A7A384 320GB               | 2         | 1.85%   |
-| External USB3.0 1TB                         | 2         | 1.85%   |
+| External USB3.0 1024GB                      | 2         | 1.85%   |
 | WDC WDS240G2G0A-00JH30 240GB SSD            | 1         | 0.93%   |
 | WDC WDBNCE0010PNC 1TB SSD                   | 1         | 0.93%   |
 | WDC WD5000LPCX-75VHAT0 500GB                | 1         | 0.93%   |
@@ -1216,9 +1216,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 43        | 85     | 65.15%  |
-| 0.51-1.0   | 21        | 40     | 31.82%  |
-| 1.01-2.0   | 2         | 2      | 3.03%   |
+| 0.01-0.5   | 43        | 85     | 64.18%  |
+| 0.51-1.0   | 20        | 29     | 29.85%  |
+| 1.01-2.0   | 4         | 13     | 5.97%   |
 
 Space Total
 -----------
@@ -1834,9 +1834,9 @@ Monitor models
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD02E3 1366x768 344x194mm 15.5-inch           | 3         | 3.37%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 3         | 3.37%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 3         | 3.37%   |
 | Valve ANX7530 U VLV3001 800x1280 100x150mm 7.1-inch                   | 2         | 2.25%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 2         | 2.25%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 2         | 2.25%   |
 | Samsung Electronics LCD Monitor SAM0C3C 1366x768 609x347mm 27.6-inch  | 2         | 2.25%   |
 | Sony TV SNYEB01 1360x768                                              | 1         | 1.12%   |
 | Sony TV SNYEA01 1920x1080                                             | 1         | 1.12%   |
@@ -1846,7 +1846,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5541 1366x768 344x193mm 15.5-inch  | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SEC3454 1600x900 382x215mm 17.3-inch  | 1         | 1.12%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 309x174mm 14.0-inch | 1         | 1.12%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 344x194mm 15.5-inch | 1         | 1.12%   |
 | Samsung Electronics LCD Monitor SDC454A 3200x1800 293x165mm 13.2-inch | 1         | 1.12%   |
 | RTK ARZOPA RTK3B3D 1920x1080 344x195mm 15.6-inch                      | 1         | 1.12%   |
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.12%   |
@@ -1865,7 +1865,7 @@ Monitor models
 | Lenovo LCD Monitor LEN4035 1280x800 303x189mm 14.1-inch               | 1         | 1.12%   |
 | InnoLux Display LCD Monitor INL0028 1366x768 309x174mm 14.0-inch      | 1         | 1.12%   |
 | Hewlett-Packard 27ea HPN3395 1920x1080 527x296mm 23.8-inch            | 1         | 1.12%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1         | 1.12%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1         | 1.12%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1         | 1.12%   |
 | eMachines E19T6W EMA0783 1440x900 410x257mm 19.1-inch                 | 1         | 1.12%   |
 | Dell S2330MX DELD049 1920x1080 509x286mm 23.0-inch                    | 1         | 1.12%   |
@@ -1909,16 +1909,16 @@ Diagonal size in inches
 | 17     | 8         | 9.09%   |
 | 14     | 8         | 9.09%   |
 | 13     | 8         | 9.09%   |
+| 24     | 4         | 4.55%   |
 | 11     | 4         | 4.55%   |
 | 31     | 3         | 3.41%   |
-| 24     | 3         | 3.41%   |
 | 21     | 3         | 3.41%   |
 | 72     | 2         | 2.27%   |
-| 23     | 2         | 2.27%   |
 | 12     | 2         | 2.27%   |
 | 7      | 2         | 2.27%   |
 | 34     | 1         | 1.14%   |
 | 27     | 1         | 1.14%   |
+| 23     | 1         | 1.14%   |
 | 19     | 1         | 1.14%   |
 | 18     | 1         | 1.14%   |
 
@@ -2319,14 +2319,13 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 7         | 11.11%  |
 | Qualcomm Atheros  Bluetooth Device                                                  | 4         | 6.35%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 4         | 6.35%   |
+| Realtek Bluetooth Radio                                                             | 3         | 4.76%   |
 | Intel AX200 Bluetooth                                                               | 3         | 4.76%   |
 | Apple Bluetooth Host Controller                                                     | 3         | 4.76%   |
-| Realtek Bluetooth Radio                                                             | 2         | 3.17%   |
-| Intel AX201 Bluetooth                                                               | 2         | 3.17%   |
-| IMC Networks Bluetooth Radio                                                        | 2         | 3.17%   |
+| Intel Bluetooth Device                                                              | 2         | 3.17%   |
+| IMC Networks 802.11ac WLAN Adapter                                                  | 2         | 3.17%   |
 | Foxconn / Hon Hai Bluetooth Device                                                  | 2         | 3.17%   |
 | Toshiba BCM43142A0                                                                  | 1         | 1.59%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 1         | 1.59%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 1.59%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 1         | 1.59%   |
 | Lite-On Bluetooth Device                                                            | 1         | 1.59%   |
@@ -2439,7 +2438,7 @@ Memory module models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s    | 2         | 6.45%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 2         | 6.45%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s     | 2         | 6.45%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2400MT/s              | 1         | 3.23%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s      | 1         | 3.23%   |
@@ -2454,18 +2453,18 @@ Memory module models
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 3.23%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 3.23%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 1         | 3.23%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s     | 1         | 3.23%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s  | 1         | 3.23%   |
 | Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s | 1         | 3.23%   |
 | Qumo RAM Module 4GB SODIMM DDR3 1334MT/s                  | 1         | 3.23%   |
 | PNY RAM Module 4GB SODIMM DDR3 1067MT/s                   | 1         | 3.23%   |
-| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s     | 1         | 3.23%   |
+| Micron RAM 8KTF51264HZ-1G6E1 4096MB SODIMM DDR3 1600MT/s  | 1         | 3.23%   |
 | Micron RAM 8JTF5126 4HZ1G6D 1 4GB SODIMM DDR3 1600MT/s    | 1         | 3.23%   |
 | Micron RAM 8ATF1G64HZ-3G2R1 8GB SODIMM DDR4 3200MT/s      | 1         | 3.23%   |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 3.23%   |
 | Kingston RAM KNWMX1-ETB 4GB SODIMM DDR3 1600MT/s          | 1         | 3.23%   |
 | Kingston RAM KHX1600C9S3K2/8GX 4GB SODIMM DDR3 1334MT/s   | 1         | 3.23%   |
 | Kingston RAM HP691160-H66-MCN 8GB SODIMM DDR3 1600MT/s    | 1         | 3.23%   |
-| Kingston RAM ACR16D3LS1NGG/4G 4GB SODIMM DDR3 1600MT/s    | 1         | 3.23%   |
+| Kingston RAM ACR16D3LS1NGG/4G 4096MB SODIMM DDR3 1600MT/s | 1         | 3.23%   |
 | Kingston RAM 99U5700-027.A00G 8GB SODIMM DDR4 2667MT/s    | 1         | 3.23%   |
 | A-DATA RAM AM1L16BC4R1-B1YS 4GB SODIMM DDR3 800MT/s       | 1         | 3.23%   |
 
@@ -2611,6 +2610,7 @@ Camera device models
 | Lite-On HP Wide Vision HD Camera                               | 3         | 4.48%   |
 | Realtek USB Camera                                             | 2         | 2.99%   |
 | Realtek Integrated_Webcam_HD                                   | 2         | 2.99%   |
+| Realtek Integrated Webcam HD                                   | 2         | 2.99%   |
 | Quanta HP TrueVision HD Camera                                 | 2         | 2.99%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera            | 2         | 2.99%   |
 | Lenovo Integrated Webcam [R5U877]                              | 2         | 2.99%   |
@@ -2629,8 +2629,6 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                                   | 1         | 1.49%   |
 | Ricoh Sony Visual Communication Camera Integrated Webcam       | 1         | 1.49%   |
 | Ricoh HD Webcam                                                | 1         | 1.49%   |
-| Realtek Laptop_Integrated_Webcam_HD                            | 1         | 1.49%   |
-| Realtek Integrated Webcam HD                                   | 1         | 1.49%   |
 | Realtek Integrated Webcam                                      | 1         | 1.49%   |
 | Realtek Integrated Camera                                      | 1         | 1.49%   |
 | Quanta HP Wide Vision HD Camera                                | 1         | 1.49%   |
@@ -2647,6 +2645,7 @@ Camera device models
 | Chicony TOSHIBA Web Camera - HD                                | 1         | 1.49%   |
 | Chicony Toshiba Integrated Webcam                              | 1         | 1.49%   |
 | Chicony Integrated HP HD Webcam                                | 1         | 1.49%   |
+| Chicony HP Webcam                                              | 1         | 1.49%   |
 
 Security
 --------

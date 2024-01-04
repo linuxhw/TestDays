@@ -1163,8 +1163,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 138       | 63.3%   |
-| Yes       | 80        | 36.7%   |
+| No        | 136       | 62.39%  |
+| Yes       | 82        | 37.61%  |
 
 Has Ethernet
 ------------
@@ -1314,7 +1314,7 @@ Hard drive models
 | Toshiba MQ04ABF100 1TB                              | 6         | 2.36%   |
 | Seagate ST9500325AS 500GB                           | 6         | 2.36%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 5         | 1.97%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 5         | 1.97%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 5         | 1.97%   |
 | Unknown MMC Card  64GB                              | 4         | 1.57%   |
 | Toshiba MQ01ABF050 500GB                            | 4         | 1.57%   |
 | Toshiba MQ01ABD100 1TB                              | 4         | 1.57%   |
@@ -2116,14 +2116,14 @@ Monitor models
 | AU Optronics LCD Monitor AUO45EC 1366x768 344x193mm 15.5-inch            | 3         | 1.3%    |
 | AU Optronics LCD Monitor AUO223E 1600x900 309x174mm 14.0-inch            | 3         | 1.3%    |
 | AU Optronics LCD Monitor AUO123D 1920x1080 309x173mm 13.9-inch           | 3         | 1.3%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 2         | 0.87%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.87%   |
 | LG Display LCD Monitor LGD045E 1366x768 310x174mm 14.0-inch              | 2         | 0.87%   |
 | KDC LCD Monitor KDC0109 1366x768 256x144mm 11.6-inch                     | 2         | 0.87%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x129mm 10.0-inch                | 2         | 0.87%   |
 | Chimei Innolux LCD Monitor CMN14E5 1920x1080 309x173mm 13.9-inch         | 2         | 0.87%   |
 | Chimei Innolux LCD Monitor CMN14D6 1366x768 309x173mm 13.9-inch          | 2         | 0.87%   |
 | Chimei Innolux LCD Monitor CMN1495 1366x768 309x173mm 13.9-inch          | 2         | 0.87%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x194mm 15.5-inch | 2         | 0.87%   |
+| Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch | 2         | 0.87%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A1 1366x768 344x193mm 15.5-inch | 2         | 0.87%   |
 | BOE LCD Monitor BOE0780 1920x1080 344x194mm 15.5-inch                    | 2         | 0.87%   |
 | BOE LCD Monitor BOE06A4 1366x768 344x194mm 15.5-inch                     | 2         | 0.87%   |
@@ -2132,7 +2132,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO305C 1366x768 256x144mm 11.6-inch            | 2         | 0.87%   |
 | AU Optronics LCD Monitor AUO2D3C 1366x768 309x173mm 13.9-inch            | 2         | 0.87%   |
 | AU Optronics LCD Monitor AUO22EC 1366x768 344x193mm 15.5-inch            | 2         | 0.87%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch            | 2         | 0.87%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch            | 2         | 0.87%   |
 | Unknown (XXX) LEDTV XXX0001 1366x768 575x323mm 26.0-inch                 | 1         | 0.43%   |
 | Sony TV SNY6F02 1360x768                                                 | 1         | 0.43%   |
 | Sharp LCD Monitor SHP14FA 3840x2400 288x180mm 13.4-inch                  | 1         | 0.43%   |
@@ -2393,7 +2393,7 @@ Controller models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 3         | 0.71%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 3         | 0.71%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 3         | 0.71%   |
-| MediaTek X55                                                      | 3         | 0.71%   |
+| MediaTek M40Air_EEA                                               | 3         | 0.71%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 3         | 0.71%   |
 
 Wireless Vendor
@@ -2466,7 +2466,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 2         | 0.9%    |
 | Intel Centrino Ultimate-N 6300                                 | 2         | 0.9%    |
 | Broadcom BCM43224 802.11a/b/g/n                                | 2         | 0.9%    |
-| Sierra Wireless EM7455                                         | 1         | 0.45%   |
+| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A            | 1         | 0.45%   |
 
 Ethernet Vendor
 ---------------
@@ -2517,11 +2517,11 @@ Ethernet models
 | Intel Ethernet Connection (6) I219-LM                             | 4         | 2.04%   |
 | Intel 82579V Gigabit Network Connection                           | 4         | 2.04%   |
 | ZTE WCDMA MSM DEMO Mobile Boardband                               | 3         | 1.53%   |
-| MediaTek X55                                                      | 3         | 1.53%   |
+| MediaTek M40Air_EEA                                               | 3         | 1.53%   |
 | T & A Mobile Phones Alcatel 1                                     | 2         | 1.02%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 1.02%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 2         | 1.02%   |
-| OPPO RMX3623                                                      | 2         | 1.02%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 2         | 1.02%   |
 | Intel Ethernet Connection I219-V                                  | 2         | 1.02%   |
 | Intel Ethernet Connection I217-LM                                 | 2         | 1.02%   |
 | Huawei E353/E3131                                                 | 2         | 1.02%   |
@@ -2532,7 +2532,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 0.51%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 0.51%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 0.51%   |
-| MediaTek P8                                                       | 1         | 0.51%   |
+| MediaTek moto e22                                                 | 1         | 0.51%   |
 | Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 0.51%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 0.51%   |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 0.51%   |
@@ -2645,7 +2645,7 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                  | 13        | 7.6%    |
 | Realtek Bluetooth Radio                             | 12        | 7.02%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 11        | 6.43%   |
-| Intel AX201 Bluetooth                               | 9         | 5.26%   |
+| Intel Bluetooth Device                              | 10        | 5.85%   |
 | Intel AX200 Bluetooth                               | 6         | 3.51%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 5         | 2.92%   |
 | Broadcom HP Portable SoftSailing                    | 5         | 2.92%   |
@@ -2664,7 +2664,7 @@ Controller models
 | Toshiba Atheros AR3012 Bluetooth                    | 1         | 0.58%   |
 | Taiyo Yuden Bluetooth Device                        | 1         | 0.58%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 0.58%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 0.58%   |
+| Realtek Bluetooth Radio                             | 1         | 0.58%   |
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 0.58%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 0.58%   |
 | Qualcomm Atheros AR3012 Bluetooth                   | 1         | 0.58%   |
@@ -2673,14 +2673,14 @@ Controller models
 | Lite-On Atheros Bluetooth                           | 1         | 0.58%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 0.58%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 0.58%   |
-| Intel Bluetooth Device                              | 1         | 0.58%   |
 | Intel AX210 Bluetooth                               | 1         | 0.58%   |
 | IMC Networks Bluetooth                              | 1         | 0.58%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1         | 0.58%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 0.58%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 0.58%   |
-| Broadcom BCM2070 Bluetooth Device                   | 1         | 0.58%   |
+| Broadcom Broadcom BCM2070 Bluetooth Device          | 1         | 0.58%   |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 0.58%   |
+| Apple Built-in Bluetooth 2.0+EDR HCI                | 1         | 0.58%   |
 
 Sound
 -----
@@ -2801,30 +2801,29 @@ Memory module models
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 7         | 4.17%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 4         | 2.38%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 4         | 2.38%   |
-| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s        | 4         | 2.38%   |
+| Micron RAM 8KTF51264HZ-1G6E1 4096MB SODIMM DDR3 1600MT/s     | 4         | 2.38%   |
 | Unknown RAM Module 4GB Chip DDR4 2133MT/s                    | 3         | 1.79%   |
 | Unknown RAM Module 1GB Row Of Chips LPDDR4 4267MT/s          | 3         | 1.79%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 3         | 1.79%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 3         | 1.79%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s        | 3         | 1.79%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s  | 3         | 1.79%   |
 | Elpida RAM EBJ40UG8BBU0-GN-F 4GB SODIMM DDR3 1600MT/s        | 3         | 1.79%   |
 | Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s               | 2         | 1.19%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s                 | 2         | 1.19%   |
 | SK hynix RAM HMT451S6DFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.19%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.19%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 2         | 1.19%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s       | 2         | 1.19%   |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 2         | 1.19%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 2         | 1.19%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s        | 2         | 1.19%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s        | 2         | 1.19%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s     | 2         | 1.19%   |
+| Samsung RAM M471B5273CH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 2         | 1.19%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s        | 2         | 1.19%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 2         | 1.19%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s        | 2         | 1.19%   |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s     | 2         | 1.19%   |
 | Samsung RAM M471A2G44AM0-CWE 16GB Row Of Chips DDR4 3200MT/s | 2         | 1.19%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 2         | 1.19%   |
-| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s     | 2         | 1.19%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s     | 2         | 1.19%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s        | 2         | 1.19%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s        | 2         | 1.19%   |
 | Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s      | 2         | 1.19%   |
 | Apacer RAM 76.A302G.C4D0B 2GB SODIMM DDR3 1600MT/s           | 2         | 1.19%   |
@@ -2837,6 +2836,7 @@ Memory module models
 | SK hynix RAM Module 4GB Row Of Chips DDR4 2400MT/s           | 1         | 0.6%    |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 0.6%    |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 800MT/s        | 1         | 0.6%    |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.6%    |
 
 Memory Kind
 -----------
@@ -2963,7 +2963,7 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 61        | 30.2%   |
 | Cheng Uei Precision Industry (Foxlink) | 28        | 13.86%  |
-| Bison Electronics                      | 16        | 7.92%   |
+| Bison Electronics                      | 15        | 7.43%   |
 | Syntek                                 | 11        | 5.45%   |
 | Lite-On Technology                     | 11        | 5.45%   |
 | Sunplus Innovation Technology          | 10        | 4.95%   |
@@ -2972,9 +2972,9 @@ Camera device vendors
 | IMC Networks                           | 9         | 4.46%   |
 | Quanta                                 | 4         | 1.98%   |
 | Apple                                  | 4         | 1.98%   |
+| Acer                                   | 4         | 1.98%   |
 | Silicon Motion                         | 3         | 1.49%   |
 | Samsung Electronics                    | 3         | 1.49%   |
-| Acer                                   | 3         | 1.49%   |
 | Unknown                                | 2         | 0.99%   |
 | Suyin                                  | 2         | 0.99%   |
 | Ricoh                                  | 2         | 0.99%   |
@@ -3006,10 +3006,10 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera                        | 6         | 2.96%   |
 | Bison Integrated Camera                                                    | 6         | 2.96%   |
 | Realtek Integrated_Webcam_HD                                               | 5         | 2.46%   |
+| Chicony USB 2.0 Camera                                                     | 5         | 2.46%   |
 | Chicony HP HD Webcam [Fixed]                                               | 5         | 2.46%   |
 | Microdia Integrated_Webcam_HD                                              | 4         | 1.97%   |
 | Lite-On HP HD Webcam                                                       | 4         | 1.97%   |
-| Chicony Chicony USB 2.0 Camera                                             | 4         | 1.97%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 4         | 1.97%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam [Fixed]                | 4         | 1.97%   |
 | Sunplus HP HD Webcam [Fixed]                                               | 3         | 1.48%   |
@@ -3034,7 +3034,7 @@ Camera device models
 | Chicony HP Truevision HD                                                   | 2         | 0.99%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD                    | 2         | 0.99%   |
 | Cheng Uei Precision Industry (Foxlink) HP EliteBook integrated HD Webcam   | 2         | 0.99%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                                         | 2         | 0.99%   |
+| Apple iPhone 5/5C/5S/6/SE                                                  | 2         | 0.99%   |
 | Suyin HP Webcam                                                            | 1         | 0.49%   |
 | Suyin Asus Integrated Webcam                                               | 1         | 0.49%   |
 | Sunplus SPCA2085 PC Camera                                                 | 1         | 0.49%   |

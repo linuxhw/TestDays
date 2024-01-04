@@ -771,7 +771,7 @@ Hard drive models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3        | 6.52%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3        | 6.52%   |
 | WDC WD5000AAKX-75U6AA0 500GB                        | 1        | 2.17%   |
 | WDC WD5000AAKX-60U6AA0 500GB                        | 1        | 2.17%   |
 | WDC WD5000AAKX-08U6AA0 500GB                        | 1        | 2.17%   |
@@ -790,18 +790,18 @@ Hard drive models
 | Seagate ST31500341AS 1TB                            | 1        | 2.17%   |
 | Seagate ST2000DM 008-2FR102 2TB                     | 1        | 2.17%   |
 | Seagate ST1000DM010-2EP102 1TB                      | 1        | 2.17%   |
-| Seagate Expansion Desk 6TB                          | 1        | 2.17%   |
+| Seagate Expansion Desk 8TB                          | 1        | 2.17%   |
 | Sandisk WD_BLACK SN770 1TB                          | 1        | 2.17%   |
 | Sandisk WD Green SN350 500GB 2G0C                   | 1        | 2.17%   |
-| Sandisk WD Blue SN550 NVMe SSD 512GB                | 1        | 2.17%   |
+| Sandisk WD Blue SN550 NVMe SSD 1TB                  | 1        | 2.17%   |
 | SanDisk SSD PLUS 240 GB                             | 1        | 2.17%   |
 | SanDisk SDSSDA240G 240GB                            | 1        | 2.17%   |
 | Samsung SSD 970 EVO Plus 1TB                        | 1        | 2.17%   |
 | ROG ESD-S1C 1024GB                                  | 1        | 2.17%   |
-| Phison E16 PCIe4 NVMe Controller 500GB              | 1        | 2.17%   |
-| Phison E12 NVMe Controller 512GB                    | 1        | 2.17%   |
+| Phison E16 PCIe4 NVMe Controller 2TB                | 1        | 2.17%   |
+| Phison E12 NVMe Controller 1TB                      | 1        | 2.17%   |
 | Patriot Burst 120GB SSD                             | 1        | 2.17%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 1        | 2.17%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                 | 1        | 2.17%   |
 | Kingston SFYRS500G 500GB                            | 1        | 2.17%   |
 | Kingston SA400M8240G 240GB SSD                      | 1        | 2.17%   |
 | Intel SSDSC2KW256G8 256GB                           | 1        | 2.17%   |
@@ -1399,7 +1399,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Toshiba TV TSB0206 1920x1080 890x500mm 40.2-inch                      | 1        | 3.85%   |
 | Samsung Electronics LS24AG32x SAM71DA 1920x1080 527x296mm 23.8-inch   | 1        | 3.85%   |
-| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1190x340mm 48.7-inch    | 1        | 3.85%   |
+| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch    | 1        | 3.85%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 3.85%   |
 | Roku TV RKU8518 1920x1080 698x392mm 31.5-inch                         | 1        | 3.85%   |
 | Lenovo P24h-10 LEN61AE 2560x1440 527x296mm 23.8-inch                  | 1        | 3.85%   |
@@ -1408,7 +1408,7 @@ Monitor models
 | Goldstar HDR WFHD GSM5BB9 2560x1080 798x334mm 34.1-inch               | 1        | 3.85%   |
 | Goldstar FULL HD GSM5BFB 1920x1080 480x270mm 21.7-inch                | 1        | 3.85%   |
 | Dell SE2417HG DELD08E 1920x1080 521x293mm 23.5-inch                   | 1        | 3.85%   |
-| Dell SE2417HG DELD08D 1920x1080 520x290mm 23.4-inch                   | 1        | 3.85%   |
+| Dell SE2417HG DELD08D 1920x1080 521x293mm 23.5-inch                   | 1        | 3.85%   |
 | Dell S2421NX DEL41FB 1920x1080 527x296mm 23.8-inch                    | 1        | 3.85%   |
 | Dell S2240T DELA094 1920x1080 477x268mm 21.5-inch                     | 1        | 3.85%   |
 | Dell E198WFP DELF005 1440x900 408x255mm 18.9-inch                     | 1        | 3.85%   |
@@ -1832,7 +1832,7 @@ Sound card models
 | Logitech H390 headset with microphone                                      | 1        | 1.96%   |
 | Logitech G432 Gaming Headset                                               | 1        | 1.96%   |
 | Kingston Technology HyperX QuadCast                                        | 1        | 1.96%   |
-| JMTek Speedlink PnP Sound Device                                           | 1        | 1.96%   |
+| JMTek USB PnP Audio Device                                                 | 1        | 1.96%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1        | 1.96%   |
 | Intel Lewisburg MROM 0                                                     | 1        | 1.96%   |
 | Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 1.96%   |
@@ -1889,7 +1889,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 5%      |
 | Unknown RAM Module 2GB DIMM SDRAM                       | 1        | 5%      |
 | Unknown RAM Module 1GB DIMM SDRAM                       | 1        | 5%      |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s     | 1        | 5%      |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s     | 1        | 5%      |
 | SK hynix RAM HYMP512U64CP8-S6 1GB DIMM DDR2 800MT/s     | 1        | 5%      |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s   | 1        | 5%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1        | 5%      |
@@ -1897,7 +1897,7 @@ Memory module models
 | Micron RAM F6451U64F9333G 4096MB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Kingston RAM KF552C40-8 8GB DIMM DDR5 4800MT/s          | 1        | 5%      |
 | Kingston RAM KF3600C16D4/16GX 16GB DIMM DDR4 3800MT/s   | 1        | 5%      |
-| Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 1        | 5%      |
+| Kingston RAM KF3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s  | 1        | 5%      |
 | Kingston RAM 9905402-532.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 5%      |
 | G.Skill RAM F4-3000C16-8GTZR 8GB DIMM DDR4 3200MT/s     | 1        | 5%      |
 | Crucial RAM CT51264BA1339.M16F 4GB DIMM DDR3 1333MT/s   | 1        | 5%      |

@@ -1726,7 +1726,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0424 1920x1200 520x320mm 24.0-inch | 1        | 1.59%   |
 | Samsung Electronics SyncMaster SAM0193 1280x1024 376x301mm 19.0-inch | 1        | 1.59%   |
 | Samsung Electronics S27C450 SAM09D8 1920x1080 598x336mm 27.0-inch    | 1        | 1.59%   |
-| Samsung Electronics S24C31x SAM7311 1920x1080 527x296mm 23.8-inch    | 1        | 1.59%   |
+| Samsung Electronics S24C31x SAM7311 1920x1080 521x293mm 23.5-inch    | 1        | 1.59%   |
 | Samsung Electronics S20B300 SAM08A8 1600x900 443x249mm 20.0-inch     | 1        | 1.59%   |
 | Samsung Electronics S19C300 SAM0A13 1366x768 410x230mm 18.5-inch     | 1        | 1.59%   |
 | Samsung Electronics LU28R55 SAM1018 3840x2160 632x360mm 28.6-inch    | 1        | 1.59%   |
@@ -1949,7 +1949,7 @@ Controller models
 | Intel 82566DM-2 Gigabit Network Connection                                                    | 2        | 2.04%   |
 | ZTE WCDMA MSM Unisoc Phone                                                                    | 1        | 1.02%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                   | 1        | 1.02%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                           | 1        | 1.02%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                         | 1        | 1.02%   |
 | TP-Link TL-WN8200ND [Realtek RTL8192CU]                                                       | 1        | 1.02%   |
 | Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY                    | 1        | 1.02%   |
 | Sitecom Europe RTL8188S WLAN Adapter                                                          | 1        | 1.02%   |
@@ -1975,8 +1975,8 @@ Controller models
 | Nvidia MCP61 Ethernet                                                                         | 1        | 1.02%   |
 | Nvidia CK804 Ethernet Controller                                                              | 1        | 1.02%   |
 | Microsoft Xbox 360 Wireless Adapter                                                           | 1        | 1.02%   |
-| MediaTek X55                                                                                  | 1        | 1.02%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                                       | 1        | 1.02%   |
+| MediaTek M40Air_EEA                                                                           | 1        | 1.02%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                                       | 1        | 1.02%   |
 | Linksys WUSB6100M 802.11a/b/g/n/ac Wireless Adapter                                           | 1        | 1.02%   |
 | Intel Wireless 3160                                                                           | 1        | 1.02%   |
@@ -2021,7 +2021,7 @@ Wireless models
 |--------------------------------------------------------------------------------------------------------|----------|---------|
 | Ralink MT7601U Wireless Adapter                                                                        | 3        | 9.09%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                            | 1        | 3.03%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                                    | 1        | 3.03%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                                  | 1        | 3.03%   |
 | TP-Link TL-WN8200ND [Realtek RTL8192CU]                                                                | 1        | 3.03%   |
 | Sitecom Europe RTL8188S WLAN Adapter                                                                   | 1        | 3.03%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                               | 1        | 3.03%   |
@@ -2098,7 +2098,7 @@ Ethernet models
 | Nvidia MCP77 Ethernet                                                         | 1        | 1.54%   |
 | Nvidia MCP61 Ethernet                                                         | 1        | 1.54%   |
 | Nvidia CK804 Ethernet Controller                                              | 1        | 1.54%   |
-| MediaTek X55                                                                  | 1        | 1.54%   |
+| MediaTek M40Air_EEA                                                           | 1        | 1.54%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 1        | 1.54%   |
 | Intel I211 Gigabit Network Connection                                         | 1        | 1.54%   |
 | Intel Ethernet Connection (2) I219-LM                                         | 1        | 1.54%   |
@@ -2320,48 +2320,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Unknown                                                           | 2        | 3.39%   |
-| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                         | 1        | 1.69%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                           | 1        | 1.69%   |
-| Unknown RAM Module 4GB DIMM DDR2 800MT/s                          | 1        | 1.69%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                              | 1        | 1.69%   |
-| Unknown RAM Module 2GB DIMM SDRAM                                 | 1        | 1.69%   |
-| Unknown RAM Module 2GB DIMM DDR2 667MT/s                          | 1        | 1.69%   |
-| Unknown RAM Module 2048MB SODIMM DDR2                             | 1        | 1.69%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                              | 1        | 1.69%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 1        | 1.69%   |
-| Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 1.69%   |
-| Unknown RAM Module 2048MB DIMM DDR 800MT/s                        | 1        | 1.69%   |
-| Unknown RAM Module 2048MB DIMM DDR 133MT/s                        | 1        | 1.69%   |
-| Unknown RAM Module 2048MB DIMM 400MT/s                            | 1        | 1.69%   |
-| Unknown RAM Module 1GB DIMM DDR 400MT/s                           | 1        | 1.69%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                              | 1        | 1.69%   |
-| Unknown RAM Module 1024MB DIMM DDR2                               | 1        | 1.69%   |
-| Unknown RAM Module 1024MB DIMM DDR 133MT/s                        | 1        | 1.69%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 1.69%   |
-| Unknown (0x7F61) RAM Module 1GB FB-DIMM DDR2 667MT/s              | 1        | 1.69%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s             | 1        | 1.69%   |
-| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 1.69%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s            | 1        | 1.69%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s              | 1        | 1.69%   |
-| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1        | 1.69%   |
-| SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s              | 1        | 1.69%   |
-| Samsung RAM Module 4GB DIMM DDR3 1067MT/s                         | 1        | 1.69%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s               | 1        | 1.69%   |
-| Samsung RAM M378B2873FH0-CH9 1GB DIMM DDR3 1333MT/s               | 1        | 1.69%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s               | 1        | 1.69%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s               | 1        | 1.69%   |
-| Qumo RAM Module 4096MB DIMM DDR3 1333MT/s                         | 1        | 1.69%   |
-| Micron RAM Module 8GB DIMM DDR4 3200MT/s                          | 1        | 1.69%   |
-| Micron RAM Module 512MB FB-DIMM DDR2 667MT/s                      | 1        | 1.69%   |
-| Micron RAM 8HTF12864AY-800G1 1GB DIMM DDR2 800MT/s                | 1        | 1.69%   |
-| Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s              | 1        | 1.69%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB DIMM DDR3 1600MT/s               | 1        | 1.69%   |
-| Kingston RAM Module 4GB DIMM DDR3 1600MT/s                        | 1        | 1.69%   |
-| Kingston RAM Module 1GB DIMM DDR2 667MT/s                         | 1        | 1.69%   |
-| Kingston RAM Module 1024MB DIMM DDR2 800MT/s                      | 1        | 1.69%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown                                                        | 2        | 3.39%   |
+| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                      | 1        | 1.69%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1        | 1.69%   |
+| Unknown RAM Module 4GB DIMM DDR2 800MT/s                       | 1        | 1.69%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                           | 1        | 1.69%   |
+| Unknown RAM Module 2GB DIMM SDRAM                              | 1        | 1.69%   |
+| Unknown RAM Module 2GB DIMM DDR2 667MT/s                       | 1        | 1.69%   |
+| Unknown RAM Module 2048MB SODIMM DDR2                          | 1        | 1.69%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 1        | 1.69%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1        | 1.69%   |
+| Unknown RAM Module 2048MB DIMM DDR2                            | 1        | 1.69%   |
+| Unknown RAM Module 2048MB DIMM DDR 800MT/s                     | 1        | 1.69%   |
+| Unknown RAM Module 2048MB DIMM DDR 133MT/s                     | 1        | 1.69%   |
+| Unknown RAM Module 2048MB DIMM 400MT/s                         | 1        | 1.69%   |
+| Unknown RAM Module 1GB DIMM DDR 400MT/s                        | 1        | 1.69%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                           | 1        | 1.69%   |
+| Unknown RAM Module 1024MB DIMM DDR2                            | 1        | 1.69%   |
+| Unknown RAM Module 1024MB DIMM DDR 133MT/s                     | 1        | 1.69%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.69%   |
+| Unknown (0x7F61) RAM Module 1GB FB-DIMM DDR2 667MT/s           | 1        | 1.69%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 1.69%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 1.69%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 1        | 1.69%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1600MT/s           | 1        | 1.69%   |
+| SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s           | 1        | 1.69%   |
+| SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s           | 1        | 1.69%   |
+| Samsung RAM Module 4GB DIMM DDR3 1067MT/s                      | 1        | 1.69%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1600MT/s            | 1        | 1.69%   |
+| Samsung RAM M378B2873FH0-CH9 1GB DIMM DDR3 1333MT/s            | 1        | 1.69%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 1.69%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 1.69%   |
+| Qumo RAM Module 4096MB DIMM DDR3 1333MT/s                      | 1        | 1.69%   |
+| Micron RAM Module 8GB DIMM DDR4 3200MT/s                       | 1        | 1.69%   |
+| Micron RAM Module 512MB FB-DIMM DDR2 667MT/s                   | 1        | 1.69%   |
+| Micron RAM 8HTF12864AY-800G1 1GB DIMM DDR2 800MT/s             | 1        | 1.69%   |
+| Micron RAM 16KTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s           | 1        | 1.69%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB DIMM DDR3 1600MT/s            | 1        | 1.69%   |
+| Kingston RAM Module 4GB DIMM DDR3 1600MT/s                     | 1        | 1.69%   |
+| Kingston RAM Module 1GB DIMM DDR2 667MT/s                      | 1        | 1.69%   |
+| Kingston RAM Module 1024MB DIMM DDR2 800MT/s                   | 1        | 1.69%   |
 
 Memory Kind
 -----------

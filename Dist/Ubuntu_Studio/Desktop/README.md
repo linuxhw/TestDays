@@ -715,12 +715,12 @@ Motherboard manufacture year
 | 2020 | 7        | 7.78%   |
 | 2011 | 7        | 7.78%   |
 | 2009 | 7        | 7.78%   |
-| 2016 | 5        | 5.56%   |
+| 2016 | 6        | 6.67%   |
 | 2014 | 5        | 5.56%   |
 | 2012 | 5        | 5.56%   |
-| 2017 | 4        | 4.44%   |
 | 2010 | 4        | 4.44%   |
 | 2022 | 3        | 3.33%   |
+| 2017 | 3        | 3.33%   |
 | 2015 | 3        | 3.33%   |
 | 2008 | 3        | 3.33%   |
 | 2005 | 3        | 3.33%   |
@@ -1033,7 +1033,7 @@ Hard drive models
 | Team T253X6001T 1TB SSD         | 2        | 1.02%   |
 | SPCC Solid State Disk 256GB     | 2        | 1.02%   |
 | Seagate ST5000LM000-2AN170 5TB  | 2        | 1.02%   |
-| Seagate Expansion 1TB           | 2        | 1.02%   |
+| Seagate Expansion 2TB           | 2        | 1.02%   |
 | SanDisk SDSSDA240G 240GB        | 2        | 1.02%   |
 | Samsung SSD 970 EVO Plus 500GB  | 2        | 1.02%   |
 | Samsung SSD 970 EVO Plus 1TB    | 2        | 1.02%   |
@@ -1156,12 +1156,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 56       | 82     | 44.44%  |
-| 0.51-1.0   | 39       | 53     | 30.95%  |
-| 1.01-2.0   | 14       | 17     | 11.11%  |
-| 3.01-4.0   | 7        | 9      | 5.56%   |
-| 4.01-10.0  | 7        | 24     | 5.56%   |
-| 2.01-3.0   | 3        | 4      | 2.38%   |
+| 0.01-0.5   | 56       | 82     | 43.41%  |
+| 0.51-1.0   | 38       | 50     | 29.46%  |
+| 1.01-2.0   | 17       | 20     | 13.18%  |
+| 3.01-4.0   | 8        | 10     | 6.2%    |
+| 4.01-10.0  | 7        | 23     | 5.43%   |
+| 2.01-3.0   | 3        | 4      | 2.33%   |
 
 Space Total
 -----------
@@ -1842,48 +1842,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                    | 2        | 1.8%    |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                       | 2        | 1.8%    |
-| ViewSonic VA2432-FHD VSCB639 1920x1080 527x296mm 23.8-inch              | 1        | 0.9%    |
-| VIE LED MONITOR VIE2302 1920x1080 473x296mm 22.0-inch                   | 1        | 0.9%    |
-| Unknown LCD Monitor SAMSUNG 5760x2160                                   | 1        | 0.9%    |
-| TVT T910 TVT005E 1280x1024 376x301mm 19.0-inch                          | 1        | 0.9%    |
-| TCH TYPE-C TCH5600 1920x1080 344x194mm 15.5-inch                        | 1        | 0.9%    |
-| Targa Visionary LCD 24-1 Wide TARA240 1920x1080 521x293mm 23.5-inch     | 1        | 0.9%    |
-| Sony TV *00 SNY8004 3840x2160 1218x685mm 55.0-inch                      | 1        | 0.9%    |
-| Seiki SE19HE01 SEK078A 1366x768 410x230mm 18.5-inch                     | 1        | 0.9%    |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch       | 1        | 0.9%    |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch       | 1        | 0.9%    |
-| Samsung Electronics SyncMaster SAM059A 1920x1080 477x268mm 21.5-inch    | 1        | 0.9%    |
-| Samsung Electronics SyncMaster SAM0467 1920x1200 518x324mm 24.1-inch    | 1        | 0.9%    |
-| Samsung Electronics SyncMaster SAM03E0 1440x900 410x257mm 19.1-inch     | 1        | 0.9%    |
-| Samsung Electronics SyncMaster SAM02F3 1680x1050 474x296mm 22.0-inch    | 1        | 0.9%    |
-| Samsung Electronics SyncMaster SAM027F 1680x1050 474x296mm 22.0-inch    | 1        | 0.9%    |
-| Samsung Electronics SyncMaster SAM01AB 1280x1024 312x234mm 15.4-inch    | 1        | 0.9%    |
-| Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch    | 1        | 0.9%    |
-| Samsung Electronics SMS27A350H SAM07CE 1920x1080 598x336mm 27.0-inch    | 1        | 0.9%    |
-| Samsung Electronics SMB2330HD SAM0710 1920x1080 510x290mm 23.1-inch     | 1        | 0.9%    |
-| Samsung Electronics SMB2330HD SAM070E 1920x1080 510x290mm 23.1-inch     | 1        | 0.9%    |
-| Samsung Electronics SMB2330H SAM064A 1920x1080 509x286mm 23.0-inch      | 1        | 0.9%    |
-| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch       | 1        | 0.9%    |
-| Samsung Electronics SA300/SA350 SAM0789 1366x768 410x230mm 18.5-inch    | 1        | 0.9%    |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch       | 1        | 0.9%    |
-| Samsung Electronics LCD Monitor SyncMaster                              | 1        | 0.9%    |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 0.9%    |
-| Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch    | 1        | 0.9%    |
-| Samsung Electronics LCD Monitor S34J55x 3440x1440                       | 1        | 0.9%    |
-| Samsung Electronics LC27T55 SAM701F 1920x1080 609x349mm 27.6-inch       | 1        | 0.9%    |
-| Philips PHL BDM4350 PHL08FA 3840x2160 953x543mm 43.2-inch               | 1        | 0.9%    |
-| Philips PHL 278E8Q PHLC161 1920x1080 598x336mm 27.0-inch                | 1        | 0.9%    |
-| Philips 247E4 PHLC0C0 1920x1080 521x293mm 23.5-inch                     | 1        | 0.9%    |
-| Philips 227E4LH PHLC0AC 1920x1080 477x268mm 21.5-inch                   | 1        | 0.9%    |
-| Philips 226V4 PHLC0B1 1920x1080 477x268mm 21.5-inch                     | 1        | 0.9%    |
-| Philips 220CW PHLC024 1680x1050 474x296mm 22.0-inch                     | 1        | 0.9%    |
-| Philips 201E PHLC033 1600x900 443x249mm 20.0-inch                       | 1        | 0.9%    |
-| Philips 190V PHL0847 1280x1024 376x301mm 19.0-inch                      | 1        | 0.9%    |
-| Philips 170S PHL081E 1280x1024 338x270mm 17.0-inch                      | 1        | 0.9%    |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| ONN ONA18HO015 ONN0101 1920x1080 698x393mm 31.5-inch                  | 2        | 1.8%    |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                     | 2        | 1.8%    |
+| ViewSonic VA2432-FHD VSCB639 1920x1080 527x296mm 23.8-inch            | 1        | 0.9%    |
+| VIE LED MONITOR VIE2302 1920x1080 473x296mm 22.0-inch                 | 1        | 0.9%    |
+| Unknown LCD Monitor SAMSUNG 5760x2160                                 | 1        | 0.9%    |
+| TVT T910 TVT005E 1280x1024 376x301mm 19.0-inch                        | 1        | 0.9%    |
+| TCH TYPE-C TCH5600 1920x1080 344x194mm 15.5-inch                      | 1        | 0.9%    |
+| Targa Visionary LCD 24-1 Wide TARA240 1920x1080 521x293mm 23.5-inch   | 1        | 0.9%    |
+| Sony TV *00 SNY8004 3840x2160 1218x685mm 55.0-inch                    | 1        | 0.9%    |
+| Seiki SE19HE01 SEK078A 1366x768 410x230mm 18.5-inch                   | 1        | 0.9%    |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1        | 0.9%    |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch     | 1        | 0.9%    |
+| Samsung Electronics SyncMaster SAM059A 1920x1080 477x268mm 21.5-inch  | 1        | 0.9%    |
+| Samsung Electronics SyncMaster SAM0467 1920x1200 518x324mm 24.1-inch  | 1        | 0.9%    |
+| Samsung Electronics SyncMaster SAM03E0 1440x900 410x257mm 19.1-inch   | 1        | 0.9%    |
+| Samsung Electronics SyncMaster SAM02F3 1680x1050 474x296mm 22.0-inch  | 1        | 0.9%    |
+| Samsung Electronics SyncMaster SAM027F 1680x1050 474x296mm 22.0-inch  | 1        | 0.9%    |
+| Samsung Electronics SyncMaster SAM01AB 1280x1024 312x234mm 15.4-inch  | 1        | 0.9%    |
+| Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch  | 1        | 0.9%    |
+| Samsung Electronics SMS27A350H SAM07CE 1920x1080 598x336mm 27.0-inch  | 1        | 0.9%    |
+| Samsung Electronics SMB2330HD SAM0710 1920x1080 510x290mm 23.1-inch   | 1        | 0.9%    |
+| Samsung Electronics SMB2330HD SAM070E 1920x1080 510x290mm 23.1-inch   | 1        | 0.9%    |
+| Samsung Electronics SMB2330H SAM064A 1920x1080 509x286mm 23.0-inch    | 1        | 0.9%    |
+| Samsung Electronics SMB1930N SAM0632 1366x768 410x230mm 18.5-inch     | 1        | 0.9%    |
+| Samsung Electronics SA300/SA350 SAM0789 1366x768 410x230mm 18.5-inch  | 1        | 0.9%    |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 1        | 0.9%    |
+| Samsung Electronics LCD Monitor SyncMaster                            | 1        | 0.9%    |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch | 1        | 0.9%    |
+| Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch  | 1        | 0.9%    |
+| Samsung Electronics LCD Monitor S34J55x 3440x1440                     | 1        | 0.9%    |
+| Samsung Electronics LC27T55 SAM701F 1920x1080 609x349mm 27.6-inch     | 1        | 0.9%    |
+| Philips PHL BDM4350 PHL08FA 3840x2160 953x543mm 43.2-inch             | 1        | 0.9%    |
+| Philips PHL 278E8Q PHLC161 1920x1080 598x336mm 27.0-inch              | 1        | 0.9%    |
+| Philips 247E4 PHLC0C0 1920x1080 521x293mm 23.5-inch                   | 1        | 0.9%    |
+| Philips 227E4LH PHLC0AC 1920x1080 477x268mm 21.5-inch                 | 1        | 0.9%    |
+| Philips 226V4 PHLC0B1 1920x1080 477x268mm 21.5-inch                   | 1        | 0.9%    |
+| Philips 220CW PHLC024 1680x1050 474x296mm 22.0-inch                   | 1        | 0.9%    |
+| Philips 201E PHLC033 1600x900 443x249mm 20.0-inch                     | 1        | 0.9%    |
+| Philips 190V PHL0847 1280x1024 376x301mm 19.0-inch                    | 1        | 0.9%    |
+| Philips 170S PHL081E 1280x1024 338x270mm 17.0-inch                    | 1        | 0.9%    |
 
 Monitor Resolution
 ------------------
@@ -2312,11 +2312,11 @@ Controller vendors
 |---------------------------------|----------|---------|
 | Intel                           | 10       | 38.46%  |
 | Cambridge Silicon Radio         | 6        | 23.08%  |
-| ASUSTek Computer                | 3        | 11.54%  |
 | Realtek Semiconductor           | 2        | 7.69%   |
 | Qualcomm Atheros Communications | 2        | 7.69%   |
 | MediaTek                        | 2        | 7.69%   |
-| Broadcom                        | 1        | 3.85%   |
+| Broadcom                        | 2        | 7.69%   |
+| ASUSTek Computer                | 2        | 7.69%   |
 
 Bluetooth Model
 ---------------
@@ -2340,7 +2340,7 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 3.85%   |
 | Intel AX210 Bluetooth                               | 1        | 3.85%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1        | 3.85%   |
-| ASUS BCM20702A0                                     | 1        | 3.85%   |
+| Broadcom BCM20702A0                                 | 1        | 3.85%   |
 
 Sound
 -----
@@ -2433,7 +2433,7 @@ Sound card models
 | Nvidia GA106 High Definition Audio Controller                                     | 2        | 0.99%   |
 | Nvidia GA104 High Definition Audio Controller                                     | 2        | 0.99%   |
 | M-Audio M-Track                                                                   | 2        | 0.99%   |
-| JMTek Speedlink PnP Sound Device                                                  | 2        | 0.99%   |
+| JMTek USB PnP Audio Device                                                        | 2        | 0.99%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                           | 2        | 0.99%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                     | 2        | 0.99%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                                 | 2        | 0.99%   |
@@ -2491,7 +2491,7 @@ Memory module models
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s         | 3        | 2.36%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s         | 3        | 2.36%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3600MT/s          | 3        | 2.36%   |
 | G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s        | 3        | 2.36%   |
 | Unknown RAM Module 4096MB DIMM 1600MT/s                     | 2        | 1.57%   |
 | Unknown RAM Module 2GB DIMM DDR2 667MT/s                    | 2        | 1.57%   |
@@ -2731,7 +2731,7 @@ Camera device models
 | Microsoft LifeCam Cinema                          | 1        | 4.35%   |
 | Microdia USB 2.0 Camera                           | 1        | 4.35%   |
 | Microdia MSI Starcam Racer                        | 1        | 4.35%   |
-| MacroSilicon USB Video                            | 1        | 4.35%   |
+| MacroSilicon USB3. 0 capture                      | 1        | 4.35%   |
 | Logitech QuickCam Communicate MP/S5500            | 1        | 4.35%   |
 | Logitech Portable Webcam C905                     | 1        | 4.35%   |
 | Logitech HD Webcam C910                           | 1        | 4.35%   |

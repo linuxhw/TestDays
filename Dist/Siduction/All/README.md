@@ -827,8 +827,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 28        | 60.87%  |
-| Yes       | 18        | 39.13%  |
+| No        | 29        | 63.04%  |
+| Yes       | 17        | 36.96%  |
 
 Has Ethernet
 ------------
@@ -1710,7 +1710,7 @@ Monitor models
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics SyncMaster SAM021E 1680x1050 433x271mm 20.1-inch  | 2         | 3.33%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                     | 1         | 1.67%   |
+| STD HDMI TV STD00C7 1440x900 698x392mm 31.5-inch                      | 1         | 1.67%   |
 | Sony SAMSUNG SNY5203 1920x540                                         | 1         | 1.67%   |
 | Samsung Electronics S27E590 SAM0C5D 1920x1080 598x336mm 27.0-inch     | 1         | 1.67%   |
 | Samsung Electronics S27E391 SAM0C15 1920x1080 598x336mm 27.0-inch     | 1         | 1.67%   |
@@ -1727,7 +1727,7 @@ Monitor models
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch           | 1         | 1.67%   |
 | Lenovo LEN-A-A LENF918 1920x1080 596x335mm 26.9-inch                  | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch              | 1         | 1.67%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch               | 1         | 1.67%   |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch               | 1         | 1.67%   |
 | Hewlett-Packard X27i HPN3678 2560x1440 597x336mm 27.0-inch            | 1         | 1.67%   |
 | Hewlett-Packard E243i HPN3463 1920x1200 518x324mm 24.1-inch           | 1         | 1.67%   |
 | Hewlett-Packard 27fh HPN354A 1920x1080 598x336mm 27.0-inch            | 1         | 1.67%   |
@@ -2160,7 +2160,7 @@ Controller models
 | Intel AX200 Bluetooth                                   | 4         | 12.5%   |
 | Realtek  Bluetooth 4.2 Adapter                          | 3         | 9.38%   |
 | Realtek Bluetooth Radio                                 | 2         | 6.25%   |
-| Intel AX201 Bluetooth                                   | 2         | 6.25%   |
+| Intel Bluetooth Device                                  | 2         | 6.25%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)     | 2         | 6.25%   |
 | Qualcomm Atheros AR3011 Bluetooth                       | 1         | 3.13%   |
 | Lite-On Bluetooth Device                                | 1         | 3.13%   |
@@ -2169,7 +2169,7 @@ Controller models
 | Intel Centrino Bluetooth Wireless Transceiver           | 1         | 3.13%   |
 | Foxconn / Hon Hai Bluetooth Device                      | 1         | 3.13%   |
 | Edimax EW-7611ULB 802.11b/g/n and Bluetooth 4.0 Adapter | 1         | 3.13%   |
-| Edimax Bluetooth Adapter                                | 1         | 3.13%   |
+| Edimax Edimax Bluetooth Adapter                         | 1         | 3.13%   |
 | Broadcom HP Portable Bumble Bee                         | 1         | 3.13%   |
 
 Sound
@@ -2240,7 +2240,7 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1         | 1.22%   |
 | Hewlett-Packard USB Audio                                                  | 1         | 1.22%   |
 | GN Netcom Jabra Link 380                                                   | 1         | 1.22%   |
-| Cambridge Silicon Radio AfterShokz Loop 100                                | 1         | 1.22%   |
+| Cambridge Silicon Radio FiiO BTR3K                                         | 1         | 1.22%   |
 | C-Media Electronics CMI8738/CMI8768 PCI Audio                              | 1         | 1.22%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1         | 1.22%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                        | 1         | 1.22%   |
@@ -2294,7 +2294,7 @@ Memory module models
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 1         | 2.08%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 2.08%   |
 | SK hynix RAM H9CCNNNCLGALAR-NUD 8GB Row Of Chips LPDDR3 1867MT/s | 1         | 2.08%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 1         | 2.08%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s         | 1         | 2.08%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 1         | 2.08%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 1         | 2.08%   |
 | Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s           | 1         | 2.08%   |
@@ -2486,7 +2486,7 @@ Camera device models
 | WaveRider USB Live camera                                      | 1         | 3.13%   |
 | Suyin 1.3M HD WebCam                                           | 1         | 3.13%   |
 | Silicon Motion USB 2.0 PC Cam                                  | 1         | 3.13%   |
-| Realtek FULL HD 1080P Webcam                                   | 1         | 3.13%   |
+| Realtek Full HD webcam                                         | 1         | 3.13%   |
 | Quanta HP Webcam                                               | 1         | 3.13%   |
 | Primax Villem                                                  | 1         | 3.13%   |
 | Microsoft LifeCam Cinema                                       | 1         | 3.13%   |

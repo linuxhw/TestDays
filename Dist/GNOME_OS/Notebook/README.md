@@ -797,40 +797,40 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                                  | Notebooks | Percent |
-|--------------------------------------------------------|-----------|---------|
-| HGST HTS541010A9E680 1TB                               | 2         | 6.06%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                       | 1         | 3.03%   |
-| WDC WD5000LPVX-75V0TT0 500GB                           | 1         | 3.03%   |
-| WDC WD5000LPVX-08V0TT5 500GB                           | 1         | 3.03%   |
-| WDC WD3200LPVX-08V0TT5 320GB                           | 1         | 3.03%   |
-| WDC WD10SPZX-24Z10 1TB                                 | 1         | 3.03%   |
-| WDC WD10SPZX-22Z10T0 1TB                               | 1         | 3.03%   |
-| Transcend TS64GMTS400 64GB SSD                         | 1         | 3.03%   |
-| Toshiba MQ04ABF100 1TB                                 | 1         | 3.03%   |
-| Toshiba MQ01ABD032 320GB                               | 1         | 3.03%   |
-| SSSTC CVB-8D128-HP 128GB SSD                           | 1         | 3.03%   |
-| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB              | 1         | 3.03%   |
-| SK hynix NVMe SSD Drive 512GB                          | 1         | 3.03%   |
-| Seagate ST9500325AS 500GB                              | 1         | 3.03%   |
-| Seagate ST500LM012 HN-M500MBB 500GB                    | 1         | 3.03%   |
-| Seagate ST1000LM035-1RK172 1TB                         | 1         | 3.03%   |
-| SanDisk X300 MSATA 128GB SSD                           | 1         | 3.03%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 1024GB | 1         | 3.03%   |
-| SanDisk SSD PLUS 120 GB                                | 1         | 3.03%   |
-| SanDisk SD8SN8U512G1002 512GB SSD                      | 1         | 3.03%   |
-| Samsung SSD 860 EVO 500GB                              | 1         | 3.03%   |
-| Samsung PM963 2.5" NVMe PCIe SSD 256GB                 | 1         | 3.03%   |
-| Patriot Burst Elite 120GB SSD                          | 1         | 3.03%   |
-| Micron 1100_MTFDDAV256TBN 256GB SSD                    | 1         | 3.03%   |
-| Micron 1100_MTFDDAK256TBN 256GB SSD                    | 1         | 3.03%   |
-| Kingston SHFS37A120G 120GB SSD                         | 1         | 3.03%   |
-| Kingston SA400S37120G 120GB SSD                        | 1         | 3.03%   |
-| Intel SSDSCKKF256G8 SATA 256GB                         | 1         | 3.03%   |
-| HGST HTS541010A7E630 1TB                               | 1         | 3.03%   |
-| HECTRON HECX1-60G SSD                                  | 1         | 3.03%   |
-| Crucial CT240BX500SSD1 240GB                           | 1         | 3.03%   |
-| Apple SSD SM768E 752GB                                 | 1         | 3.03%   |
+| Model                                               | Notebooks | Percent |
+|-----------------------------------------------------|-----------|---------|
+| HGST HTS541010A9E680 1TB                            | 2         | 6.06%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                    | 1         | 3.03%   |
+| WDC WD5000LPVX-75V0TT0 500GB                        | 1         | 3.03%   |
+| WDC WD5000LPVX-08V0TT5 500GB                        | 1         | 3.03%   |
+| WDC WD3200LPVX-08V0TT5 320GB                        | 1         | 3.03%   |
+| WDC WD10SPZX-24Z10 1TB                              | 1         | 3.03%   |
+| WDC WD10SPZX-22Z10T0 1TB                            | 1         | 3.03%   |
+| Transcend TS64GMTS400 64GB SSD                      | 1         | 3.03%   |
+| Toshiba MQ04ABF100 1TB                              | 1         | 3.03%   |
+| Toshiba MQ01ABD032 320GB                            | 1         | 3.03%   |
+| SSSTC CVB-8D128-HP 128GB SSD                        | 1         | 3.03%   |
+| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB           | 1         | 3.03%   |
+| SK hynix NVMe SSD Drive 512GB                       | 1         | 3.03%   |
+| Seagate ST9500325AS 500GB                           | 1         | 3.03%   |
+| Seagate ST500LM012 HN-M500MBB 500GB                 | 1         | 3.03%   |
+| Seagate ST1000LM035-1RK172 1TB                      | 1         | 3.03%   |
+| SanDisk X300 MSATA 128GB SSD                        | 1         | 3.03%   |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 1TB | 1         | 3.03%   |
+| SanDisk SSD PLUS 120 GB                             | 1         | 3.03%   |
+| SanDisk SD8SN8U512G1002 512GB SSD                   | 1         | 3.03%   |
+| Samsung SSD 860 EVO 500GB                           | 1         | 3.03%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 256GB              | 1         | 3.03%   |
+| Patriot Burst Elite 120GB SSD                       | 1         | 3.03%   |
+| Micron 1100_MTFDDAV256TBN 256GB SSD                 | 1         | 3.03%   |
+| Micron 1100_MTFDDAK256TBN 256GB SSD                 | 1         | 3.03%   |
+| Kingston SHFS37A120G 120GB SSD                      | 1         | 3.03%   |
+| Kingston SA400S37120G 120GB SSD                     | 1         | 3.03%   |
+| Intel SSDSCKKF256G8 SATA 256GB                      | 1         | 3.03%   |
+| HGST HTS541010A7E630 1TB                            | 1         | 3.03%   |
+| HECTRON HECX1-60G SSD                               | 1         | 3.03%   |
+| Crucial CT240BX500SSD1 240GB                        | 1         | 3.03%   |
+| Apple SSD SM768E 752GB                              | 1         | 3.03%   |
 
 HDD Vendor
 ----------
@@ -1758,8 +1758,8 @@ Controller models
 | Lite-On Broadcom BCM43142A0 Bluetooth Device | 2         | 7.69%   |
 | Apple Bluetooth Host Controller              | 2         | 7.69%   |
 | Toshiba Bluetooth Device                     | 1         | 3.85%   |
+| Realtek RTL8821A Bluetooth                   | 1         | 3.85%   |
 | Realtek  Bluetooth 4.2 Adapter               | 1         | 3.85%   |
-| Realtek 802.11ac WLAN Adapter                | 1         | 3.85%   |
 | Ralink RT3290 Bluetooth                      | 1         | 3.85%   |
 | Qualcomm Atheros AR9462 Bluetooth            | 1         | 3.85%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth   | 1         | 3.85%   |

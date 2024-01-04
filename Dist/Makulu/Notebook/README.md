@@ -765,11 +765,11 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB      | 2         | 6.9%    |
 | WDC WD2500BEVS-22UST0 250GB          | 1         | 3.45%   |
 | WDC WD10SPZX-60Z10T0 1TB             | 1         | 3.45%   |
-| Unknown SD/MMC/MS PRO 128GB          | 1         | 3.45%   |
+| Unknown SD/MMC/MS PRO 512GB          | 1         | 3.45%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 3.45%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 3.45%   |
 | Seagate ST9320325AS 320GB            | 1         | 3.45%   |
-| Seagate Expansion Desk 6TB           | 1         | 3.45%   |
+| Seagate Expansion Desk 8TB           | 1         | 3.45%   |
 | SanDisk SSD U110 128GB               | 1         | 3.45%   |
 | SanDisk SSD PLUS 1000GB              | 1         | 3.45%   |
 | SanDisk SD9SN8W-128G-1006 128GB SSD  | 1         | 3.45%   |
@@ -863,10 +863,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 13        | 19     | 65%     |
-| 0.51-1.0   | 5         | 5      | 25%     |
-| 1.01-2.0   | 1         | 1      | 5%      |
-| 4.01-10.0  | 1         | 1      | 5%      |
+| 0.01-0.5   | 13        | 18     | 61.9%   |
+| 0.51-1.0   | 6         | 6      | 28.57%  |
+| 1.01-2.0   | 1         | 1      | 4.76%   |
+| 4.01-10.0  | 1         | 1      | 4.76%   |
 
 Space Total
 -----------
@@ -1687,9 +1687,8 @@ Controller models
 | Model                                             | Notebooks | Percent |
 |---------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                | 4         | 23.53%  |
+| Realtek Bluetooth Radio                           | 2         | 11.76%  |
 | Realtek  Bluetooth 4.2 Adapter                    | 1         | 5.88%   |
-| Realtek Bluetooth Radio                           | 1         | 5.88%   |
-| Realtek 802.11ac WLAN Adapter                     | 1         | 5.88%   |
 | Qualcomm Atheros  Bluetooth Device                | 1         | 5.88%   |
 | Qualcomm Atheros AR9462 Bluetooth                 | 1         | 5.88%   |
 | Intel Centrino Bluetooth Wireless Transceiver     | 1         | 5.88%   |
@@ -1905,7 +1904,7 @@ Camera device models
 | Suyin Laptop_Integrated_Webcam_HD                              | 1         | 5.26%   |
 | Suyin HP Truevision HD                                         | 1         | 5.26%   |
 | Sunplus Integrated_Webcam_HD                                   | 1         | 5.26%   |
-| Realtek Laptop_Integrated_Webcam_HD                            | 1         | 5.26%   |
+| Realtek Integrated Webcam HD                                   | 1         | 5.26%   |
 | Realtek FJ Camera                                              | 1         | 5.26%   |
 | Microdia Laptop_Integrated_Webcam_HD                           | 1         | 5.26%   |
 | Microdia Dell Laptop Integrated Webcam HD                      | 1         | 5.26%   |

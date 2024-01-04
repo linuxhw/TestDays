@@ -779,8 +779,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 49        | 65.33%  |
-| Yes       | 26        | 34.67%  |
+| No        | 50        | 67.57%  |
+| Yes       | 24        | 32.43%  |
 
 Has Ethernet
 ------------
@@ -971,48 +971,48 @@ Hard drive models
 ![Drive Model](./All/images/pie_chart/drive_model.svg)
 
 
-| Model                                 | Computers | Percent |
-|---------------------------------------|-----------|---------|
-| Samsung SSD 850 EVO 250GB             | 5         | 3.42%   |
-| Seagate ST4000DM004-2CV104 4TB        | 3         | 2.05%   |
-| Seagate ST2000DM006-2DM164 2TB        | 3         | 2.05%   |
-| Samsung NVMe SSD Drive 500GB          | 3         | 2.05%   |
-| Kingston SA400S37240G 240GB SSD       | 3         | 2.05%   |
-| WDC WD10EZEX-08WN4A0 1TB              | 2         | 1.37%   |
-| WDC WD10EZEX-08M2NA0 1TB              | 2         | 1.37%   |
-| Toshiba DT01ACA050 500GB              | 2         | 1.37%   |
-| SK hynix NVMe SSD Drive 128GB         | 2         | 1.37%   |
-| SanDisk NVMe SSD Drive 256GB          | 2         | 1.37%   |
-| PNY CS900 240GB SSD                   | 2         | 1.37%   |
-| Kingston Company A2000 NVMe SSD 250GB | 2         | 1.37%   |
-| Kingston SA400S37480G 480GB SSD       | 2         | 1.37%   |
-| Crucial CT1000P1SSD8 1TB              | 2         | 1.37%   |
-| Crucial CT1000MX500SSD1 1TB           | 2         | 1.37%   |
-| WDC WDS480G2G0B-00EPW0 480GB SSD      | 1         | 0.68%   |
-| WDC WD6400AAKS-75A7B2 640GB           | 1         | 0.68%   |
-| WDC WD5000AVDS-63U7B1 500GB           | 1         | 0.68%   |
-| WDC WD5000AVCS-632DY1 500GB           | 1         | 0.68%   |
-| WDC WD5000AAKX-003CA0 500GB           | 1         | 0.68%   |
-| WDC WD40EZRZ-00GXCB0 4TB              | 1         | 0.68%   |
-| WDC WD3200BEVT-75ZCT2 320GB           | 1         | 0.68%   |
-| WDC WD3200AAJS-00YZCA0 320GB          | 1         | 0.68%   |
-| WDC WD32 00AAJS-00L7A0 320GB          | 1         | 0.68%   |
-| WDC WD3000GLFS-01F8U0 304GB           | 1         | 0.68%   |
-| WDC WD2500HHTZ-04N21V1 250GB          | 1         | 0.68%   |
-| WDC WD2500BEVT-22ZCT0 250GB           | 1         | 0.68%   |
-| WDC WD20EARX-00PASB0 2TB              | 1         | 0.68%   |
-| WDC WD2003FZEX-00Z4SA0 2TB            | 1         | 0.68%   |
-| WDC WD2003FZEX-00SRLA0 2TB            | 1         | 0.68%   |
-| WDC WD1600AAJS-00PSA0 160GB           | 1         | 0.68%   |
-| WDC WD1600AAJS-00M0A0 160GB           | 1         | 0.68%   |
-| WDC WD140EFGX-68B0GN0 14TB            | 1         | 0.68%   |
-| WDC WD10SPZX-24Z10T0 1TB              | 1         | 0.68%   |
-| WDC WD10SPZX-24Z10 1TB                | 1         | 0.68%   |
-| WDC WD10SPSX-00A6WT0 1TB              | 1         | 0.68%   |
-| WDC WD10JPCX-24UE4T0 1TB              | 1         | 0.68%   |
-| WDC WD10EZRX-00L4HB0 1TB              | 1         | 0.68%   |
-| WDC WD10EZEX-21WN4A0 1TB              | 1         | 0.68%   |
-| WDC WD10EADS-00P8B0 1TB               | 1         | 0.68%   |
+| Model                               | Computers | Percent |
+|-------------------------------------|-----------|---------|
+| Samsung SSD 850 EVO 250GB           | 5         | 3.42%   |
+| Seagate ST4000DM004-2CV104 4TB      | 3         | 2.05%   |
+| Seagate ST2000DM006-2DM164 2TB      | 3         | 2.05%   |
+| Samsung NVMe SSD Drive 500GB        | 3         | 2.05%   |
+| Kingston SA400S37240G 240GB SSD     | 3         | 2.05%   |
+| WDC WD10EZEX-08WN4A0 1TB            | 2         | 1.37%   |
+| WDC WD10EZEX-08M2NA0 1TB            | 2         | 1.37%   |
+| Toshiba DT01ACA050 500GB            | 2         | 1.37%   |
+| SK hynix NVMe SSD Drive 128GB       | 2         | 1.37%   |
+| SanDisk NVMe SSD Drive 256GB        | 2         | 1.37%   |
+| PNY CS900 240GB SSD                 | 2         | 1.37%   |
+| Kingston Company A2000 NVMe SSD 1TB | 2         | 1.37%   |
+| Kingston SA400S37480G 480GB SSD     | 2         | 1.37%   |
+| Crucial CT1000P1SSD8 1TB            | 2         | 1.37%   |
+| Crucial CT1000MX500SSD1 1TB         | 2         | 1.37%   |
+| WDC WDS480G2G0B-00EPW0 480GB SSD    | 1         | 0.68%   |
+| WDC WD6400AAKS-75A7B2 640GB         | 1         | 0.68%   |
+| WDC WD5000AVDS-63U7B1 500GB         | 1         | 0.68%   |
+| WDC WD5000AVCS-632DY1 500GB         | 1         | 0.68%   |
+| WDC WD5000AAKX-003CA0 500GB         | 1         | 0.68%   |
+| WDC WD40EZRZ-00GXCB0 4TB            | 1         | 0.68%   |
+| WDC WD3200BEVT-75ZCT2 320GB         | 1         | 0.68%   |
+| WDC WD3200AAJS-00YZCA0 320GB        | 1         | 0.68%   |
+| WDC WD32 00AAJS-00L7A0 320GB        | 1         | 0.68%   |
+| WDC WD3000GLFS-01F8U0 304GB         | 1         | 0.68%   |
+| WDC WD2500HHTZ-04N21V1 250GB        | 1         | 0.68%   |
+| WDC WD2500BEVT-22ZCT0 250GB         | 1         | 0.68%   |
+| WDC WD20EARX-00PASB0 2TB            | 1         | 0.68%   |
+| WDC WD2003FZEX-00Z4SA0 2TB          | 1         | 0.68%   |
+| WDC WD2003FZEX-00SRLA0 2TB          | 1         | 0.68%   |
+| WDC WD1600AAJS-00PSA0 160GB         | 1         | 0.68%   |
+| WDC WD1600AAJS-00M0A0 160GB         | 1         | 0.68%   |
+| WDC WD140EFGX-68B0GN0 14TB          | 1         | 0.68%   |
+| WDC WD10SPZX-24Z10T0 1TB            | 1         | 0.68%   |
+| WDC WD10SPZX-24Z10 1TB              | 1         | 0.68%   |
+| WDC WD10SPSX-00A6WT0 1TB            | 1         | 0.68%   |
+| WDC WD10JPCX-24UE4T0 1TB            | 1         | 0.68%   |
+| WDC WD10EZRX-00L4HB0 1TB            | 1         | 0.68%   |
+| WDC WD10EZEX-21WN4A0 1TB            | 1         | 0.68%   |
+| WDC WD10EADS-00P8B0 1TB             | 1         | 0.68%   |
 
 HDD Vendor
 ----------
@@ -1024,14 +1024,15 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 25        | 33     | 51.02%  |
-| Seagate             | 13        | 16     | 26.53%  |
-| Toshiba             | 4         | 4      | 8.16%   |
-| Samsung Electronics | 2         | 2      | 4.08%   |
-| Hitachi             | 2         | 2      | 4.08%   |
-| Unknown             | 1         | 1      | 2.04%   |
-| Maxtor              | 1         | 1      | 2.04%   |
-| Intenso             | 1         | 2      | 2.04%   |
+| WDC                 | 25        | 33     | 50%     |
+| Seagate             | 13        | 16     | 26%     |
+| Toshiba             | 4         | 4      | 8%      |
+| Samsung Electronics | 2         | 2      | 4%      |
+| Hitachi             | 2         | 2      | 4%      |
+| Unknown             | 1         | 1      | 2%      |
+| SABRENT             | 1         | 1      | 2%      |
+| Maxtor              | 1         | 1      | 2%      |
+| Intenso             | 1         | 2      | 2%      |
 
 SSD Vendor
 ----------
@@ -1069,11 +1070,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 40        | 61     | 36.36%  |
-| NVMe    | 32        | 43     | 29.09%  |
-| SSD     | 31        | 51     | 28.18%  |
-| Unknown | 4         | 4      | 3.64%   |
-| MMC     | 3         | 3      | 2.73%   |
+| HDD     | 41        | 62     | 36.94%  |
+| NVMe    | 32        | 42     | 28.83%  |
+| SSD     | 31        | 51     | 27.93%  |
+| Unknown | 4         | 4      | 3.6%    |
+| MMC     | 3         | 3      | 2.7%    |
 
 Drive Connector
 ---------------
@@ -1100,11 +1101,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 66     | 50.67%  |
-| 0.51-1.0   | 22        | 28     | 29.33%  |
-| 1.01-2.0   | 9         | 10     | 12%     |
-| 3.01-4.0   | 5         | 7      | 6.67%   |
-| 10.01-20.0 | 1         | 1      | 1.33%   |
+| 0.01-0.5   | 38        | 64     | 50%     |
+| 0.51-1.0   | 22        | 28     | 28.95%  |
+| 1.01-2.0   | 10        | 13     | 13.16%  |
+| 3.01-4.0   | 5         | 7      | 6.58%   |
+| 10.01-20.0 | 1         | 1      | 1.32%   |
 
 Space Total
 -----------
@@ -1729,7 +1730,7 @@ Monitor models
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1         | 1.09%   |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1         | 1.09%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch | 1         | 1.09%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 1.09%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch    | 1         | 1.09%   |
@@ -1743,7 +1744,7 @@ Monitor models
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1         | 1.09%   |
 | LG Display LCD Monitor LGD06FB 1920x1080 309x174mm 14.0-inch         | 1         | 1.09%   |
 | LG Display LCD Monitor LGD05FE 1920x1080 344x194mm 15.5-inch         | 1         | 1.09%   |
-| LG Display LCD Monitor LGD05FA 1920x1080 310x170mm 13.9-inch         | 1         | 1.09%   |
+| LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch         | 1         | 1.09%   |
 | LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch         | 1         | 1.09%   |
 | Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch           | 1         | 1.09%   |
 | Lenovo LEN L220xwC LEN1151 1920x1200 474x296mm 22.0-inch             | 1         | 1.09%   |
@@ -2211,15 +2212,16 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 7         | 14.29%  |
 | Intel AX200 Bluetooth                               | 7         | 14.29%  |
-| Intel AX201 Bluetooth                               | 5         | 10.2%   |
+| Intel Bluetooth Device                              | 5         | 10.2%   |
 | Qualcomm Atheros  Bluetooth Device                  | 4         | 8.16%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 8.16%   |
-| Realtek Bluetooth Radio                             | 2         | 4.08%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 4.08%   |
 | MediaTek Wireless_Device                            | 2         | 4.08%   |
 | Intel AX210 Bluetooth                               | 2         | 4.08%   |
 | Toshiba RT Bluetooth Radio                          | 1         | 2.04%   |
+| Realtek RTL8821A Bluetooth                          | 1         | 2.04%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 2.04%   |
+| Realtek Bluetooth Radio                             | 1         | 2.04%   |
 | Lite-On Wireless_Device                             | 1         | 2.04%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.04%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.04%   |
@@ -2348,13 +2350,13 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR                                | 1         | 2.86%   |
 | Unknown RAM Module 1GB DIMM 667MT/s                              | 1         | 2.86%   |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s               | 1         | 2.86%   |
-| Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s            | 1         | 2.86%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s                | 1         | 2.86%   |
 | Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 2.86%   |
 | SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 2.86%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.86%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 2.86%   |
-| Samsung RAM M471B5773CHS-CK0 2048MB SODIMM DDR3 1600MT/s         | 1         | 2.86%   |
+| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s            | 1         | 2.86%   |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 1         | 2.86%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 1         | 2.86%   |
 | Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 2.86%   |
@@ -2365,7 +2367,7 @@ Memory module models
 | Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s           | 1         | 2.86%   |
 | Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s              | 1         | 2.86%   |
 | Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2 667MT/s            | 1         | 2.86%   |
-| Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 2.86%   |
+| Micron RAM 8ATF1G64HZ-2G3H1 8192MB SODIMM DDR4 2400MT/s          | 1         | 2.86%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s              | 1         | 2.86%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s              | 1         | 2.86%   |

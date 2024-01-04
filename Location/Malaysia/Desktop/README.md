@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 301
+Total: 302
 
 | Vendor     | Model                       | Probe                                                      | Date         |
 |------------|-----------------------------|------------------------------------------------------------|--------------|
+| MSI        | MS-7388                     | [efab378a60](https://linux-hardware.org/?probe=efab378a60) | Dec 24, 2023 |
 | Dell       | 04Y8V0 A02                  | [1c3e40ac13](https://linux-hardware.org/?probe=1c3e40ac13) | Dec 23, 2023 |
 | MSI        | MS-7388                     | [5027d4b8ed](https://linux-hardware.org/?probe=5027d4b8ed) | Dec 23, 2023 |
 | HP         | 2129                        | [3a95965680](https://linux-hardware.org/?probe=3a95965680) | Dec 13, 2023 |
@@ -1109,14 +1110,14 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 64       | 32.16%  |
-| 2      | 56       | 28.14%  |
-| 3      | 30       | 15.08%  |
-| 4      | 20       | 10.05%  |
-| 5      | 9        | 4.52%   |
-| 7      | 8        | 4.02%   |
-| 6      | 5        | 2.51%   |
-| 8      | 4        | 2.01%   |
+| 1      | 65       | 32.5%   |
+| 2      | 56       | 28%     |
+| 3      | 30       | 15%     |
+| 4      | 20       | 10%     |
+| 5      | 9        | 4.5%    |
+| 7      | 8        | 4%      |
+| 6      | 5        | 2.5%    |
+| 8      | 4        | 2%      |
 | 11     | 1        | 0.5%    |
 | 10     | 1        | 0.5%    |
 | 9      | 1        | 0.5%    |
@@ -1131,8 +1132,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 130      | 68.06%  |
-| Yes       | 61       | 31.94%  |
+| No        | 132      | 69.11%  |
+| Yes       | 59       | 30.89%  |
 
 Has Ethernet
 ------------
@@ -1260,7 +1261,7 @@ Hard drive vendors
 | PNY                         | 13       | 41     | 3.4%    |
 | A-DATA Technology           | 13       | 24     | 3.4%    |
 | Crucial                     | 10       | 16     | 2.62%   |
-| SanDisk                     | 7        | 11     | 1.83%   |
+| Sandisk                     | 7        | 11     | 1.83%   |
 | Intel                       | 7        | 11     | 1.83%   |
 | Unknown                     | 6        | 7      | 1.57%   |
 | Corsair                     | 6        | 17     | 1.57%   |
@@ -1451,9 +1452,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 136      | 278    | 51.32%  |
-| 0.51-1.0   | 80       | 173    | 30.19%  |
-| 1.01-2.0   | 36       | 100    | 13.58%  |
+| 0.01-0.5   | 136      | 281    | 51.32%  |
+| 0.51-1.0   | 79       | 168    | 29.81%  |
+| 1.01-2.0   | 37       | 102    | 13.96%  |
 | 3.01-4.0   | 7        | 16     | 2.64%   |
 | 2.01-3.0   | 3        | 4      | 1.13%   |
 | 4.01-10.0  | 3        | 5      | 1.13%   |
@@ -1631,7 +1632,7 @@ Storage controller vendors
 | Nvidia                      | 4        | 1.52%   |
 | Marvell Technology Group    | 4        | 1.52%   |
 | JMicron Technology          | 4        | 1.52%   |
-| Sandisk                     | 3        | 1.14%   |
+| SanDisk                     | 3        | 1.14%   |
 | Micron Technology           | 2        | 0.76%   |
 | Broadcom / LSI              | 2        | 0.76%   |
 | Silicon Image               | 1        | 0.38%   |
@@ -2427,7 +2428,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-V                                                 | 3        | 0.86%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                         | 3        | 0.86%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                                 | 2        | 0.57%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                  | 2        | 0.57%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                | 2        | 0.57%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                           | 2        | 0.57%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                                      | 2        | 0.57%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                | 2        | 0.57%   |
@@ -2485,7 +2486,7 @@ Wireless models
 | Qualcomm Atheros TP-Link TL-WN821N v3 / TL-WN822N v2 802.11n [Atheros AR7010+AR9287] | 3        | 2.31%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                     | 3        | 2.31%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                         | 3        | 2.31%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                  | 2        | 1.54%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                | 2        | 1.54%   |
 | TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                           | 2        | 1.54%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                                      | 2        | 1.54%   |
 | Ralink RT5370 Wireless Adapter                                                       | 2        | 1.54%   |
@@ -2569,7 +2570,7 @@ Ethernet models
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                  | 2        | 0.92%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                 | 2        | 0.92%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet             | 2        | 0.92%   |
-| OPPO RMX3623                                                               | 2        | 0.92%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                               | 2        | 0.92%   |
 | Intel I350 Gigabit Fiber Network Connection                                | 2        | 0.92%   |
 | Intel I210 Gigabit Network Connection                                      | 2        | 0.92%   |
 | Intel Ethernet Connection I217-V                                           | 2        | 0.92%   |
@@ -2586,7 +2587,7 @@ Ethernet models
 | Samsung Galaxy series, misc. (tethering mode)                              | 1        | 0.46%   |
 | Realtek RTL8152 Fast Ethernet Adapter                                      | 1        | 0.46%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                           | 1        | 0.46%   |
-| Qualcomm Fairphone 4 5G                                                    | 1        | 0.46%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                             | 1        | 0.46%   |
 
 Net Controller Kind
 -------------------
@@ -2684,18 +2685,17 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 23       | 36.51%  |
-| Intel AX201 Bluetooth                               | 7        | 11.11%  |
+| Intel Bluetooth Device                              | 8        | 12.7%   |
 | Intel Bluetooth wireless interface                  | 6        | 9.52%   |
 | Realtek Bluetooth Radio                             | 4        | 6.35%   |
 | Intel AX210 Bluetooth                               | 4        | 6.35%   |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 3        | 4.76%   |
+| TP-Link UB500 Adapter                               | 3        | 4.76%   |
 | Intel AX200 Bluetooth                               | 3        | 4.76%   |
 | D-Link DBT-122 Bluetooth adapter                    | 2        | 3.17%   |
-| Apple Bluetooth Host Controller                     | 2        | 3.17%   |
+| Apple Bluetooth USB Host Controller                 | 2        | 3.17%   |
 | MediaTek Wireless_Device                            | 1        | 1.59%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 1.59%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 1.59%   |
-| Intel Bluetooth Device                              | 1        | 1.59%   |
 | IMC Networks Bluetooth Radio                        | 1        | 1.59%   |
 | IMC Networks Bluetooth Device                       | 1        | 1.59%   |
 | Foxconn / Hon Hai Bluetooth USB Host Controller     | 1        | 1.59%   |
@@ -2738,7 +2738,7 @@ Sound card vendors
 | Creative Technology         | 1        | 0.31%   |
 | Creative Labs               | 1        | 0.31%   |
 | Cooler Master               | 1        | 0.31%   |
-| BR25                        | 1        | 0.31%   |
+| BR23                        | 1        | 0.31%   |
 | Barco Display Systems       | 1        | 0.31%   |
 | Anlya.cn                    | 1        | 0.31%   |
 
@@ -2780,6 +2780,7 @@ Sound card models
 | Nvidia GK107 HDMI Audio Controller                                                | 4        | 1.12%   |
 | Nvidia GA104 High Definition Audio Controller                                     | 4        | 1.12%   |
 | Logitech H600 [Wireless Headset]                                                  | 4        | 1.12%   |
+| JMTek USB PnP Audio Device                                                        | 4        | 1.12%   |
 | Intel 9 Series Chipset Family HD Audio Controller                                 | 4        | 1.12%   |
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                               | 4        | 1.12%   |
 | AMD SBx00 Azalia (Intel HDA)                                                      | 4        | 1.12%   |
@@ -2789,7 +2790,6 @@ Sound card models
 | Nvidia GP107GL High Definition Audio Controller                                   | 3        | 0.84%   |
 | Nvidia GM206 High Definition Audio Controller                                     | 3        | 0.84%   |
 | Nvidia GA102 High Definition Audio Controller                                     | 3        | 0.84%   |
-| JMTek USB PnP Audio Device                                                        | 3        | 0.84%   |
 | Intel Comet Lake PCH cAVS                                                         | 3        | 0.84%   |
 | Intel C610/X99 series chipset HD Audio Controller                                 | 3        | 0.84%   |
 
@@ -2838,48 +2838,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Corsair RAM CMV4GX3M1A1333C9 4GB DIMM DDR3 1600MT/s               | 6        | 4.84%   |
-| Kingston RAM 99U5471-054.A00LF 8192MB DIMM DDR3 1600MT/s          | 5        | 4.03%   |
-| Unknown RAM Module 2GB DIMM SDRAM                                 | 4        | 3.23%   |
-| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s            | 4        | 3.23%   |
-| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s             | 3        | 2.42%   |
-| Kingmax RAM FLFE85F-C8KL9 2GB DIMM DDR3 1333MT/s                  | 3        | 2.42%   |
-| Unknown RAM Module 4GB DIMM SDRAM                                 | 2        | 1.61%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s              | 2        | 1.61%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3733MT/s              | 2        | 1.61%   |
-| Kingston RAM KF552C36-16 16GB DIMM 5200MT/s                       | 2        | 1.61%   |
-| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s             | 2        | 1.61%   |
-| Kingston RAM 99U5471-050.A00LF 8GB DIMM DDR3 1600MT/s             | 2        | 1.61%   |
-| Kingmax RAM FLFE85F-C8KM9 2GB DIMM DDR3 1333MT/s                  | 2        | 1.61%   |
-| Kimtigo RAM KT8GS3EDF 8GB SODIMM DDR3 1600MT/s                    | 2        | 1.61%   |
-| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3600MT/s                       | 2        | 1.61%   |
-| Unknown RAM Module 8GB DIMM 667MT/s                               | 1        | 0.81%   |
-| Unknown RAM Module 8192MB DIMM DDR4 2400MT/s                      | 1        | 0.81%   |
-| Unknown RAM Module 2GB DIMM DDR3 1067MT/s                         | 1        | 0.81%   |
-| Unknown RAM Module 2GB DIMM DDR2 667MT/s                          | 1        | 0.81%   |
-| Unknown RAM Module 2GB DIMM 800MT/s                               | 1        | 0.81%   |
-| Unknown RAM Module 2GB DIMM 667MT/s                               | 1        | 0.81%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 0.81%   |
-| Team RAM TEAMGROUP-UD4-3000 8192MB DIMM DDR4 3200MT/s             | 1        | 0.81%   |
-| Team RAM Elite-800 2GB DIMM SDRAM 2048MT/s                        | 1        | 0.81%   |
-| SK hynix RAM Module 2048MB DIMM DDR3 1066MT/s                     | 1        | 0.81%   |
-| SK hynix RAM HYMP112F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s       | 1        | 0.81%   |
-| SK hynix RAM HMT41GU7BFR8A-PB 8GB DIMM DDR3 1600MT/s              | 1        | 0.81%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s              | 1        | 0.81%   |
-| SK hynix RAM HMA84GR7CJR4N-XN 32GB DIMM DDR4 3200MT/s             | 1        | 0.81%   |
-| SK hynix RAM HMA82GR7CJR4N-VK 16384MB DIMM DDR4 2666MT/s          | 1        | 0.81%   |
-| SK hynix RAM HMA451R7MFR8N-TF 4GB DIMM DDR4 2133MT/s              | 1        | 0.81%   |
-| Silicon Power RAM DBLT2GN568S 2GB DIMM DDR3 1333MT/s              | 1        | 0.81%   |
-| SemsoTai RAM Module 8GB DIMM DDR4 2667MT/s                        | 1        | 0.81%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s             | 1        | 0.81%   |
-| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s              | 1        | 0.81%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s              | 1        | 0.81%   |
-| Samsung RAM M378B5673EH1-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.81%   |
-| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3                        | 1        | 0.81%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.81%   |
-| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s             | 1        | 0.81%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Corsair RAM CMV4GX3M1A1333C9 4GB DIMM DDR3 1600MT/s            | 6        | 4.8%    |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s          | 5        | 4%      |
+| Unknown RAM Module 2GB DIMM SDRAM                              | 4        | 3.2%    |
+| Corsair RAM CMK64GX4M2E3200C16 32GB DIMM DDR4 3200MT/s         | 4        | 3.2%    |
+| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s          | 3        | 2.4%    |
+| Kingmax RAM FLFE85F-C8KL9 2GB DIMM DDR3 1333MT/s               | 3        | 2.4%    |
+| Unknown RAM Module 4GB DIMM SDRAM                              | 2        | 1.6%    |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s           | 2        | 1.6%    |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3733MT/s           | 2        | 1.6%    |
+| Kingston RAM KF552C36-16 16GB DIMM 5200MT/s                    | 2        | 1.6%    |
+| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s          | 2        | 1.6%    |
+| Kingston RAM 99U5471-050.A00LF 8GB DIMM DDR3 1600MT/s          | 2        | 1.6%    |
+| Kingmax RAM FLFE85F-C8KM9 2GB DIMM DDR3 1333MT/s               | 2        | 1.6%    |
+| Kimtigo RAM KT8GS3EDF 8GB SODIMM DDR3 1600MT/s                 | 2        | 1.6%    |
+| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3600MT/s                    | 2        | 1.6%    |
+| Unknown RAM Module 8GB DIMM 667MT/s                            | 1        | 0.8%    |
+| Unknown RAM Module 8192MB DIMM DDR4 2400MT/s                   | 1        | 0.8%    |
+| Unknown RAM Module 2GB DIMM DDR3 1067MT/s                      | 1        | 0.8%    |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                       | 1        | 0.8%    |
+| Unknown RAM Module 2GB DIMM DDR2 667MT/s                       | 1        | 0.8%    |
+| Unknown RAM Module 2GB DIMM 800MT/s                            | 1        | 0.8%    |
+| Unknown RAM Module 2GB DIMM 667MT/s                            | 1        | 0.8%    |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.8%    |
+| Team RAM TEAMGROUP-UD4-3000 8192MB DIMM DDR4 3200MT/s          | 1        | 0.8%    |
+| Team RAM Elite-800 2GB DIMM SDRAM 2048MT/s                     | 1        | 0.8%    |
+| SK hynix RAM Module 2048MB DIMM DDR3 1066MT/s                  | 1        | 0.8%    |
+| SK hynix RAM HYMP112F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s    | 1        | 0.8%    |
+| SK hynix RAM HMT41GU7BFR8A-PB 8GB DIMM DDR3 1600MT/s           | 1        | 0.8%    |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s           | 1        | 0.8%    |
+| SK hynix RAM HMA84GR7CJR4N-XN 32GB DIMM DDR4 3200MT/s          | 1        | 0.8%    |
+| SK hynix RAM HMA82GR7CJR4N-VK 16384MB DIMM DDR4 2666MT/s       | 1        | 0.8%    |
+| SK hynix RAM HMA451R7MFR8N-TF 4GB DIMM DDR4 2133MT/s           | 1        | 0.8%    |
+| Silicon Power RAM DBLT2GN568S 2GB DIMM DDR3 1333MT/s           | 1        | 0.8%    |
+| SemsoTai RAM Module 8GB DIMM DDR4 2667MT/s                     | 1        | 0.8%    |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s       | 1        | 0.8%    |
+| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s           | 1        | 0.8%    |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s           | 1        | 0.8%    |
+| Samsung RAM M378B5673EH1-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.8%    |
+| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.8%    |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.8%    |
 
 Memory Kind
 -----------
@@ -2941,32 +2941,32 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 30       | 27.03%  |
-| 3200    | 16       | 14.41%  |
-| 1333    | 7        | 6.31%   |
-| 2667    | 6        | 5.41%   |
-| 2400    | 5        | 4.5%    |
-| 667     | 5        | 4.5%    |
-| Unknown | 5        | 4.5%    |
-| 3600    | 4        | 3.6%    |
-| 5200    | 3        | 2.7%    |
-| 3933    | 3        | 2.7%    |
-| 3733    | 3        | 2.7%    |
-| 2133    | 3        | 2.7%    |
-| 1800    | 3        | 2.7%    |
-| 800     | 3        | 2.7%    |
-| 1867    | 2        | 1.8%    |
-| 1866    | 2        | 1.8%    |
-| 1066    | 2        | 1.8%    |
-| 4800    | 1        | 0.9%    |
-| 3666    | 1        | 0.9%    |
-| 3534    | 1        | 0.9%    |
-| 3466    | 1        | 0.9%    |
-| 3000    | 1        | 0.9%    |
-| 2933    | 1        | 0.9%    |
-| 2666    | 1        | 0.9%    |
-| 2048    | 1        | 0.9%    |
-| 1067    | 1        | 0.9%    |
+| 1600    | 30       | 26.79%  |
+| 3200    | 16       | 14.29%  |
+| 1333    | 7        | 6.25%   |
+| 2667    | 6        | 5.36%   |
+| 2400    | 5        | 4.46%   |
+| 667     | 5        | 4.46%   |
+| Unknown | 5        | 4.46%   |
+| 3600    | 4        | 3.57%   |
+| 800     | 4        | 3.57%   |
+| 5200    | 3        | 2.68%   |
+| 3933    | 3        | 2.68%   |
+| 3733    | 3        | 2.68%   |
+| 2133    | 3        | 2.68%   |
+| 1800    | 3        | 2.68%   |
+| 1867    | 2        | 1.79%   |
+| 1866    | 2        | 1.79%   |
+| 1066    | 2        | 1.79%   |
+| 4800    | 1        | 0.89%   |
+| 3666    | 1        | 0.89%   |
+| 3534    | 1        | 0.89%   |
+| 3466    | 1        | 0.89%   |
+| 3000    | 1        | 0.89%   |
+| 2933    | 1        | 0.89%   |
+| 2666    | 1        | 0.89%   |
+| 2048    | 1        | 0.89%   |
+| 1067    | 1        | 0.89%   |
 
 Printers & scanners
 -------------------
@@ -3062,7 +3062,7 @@ Camera device models
 | Microdia USB Camera                      | 2        | 7.41%   |
 | Logitech Webcam C170                     | 2        | 7.41%   |
 | Generalplus 808 Camera #9 (web-cam mode) | 2        | 7.41%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR       | 2        | 7.41%   |
+| Apple iPhone 5/5C/5S/6/SE                | 2        | 7.41%   |
 | WCM_USB WEB CAM                          | 1        | 3.7%    |
 | Sunplus WEBCAM ESSENTIELB W1             | 1        | 3.7%    |
 | Realtek HP High Definition 1MP Webcam    | 1        | 3.7%    |
@@ -3122,8 +3122,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 154      | 78.57%  |
-| 1     | 39       | 19.9%   |
+| 0     | 156      | 79.59%  |
+| 1     | 37       | 18.88%  |
 | 6     | 1        | 0.51%   |
 | 3     | 1        | 0.51%   |
 | 2     | 1        | 0.51%   |
@@ -3138,11 +3138,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 20       | 45.45%  |
-| Net/wireless             | 13       | 29.55%  |
-| Communication controller | 4        | 9.09%   |
-| Unassigned class         | 3        | 6.82%   |
-| Sound                    | 2        | 4.55%   |
-| Storage/ide              | 1        | 2.27%   |
-| Network                  | 1        | 2.27%   |
+| Graphics card            | 18       | 42.86%  |
+| Net/wireless             | 13       | 30.95%  |
+| Communication controller | 4        | 9.52%   |
+| Unassigned class         | 3        | 7.14%   |
+| Sound                    | 2        | 4.76%   |
+| Storage/ide              | 1        | 2.38%   |
+| Network                  | 1        | 2.38%   |
 

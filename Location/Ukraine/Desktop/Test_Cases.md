@@ -1,10 +1,11 @@
 Linux in Ukraine - Test Cases (Desktops)
 ----------------------------------------
 
-Total: 2053
+Total: 2054
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | TUF Gaming B760M-PLUS WI... | [843542e7eb](https://linux-hardware.org/?probe=843542e7eb) | Dec 30, 2023 |
 | Gigabyte      | H57M-USB3                   | [38bb251f37](https://linux-hardware.org/?probe=38bb251f37) | Dec 15, 2023 |
 | ASRock        | H570 Phantom Gaming 4       | [b942870c3a](https://linux-hardware.org/?probe=b942870c3a) | Dec 15, 2023 |
 | MSI           | B550M PRO-VDH               | [49e317cfc8](https://linux-hardware.org/?probe=49e317cfc8) | Dec 06, 2023 |

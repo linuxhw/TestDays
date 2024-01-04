@@ -907,8 +907,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 69       | 54.76%  |
-| No        | 57       | 45.24%  |
+| Yes       | 68       | 53.97%  |
+| No        | 58       | 46.03%  |
 
 Has Ethernet
 ------------
@@ -1117,7 +1117,7 @@ Hard drive models
 |-----------------------------------------------------|----------|---------|
 | WDC WD10EZEX-08WN4A0 1TB                            | 5        | 1.79%   |
 | Seagate ST500DM002-1BD142 500GB                     | 5        | 1.79%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 5        | 1.79%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 5        | 1.79%   |
 | Seagate ST1000DM003-1ER162 1TB                      | 4        | 1.43%   |
 | Kingston SA400S37120G 120GB SSD                     | 4        | 1.43%   |
 | WDC WD5003AZEX-00K3CA0 500GB                        | 3        | 1.07%   |
@@ -1255,9 +1255,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 82       | 137    | 45.81%  |
+| 0.01-0.5   | 83       | 138    | 46.37%  |
 | 0.51-1.0   | 50       | 94     | 27.93%  |
-| 1.01-2.0   | 24       | 31     | 13.41%  |
+| 1.01-2.0   | 23       | 30     | 12.85%  |
 | 3.01-4.0   | 12       | 17     | 6.7%    |
 | 4.01-10.0  | 6        | 35     | 3.35%   |
 | 2.01-3.0   | 5        | 9      | 2.79%   |
@@ -2330,7 +2330,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                        | 1        | 0.72%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                             | 1        | 0.72%   |
 | NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter | 1        | 0.72%   |
-| Motorola PCS moto g62 5G                                             | 1        | 0.72%   |
+| Motorola PCS motorola edge 40                                        | 1        | 0.72%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                    | 1        | 0.72%   |
 | Intel I210 Gigabit Network Connection                                | 1        | 0.72%   |
 | Intel Ethernet Controller I225-IT                                    | 1        | 0.72%   |
@@ -2442,16 +2442,15 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 5        | 11.9%   |
 | MediaTek Wireless_Device                              | 4        | 9.52%   |
 | Intel Bluetooth wireless interface                    | 4        | 9.52%   |
+| Intel Bluetooth Device                                | 4        | 9.52%   |
 | Realtek  Bluetooth 4.2 Adapter                        | 3        | 7.14%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 3        | 7.14%   |
 | Intel AX210 Bluetooth                                 | 3        | 7.14%   |
-| Intel AX201 Bluetooth                                 | 3        | 7.14%   |
-| TP-Link TP-Cdj+ UB5A Adapter                          | 2        | 4.76%   |
+| TP-Link UB500 Adapter                                 | 2        | 4.76%   |
 | Realtek RTL8723B Bluetooth                            | 2        | 4.76%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 2        | 4.76%   |
 | Realtek Bluetooth Radio                               | 1        | 2.38%   |
 | Ralink RT3290 Bluetooth                               | 1        | 2.38%   |
-| Intel Bluetooth Device                                | 1        | 2.38%   |
 | Intel AX200 Bluetooth                                 | 1        | 2.38%   |
 | IMC Networks Wireless_Device                          | 1        | 2.38%   |
 | IMC Networks Bluetooth Radio                          | 1        | 2.38%   |
@@ -2588,48 +2587,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                         | 2        | 2.02%   |
-| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3266MT/s               | 2        | 2.02%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s               | 2        | 2.02%   |
-| Kingston RAM KF3600C18D4/16GX 16GB DIMM DDR4 3733MT/s             | 2        | 2.02%   |
-| G.Skill RAM F5-6000J3636F16G 16GB DIMM DDR5 6400MT/s              | 2        | 2.02%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s             | 2        | 2.02%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s             | 2        | 2.02%   |
-| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s             | 2        | 2.02%   |
-| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                         | 1        | 1.01%   |
-| Unknown RAM Module 4GB DIMM DDR2 800MT/s                          | 1        | 1.01%   |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                          | 1        | 1.01%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                              | 1        | 1.01%   |
-| Unknown RAM Module 4GB DIMM                                       | 1        | 1.01%   |
-| Unknown RAM Module 2GB DIMM DDR 1333MT/s                          | 1        | 1.01%   |
-| Unknown RAM Module 2GB DIMM 667MT/s                               | 1        | 1.01%   |
-| Unknown RAM DDR4 NB 8G 2400 8192MB SODIMM DDR4 2667MT/s           | 1        | 1.01%   |
-| Unknown RAM DDR4 NB 16G 2666 16384MB SODIMM DDR4 2667MT/s         | 1        | 1.01%   |
-| Unknown RAM 1866 CL10 Series 8192MB DIMM DDR3 933MT/s             | 1        | 1.01%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 1.01%   |
-| Unknown (0x7FFF) RAM GRAVITON 8GB-288P01 8GB DIMM DDR4 2667MT/s   | 1        | 1.01%   |
-| Unifosa RAM GU512303EP0202 2048MB DIMM DDR3 1333MT/s              | 1        | 1.01%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s               | 1        | 1.01%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                        | 1        | 1.01%   |
-| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                        | 1        | 1.01%   |
-| SK hynix RAM Module 2GB DIMM DDR3 1333MT/s                        | 1        | 1.01%   |
-| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s               | 1        | 1.01%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 1.01%   |
-| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1        | 1.01%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s              | 1        | 1.01%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 1.01%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1        | 1.01%   |
-| SK hynix RAM HMT325U6EFR8C-PB 2GB DIMM DDR3 1600MT/s              | 1        | 1.01%   |
-| SK hynix RAM HMABAGL7ABR4N-XN 128GB DIMM DDR4 3200MT/s            | 1        | 1.01%   |
-| SK hynix RAM HMA82GU6JJR8N-VK 16GB DIMM DDR4 2667MT/s             | 1        | 1.01%   |
-| Samsung RAM Module 4GB DIMM DDR3 1333MT/s                         | 1        | 1.01%   |
-| Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s            | 1        | 1.01%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s               | 1        | 1.01%   |
-| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 1.01%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 1.01%   |
-| Samsung RAM M378A5244CB0-CTD 4GB DIMM DDR4 3334MT/s               | 1        | 1.01%   |
+| Model                                                           | Desktops | Percent |
+|-----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                       | 2        | 2.02%   |
+| Samsung RAM M378A1K43CB2-CTD 8GB DIMM DDR4 3266MT/s             | 2        | 2.02%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s             | 2        | 2.02%   |
+| Kingston RAM KF3600C18D4/16GX 16GB DIMM DDR4 3733MT/s           | 2        | 2.02%   |
+| G.Skill RAM F5-6000J3636F16G 16GB DIMM 6400MT/s                 | 2        | 2.02%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s           | 2        | 2.02%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3533MT/s           | 2        | 2.02%   |
+| Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s           | 2        | 2.02%   |
+| Unknown RAM Module 8GB DIMM DDR3 1333MT/s                       | 1        | 1.01%   |
+| Unknown RAM Module 4GB DIMM DDR2 800MT/s                        | 1        | 1.01%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                        | 1        | 1.01%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                            | 1        | 1.01%   |
+| Unknown RAM Module 4GB DIMM                                     | 1        | 1.01%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                        | 1        | 1.01%   |
+| Unknown RAM Module 2GB DIMM 667MT/s                             | 1        | 1.01%   |
+| Unknown RAM DDR4 NB 8G 2400 8192MB SODIMM DDR4 2667MT/s         | 1        | 1.01%   |
+| Unknown RAM DDR4 NB 16G 2666 16384MB SODIMM DDR4 2667MT/s       | 1        | 1.01%   |
+| Unknown RAM 1866 CL10 Series 8192MB DIMM DDR3 933MT/s           | 1        | 1.01%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s  | 1        | 1.01%   |
+| Unknown (0x7FFF) RAM GRAVITON 8GB-288P01 8GB DIMM DDR4 2667MT/s | 1        | 1.01%   |
+| Unifosa RAM GU512303EP0202 2048MB DIMM DDR3 1333MT/s            | 1        | 1.01%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s             | 1        | 1.01%   |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                      | 1        | 1.01%   |
+| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                      | 1        | 1.01%   |
+| SK hynix RAM Module 2GB DIMM DDR3 1333MT/s                      | 1        | 1.01%   |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s             | 1        | 1.01%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s            | 1        | 1.01%   |
+| SK hynix RAM HMT351U7BFR8C-H9 4GB DIMM DDR3 1333MT/s            | 1        | 1.01%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s            | 1        | 1.01%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s            | 1        | 1.01%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB DIMM DDR3 1333MT/s            | 1        | 1.01%   |
+| SK hynix RAM HMT325U6EFR8C-PB 2GB DIMM DDR3 1600MT/s            | 1        | 1.01%   |
+| SK hynix RAM HMABAGL7ABR4N-XN 128GB DIMM DDR4 3200MT/s          | 1        | 1.01%   |
+| SK hynix RAM HMA82GU6JJR8N-VK 16GB DIMM DDR4 2667MT/s           | 1        | 1.01%   |
+| Samsung RAM Module 4GB DIMM DDR3 1333MT/s                       | 1        | 1.01%   |
+| Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s          | 1        | 1.01%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR2 2133MT/s          | 1        | 1.01%   |
+| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s             | 1        | 1.01%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s             | 1        | 1.01%   |
+| Samsung RAM M378A5244CB0-CTD 4GB DIMM DDR4 3334MT/s             | 1        | 1.01%   |
 
 Memory Kind
 -----------
@@ -2836,16 +2835,16 @@ Camera device models
 | Realtek HP 1.0MP High Definition Webcam   | 1        | 3.45%   |
 | Razer USA Gaming Webcam [Kiyo]            | 1        | 3.45%   |
 | Microsoft LifeCam VX-500 [1357]           | 1        | 3.45%   |
+| Logitech Webcam C925e                     | 1        | 3.45%   |
 | Logitech QuickCam E 3500                  | 1        | 3.45%   |
 | Logitech Quickcam 3000 For Business       | 1        | 3.45%   |
-| Logitech Logitech Webcam C925e            | 1        | 3.45%   |
 | Logitech C920 PRO HD Webcam               | 1        | 3.45%   |
 | LeCroy USB 2.0 PC Camera                  | 1        | 3.45%   |
 | KYE Systems (Mouse Systems) Genius Webcam | 1        | 3.45%   |
 | Generalplus GENERAL WEBCAM                | 1        | 3.45%   |
 | Generalplus 808 Camera #9 (web-cam mode)  | 1        | 3.45%   |
 | ARC International Camera                  | 1        | 3.45%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR        | 1        | 3.45%   |
+| Apple iPhone 5/5C/5S/6/SE                 | 1        | 3.45%   |
 | Alcorlink USB 2.0 Camera                  | 1        | 3.45%   |
 | Alcor Micro USB 2.0 PC Camera             | 1        | 3.45%   |
 
@@ -2905,8 +2904,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 113      | 88.98%  |
-| 1     | 12       | 9.45%   |
+| 0     | 114      | 89.76%  |
+| 1     | 11       | 8.66%   |
 | 3     | 1        | 0.79%   |
 | 2     | 1        | 0.79%   |
 
@@ -2920,11 +2919,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 5        | 33.33%  |
-| Unassigned class         | 3        | 20%     |
-| Graphics card            | 3        | 20%     |
-| Communication controller | 1        | 6.67%   |
-| Chipcard                 | 1        | 6.67%   |
-| Card reader              | 1        | 6.67%   |
-| Bluetooth                | 1        | 6.67%   |
+| Net/wireless             | 5        | 35.71%  |
+| Unassigned class         | 3        | 21.43%  |
+| Graphics card            | 2        | 14.29%  |
+| Communication controller | 1        | 7.14%   |
+| Chipcard                 | 1        | 7.14%   |
+| Card reader              | 1        | 7.14%   |
+| Bluetooth                | 1        | 7.14%   |
 

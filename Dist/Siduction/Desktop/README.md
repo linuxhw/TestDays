@@ -1401,7 +1401,7 @@ Monitor models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM021E 1680x1050 433x271mm 20.1-inch | 2        | 7.41%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 3.7%    |
+| STD HDMI TV STD00C7 1440x900 698x392mm 31.5-inch                     | 1        | 3.7%    |
 | Sony SAMSUNG SNY5203 1920x540                                        | 1        | 3.7%    |
 | Samsung Electronics S27E590 SAM0C5D 1920x1080 598x336mm 27.0-inch    | 1        | 3.7%    |
 | Samsung Electronics S27E391 SAM0C15 1920x1080 598x336mm 27.0-inch    | 1        | 3.7%    |
@@ -1737,7 +1737,7 @@ Controller models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Realtek Bluetooth Radio                                 | 1        | 25%     |
-| Intel AX201 Bluetooth                                   | 1        | 25%     |
+| Intel Bluetooth Device                                  | 1        | 25%     |
 | Edimax EW-7611ULB 802.11b/g/n and Bluetooth 4.0 Adapter | 1        | 25%     |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)     | 1        | 25%     |
 
@@ -1788,7 +1788,7 @@ Sound card models
 | Intel C610/X99 series chipset HD Audio Controller                   | 1        | 2.94%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller | 1        | 2.94%   |
 | GN Netcom Jabra Link 380                                            | 1        | 2.94%   |
-| Cambridge Silicon Radio AfterShokz Loop 100                         | 1        | 2.94%   |
+| Cambridge Silicon Radio FiiO BTR3K                                  | 1        | 2.94%   |
 | C-Media Electronics CMI8738/CMI8768 PCI Audio                       | 1        | 2.94%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                   | 1        | 2.94%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                 | 1        | 2.94%   |
@@ -1972,14 +1972,14 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                        | Desktops | Percent |
-|------------------------------|----------|---------|
-| WaveRider USB Live camera    | 1        | 16.67%  |
-| Realtek FULL HD 1080P Webcam | 1        | 16.67%  |
-| Microsoft LifeCam Cinema     | 1        | 16.67%  |
-| Logitech Webcam C270         | 1        | 16.67%  |
-| Logitech QuickCam Pro 9000   | 1        | 16.67%  |
-| A4Tech REDRAGON Live Camera  | 1        | 16.67%  |
+| Model                       | Desktops | Percent |
+|-----------------------------|----------|---------|
+| WaveRider USB Live camera   | 1        | 16.67%  |
+| Realtek Full HD webcam      | 1        | 16.67%  |
+| Microsoft LifeCam Cinema    | 1        | 16.67%  |
+| Logitech Webcam C270        | 1        | 16.67%  |
+| Logitech QuickCam Pro 9000  | 1        | 16.67%  |
+| A4Tech REDRAGON Live Camera | 1        | 16.67%  |
 
 Security
 --------

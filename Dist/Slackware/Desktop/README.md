@@ -1029,7 +1029,7 @@ Hard drive models
 | Seagate ST4000DM004-2CV104 4TB                      | 3        | 1.43%   |
 | Seagate ST2000DM008-2FR102 2TB                      | 3        | 1.43%   |
 | Samsung SSD 970 EVO 250GB                           | 3        | 1.43%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3        | 1.43%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3        | 1.43%   |
 | WDC WD40EZRX-00SPEB0 4TB                            | 2        | 0.95%   |
 | WDC WD30EZRX-00SPEB0 3TB                            | 2        | 0.95%   |
 | WDC WD10EZEX-08WN4A0 1TB                            | 2        | 0.95%   |
@@ -1046,7 +1046,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB                      | 2        | 0.95%   |
 | Seagate ST1000DM003-1SB102 1TB                      | 2        | 0.95%   |
 | Seagate ST1000DM003-1ER162 1TB                      | 2        | 0.95%   |
-| Seagate Expansion Desk 6TB                          | 2        | 0.95%   |
+| Seagate Expansion Desk 8TB                          | 2        | 0.95%   |
 | Samsung SSD 970 EVO Plus 1TB                        | 2        | 0.95%   |
 | Samsung SSD 850 PRO 256GB                           | 2        | 0.95%   |
 | Kingston SA400S37240G 240GB SSD                     | 2        | 0.95%   |
@@ -1881,7 +1881,7 @@ Monitor models
 | Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                   | 1        | 1.3%    |
 | Goldstar HDR WQHD GSM7756 3440x1440 820x346mm 35.0-inch               | 1        | 1.3%    |
 | Goldstar FULL HD GSM5ABA 1920x1080 480x270mm 21.7-inch                | 1        | 1.3%    |
-| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                  | 1        | 1.3%    |
+| Goldstar E2260 GSM57DF 1920x1080 480x270mm 21.7-inch                  | 1        | 1.3%    |
 | Goldstar E1641 GSM8B3E 1366x768 344x194mm 15.5-inch                   | 1        | 1.3%    |
 | Goldstar BK750Y GSM5B3E 1920x1080 600x340mm 27.2-inch                 | 1        | 1.3%    |
 | Goldstar BK750Y GSM5B3D 1920x1080 480x270mm 21.7-inch                 | 1        | 1.3%    |
@@ -2103,7 +2103,7 @@ Controller models
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                    | 1        | 0.83%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                      | 1        | 0.83%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                  | 1        | 0.83%   |
-| Qualcomm Redmi 9T                                                          | 1        | 0.83%   |
+| Qualcomm FP3                                                               | 1        | 0.83%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                           | 1        | 0.83%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)             | 1        | 0.83%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                           | 1        | 0.83%   |
@@ -2217,7 +2217,7 @@ Ethernet models
 | VIA VT6105/VT6106S [Rhine-III]                                                | 1        | 1.09%   |
 | Realtek USB 10/100/1G/2.5G LAN                                                | 1        | 1.09%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.09%   |
-| Qualcomm Redmi 9T                                                             | 1        | 1.09%   |
+| Qualcomm FP3                                                                  | 1        | 1.09%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 1.09%   |
 | Nvidia MCP79 Ethernet                                                         | 1        | 1.09%   |
 | Mellanox MT26448 [ConnectX EN 10GigE, PCIe 2.0 5GT/s]                         | 1        | 1.09%   |
@@ -2325,7 +2325,7 @@ Controller models
 | MediaTek Wireless_Device                            | 3        | 10.34%  |
 | Intel AX200 Bluetooth                               | 3        | 10.34%  |
 | Intel Wireless-AC 3168 Bluetooth                    | 2        | 6.9%    |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 1        | 3.45%   |
+| TP-Link UB500 Adapter                               | 1        | 3.45%   |
 | Realtek Bluetooth Radio                             | 1        | 3.45%   |
 | Micro Star International Bluetooth Dongle           | 1        | 3.45%   |
 | Micro Star International Bluetooth Device           | 1        | 3.45%   |
@@ -2402,7 +2402,7 @@ Sound card models
 | AMD Renoir Radeon High Definition Audio Controller                                              | 2        | 1.41%   |
 | VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller                     | 1        | 0.7%    |
 | Texas Instruments PCM2902 Audio Codec                                                           | 1        | 0.7%    |
-| RME ADI-2 DAC (58830529)                                                                        | 1        | 0.7%    |
+| RME ADI-2 DAC (51060020)                                                                        | 1        | 0.7%    |
 | Nvidia TU116 High Definition Audio Controller                                                   | 1        | 0.7%    |
 | Nvidia MCP79 High Definition Audio                                                              | 1        | 0.7%    |
 | Nvidia GP104 High Definition Audio Controller                                                   | 1        | 0.7%    |
@@ -2459,8 +2459,8 @@ Memory module models
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                        | 2        | 2.17%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s         | 2        | 2.17%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s         | 2        | 2.17%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s         | 2        | 2.17%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s         | 2        | 2.17%   |
 | Corsair RAM CMZ32GX3M4X1600C10 8GB DIMM DDR3 1600MT/s       | 2        | 2.17%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s       | 2        | 2.17%   |
 | Unknown                                                     | 2        | 2.17%   |
@@ -2480,7 +2480,7 @@ Memory module models
 | Strontium RAM SRT4G86U1-P9H 4096MB DIMM DDR3 1333MT/s       | 1        | 1.09%   |
 | Smart RAM SH564128FH8N6TNSQG 4GB DIMM DDR3 1600MT/s         | 1        | 1.09%   |
 | SK hynix RAM HYMP512F72CP8N3-Y5 1024MB FB-DIMM DDR2 667MT/s | 1        | 1.09%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1        | 1.09%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s   | 1        | 1.09%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 2000MT/s        | 1        | 1.09%   |
 | SK hynix RAM HMT351U6BFR8C-H9 4GB DIMM DDR3 1333MT/s        | 1        | 1.09%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB DIMM DDR3 1600MT/s        | 1        | 1.09%   |

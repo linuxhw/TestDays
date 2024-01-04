@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 23
+Total: 24
 
 | Vendor   | Model           | Probe                                                      | Date         |
 |----------|-----------------|------------------------------------------------------------|--------------|
+| Shuttle  | DS10U           | [333bcd6641](https://linux-hardware.org/?probe=333bcd6641) | Dec 26, 2023 |
 | Shuttle  | DS10U           | [2b28414f3d](https://linux-hardware.org/?probe=2b28414f3d) | Dec 14, 2023 |
 | Shuttle  | DS10U           | [0a9d211454](https://linux-hardware.org/?probe=0a9d211454) | Dec 14, 2023 |
 | ASUSTek  | A88X-PLUS/USB   | [0856a3d881](https://linux-hardware.org/?probe=0856a3d881) | Dec 11, 2023 |
@@ -576,8 +577,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 9        | 75%     |
-| Yes       | 3        | 25%     |
+| No        | 10       | 83.33%  |
+| Yes       | 2        | 16.67%  |
 
 Has Ethernet
 ------------
@@ -712,7 +713,7 @@ Hard drive models
 | Intenso SSD 128GB               | 1        | 5.26%   |
 | Intenso SSD 120GB               | 1        | 5.26%   |
 | China SATA SSD 128GB            | 1        | 5.26%   |
-| ASMT 2235 500GB                 | 1        | 5.26%   |
+| ASMT 2235 120GB                 | 1        | 5.26%   |
 
 HDD Vendor
 ----------
@@ -1216,8 +1217,8 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch | 1        | 9.09%   |
 | PRI Prima TV PRI1600 1920x1080                                       | 1        | 9.09%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch            | 1        | 9.09%   |
-| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch               | 1        | 9.09%   |
-| Dell P2213 DELF042 1680x1050 470x300mm 22.0-inch                     | 1        | 9.09%   |
+| Goldstar FHD GSM5B54 1920x1080 480x270mm 21.7-inch                   | 1        | 9.09%   |
+| Dell P2213 DELF042 1680x1050 473x296mm 22.0-inch                     | 1        | 9.09%   |
 | AOC 2050W AOC2050 1600x900 432x240mm 19.5-inch                       | 1        | 9.09%   |
 
 Monitor Resolution

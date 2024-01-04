@@ -868,8 +868,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 59       | 77.63%  |
-| Yes       | 17       | 22.37%  |
+| No        | 60       | 78.95%  |
+| Yes       | 16       | 21.05%  |
 
 Has Ethernet
 ------------
@@ -1064,7 +1064,7 @@ Hard drive models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 6        | 3.05%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 6        | 3.05%   |
 | Toshiba DT01ACA100 1TB                              | 5        | 2.54%   |
 | WDC WD10EZEX-08WN4A0 1TB                            | 3        | 1.52%   |
 | Seagate ST3500418AS 500GB                           | 3        | 1.52%   |
@@ -1080,7 +1080,7 @@ Hard drive models
 | Toshiba DT01ACA050 500GB                            | 2        | 1.02%   |
 | Seagate ST500DM002-1BD142 500GB                     | 2        | 1.02%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 2        | 1.02%   |
-| Sandisk WD Blue SN550 NVMe SSD 512GB                | 2        | 1.02%   |
+| Sandisk WD Blue SN550 NVMe SSD 1TB                  | 2        | 1.02%   |
 | Samsung SSD 970 EVO 1TB                             | 2        | 1.02%   |
 | Samsung SSD 840 EVO 250GB                           | 2        | 1.02%   |
 | Phison PS5013 E13 NVMe Controller 512GB             | 2        | 1.02%   |
@@ -1197,9 +1197,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 58       | 91     | 47.15%  |
-| 0.51-1.0   | 36       | 55     | 29.27%  |
-| 1.01-2.0   | 13       | 14     | 10.57%  |
+| 0.01-0.5   | 55       | 87     | 44.72%  |
+| 0.51-1.0   | 37       | 57     | 30.08%  |
+| 1.01-2.0   | 15       | 16     | 12.2%   |
 | 4.01-10.0  | 7        | 14     | 5.69%   |
 | 3.01-4.0   | 5        | 7      | 4.07%   |
 | 2.01-3.0   | 4        | 4      | 3.25%   |
@@ -1844,12 +1844,12 @@ Monitor models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                 | 2        | 1.94%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch                | 2        | 1.94%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch                | 2        | 1.94%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                  | 2        | 1.94%   |
 | AOC 2200W AOC2200 1920x1080 476x268mm 21.5-inch                         | 2        | 1.94%   |
-| Ancor Communications ASUS PB277 ACI27B5 1920x1080 597x336mm 27.0-inch   | 2        | 1.94%   |
+| Ancor Communications ASUS PB277 ACI27B5 2560x1440 597x336mm 27.0-inch   | 2        | 1.94%   |
 | ViewSonic LCD Monitor VX2452 Series 3840x1080                           | 1        | 0.97%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch      | 1        | 0.97%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 0.97%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch               | 1        | 0.97%   |
 | Sony TV SNY7001 1920x1080                                               | 1        | 0.97%   |
 | Samsung Electronics U32J59x SAM0F34 3840x2160 697x392mm 31.5-inch       | 1        | 0.97%   |
@@ -1861,9 +1861,9 @@ Monitor models
 | Samsung Electronics S24D330 SAM0D92 1920x1080 531x299mm 24.0-inch       | 1        | 0.97%   |
 | Samsung Electronics S24A31x SAM7114 1920x1080 527x296mm 23.8-inch       | 1        | 0.97%   |
 | Samsung Electronics S22F350 SAM0D1A 1920x1080 477x268mm 21.5-inch       | 1        | 0.97%   |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 0.97%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 890x500mm 40.2-inch   | 1        | 0.97%   |
-| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1190x340mm 48.7-inch      | 1        | 0.97%   |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch   | 1        | 0.97%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1872x1053mm 84.6-inch | 1        | 0.97%   |
+| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch      | 1        | 0.97%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch       | 1        | 0.97%   |
 | Samsung Electronics C27FG7x SAM0E41 1920x1080 598x337mm 27.0-inch       | 1        | 0.97%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch       | 1        | 0.97%   |
@@ -2085,7 +2085,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-V                              | 3        | 2.33%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 3        | 2.33%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 2        | 1.55%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 2        | 1.55%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 2        | 1.55%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 2        | 1.55%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 2        | 1.55%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter          | 2        | 1.55%   |
@@ -2113,7 +2113,7 @@ Controller models
 | Qualcomm Atheros AR9271 802.11n                                   | 1        | 0.78%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                  | 1        | 0.78%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 0.78%   |
-| Microsoft XBOX ACC                                                | 1        | 0.78%   |
+| Microsoft Xbox Wireless Adapter for Windows                       | 1        | 0.78%   |
 | Intel Wireless-AC 9260                                            | 1        | 0.78%   |
 | Intel Wireless 8265 / 8275                                        | 1        | 0.78%   |
 | Intel Wireless 8260                                               | 1        | 0.78%   |
@@ -2154,7 +2154,7 @@ Wireless models
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                                              | 4        | 10%     |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                                    | 3        | 7.5%    |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                                         | 2        | 5%      |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                                 | 2        | 5%      |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                               | 2        | 5%      |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                                     | 2        | 5%      |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                            | 2        | 5%      |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                                            | 2        | 5%      |
@@ -2170,7 +2170,7 @@ Wireless models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                          | 1        | 2.5%    |
 | Qualcomm Atheros AR9271 802.11n                                                                     | 1        | 2.5%    |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                                                    | 1        | 2.5%    |
-| Microsoft XBOX ACC                                                                                  | 1        | 2.5%    |
+| Microsoft Xbox Wireless Adapter for Windows                                                         | 1        | 2.5%    |
 | Intel Wireless-AC 9260                                                                              | 1        | 2.5%    |
 | Intel Wireless 8265 / 8275                                                                          | 1        | 2.5%    |
 | Intel Wireless 8260                                                                                 | 1        | 2.5%    |
@@ -2338,7 +2338,7 @@ Controller models
 | Intel AX200 Bluetooth                                                | 2        | 5.71%   |
 | Qualcomm Atheros  Bluetooth Device                                   | 1        | 2.86%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                             | 1        | 2.86%   |
-| Intel AX201 Bluetooth                                                | 1        | 2.86%   |
+| Intel Bluetooth Device                                               | 1        | 2.86%   |
 | IMC Networks Bluetooth Device                                        | 1        | 2.86%   |
 | HTC (High Tech Computer) Vive Hub Bluetooth 4.1 (Broadcom BCM920703) | 1        | 2.86%   |
 | Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0]             | 1        | 2.86%   |
@@ -2346,7 +2346,7 @@ Controller models
 | Broadcom BCM20702A0 Bluetooth 4.0                                    | 1        | 2.86%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                                   | 1        | 2.86%   |
 | ASUS Bluetooth Radio                                                 | 1        | 2.86%   |
-| ASUS ASUS USB-BT500                                                  | 1        | 2.86%   |
+| ASUS Bluetooth Device                                                | 1        | 2.86%   |
 
 Sound
 -----
@@ -2497,7 +2497,7 @@ Memory module models
 | Patriot RAM PSD48G240082 8GB DIMM DDR4 2400MT/s             | 1        | 1.33%   |
 | Patriot RAM PSD48G240081 8GB DIMM DDR4 2800MT/s             | 1        | 1.33%   |
 | Patriot RAM PSD38G16002 8GB DIMM DDR3 1600MT/s              | 1        | 1.33%   |
-| Patriot RAM 3000 C16 Series 32GB DIMM DDR4 3200MT/s         | 1        | 1.33%   |
+| Patriot RAM 3000 C16 Series 8GB DIMM DDR4 3200MT/s          | 1        | 1.33%   |
 | Micron RAM 16ATF2G64HZ-2G6J1 16GB SODIMM DDR4 2667MT/s      | 1        | 1.33%   |
 | Kingston RAM XJ69DF-MIE 8GB DIMM DDR4 2933MT/s              | 1        | 1.33%   |
 | Kingston RAM MSI24D4U7S8MB-8 8GB DIMM DDR4 2400MT/s         | 1        | 1.33%   |
@@ -2507,7 +2507,7 @@ Memory module models
 | Kingston RAM 99U5595-003.A00LF 2GB DIMM DDR3 1600MT/s       | 1        | 1.33%   |
 | Kingston RAM 99U5584-014.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.33%   |
 | Kingston RAM 99U5474-010.A00LF 2GB DIMM DDR3 1333MT/s       | 1        | 1.33%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.33%   |
+| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s    | 1        | 1.33%   |
 | Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1600MT/s       | 1        | 1.33%   |
 | Kingston RAM 99P5474-033.A00LF 2GB DIMM DDR3 1600MT/s       | 1        | 1.33%   |
 | Golden Empire RAM CL16-18-18 D4-3000 8GB DIMM DDR4 3000MT/s | 1        | 1.33%   |
@@ -2687,7 +2687,7 @@ Camera device models
 |------------------------------------------------|----------|---------|
 | Logitech Webcam C270                           | 2        | 11.11%  |
 | WaveRider USB 2.0 Camera                       | 1        | 5.56%   |
-| Sunplus 5Mega Webcam                           | 1        | 5.56%   |
+| Sunplus USB Camera                             | 1        | 5.56%   |
 | Microsoft LifeCam Cinema                       | 1        | 5.56%   |
 | Microdia Webcam Vitade AF                      | 1        | 5.56%   |
 | Microdia USB Camera                            | 1        | 5.56%   |

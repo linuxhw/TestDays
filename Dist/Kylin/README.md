@@ -854,7 +854,7 @@ Hard drive models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | SanDisk NVMe SSD Drive 1TB                          | 2         | 3.77%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2         | 3.77%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2         | 3.77%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 2         | 3.77%   |
 | Micron MTFDKBA512TFH 512GB                          | 2         | 3.77%   |
 | FORESEE 64GB SSD                                    | 2         | 3.77%   |
@@ -1555,7 +1555,7 @@ Monitor models
 | BOE LCD Monitor BOE06B6 1366x768 309x173mm 13.9-inch                  | 1         | 2.38%   |
 | BOE LCD Monitor BOE0691 1920x1080 280x165mm 12.8-inch                 | 1         | 2.38%   |
 | BenQ LCD Monitor G2400W 1920x1200                                     | 1         | 2.38%   |
-| AU Optronics LCD Monitor AUO312C 1366x768 293x164mm 13.2-inch         | 1         | 2.38%   |
+| AU Optronics LCD Monitor AUO312C 1366x768 293x165mm 13.2-inch         | 1         | 2.38%   |
 | Apple Color LCD APPA02A 2560x1600 286x179mm 13.3-inch                 | 1         | 2.38%   |
 | AOC 27B3HM AOC2703 1920x1080 598x336mm 27.0-inch                      | 1         | 2.38%   |
 | AOC 23E1WX AOC2301 1920x1080 488x297mm 22.5-inch                      | 1         | 2.38%   |
@@ -1946,14 +1946,13 @@ Controller models
 
 | Model                                              | Computers | Percent |
 |----------------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                             | 7         | 22.58%  |
 | Intel Bluetooth wireless interface                 | 5         | 16.13%  |
-| Intel AX201 Bluetooth                              | 4         | 12.9%   |
 | Realtek Bluetooth Radio                            | 3         | 9.68%   |
-| Intel Bluetooth Device                             | 3         | 9.68%   |
 | Foxconn / Hon Hai MediaTek Bluetooth Adapter       | 3         | 9.68%   |
 | IMC Networks Bluetooth Radio                       | 2         | 6.45%   |
 | Realtek 802.11n WLAN Adapter                       | 1         | 3.23%   |
-| Realtek 802.11ac WLAN Adapter                      | 1         | 3.23%   |
+| Realtek Bluetooth Radio                            | 1         | 3.23%   |
 | Qualcomm Atheros  Bluetooth Device                 | 1         | 3.23%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter   | 1         | 3.23%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)     | 1         | 3.23%   |
@@ -2065,7 +2064,7 @@ Memory module models
 | SK hynix RAM Module 4096MB SODIMM LPDDR3 1867MT/s                | 1         | 2.7%    |
 | SK hynix RAM HMAA1GS6DMR6N-XN 8GB Row Of Chips DDR4 3200MT/s     | 1         | 2.7%    |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB Row Of Chips DDR4 3200MT/s     | 1         | 2.7%    |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 1         | 2.7%    |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 1         | 2.7%    |
 | SK hynix RAM HMA81GU6DJR8N-XN 8192MB DIMM DDR4 3200MT/s          | 1         | 2.7%    |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 2.7%    |
 | SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 2.7%    |

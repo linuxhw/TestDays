@@ -1468,7 +1468,7 @@ Monitor models
 | ViewSonic VA2419 Series VSC7B32 1920x1080 530x300mm 24.0-inch         | 1         | 4%      |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 4%      |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 4%      |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch | 1         | 4%      |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1         | 4%      |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 4%      |
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
 | ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 4%      |
@@ -1665,14 +1665,14 @@ Controller models
 | Intel 82599 10 Gigabit Dual Port Backplane Connection             | 2         | 2.5%    |
 | Intel 82576 Gigabit Network Connection                            | 2         | 2.5%    |
 | Dell iDRAC Virtual NIC                                            | 2         | 2.5%    |
-| Sierra Wireless EM7455                                            | 1         | 1.25%   |
+| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A               | 1         | 1.25%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 1.25%   |
 | Ralink RT5372 Wireless Adapter                                    | 1         | 1.25%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.25%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 1.25%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.25%   |
 | Prolific USB-Serial Controller                                    | 1         | 1.25%   |
-| OPPO RMX3623                                                      | 1         | 1.25%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 1.25%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.25%   |
 | Intel Wi-Fi 6 AX200                                               | 1         | 1.25%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.25%   |
@@ -1718,7 +1718,7 @@ Wireless models
 |------------------------------------------------------------|-----------|---------|
 | Intel Wireless 8265 / 8275                                 | 3         | 20%     |
 | Intel Wireless 8260                                        | 3         | 20%     |
-| Sierra Wireless EM7455                                     | 1         | 6.67%   |
+| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A        | 1         | 6.67%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter            | 1         | 6.67%   |
 | Ralink RT5372 Wireless Adapter                             | 1         | 6.67%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter | 1         | 6.67%   |
@@ -1774,7 +1774,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                            | 2         | 3.17%   |
 | Dell iDRAC Virtual NIC                                            | 2         | 3.17%   |
 | QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.59%   |
-| OPPO RMX3623                                                      | 1         | 1.59%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 1.59%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.59%   |
 | Intel Ethernet Controller I225-LM                                 | 1         | 1.59%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.59%   |
@@ -1967,38 +1967,38 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Computers | Percent |
-|----------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s     | 4         | 9.76%   |
-| SK hynix RAM HMA81GR7AFR8N-VK 8192MB DIMM DDR4 2666MT/s  | 3         | 7.32%   |
-| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s    | 3         | 7.32%   |
-| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s             | 2         | 4.88%   |
-| SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s    | 2         | 4.88%   |
-| Samsung RAM M393B2G70QH0-YK0 16GB DIMM DDR3 1600MT/s     | 2         | 4.88%   |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s     | 2         | 4.88%   |
-| Transcend RAM JM3200HSE-32G 32GB SODIMM DDR4 3200MT/s    | 1         | 2.44%   |
-| SK hynix RAM HMA84GR7CJR4N-WM 32GB DIMM DDR4 2933MT/s    | 1         | 2.44%   |
-| SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s     | 1         | 2.44%   |
-| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s   | 1         | 2.44%   |
-| Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s   | 1         | 2.44%   |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s   | 1         | 2.44%   |
-| Samsung RAM M393B5173FHD-CF8 4096MB DIMM 1066MT/s        | 1         | 2.44%   |
-| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s     | 1         | 2.44%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s     | 1         | 2.44%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1         | 2.44%   |
-| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s      | 1         | 2.44%   |
-| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s      | 1         | 2.44%   |
-| Micron RAM 9ASF1G72AZ-2G3B1 8GB DIMM DDR4 2400MT/s       | 1         | 2.44%   |
-| Micron RAM 36KSF2G72PZ-1G6E1 16GB DIMM DDR3 1600MT/s     | 1         | 2.44%   |
-| Micron RAM 36ASF4G72PZ-2G9E2 32GB DIMM DDR4 2933MT/s     | 1         | 2.44%   |
-| Micron RAM 18KSF1G72PDZ-1G6E 8192MB DIMM DDR3 1333MT/s   | 1         | 2.44%   |
-| Micron RAM 18ASF2G72PDZ-2G6E1 16384MB DIMM DDR4 2667MT/s | 1         | 2.44%   |
-| Kingston RAM 9965589-026.D00G 8192MB RIMM DDR4 2400MT/s  | 1         | 2.44%   |
-| HP RAM 712382-071 8192MB DIMM DDR3 1866MT/s              | 1         | 2.44%   |
-| G.Skill RAM F4-3200C14-16GTZ 16GB DIMM DDR4 3600MT/s     | 1         | 2.44%   |
-| Elpida RAM EDFA232A2MA-JD-F 4GB SODIMM LPDDR3 1867MT/s   | 1         | 2.44%   |
-| Elpida RAM EDFA232A2MA-JD-F 4GB Chip LPDDR3 1867MT/s     | 1         | 2.44%   |
-| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s    | 1         | 2.44%   |
+| Model                                                   | Computers | Percent |
+|---------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s    | 4         | 9.76%   |
+| SK hynix RAM HMA81GR7AFR8N-VK 8192MB DIMM DDR4 2666MT/s | 3         | 7.32%   |
+| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s   | 3         | 7.32%   |
+| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s            | 2         | 4.88%   |
+| SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s   | 2         | 4.88%   |
+| Samsung RAM M393B2G70QH0-YK0 16GB DIMM DDR3 1600MT/s    | 2         | 4.88%   |
+| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s    | 2         | 4.88%   |
+| Transcend RAM JM3200HSE-32G 32GB SODIMM DDR4 3200MT/s   | 1         | 2.44%   |
+| SK hynix RAM HMA84GR7CJR4N-WM 32GB DIMM DDR4 2933MT/s   | 1         | 2.44%   |
+| SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s    | 1         | 2.44%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s  | 1         | 2.44%   |
+| Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s  | 1         | 2.44%   |
+| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s  | 1         | 2.44%   |
+| Samsung RAM M393B5173FHD-CF8 4096MB DIMM 1066MT/s       | 1         | 2.44%   |
+| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s    | 1         | 2.44%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s    | 1         | 2.44%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s     | 1         | 2.44%   |
+| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s     | 1         | 2.44%   |
+| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s     | 1         | 2.44%   |
+| Micron RAM 9ASF1G72AZ-2G3B1 8GB DIMM DDR4 2400MT/s      | 1         | 2.44%   |
+| Micron RAM 36KSF2G72PZ-1G6E1 16GB DIMM DDR3 1600MT/s    | 1         | 2.44%   |
+| Micron RAM 36ASF4G72PZ-2G9E2 32GB DIMM DDR4 2933MT/s    | 1         | 2.44%   |
+| Micron RAM 18KSF1G72PDZ-1G6E 8192MB DIMM DDR3 1333MT/s  | 1         | 2.44%   |
+| Micron RAM 18ASF2G72PDZ-2G6E1 16GB DIMM DDR4 2667MT/s   | 1         | 2.44%   |
+| Kingston RAM 9965589-026.D00G 8192MB RIMM DDR4 2400MT/s | 1         | 2.44%   |
+| HP RAM 712382-071 8192MB DIMM DDR3 1866MT/s             | 1         | 2.44%   |
+| G.Skill RAM F4-3200C14-16GTZ 16GB DIMM DDR4 3600MT/s    | 1         | 2.44%   |
+| Elpida RAM EDFA232A2MA-JD-F 4GB SODIMM LPDDR3 1867MT/s  | 1         | 2.44%   |
+| Elpida RAM EDFA232A2MA-JD-F 4GB Chip LPDDR3 1867MT/s    | 1         | 2.44%   |
+| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s   | 1         | 2.44%   |
 
 Memory Kind
 -----------

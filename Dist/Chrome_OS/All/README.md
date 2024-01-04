@@ -736,8 +736,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 34        | 57.63%  |
-| Yes       | 25        | 42.37%  |
+| No        | 33        | 55.93%  |
+| Yes       | 26        | 44.07%  |
 
 Has Ethernet
 ------------
@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 1TB                     | 1         | 1.49%   |
+| TO Exter nal USB 3.0 480GB                   | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1037,8 +1037,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 48     | 97.56%  |
-| 0.51-1.0   | 1         | 1      | 2.44%   |
+| 0.01-0.5   | 41        | 49     | 100%    |
 
 Space Total
 -----------
@@ -1607,7 +1606,7 @@ Monitor models
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.67%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.67%   |
 | Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                   | 1         | 1.67%   |
-| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                  | 1         | 1.67%   |
+| Goldstar E2260 GSM57DF 1920x1080 480x270mm 21.7-inch                  | 1         | 1.67%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                | 1         | 1.67%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1         | 1.67%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                   | 1         | 1.67%   |
@@ -2387,9 +2386,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 32        | 53.33%  |
-| 1     | 22        | 36.67%  |
-| 2     | 6         | 10%     |
+| 0     | 34        | 56.67%  |
+| 1     | 21        | 35%     |
+| 2     | 5         | 8.33%   |
 
 Unsupported Device Types
 ------------------------
@@ -2401,13 +2400,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 8         | 25%     |
-| Multimedia controller    | 6         | 18.75%  |
-| Net/wireless             | 5         | 15.63%  |
-| Fingerprint reader       | 5         | 15.63%  |
-| Chipcard                 | 3         | 9.38%   |
-| Storage                  | 2         | 6.25%   |
-| Storage/ide              | 1         | 3.13%   |
-| Modem                    | 1         | 3.13%   |
-| Communication controller | 1         | 3.13%   |
+| Multimedia controller    | 6         | 20%     |
+| Graphics card            | 6         | 20%     |
+| Net/wireless             | 5         | 16.67%  |
+| Fingerprint reader       | 5         | 16.67%  |
+| Chipcard                 | 3         | 10%     |
+| Storage                  | 2         | 6.67%   |
+| Storage/ide              | 1         | 3.33%   |
+| Modem                    | 1         | 3.33%   |
+| Communication controller | 1         | 3.33%   |
 

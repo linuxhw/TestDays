@@ -939,8 +939,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 99       | 52.38%  |
-| Yes       | 90       | 47.62%  |
+| No        | 102      | 53.68%  |
+| Yes       | 88       | 46.32%  |
 
 Has Ethernet
 ------------
@@ -1104,7 +1104,7 @@ Hard drive vendors
 | Samsung Electronics       | 46       | 73     | 13.53%  |
 | Kingston                  | 25       | 33     | 7.35%   |
 | Toshiba                   | 19       | 27     | 5.59%   |
-| Sandisk                   | 12       | 15     | 3.53%   |
+| SanDisk                   | 12       | 15     | 3.53%   |
 | Crucial                   | 12       | 15     | 3.53%   |
 | Hitachi                   | 9        | 11     | 2.65%   |
 | Unknown                   | 7        | 15     | 2.06%   |
@@ -1156,7 +1156,7 @@ Hard drive models
 | Seagate ST1000DM003-1ER162 1TB                      | 5        | 1.3%    |
 | WDC WD5000AAKX-00ERMA0 500GB                        | 4        | 1.04%   |
 | Samsung SSD 860 EVO 250GB                           | 4        | 1.04%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 4        | 1.04%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 4        | 1.04%   |
 | Micron/Crucial NVMe SSD Drive 1TB                   | 4        | 1.04%   |
 | Kingston SA400S37240G 240GB SSD                     | 4        | 1.04%   |
 | Kingston SA400S37120G 120GB SSD                     | 4        | 1.04%   |
@@ -1298,12 +1298,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 130      | 225    | 57.52%  |
-| 0.51-1.0   | 58       | 100    | 25.66%  |
-| 1.01-2.0   | 17       | 21     | 7.52%   |
-| 2.01-3.0   | 9        | 17     | 3.98%   |
-| 3.01-4.0   | 6        | 6      | 2.65%   |
-| 4.01-10.0  | 6        | 9      | 2.65%   |
+| 0.01-0.5   | 129      | 223    | 56.83%  |
+| 0.51-1.0   | 58       | 100    | 25.55%  |
+| 1.01-2.0   | 19       | 23     | 8.37%   |
+| 2.01-3.0   | 9        | 17     | 3.96%   |
+| 3.01-4.0   | 6        | 6      | 2.64%   |
+| 4.01-10.0  | 6        | 9      | 2.64%   |
 
 Space Total
 -----------
@@ -1974,12 +1974,12 @@ Monitor models
 | Goldstar 22EN33 GSM597C 1920x1080 480x270mm 21.7-inch                 | 2        | 0.93%   |
 | Dell 1704FPV DEL3016 1280x1024 338x270mm 17.0-inch                    | 2        | 0.93%   |
 | BenQ EL2870U BNQ7949 3840x2160 621x341mm 27.9-inch                    | 2        | 0.93%   |
-| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 2        | 0.93%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 2        | 0.93%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch | 2        | 0.93%   |
 | ___ LCDTV16 ___9000 1360x768                                          | 1        | 0.47%   |
 | Vizio VA26LHDTV10T VIZ0035 1920x1080 640x360mm 28.9-inch              | 1        | 0.47%   |
 | Vizio E280i-A1 VIZ1002 1360x768 607x345mm 27.5-inch                   | 1        | 0.47%   |
-| Vizio E241i-A1 VIZ1005 1920x1080 521x293mm 23.5-inch                  | 1        | 0.47%   |
+| Vizio E24-C1 VIZ1005 1920x1080 521x293mm 23.5-inch                    | 1        | 0.47%   |
 | ViewSonic LCD Monitor VX2260WM 3840x1080                              | 1        | 0.47%   |
 | ViewSonic LCD Monitor VX2260WM                                        | 1        | 0.47%   |
 | Vestel LCD Monitor 49FHD_LCD_TV 1920x1080                             | 1        | 0.47%   |
@@ -2046,34 +2046,34 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 30       | 15.08%  |
-| 24      | 23       | 11.56%  |
-| 23      | 22       | 11.06%  |
-| 21      | 20       | 10.05%  |
-| 27      | 17       | 8.54%   |
-| 22      | 15       | 7.54%   |
-| 18      | 10       | 5.03%   |
-| 31      | 9        | 4.52%   |
-| 19      | 9        | 4.52%   |
-| 17      | 8        | 4.02%   |
-| 20      | 6        | 3.02%   |
-| 32      | 5        | 2.51%   |
-| 34      | 4        | 2.01%   |
-| 36      | 3        | 1.51%   |
+| Unknown | 30       | 15.15%  |
+| 24      | 23       | 11.62%  |
+| 23      | 21       | 10.61%  |
+| 21      | 20       | 10.1%   |
+| 27      | 17       | 8.59%   |
+| 22      | 15       | 7.58%   |
+| 18      | 10       | 5.05%   |
+| 31      | 9        | 4.55%   |
+| 19      | 9        | 4.55%   |
+| 17      | 8        | 4.04%   |
+| 20      | 6        | 3.03%   |
+| 32      | 5        | 2.53%   |
+| 34      | 4        | 2.02%   |
+| 36      | 3        | 1.52%   |
 | 84      | 2        | 1.01%   |
 | 72      | 2        | 1.01%   |
 | 48      | 2        | 1.01%   |
 | 15      | 2        | 1.01%   |
-| 65      | 1        | 0.5%    |
-| 60      | 1        | 0.5%    |
-| 55      | 1        | 0.5%    |
-| 49      | 1        | 0.5%    |
-| 43      | 1        | 0.5%    |
-| 39      | 1        | 0.5%    |
-| 38      | 1        | 0.5%    |
-| 37      | 1        | 0.5%    |
-| 28      | 1        | 0.5%    |
-| 26      | 1        | 0.5%    |
+| 65      | 1        | 0.51%   |
+| 60      | 1        | 0.51%   |
+| 55      | 1        | 0.51%   |
+| 49      | 1        | 0.51%   |
+| 43      | 1        | 0.51%   |
+| 39      | 1        | 0.51%   |
+| 38      | 1        | 0.51%   |
+| 37      | 1        | 0.51%   |
+| 28      | 1        | 0.51%   |
+| 26      | 1        | 0.51%   |
 
 Monitor Width
 -------------
@@ -2416,7 +2416,7 @@ Ethernet models
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                   | 1        | 0.49%   |
 | Nvidia MCP77 Ethernet                                                      | 1        | 0.49%   |
 | Nvidia MCP55 Ethernet                                                      | 1        | 0.49%   |
-| Motorola PCS moto g62 5G                                                   | 1        | 0.49%   |
+| Motorola PCS motorola edge 40                                              | 1        | 0.49%   |
 | Intel I210 Gigabit Network Connection                                      | 1        | 0.49%   |
 | Intel Ethernet Connection I217-V                                           | 1        | 0.49%   |
 | Intel Ethernet Connection (2) I218-V                                       | 1        | 0.49%   |
@@ -2494,13 +2494,13 @@ Controller vendors
 | Intel                   | 32       | 43.24%  |
 | Cambridge Silicon Radio | 18       | 24.32%  |
 | Realtek Semiconductor   | 8        | 10.81%  |
-| Broadcom                | 5        | 6.76%   |
+| Broadcom                | 6        | 8.11%   |
 | Apple                   | 4        | 5.41%   |
-| ASUSTek Computer        | 2        | 2.7%    |
 | Ralink                  | 1        | 1.35%   |
 | Qcom                    | 1        | 1.35%   |
 | IMC Networks            | 1        | 1.35%   |
 | Edimax Technology       | 1        | 1.35%   |
+| ASUSTek Computer        | 1        | 1.35%   |
 | 3Com                    | 1        | 1.35%   |
 
 Bluetooth Model
@@ -2515,29 +2515,26 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 18       | 24.32%  |
 | Intel AX200 Bluetooth                               | 11       | 14.86%  |
-| Realtek Bluetooth Radio                             | 6        | 8.11%   |
+| Realtek Bluetooth Radio                             | 7        | 9.46%   |
 | Intel Bluetooth wireless interface                  | 5        | 6.76%   |
+| Intel Bluetooth Device                              | 5        | 6.76%   |
 | Intel AX210 Bluetooth                               | 5        | 6.76%   |
-| Intel AX201 Bluetooth                               | 4        | 5.41%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 3        | 4.05%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2        | 2.7%    |
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 2        | 2.7%    |
+| Apple Bluetooth USB Host Controller                 | 2        | 2.7%    |
 | Realtek Bluetooth 5.1 Radio                         | 1        | 1.35%   |
-| Realtek 802.11ac WLAN Adapter                       | 1        | 1.35%   |
 | Ralink RT3290 Bluetooth                             | 1        | 1.35%   |
 | Qcom Bluetooth USB                                  | 1        | 1.35%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 1.35%   |
-| Intel Bluetooth Device                              | 1        | 1.35%   |
 | IMC Networks BCM20702A0                             | 1        | 1.35%   |
-| Edimax Bluetooth Adapter                            | 1        | 1.35%   |
+| Edimax Edimax Bluetooth Adapter                     | 1        | 1.35%   |
 | Broadcom HP Portable Bumble Bee                     | 1        | 1.35%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter    | 1        | 1.35%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 1        | 1.35%   |
+| Broadcom BCM20702A0                                 | 1        | 1.35%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 1.35%   |
-| ASUS BCM20702A0                                     | 1        | 1.35%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1        | 1.35%   |
-| Apple Bluetooth USB Host Controller                 | 1        | 1.35%   |
-| Apple Bluetooth Host Controller                     | 1        | 1.35%   |
 | Apple Bluetooth HCI                                 | 1        | 1.35%   |
 | 3Com 3CREB96 Bluetooth Adapter                      | 1        | 1.35%   |
 
@@ -2564,7 +2561,7 @@ Sound card vendors
 | Generalplus Technology    | 2        | 0.63%   |
 | Focusrite-Novation        | 2        | 0.63%   |
 | Corsair                   | 2        | 0.63%   |
-| BR25                      | 2        | 0.63%   |
+| BR23                      | 2        | 0.63%   |
 | ASUSTek Computer          | 2        | 0.63%   |
 | VIA Technologies          | 1        | 0.31%   |
 | Texas Instruments         | 1        | 0.31%   |
@@ -2687,7 +2684,7 @@ Memory module models
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 2200MT/s      | 1        | 2.86%   |
 | Ramaxel RAM RMUA5090KB78HAF2133 8GB DIMM DDR4 2400MT/s   | 1        | 2.86%   |
 | PNY RAM 8GBF1X08QFHH38-135-K 8GB DIMM DDR4 3600MT/s      | 1        | 2.86%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s      | 1        | 2.86%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3600MT/s       | 1        | 2.86%   |
 | Micron RAM Module 16384MB DIMM DDR3 1600MT/s             | 1        | 2.86%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s        | 1        | 2.86%   |
 | Kingston RAM KHX1600C9D3/8G 8192MB DIMM DDR3 1600MT/s    | 1        | 2.86%   |
@@ -2876,10 +2873,10 @@ Camera device models
 | Microsoft LifeCam HD-3000                         | 2        | 6.06%   |
 | Logitech HD Webcam C615                           | 2        | 6.06%   |
 | Chicony HP High Definition 1MP Webcam             | 2        | 6.06%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                | 2        | 6.06%   |
+| Apple iPhone 5/5C/5S/6/SE                         | 2        | 6.06%   |
 | Z-Star Vega USB 2.0 Camera                        | 1        | 3.03%   |
 | SunplusIT MTD camera                              | 1        | 3.03%   |
-| Sunplus FHD Camera Microphone                     | 1        | 3.03%   |
+| Sunplus Integrated_Webcam_HD                      | 1        | 3.03%   |
 | Silicon Motion Silicon Motion Camera              | 1        | 3.03%   |
 | Razer USA Razer Kiyo Pro                          | 1        | 3.03%   |
 | Philips (or NXP) SPZ2500                          | 1        | 3.03%   |
@@ -2889,9 +2886,9 @@ Camera device models
 | Microdia USB 2.0 Camera                           | 1        | 3.03%   |
 | Microdia Integrated Camera                        | 1        | 3.03%   |
 | Microdia Camera                                   | 1        | 3.03%   |
+| Logitech Webcam C925e                             | 1        | 3.03%   |
 | Logitech Webcam C270                              | 1        | 3.03%   |
 | Logitech QuickCam Communicate Deluxe              | 1        | 3.03%   |
-| Logitech Logitech Webcam C925e                    | 1        | 3.03%   |
 | Logitech HD Webcam C910                           | 1        | 3.03%   |
 | Logitech C922 Pro Stream Webcam                   | 1        | 3.03%   |
 | Logitech BRIO 4K Stream Edition                   | 1        | 3.03%   |
@@ -2899,7 +2896,7 @@ Camera device models
 | KYE Systems (Mouse Systems) iSlim 1300            | 1        | 3.03%   |
 | Hopewin Electronic Material Integrated RGB Camera | 1        | 3.03%   |
 | HD USB Camera HD USB Camera                       | 1        | 3.03%   |
-| Arkmicro Acme CA04                                | 1        | 3.03%   |
+| Arkmicro USB2.0 PC CAMERA                         | 1        | 3.03%   |
 | ANYKA FHD Camera                                  | 1        | 3.03%   |
 | Alcor Micro USB 2.0 PC Camera                     | 1        | 3.03%   |
 

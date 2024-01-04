@@ -912,7 +912,7 @@ Hard drive models
 | Kingston SA400S37240G 240GB SSD                     | 5        | 3.79%   |
 | WDC WD10EZEX-60WN4A0 1TB                            | 3        | 2.27%   |
 | WDC WD10EZEX-08WN4A0 1TB                            | 3        | 2.27%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3        | 2.27%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3        | 2.27%   |
 | WDC WD10EZEX-21WN4A0 1TB                            | 2        | 1.52%   |
 | Toshiba MQ01ABD100 1TB                              | 2        | 1.52%   |
 | Toshiba DT01ACA200 2TB                              | 2        | 1.52%   |
@@ -945,8 +945,8 @@ Hard drive models
 | WDC WD10EZEX-00BBHA0 1TB                            | 1        | 0.76%   |
 | WDC WD1002FBYS-18W8B0 1TB                           | 1        | 0.76%   |
 | Verbatim Vi550 S3 SSD 512GB                         | 1        | 0.76%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 1        | 0.76%   |
-| Toshiba XG4 NVMe SSD Controller 512GB               | 1        | 0.76%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 1        | 0.76%   |
+| Toshiba XG4 NVMe SSD Controller 256GB               | 1        | 0.76%   |
 | Toshiba HDWD110 1TB                                 | 1        | 0.76%   |
 | Toshiba DT01ACA100 1TB                              | 1        | 0.76%   |
 
@@ -1042,10 +1042,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 47       | 70     | 54.02%  |
-| 0.51-1.0   | 31       | 46     | 35.63%  |
-| 1.01-2.0   | 6        | 7      | 6.9%    |
-| 3.01-4.0   | 3        | 3      | 3.45%   |
+| 0.01-0.5   | 47       | 69     | 53.41%  |
+| 0.51-1.0   | 32       | 47     | 36.36%  |
+| 1.01-2.0   | 6        | 7      | 6.82%   |
+| 3.01-4.0   | 3        | 3      | 3.41%   |
 
 Space Total
 -----------
@@ -1631,7 +1631,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | ViewSonic VA2719 Series VSCC132 1920x1080 598x336mm 27.0-inch          | 2        | 2.6%    |
 | ___ LCDTV16 ___3393 1920x1080                                          | 1        | 1.3%    |
-| Vizio E221VA VIZ0070 1920x1080 476x268mm 21.5-inch                     | 1        | 1.3%    |
+| Vizio M220VA VIZ0070 1920x1080 476x268mm 21.5-inch                     | 1        | 1.3%    |
 | ViewSonic VP201b VSC6911 1600x1200 408x306mm 20.1-inch                 | 1        | 1.3%    |
 | Unknown LCDTV16 3393 1920x1080 1600x900mm 72.3-inch                    | 1        | 1.3%    |
 | Sony TV SNY7A02 1360x768 576x324mm 26.0-inch                           | 1        | 1.3%    |
@@ -1662,7 +1662,7 @@ Monitor models
 | Lenovo LI2215sD LEN65CC 1920x1080 476x267mm 21.5-inch                  | 1        | 1.3%    |
 | Lenovo L197 Wide LEN1152 1440x900 410x257mm 19.1-inch                  | 1        | 1.3%    |
 | Kogan KAMN27QF7TA KGN0270 2560x1440 698x393mm 31.5-inch                | 1        | 1.3%    |
-| Hitachi HDMI HEC0030 1920x1080 580x330mm 26.3-inch                     | 1        | 1.3%    |
+| Hitachi HDMI HEC0030 1920x1080 1150x650mm 52.0-inch                    | 1        | 1.3%    |
 | Hewlett-Packard ZR30w HWP286C 2560x1600 641x400mm 29.7-inch            | 1        | 1.3%    |
 | Hewlett-Packard VH240a HPN3499 1920x1080 527x296mm 23.8-inch           | 1        | 1.3%    |
 | Hewlett-Packard E231 HWP3063 1920x1080 510x287mm 23.0-inch             | 1        | 1.3%    |
@@ -1898,7 +1898,7 @@ Controller models
 | Realtek 802.11ac NIC                                              | 1        | 0.93%   |
 | Ralink MT7601U Wireless Adapter                                   | 1        | 0.93%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                         | 1        | 0.93%   |
-| Qualcomm Redmi 9T                                                 | 1        | 0.93%   |
+| Qualcomm FP3                                                      | 1        | 0.93%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1        | 0.93%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1        | 0.93%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 0.93%   |
@@ -2014,7 +2014,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1        | 1.37%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1        | 1.37%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 1.37%   |
-| Qualcomm Redmi 9T                                                 | 1        | 1.37%   |
+| Qualcomm FP3                                                      | 1        | 1.37%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 1.37%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.37%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.37%   |
@@ -2122,14 +2122,14 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                  | 2        | 7.69%   |
 | Intel AX210 Bluetooth                               | 2        | 7.69%   |
 | MediaTek Wireless_Device                            | 1        | 3.85%   |
+| Intel Bluetooth Device                              | 1        | 3.85%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 3.85%   |
-| Intel AX201 Bluetooth                               | 1        | 3.85%   |
 | Intel AX200 Bluetooth                               | 1        | 3.85%   |
 | Broadcom HP Portable Bumble Bee                     | 1        | 3.85%   |
 | Broadcom Bluetooth 3.0 Dongle                       | 1        | 3.85%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 3.85%   |
 | ASUS Bluetooth Radio                                | 1        | 3.85%   |
-| ASUS ASUS USB-BT500                                 | 1        | 3.85%   |
+| ASUS Bluetooth Device                               | 1        | 3.85%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1        | 3.85%   |
 
 Sound
@@ -2242,9 +2242,9 @@ Memory module models
 | Model                                                         | Desktops | Percent |
 |---------------------------------------------------------------|----------|---------|
 | Unknown (0x5846) RAM DDR4 NB 8G 2666 8GB SODIMM DDR4 2667MT/s | 1        | 8.33%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1        | 8.33%   |
+| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s      | 1        | 8.33%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s           | 1        | 8.33%   |
-| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3                    | 1        | 8.33%   |
+| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
 | Kingston RAM HX426C16FB/4 4GB DIMM DDR4 2800MT/s              | 1        | 8.33%   |
 | Kingston RAM HX318C10F/8 8GB DIMM DDR3 1600MT/s               | 1        | 8.33%   |
 | Kingston RAM ASU16D3LU1KBG/4G 4096MB DIMM DDR3 3200MT/s       | 1        | 8.33%   |
@@ -2402,13 +2402,13 @@ Camera device models
 
 | Model                                   | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| Sunplus FHD Camera Microphone           | 1        | 14.29%  |
+| Sunplus Integrated_Webcam_HD            | 1        | 14.29%  |
 | Samsung Galaxy series, misc. (MTP mode) | 1        | 14.29%  |
 | Logitech Webcam C270                    | 1        | 14.29%  |
 | Logitech HD Pro Webcam C920             | 1        | 14.29%  |
 | Generalplus WEB CAM                     | 1        | 14.29%  |
 | AVerMedia USB Device                    | 1        | 14.29%  |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 1        | 14.29%  |
+| Apple iPhone 5/5C/5S/6/SE               | 1        | 14.29%  |
 
 Security
 --------
@@ -2466,8 +2466,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 54       | 80.6%   |
-| 1     | 10       | 14.93%  |
+| 0     | 55       | 82.09%  |
+| 1     | 9        | 13.43%  |
 | 2     | 3        | 4.48%   |
 
 Unsupported Device Types
@@ -2480,11 +2480,11 @@ Types of unsupported devices
 
 | Type                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Net/wireless          | 7        | 46.67%  |
-| Graphics card         | 2        | 13.33%  |
-| Chipcard              | 2        | 13.33%  |
-| Network               | 1        | 6.67%   |
-| Net/ethernet          | 1        | 6.67%   |
-| Multimedia controller | 1        | 6.67%   |
-| Card reader           | 1        | 6.67%   |
+| Net/wireless          | 7        | 50%     |
+| Chipcard              | 2        | 14.29%  |
+| Network               | 1        | 7.14%   |
+| Net/ethernet          | 1        | 7.14%   |
+| Multimedia controller | 1        | 7.14%   |
+| Graphics card         | 1        | 7.14%   |
+| Card reader           | 1        | 7.14%   |
 

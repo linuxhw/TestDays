@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 32
+Total: 33
 
 | Vendor   | Model                       | Probe                                                      | Date         |
 |----------|-----------------------------|------------------------------------------------------------|--------------|
+| ASRock   | H170M Pro4                  | [27e24a6ef3](https://linux-hardware.org/?probe=27e24a6ef3) | Dec 30, 2023 |
 | ECS      | GeForce 8000 series         | [d436bb4acc](https://linux-hardware.org/?probe=d436bb4acc) | Dec 19, 2023 |
 | MSI      | PRO H410M-B                 | [0729c86d23](https://linux-hardware.org/?probe=0729c86d23) | Dec 15, 2023 |
 | ASUSTek  | PRIME B450-PLUS             | [7e201ea559](https://linux-hardware.org/?probe=7e201ea559) | Dec 11, 2023 |
@@ -229,16 +230,17 @@ Version of the Linux kernel
 
 | Version             | Desktops | Percent |
 |---------------------|----------|---------|
-| 6.2.0-10018-tuxedo  | 4        | 16%     |
-| 6.1.0-1009-tuxedo   | 4        | 16%     |
-| 6.5.0-10010-tuxedo  | 3        | 12%     |
-| 6.2.0-10007-tuxedo  | 3        | 12%     |
-| 5.15.0-10058-tuxedo | 3        | 12%     |
-| 6.5.0-10006-tuxedo  | 2        | 8%      |
-| 6.2.0-10027-tuxedo  | 2        | 8%      |
-| 6.2.0-10022-tuxedo  | 2        | 8%      |
-| 5.15.0-10057-tuxedo | 1        | 4%      |
-| 5.15.0-10056-tuxedo | 1        | 4%      |
+| 6.2.0-10018-tuxedo  | 4        | 15.38%  |
+| 6.1.0-1009-tuxedo   | 4        | 15.38%  |
+| 6.5.0-10010-tuxedo  | 3        | 11.54%  |
+| 6.2.0-10007-tuxedo  | 3        | 11.54%  |
+| 5.15.0-10058-tuxedo | 3        | 11.54%  |
+| 6.5.0-10006-tuxedo  | 2        | 7.69%   |
+| 6.2.0-10027-tuxedo  | 2        | 7.69%   |
+| 6.2.0-10022-tuxedo  | 2        | 7.69%   |
+| 6.5.0-10013-tuxedo  | 1        | 3.85%   |
+| 5.15.0-10057-tuxedo | 1        | 3.85%   |
+| 5.15.0-10056-tuxedo | 1        | 3.85%   |
 
 Kernel Family
 -------------
@@ -250,10 +252,10 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 6.2.0   | 11       | 44%     |
-| 6.5.0   | 5        | 20%     |
-| 5.15.0  | 5        | 20%     |
-| 6.1.0   | 4        | 16%     |
+| 6.2.0   | 11       | 42.31%  |
+| 6.5.0   | 6        | 23.08%  |
+| 5.15.0  | 5        | 19.23%  |
+| 6.1.0   | 4        | 15.38%  |
 
 Kernel Major Ver.
 -----------------
@@ -265,10 +267,10 @@ Linux kernel major version
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 6.2     | 11       | 44%     |
-| 6.5     | 5        | 20%     |
-| 5.15    | 5        | 20%     |
-| 6.1     | 4        | 16%     |
+| 6.2     | 11       | 42.31%  |
+| 6.5     | 6        | 23.08%  |
+| 5.15    | 5        | 19.23%  |
+| 6.1     | 4        | 15.38%  |
 
 Arch
 ----
@@ -580,11 +582,11 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 2.01-3.0  | 8        | 30.77%  |
-| 1.01-2.0  | 7        | 26.92%  |
-| 4.01-8.0  | 5        | 19.23%  |
-| 3.01-4.0  | 3        | 11.54%  |
-| 8.01-16.0 | 3        | 11.54%  |
+| 2.01-3.0  | 8        | 29.63%  |
+| 1.01-2.0  | 7        | 25.93%  |
+| 4.01-8.0  | 6        | 22.22%  |
+| 3.01-4.0  | 3        | 11.11%  |
+| 8.01-16.0 | 3        | 11.11%  |
 
 Total Drives
 ------------
@@ -692,30 +694,31 @@ Geographic location (city)
 
 | City                      | Desktops | Percent |
 |---------------------------|----------|---------|
-| Hürth                    | 2        | 8%      |
-| Zurich                    | 1        | 4%      |
-| Zalău                    | 1        | 4%      |
-| Vienna                    | 1        | 4%      |
-| Ulm                       | 1        | 4%      |
-| Stimpfach                 | 1        | 4%      |
-| Quarteira                 | 1        | 4%      |
-| Peitz                     | 1        | 4%      |
-| Oranjestad                | 1        | 4%      |
-| Offenbach                 | 1        | 4%      |
-| Lublin                    | 1        | 4%      |
-| Leipzig                   | 1        | 4%      |
-| Johannesburg              | 1        | 4%      |
-| Indore                    | 1        | 4%      |
-| Frankfurt am Main         | 1        | 4%      |
-| Florence                  | 1        | 4%      |
-| Erding                    | 1        | 4%      |
-| Eberswalde                | 1        | 4%      |
-| Cairo                     | 1        | 4%      |
-| Cagliari                  | 1        | 4%      |
-| Bullhead City             | 1        | 4%      |
-| Bloemfontein              | 1        | 4%      |
-| Bad Neustadt an der Saale | 1        | 4%      |
-| Amsterdam                 | 1        | 4%      |
+| Hürth                    | 2        | 7.69%   |
+| Zurich                    | 1        | 3.85%   |
+| Zalău                    | 1        | 3.85%   |
+| Vienna                    | 1        | 3.85%   |
+| Ulm                       | 1        | 3.85%   |
+| Stimpfach                 | 1        | 3.85%   |
+| Quarteira                 | 1        | 3.85%   |
+| Peitz                     | 1        | 3.85%   |
+| Oranjestad                | 1        | 3.85%   |
+| Offenbach                 | 1        | 3.85%   |
+| Lublin                    | 1        | 3.85%   |
+| Leipzig                   | 1        | 3.85%   |
+| Landau                    | 1        | 3.85%   |
+| Johannesburg              | 1        | 3.85%   |
+| Indore                    | 1        | 3.85%   |
+| Frankfurt am Main         | 1        | 3.85%   |
+| Florence                  | 1        | 3.85%   |
+| Erding                    | 1        | 3.85%   |
+| Eberswalde                | 1        | 3.85%   |
+| Cairo                     | 1        | 3.85%   |
+| Cagliari                  | 1        | 3.85%   |
+| Bullhead City             | 1        | 3.85%   |
+| Bloemfontein              | 1        | 3.85%   |
+| Bad Neustadt an der Saale | 1        | 3.85%   |
+| Amsterdam                 | 1        | 3.85%   |
 
 Drives
 ------
@@ -730,10 +733,10 @@ Hard drive vendors
 
 | Vendor                      | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
-| Samsung Electronics         | 11       | 18     | 18.64%  |
+| Samsung Electronics         | 11       | 19     | 18.64%  |
 | Seagate                     | 9        | 14     | 15.25%  |
 | WDC                         | 5        | 6      | 8.47%   |
-| SanDisk                     | 5        | 7      | 8.47%   |
+| Sandisk                     | 5        | 7      | 8.47%   |
 | Kingston                    | 3        | 3      | 5.08%   |
 | Micron/Crucial Technology   | 2        | 4      | 3.39%   |
 | Hitachi                     | 2        | 3      | 3.39%   |
@@ -751,7 +754,7 @@ Hard drive vendors
 | HS-SSD-E                    | 1        | 1      | 1.69%   |
 | Hikvision                   | 1        | 2      | 1.69%   |
 | HGST HTS                    | 1        | 1      | 1.69%   |
-| HGST                        | 1        | 1      | 1.69%   |
+| HGST                        | 1        | 2      | 1.69%   |
 | Crucial                     | 1        | 1      | 1.69%   |
 | China                       | 1        | 1      | 1.69%   |
 | ASMT                        | 1        | 1      | 1.69%   |
@@ -773,10 +776,10 @@ Hard drive models
 | Seagate ST3500418AS 500GB                           | 2        | 2.82%   |
 | Seagate ST1000VT001-1RE172 1TB                      | 2        | 2.82%   |
 | Seagate ST1000DM010-2EP102 1TB                      | 2        | 2.82%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB    | 2        | 2.82%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 2TB      | 2        | 2.82%   |
 | SanDisk SSD PLUS 120GB                              | 2        | 2.82%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2        | 2.82%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 2        | 2.82%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2        | 2.82%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                 | 2        | 2.82%   |
 | Hitachi HCS545050GLA380 500GB                       | 2        | 2.82%   |
 | WDC WD80EAZZ-00BKLB0 8TB                            | 1        | 1.41%   |
 | WDC WD5000AAKX-60U6AA0 500GB                        | 1        | 1.41%   |
@@ -825,7 +828,7 @@ Hard disk drive vendors
 | Samsung Electronics | 2        | 2      | 10%     |
 | Hitachi             | 2        | 3      | 10%     |
 | HGST HTS            | 1        | 1      | 5%      |
-| HGST                | 1        | 1      | 5%      |
+| HGST                | 1        | 2      | 5%      |
 
 SSD Vendor
 ----------
@@ -860,8 +863,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 17       | 27     | 34%     |
-| NVMe    | 16       | 28     | 32%     |
+| HDD     | 17       | 28     | 34%     |
+| NVMe    | 16       | 29     | 32%     |
 | SSD     | 14       | 23     | 28%     |
 | Unknown | 3        | 3      | 6%      |
 
@@ -875,8 +878,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 21       | 50     | 53.85%  |
-| NVMe | 16       | 28     | 41.03%  |
+| SATA | 21       | 51     | 53.85%  |
+| NVMe | 16       | 29     | 41.03%  |
 | SAS  | 2        | 3      | 5.13%   |
 
 Drive Size
@@ -890,7 +893,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.51-1.0   | 14       | 19     | 43.75%  |
-| 0.01-0.5   | 13       | 25     | 40.63%  |
+| 0.01-0.5   | 13       | 26     | 40.63%  |
 | 1.01-2.0   | 3        | 4      | 9.38%   |
 | 4.01-10.0  | 2        | 2      | 6.25%   |
 
@@ -904,14 +907,14 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 501-1000       | 7        | 26.92%  |
-| 251-500        | 4        | 15.38%  |
-| 101-250        | 4        | 15.38%  |
-| 1001-2000      | 4        | 15.38%  |
-| More than 3000 | 2        | 7.69%   |
-| 21-50          | 2        | 7.69%   |
-| 2001-3000      | 2        | 7.69%   |
-| 51-100         | 1        | 3.85%   |
+| 501-1000       | 8        | 29.63%  |
+| 251-500        | 4        | 14.81%  |
+| 101-250        | 4        | 14.81%  |
+| 1001-2000      | 4        | 14.81%  |
+| More than 3000 | 2        | 7.41%   |
+| 21-50          | 2        | 7.41%   |
+| 2001-3000      | 2        | 7.41%   |
+| 51-100         | 1        | 3.7%    |
 
 Space Used
 ----------
@@ -985,7 +988,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 23       | 73     | 88.46%  |
+| Detected | 23       | 75     | 88.46%  |
 | Works    | 3        | 8      | 11.54%  |
 
 Storage controller
@@ -1696,8 +1699,8 @@ IPv6 vs IPv4
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 18       | 72%     |
-| Yes  | 7        | 28%     |
+| No   | 18       | 69.23%  |
+| Yes  | 8        | 30.77%  |
 
 Bluetooth
 ---------

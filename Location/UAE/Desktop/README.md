@@ -775,8 +775,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 28       | 75.68%  |
-| Yes       | 9        | 24.32%  |
+| No        | 29       | 78.38%  |
+| Yes       | 8        | 21.62%  |
 
 Has Ethernet
 ------------
@@ -933,7 +933,7 @@ Hard drive models
 | Seagate ST12000NM0008-2H3101 12TB                  | 1        | 1.22%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                 | 1        | 1.22%   |
 | Seagate ST1000DM010-2EP102 1TB                     | 1        | 1.22%   |
-| Seagate Expansion 1TB                              | 1        | 1.22%   |
+| Seagate Expansion 2TB                              | 1        | 1.22%   |
 | Sandisk WD Black SN850 1024GB                      | 1        | 1.22%   |
 
 HDD Vendor
@@ -1016,12 +1016,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 34     | 46.15%  |
-| 0.51-1.0   | 13       | 21     | 25%     |
-| 1.01-2.0   | 7        | 11     | 13.46%  |
-| 3.01-4.0   | 5        | 13     | 9.62%   |
-| 10.01-20.0 | 2        | 3      | 3.85%   |
-| 4.01-10.0  | 1        | 1      | 1.92%   |
+| 0.01-0.5   | 24       | 34     | 45.28%  |
+| 0.51-1.0   | 13       | 20     | 24.53%  |
+| 1.01-2.0   | 8        | 12     | 15.09%  |
+| 3.01-4.0   | 5        | 13     | 9.43%   |
+| 10.01-20.0 | 2        | 3      | 3.77%   |
+| 4.01-10.0  | 1        | 1      | 1.89%   |
 
 Space Total
 -----------
@@ -2029,7 +2029,7 @@ Controller models
 | Intel Bluetooth wireless interface                    | 1        | 6.67%   |
 | ASUS Bluetooth Radio                                  | 1        | 6.67%   |
 | ASUS Bluetooth Device                                 | 1        | 6.67%   |
-| Apple Bluetooth Host Controller                       | 1        | 6.67%   |
+| Apple Bluetooth USB Host Controller                   | 1        | 6.67%   |
 
 Sound
 -----
@@ -2101,7 +2101,7 @@ Sound card models
 | Nvidia AD102 High Definition Audio Controller                              | 1        | 1.33%   |
 | Logitech Z205                                                              | 1        | 1.33%   |
 | Logitech PRO X Wireless Gaming Headset                                     | 1        | 1.33%   |
-| JMTek Speedlink PnP Sound Device                                           | 1        | 1.33%   |
+| JMTek USB PnP Audio Device                                                 | 1        | 1.33%   |
 | Intel Comet Lake PCH-V cAVS                                                | 1        | 1.33%   |
 | Intel Alder Lake-S HD Audio Controller                                     | 1        | 1.33%   |
 | Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 1.33%   |
@@ -2301,7 +2301,7 @@ Camera device models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                    | 2        | 20%     |
+| Apple iPhone 5/5C/5S/6/SE                             | 2        | 20%     |
 | Samsung Galaxy series, misc. (MTP mode)               | 1        | 10%     |
 | Microsoft LifeCam Studio                              | 1        | 10%     |
 | Logitech Webcam C270                                  | 1        | 10%     |

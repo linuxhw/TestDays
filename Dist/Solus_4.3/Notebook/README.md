@@ -805,48 +805,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                            | Notebooks | Percent |
-|--------------------------------------------------|-----------|---------|
-| SK hynix NVMe SSD Drive 128GB                    | 2         | 4.65%   |
-| SanDisk NVMe SSD Drive 256GB                     | 2         | 4.65%   |
-| WDC WD3200BEVT-75ZCT2 320GB                      | 1         | 2.33%   |
-| WDC WD2500BEVT-22ZCT0 250GB                      | 1         | 2.33%   |
-| WDC WD10SPZX-24Z10T0 1TB                         | 1         | 2.33%   |
-| WDC WD10SPZX-24Z10 1TB                           | 1         | 2.33%   |
-| WDC WD10JPCX-24UE4T0 1TB                         | 1         | 2.33%   |
-| Unknown USB DISK 3.2 1TB                         | 1         | 2.33%   |
-| Unknown MMC Card  64GB                           | 1         | 2.33%   |
-| Unknown MMC Card  128GB                          | 1         | 2.33%   |
-| Toshiba MQ01ABF050 500GB                         | 1         | 2.33%   |
-| Toshiba KXG60ZNV512G NVMe 512GB                  | 1         | 2.33%   |
-| SK hynix SC311 SATA 256GB SSD                    | 1         | 2.33%   |
-| SK hynix NVMe SSD Drive 500GB                    | 1         | 2.33%   |
-| SK hynix NVMe SSD Drive 256GB                    | 1         | 2.33%   |
-| Silicon Motion NVMe SSD Drive 512GB              | 1         | 2.33%   |
-| Seagate ST9320325AS 320GB                        | 1         | 2.33%   |
-| Seagate ST1000LM049-2GH172 1TB                   | 1         | 2.33%   |
-| Seagate ST1000LM035-1RK172 1TB                   | 1         | 2.33%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB | 1         | 2.33%   |
-| SanDisk SDSSDH32000G 2TB                         | 1         | 2.33%   |
-| Sandisk PC SN520 NVMe SSD 256GB                  | 1         | 2.33%   |
-| SanDisk NVMe SSD Drive 1TB                       | 1         | 2.33%   |
-| SanDisk Extreme Pro 1TB                          | 1         | 2.33%   |
-| SanDisk DF4032  32GB                             | 1         | 2.33%   |
-| Samsung SSD 850 EVO 250GB                        | 1         | 2.33%   |
-| Samsung NVMe SSD Drive 512GB                     | 1         | 2.33%   |
-| Samsung NVMe SSD Drive 2TB                       | 1         | 2.33%   |
-| Samsung MZVL22T0HBLB-00BL7 2TB                   | 1         | 2.33%   |
-| Samsung MZALQ512HBLU-00BL2 512GB                 | 1         | 2.33%   |
-| SABRENT Disk 500GB                               | 1         | 2.33%   |
-| PNY CS900 240GB SSD                              | 1         | 2.33%   |
-| Phison NVMe SSD Drive 512GB                      | 1         | 2.33%   |
-| KIOXIA KXG60ZNV512G NVMe 512GB                   | 1         | 2.33%   |
-| Kingston SA400S37240G 240GB SSD                  | 1         | 2.33%   |
-| Kingston OM8PCP3512F-AI1 512GB                   | 1         | 2.33%   |
-| Intel SSDPEKKW512G7 512GB                        | 1         | 2.33%   |
-| Intel NVMe SSD Drive 512GB                       | 1         | 2.33%   |
-| Intel NVMe SSD Drive 256GB                       | 1         | 2.33%   |
-| Advantech SQF-S25M8-128G-AAG 128GB SSD           | 1         | 2.33%   |
+| Model                                          | Notebooks | Percent |
+|------------------------------------------------|-----------|---------|
+| SK hynix NVMe SSD Drive 128GB                  | 2         | 4.65%   |
+| SanDisk NVMe SSD Drive 256GB                   | 2         | 4.65%   |
+| WDC WD3200BEVT-75ZCT2 320GB                    | 1         | 2.33%   |
+| WDC WD2500BEVT-22ZCT0 250GB                    | 1         | 2.33%   |
+| WDC WD10SPZX-24Z10T0 1TB                       | 1         | 2.33%   |
+| WDC WD10SPZX-24Z10 1TB                         | 1         | 2.33%   |
+| WDC WD10JPCX-24UE4T0 1TB                       | 1         | 2.33%   |
+| Unknown USB DISK 3.2 1TB                       | 1         | 2.33%   |
+| Unknown MMC Card  64GB                         | 1         | 2.33%   |
+| Unknown MMC Card  128GB                        | 1         | 2.33%   |
+| Toshiba MQ01ABF050 500GB                       | 1         | 2.33%   |
+| Toshiba KXG60ZNV512G NVMe 512GB                | 1         | 2.33%   |
+| SK hynix SC311 SATA 256GB SSD                  | 1         | 2.33%   |
+| SK hynix NVMe SSD Drive 500GB                  | 1         | 2.33%   |
+| SK hynix NVMe SSD Drive 256GB                  | 1         | 2.33%   |
+| Silicon Motion NVMe SSD Drive 512GB            | 1         | 2.33%   |
+| Seagate ST9320325AS 320GB                      | 1         | 2.33%   |
+| Seagate ST1000LM049-2GH172 1TB                 | 1         | 2.33%   |
+| Seagate ST1000LM035-1RK172 1TB                 | 1         | 2.33%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 2TB | 1         | 2.33%   |
+| SanDisk SDSSDH32000G 2TB                       | 1         | 2.33%   |
+| Sandisk PC SN520 NVMe SSD 512GB                | 1         | 2.33%   |
+| SanDisk NVMe SSD Drive 1TB                     | 1         | 2.33%   |
+| SanDisk Extreme Pro 1TB                        | 1         | 2.33%   |
+| SanDisk DF4032  32GB                           | 1         | 2.33%   |
+| Samsung SSD 850 EVO 250GB                      | 1         | 2.33%   |
+| Samsung NVMe SSD Drive 512GB                   | 1         | 2.33%   |
+| Samsung NVMe SSD Drive 2TB                     | 1         | 2.33%   |
+| Samsung MZVL22T0HBLB-00BL7 2TB                 | 1         | 2.33%   |
+| Samsung MZALQ512HBLU-00BL2 512GB               | 1         | 2.33%   |
+| SABRENT Disk 2TB                               | 1         | 2.33%   |
+| PNY CS900 240GB SSD                            | 1         | 2.33%   |
+| Phison NVMe SSD Drive 512GB                    | 1         | 2.33%   |
+| KIOXIA KXG60ZNV512G NVMe 512GB                 | 1         | 2.33%   |
+| Kingston SA400S37240G 240GB SSD                | 1         | 2.33%   |
+| Kingston OM8PCP3512F-AI1 512GB                 | 1         | 2.33%   |
+| Intel SSDPEKKW512G7 512GB                      | 1         | 2.33%   |
+| Intel NVMe SSD Drive 512GB                     | 1         | 2.33%   |
+| Intel NVMe SSD Drive 256GB                     | 1         | 2.33%   |
+| Advantech SQF-S25M8-128G-AAG 128GB SSD         | 1         | 2.33%   |
 
 HDD Vendor
 ----------
@@ -858,9 +858,10 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| WDC     | 5         | 5      | 55.56%  |
-| Seagate | 3         | 4      | 33.33%  |
-| Toshiba | 1         | 1      | 11.11%  |
+| WDC     | 5         | 5      | 50%     |
+| Seagate | 3         | 4      | 30%     |
+| Toshiba | 1         | 1      | 10%     |
+| SABRENT | 1         | 1      | 10%     |
 
 SSD Vendor
 ----------
@@ -889,11 +890,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 19        | 26     | 50%     |
-| HDD     | 9         | 10     | 23.68%  |
-| SSD     | 6         | 6      | 15.79%  |
-| MMC     | 3         | 3      | 7.89%   |
-| Unknown | 1         | 1      | 2.63%   |
+| NVMe    | 19        | 25     | 48.72%  |
+| HDD     | 10        | 11     | 25.64%  |
+| SSD     | 6         | 6      | 15.38%  |
+| MMC     | 3         | 3      | 7.69%   |
+| Unknown | 1         | 1      | 2.56%   |
 
 Drive Connector
 ---------------
@@ -920,9 +921,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 10     | 60%     |
-| 0.51-1.0   | 5         | 5      | 33.33%  |
-| 1.01-2.0   | 1         | 1      | 6.67%   |
+| 0.01-0.5   | 9         | 10     | 56.25%  |
+| 0.51-1.0   | 5         | 5      | 31.25%  |
+| 1.01-2.0   | 2         | 2      | 12.5%   |
 
 Space Total
 -----------
@@ -1455,7 +1456,7 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch                | 1         | 2.44%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 2.44%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.44%   |
 | Samsung Electronics LCD Monitor SEC3358 1280x800 331x207mm 15.4-inch     | 1         | 2.44%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.44%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch        | 1         | 2.44%   |
@@ -1464,7 +1465,7 @@ Monitor models
 | PANDA LCD Monitor NCP0046 1920x1080 344x194mm 15.5-inch                  | 1         | 2.44%   |
 | LG Display LCD Monitor LGD06FB 1920x1080 309x174mm 14.0-inch             | 1         | 2.44%   |
 | LG Display LCD Monitor LGD05FE 1920x1080 344x194mm 15.5-inch             | 1         | 2.44%   |
-| LG Display LCD Monitor LGD05FA 1920x1080 310x170mm 13.9-inch             | 1         | 2.44%   |
+| LG Display LCD Monitor LGD05FA 1920x1080 309x174mm 14.0-inch             | 1         | 2.44%   |
 | LG Display LCD Monitor LGD053C 1920x1080 309x174mm 14.0-inch             | 1         | 2.44%   |
 | Lenovo D22-10 LEN65E4 1920x1080 476x268mm 21.5-inch                      | 1         | 2.44%   |
 | Dell U4919DW DELA109 3840x1080 1198x337mm 49.0-inch                      | 1         | 2.44%   |
@@ -1488,7 +1489,7 @@ Monitor models
 | AU Optronics LCD Monitor AUOE48D 1920x1080 344x194mm 15.5-inch           | 1         | 2.44%   |
 | AU Optronics LCD Monitor AUO81EC 1366x768 344x193mm 15.5-inch            | 1         | 2.44%   |
 | AU Optronics LCD Monitor AUO5B2D 1920x1080 293x162mm 13.2-inch           | 1         | 2.44%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch           | 1         | 2.44%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch           | 1         | 2.44%   |
 | AU Optronics LCD Monitor AUO2E3C 1366x768 309x173mm 13.9-inch            | 1         | 2.44%   |
 | AU Optronics LCD Monitor AUO282B 3840x2160 293x165mm 13.2-inch           | 1         | 2.44%   |
 | AOC AG323FWG3R3 AOC3230 1920x1080 698x393mm 31.5-inch                    | 1         | 2.44%   |
@@ -1872,14 +1873,14 @@ Controller models
 
 | Model                                      | Notebooks | Percent |
 |--------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                      | 5         | 17.24%  |
+| Intel Bluetooth Device                     | 5         | 17.24%  |
 | Intel Bluetooth wireless interface         | 4         | 13.79%  |
 | Intel AX200 Bluetooth                      | 4         | 13.79%  |
 | Qualcomm Atheros  Bluetooth Device         | 3         | 10.34%  |
 | Intel AX210 Bluetooth                      | 2         | 6.9%    |
 | Toshiba RT Bluetooth Radio                 | 1         | 3.45%   |
+| Realtek RTL8821A Bluetooth                 | 1         | 3.45%   |
 | Realtek  Bluetooth 4.2 Adapter             | 1         | 3.45%   |
-| Realtek Bluetooth Radio                    | 1         | 3.45%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0      | 1         | 3.45%   |
 | MediaTek Wireless_Device                   | 1         | 3.45%   |
 | Lite-On Wireless_Device                    | 1         | 3.45%   |
@@ -1983,7 +1984,7 @@ Memory module models
 | SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 4.55%   |
 | SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 4.55%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 4.55%   |
-| Samsung RAM M471B5773CHS-CK0 2048MB SODIMM DDR3 1600MT/s         | 1         | 4.55%   |
+| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s            | 1         | 4.55%   |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 1         | 4.55%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 1         | 4.55%   |
 | Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 4.55%   |
@@ -1992,7 +1993,7 @@ Memory module models
 | Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 4.55%   |
 | Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s           | 1         | 4.55%   |
 | Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2 667MT/s            | 1         | 4.55%   |
-| Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 4.55%   |
+| Micron RAM 8ATF1G64HZ-2G3H1 8192MB SODIMM DDR4 2400MT/s          | 1         | 4.55%   |
 | Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 1         | 4.55%   |
 | G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s           | 1         | 4.55%   |
 | Crucial RAM CT8G4SFS824A.M8FJ 8GB SODIMM DDR4 2400MT/s           | 1         | 4.55%   |

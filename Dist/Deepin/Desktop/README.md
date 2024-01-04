@@ -818,8 +818,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 45       | 65.22%  |
-| Yes       | 24       | 34.78%  |
+| No        | 46       | 66.67%  |
+| Yes       | 23       | 33.33%  |
 
 Has Ethernet
 ------------
@@ -1045,7 +1045,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB         | 1        | 0.75%   |
 | WDC WD10EARS-00Y5B1 1TB          | 1        | 0.75%   |
 | Vaseky V800/256G 256GB           | 1        | 0.75%   |
-| Unknown SD/MMC/MS PRO 128GB      | 1        | 0.75%   |
+| Unknown SD/MMC/MS PRO 512GB      | 1        | 0.75%   |
 | Toshiba MQ01ABF050 500GB         | 1        | 0.75%   |
 | Toshiba MQ01ABD075 752GB         | 1        | 0.75%   |
 
@@ -1136,9 +1136,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 83     | 55.17%  |
-| 0.51-1.0   | 32       | 39     | 36.78%  |
-| 1.01-2.0   | 6        | 9      | 6.9%    |
+| 0.01-0.5   | 47       | 80     | 54.02%  |
+| 0.51-1.0   | 32       | 41     | 36.78%  |
+| 1.01-2.0   | 7        | 10     | 8.05%   |
 | 2.01-3.0   | 1        | 1      | 1.15%   |
 
 Space Total
@@ -2009,7 +2009,7 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.98%   |
 | Unknown Network controller                                        | 1        | 0.98%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 0.98%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 0.98%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 0.98%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 0.98%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                | 1        | 0.98%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1        | 0.98%   |
@@ -2025,8 +2025,8 @@ Controller models
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 0.98%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 0.98%   |
 | NetGear A6210                                                     | 1        | 0.98%   |
-| MediaTek X55                                                      | 1        | 0.98%   |
 | MediaTek MT7630e 802.11bgn Wireless Network Adapter               | 1        | 0.98%   |
+| MediaTek M40Air_EEA                                               | 1        | 0.98%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.98%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 0.98%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 0.98%   |
@@ -2071,7 +2071,7 @@ Wireless models
 |------------------------------------------------------------|----------|---------|
 | Realtek RTL8188GU 802.11n WLAN Adapter (After Modeswitch)  | 2        | 8.33%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                | 1        | 4.17%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 1        | 4.17%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                      | 1        | 4.17%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano] | 1        | 4.17%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                         | 1        | 4.17%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter    | 1        | 4.17%   |
@@ -2136,7 +2136,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.32%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.32%   |
 | Nvidia MCP61 Ethernet                                             | 1        | 1.32%   |
-| MediaTek X55                                                      | 1        | 1.32%   |
+| MediaTek M40Air_EEA                                               | 1        | 1.32%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 1.32%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.32%   |
 | Loongson Gigabit Ethernet Controller                              | 1        | 1.32%   |
@@ -2247,14 +2247,13 @@ Controller models
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)      | 11       | 47.83%  |
+| Intel Bluetooth Device                                   | 2        | 8.7%    |
 | Realtek Bluetooth Radio                                  | 1        | 4.35%   |
 | Qualcomm Atheros Bluetooth USB Host Controller           | 1        | 4.35%   |
 | MediaTek BT                                              | 1        | 4.35%   |
 | Lite-On Bluetooth Device                                 | 1        | 4.35%   |
 | Intel Wireless-AC 3168 Bluetooth                         | 1        | 4.35%   |
 | Intel Bluetooth wireless interface                       | 1        | 4.35%   |
-| Intel Bluetooth Device                                   | 1        | 4.35%   |
-| Intel AX201 Bluetooth                                    | 1        | 4.35%   |
 | Intel AX200 Bluetooth                                    | 1        | 4.35%   |
 | Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 4.35%   |
 | Broadcom HP Portable Bumble Bee                          | 1        | 4.35%   |
@@ -2383,7 +2382,7 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM 667MT/s                     | 1        | 2.38%   |
 | Unknown RAM Module 2GB DIMM SDRAM                          | 1        | 2.38%   |
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s         | 1        | 2.38%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s        | 1        | 2.38%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s        | 1        | 2.38%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s     | 1        | 2.38%   |
 | SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s       | 1        | 2.38%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s      | 1        | 2.38%   |
@@ -2399,7 +2398,7 @@ Memory module models
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 3400MT/s          | 1        | 2.38%   |
 | Kingston RAM KHX2133C14D4/8G 8GB DIMM DDR4 2667MT/s        | 1        | 2.38%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s        | 1        | 2.38%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s        | 1        | 2.38%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s        | 1        | 2.38%   |
 | Kingston RAM BRAP1G48GB16C1600 8192MB DIMM DDR3 1600MT/s   | 1        | 2.38%   |
 | Kingston RAM 99U5474-038.A00LF 4GB DIMM DDR3 1333MT/s      | 1        | 2.38%   |
 | Kingston RAM 99U5403-034.A00LF 4096MB DIMM DDR3 1333MT/s   | 1        | 2.38%   |
@@ -2553,8 +2552,8 @@ Camera device vendors
 |------------------------|----------|---------|
 | Logitech               | 6        | 54.55%  |
 | Microdia               | 1        | 9.09%   |
-| HDR webcam             | 1        | 9.09%   |
 | Generalplus Technology | 1        | 9.09%   |
+| Creality 3D Technology | 1        | 9.09%   |
 | Chicony Electronics    | 1        | 9.09%   |
 | Arkmicro Technologies  | 1        | 9.09%   |
 
@@ -2572,10 +2571,10 @@ Camera device models
 | Microdia Integrated_Webcam_HD         | 1        | 9.09%   |
 | Logitech Webcam C200                  | 1        | 9.09%   |
 | Logitech HD Pro Webcam C920           | 1        | 9.09%   |
-| HDR webcam HDR webcam                 | 1        | 9.09%   |
 | Generalplus GENERAL WEBCAM            | 1        | 9.09%   |
+| Creality 3D CREALITY CAM              | 1        | 9.09%   |
 | Chicony HP High Definition 1MP Webcam | 1        | 9.09%   |
-| Arkmicro Acme CA04                    | 1        | 9.09%   |
+| Arkmicro USB2.0 PC CAMERA             | 1        | 9.09%   |
 
 Security
 --------

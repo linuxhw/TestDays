@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 195
+Total: 196
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | TUF Gaming FX705DT_FX705... | [c71368b0eb](https://linux-hardware.org/?probe=c71368b0eb) | Jan 01, 2024 |
 | iRU           | 15ALC                       | [28f7177799](https://linux-hardware.org/?probe=28f7177799) | Dec 22, 2023 |
 | Dell          | Precision M4700             | [3048d06ee6](https://linux-hardware.org/?probe=3048d06ee6) | Dec 21, 2023 |
 | Lenovo        | V15 G1 IML 82NB             | [90d82dc1a1](https://linux-hardware.org/?probe=90d82dc1a1) | Dec 18, 2023 |
@@ -368,11 +369,11 @@ Installed operating systems
 
 | Name         | Notebooks | Percent |
 |--------------|-----------|---------|
-| Red OS 7.3.1 | 44        | 34.65%  |
-| Red OS 7.3.2 | 41        | 32.28%  |
-| Red OS 7.3   | 40        | 31.5%   |
-| Red OS 8.0   | 1         | 0.79%   |
-| Red OS 7.2   | 1         | 0.79%   |
+| Red OS 7.3.1 | 44        | 34.38%  |
+| Red OS 7.3.2 | 41        | 32.03%  |
+| Red OS 7.3   | 40        | 31.25%  |
+| Red OS 8.0   | 2         | 1.56%   |
+| Red OS 7.2   | 1         | 0.78%   |
 
 OS Family
 ---------
@@ -396,32 +397,33 @@ Version of the Linux kernel
 
 | Version                 | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| 5.15.10-1.el7.x86_64    | 25        | 18.66%  |
-| 5.15.72-1.el7.3.x86_64  | 23        | 17.16%  |
-| 5.15.87-1.el7.3.x86_64  | 13        | 9.7%    |
-| 5.15.35-4.el7.3.x86_64  | 10        | 7.46%   |
-| 5.10.29-1.el7.x86_64    | 10        | 7.46%   |
-| 6.1.52-1.el7.3.x86_64   | 9         | 6.72%   |
-| 5.15.35-1.el7.3.x86_64  | 6         | 4.48%   |
-| 6.1.20-2.el7.3.x86_64   | 4         | 2.99%   |
-| 5.15.35-5.el7.3.x86_64  | 4         | 2.99%   |
-| 6.1.44-1.el7.3.x86_64   | 3         | 2.24%   |
-| 5.15.78-2.el7.3.x86_64  | 3         | 2.24%   |
-| 5.15.125-1.el7.3.x86_64 | 3         | 2.24%   |
-| 5.10.1-1.el7.x86_64     | 3         | 2.24%   |
-| 6.1.38-2.el7.3.x86_64   | 2         | 1.49%   |
-| 5.15.131-1.el7.3.x86_64 | 2         | 1.49%   |
-| 5.15.10-4.el7.x86_64    | 2         | 1.49%   |
-| 5.10.29-3.el7.x86_64    | 2         | 1.49%   |
-| 5.10.24-2.el7.x86_64    | 2         | 1.49%   |
-| 6.1.52-1.red80.x86_64   | 1         | 0.75%   |
-| 5.18.1-1.el7.x86_64     | 1         | 0.75%   |
-| 5.15.120                | 1         | 0.75%   |
-| 5.15.10-3.el7.x86_64    | 1         | 0.75%   |
-| 5.15.10-2.el7.x86_64    | 1         | 0.75%   |
-| 5.13.15-1.el7.x86_64    | 1         | 0.75%   |
-| 5.10.24-1.el7.x86_64    | 1         | 0.75%   |
-| 4.19.79-1.el7.x86_64    | 1         | 0.75%   |
+| 5.15.10-1.el7.x86_64    | 25        | 18.52%  |
+| 5.15.72-1.el7.3.x86_64  | 23        | 17.04%  |
+| 5.15.87-1.el7.3.x86_64  | 13        | 9.63%   |
+| 5.15.35-4.el7.3.x86_64  | 10        | 7.41%   |
+| 5.10.29-1.el7.x86_64    | 10        | 7.41%   |
+| 6.1.52-1.el7.3.x86_64   | 9         | 6.67%   |
+| 5.15.35-1.el7.3.x86_64  | 6         | 4.44%   |
+| 6.1.20-2.el7.3.x86_64   | 4         | 2.96%   |
+| 5.15.35-5.el7.3.x86_64  | 4         | 2.96%   |
+| 6.1.44-1.el7.3.x86_64   | 3         | 2.22%   |
+| 5.15.78-2.el7.3.x86_64  | 3         | 2.22%   |
+| 5.15.125-1.el7.3.x86_64 | 3         | 2.22%   |
+| 5.10.1-1.el7.x86_64     | 3         | 2.22%   |
+| 6.1.38-2.el7.3.x86_64   | 2         | 1.48%   |
+| 5.15.131-1.el7.3.x86_64 | 2         | 1.48%   |
+| 5.15.10-4.el7.x86_64    | 2         | 1.48%   |
+| 5.10.29-3.el7.x86_64    | 2         | 1.48%   |
+| 5.10.24-2.el7.x86_64    | 2         | 1.48%   |
+| 6.6.6-1.red80.x86_64    | 1         | 0.74%   |
+| 6.1.52-1.red80.x86_64   | 1         | 0.74%   |
+| 5.18.1-1.el7.x86_64     | 1         | 0.74%   |
+| 5.15.120                | 1         | 0.74%   |
+| 5.15.10-3.el7.x86_64    | 1         | 0.74%   |
+| 5.15.10-2.el7.x86_64    | 1         | 0.74%   |
+| 5.13.15-1.el7.x86_64    | 1         | 0.74%   |
+| 5.10.24-1.el7.x86_64    | 1         | 0.74%   |
+| 4.19.79-1.el7.x86_64    | 1         | 0.74%   |
 
 Kernel Family
 -------------
@@ -433,20 +435,21 @@ Linux kernel without a distro release
 
 | Version  | Notebooks | Percent |
 |----------|-----------|---------|
-| 5.15.10  | 29        | 21.8%   |
-| 5.15.72  | 23        | 17.29%  |
-| 5.15.35  | 19        | 14.29%  |
-| 5.15.87  | 13        | 9.77%   |
-| 5.10.29  | 12        | 9.02%   |
-| 6.1.52   | 10        | 7.52%   |
-| 6.1.20   | 4         | 3.01%   |
-| 6.1.44   | 3         | 2.26%   |
-| 5.15.78  | 3         | 2.26%   |
-| 5.15.125 | 3         | 2.26%   |
-| 5.10.24  | 3         | 2.26%   |
-| 5.10.1   | 3         | 2.26%   |
-| 6.1.38   | 2         | 1.5%    |
-| 5.15.131 | 2         | 1.5%    |
+| 5.15.10  | 29        | 21.64%  |
+| 5.15.72  | 23        | 17.16%  |
+| 5.15.35  | 19        | 14.18%  |
+| 5.15.87  | 13        | 9.7%    |
+| 5.10.29  | 12        | 8.96%   |
+| 6.1.52   | 10        | 7.46%   |
+| 6.1.20   | 4         | 2.99%   |
+| 6.1.44   | 3         | 2.24%   |
+| 5.15.78  | 3         | 2.24%   |
+| 5.15.125 | 3         | 2.24%   |
+| 5.10.24  | 3         | 2.24%   |
+| 5.10.1   | 3         | 2.24%   |
+| 6.1.38   | 2         | 1.49%   |
+| 5.15.131 | 2         | 1.49%   |
+| 6.6.6    | 1         | 0.75%   |
 | 5.18.1   | 1         | 0.75%   |
 | 5.15.120 | 1         | 0.75%   |
 | 5.13.15  | 1         | 0.75%   |
@@ -462,12 +465,13 @@ Linux kernel major version
 
 | Version | Notebooks | Percent |
 |---------|-----------|---------|
-| 5.15    | 87        | 69.6%   |
-| 6.1     | 18        | 14.4%   |
-| 5.10    | 17        | 13.6%   |
-| 5.18    | 1         | 0.8%    |
-| 5.13    | 1         | 0.8%    |
-| 4.19    | 1         | 0.8%    |
+| 5.15    | 87        | 69.05%  |
+| 6.1     | 18        | 14.29%  |
+| 5.10    | 17        | 13.49%  |
+| 6.6     | 1         | 0.79%   |
+| 5.18    | 1         | 0.79%   |
+| 5.13    | 1         | 0.79%   |
+| 4.19    | 1         | 0.79%   |
 
 Arch
 ----
@@ -491,10 +495,10 @@ Desktop Environment
 
 | Name       | Notebooks | Percent |
 |------------|-----------|---------|
-| MATE       | 104       | 85.95%  |
-| Cinnamon   | 13        | 10.74%  |
-| X-Cinnamon | 3         | 2.48%   |
-| GNOME      | 1         | 0.83%   |
+| MATE       | 104       | 85.25%  |
+| Cinnamon   | 13        | 10.66%  |
+| X-Cinnamon | 3         | 2.46%   |
+| GNOME      | 2         | 1.64%   |
 
 Display Server
 --------------
@@ -534,8 +538,8 @@ Language
 
 | Lang    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 71        | 57.72%  |
-| ru_RU   | 51        | 41.46%  |
+| Unknown | 71        | 57.26%  |
+| ru_RU   | 52        | 41.94%  |
 | en_US   | 1         | 0.81%   |
 
 Boot Mode
@@ -835,12 +839,12 @@ Used RAM memory
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1.01-2.0  | 76        | 59.84%  |
-| 2.01-3.0  | 30        | 23.62%  |
-| 0.51-1.0  | 9         | 7.09%   |
-| 3.01-4.0  | 6         | 4.72%   |
-| 4.01-8.0  | 4         | 3.15%   |
-| 8.01-16.0 | 2         | 1.57%   |
+| 1.01-2.0  | 76        | 59.38%  |
+| 2.01-3.0  | 30        | 23.44%  |
+| 0.51-1.0  | 9         | 7.03%   |
+| 3.01-4.0  | 7         | 5.47%   |
+| 4.01-8.0  | 4         | 3.13%   |
+| 8.01-16.0 | 2         | 1.56%   |
 
 Total Drives
 ------------
@@ -867,8 +871,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 102       | 84.3%   |
-| Yes       | 19        | 15.7%   |
+| No        | 101       | 83.47%  |
+| Yes       | 20        | 16.53%  |
 
 Has Ethernet
 ------------
@@ -935,42 +939,43 @@ Geographic location (city)
 
 | City             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Moscow           | 31        | 25%     |
-| Salekhard        | 22        | 17.74%  |
-| Murom            | 16        | 12.9%   |
-| St Petersburg    | 5         | 4.03%   |
-| Perm             | 4         | 3.23%   |
-| Yekaterinburg    | 3         | 2.42%   |
-| Yakutsk          | 3         | 2.42%   |
-| Vladimir         | 3         | 2.42%   |
-| Ryazan           | 3         | 2.42%   |
-| Novy Urengoy     | 3         | 2.42%   |
-| Krasnodar        | 3         | 2.42%   |
-| Nizhniy Novgorod | 2         | 1.61%   |
-| Kursk            | 2         | 1.61%   |
-| Krasnoyarsk      | 2         | 1.61%   |
-| Yaroslavl        | 1         | 0.81%   |
-| Volzhskiy        | 1         | 0.81%   |
-| Vladivostok      | 1         | 0.81%   |
-| Ulyanovsk        | 1         | 0.81%   |
-| Tver             | 1         | 0.81%   |
-| Strezhevoy       | 1         | 0.81%   |
-| Sevastopol       | 1         | 0.81%   |
-| Saratov          | 1         | 0.81%   |
-| Samara           | 1         | 0.81%   |
-| Pushkino         | 1         | 0.81%   |
-| Omsk             | 1         | 0.81%   |
-| Novosibirsk      | 1         | 0.81%   |
-| Novokuybyshevsk  | 1         | 0.81%   |
-| Nadym            | 1         | 0.81%   |
-| Muromskiy        | 1         | 0.81%   |
-| Kirzhach         | 1         | 0.81%   |
-| Khabarovsk       | 1         | 0.81%   |
-| Kaluga           | 1         | 0.81%   |
-| Giaginskaya      | 1         | 0.81%   |
-| Borinskoye       | 1         | 0.81%   |
-| Belgorod         | 1         | 0.81%   |
-| Balashikha       | 1         | 0.81%   |
+| Moscow           | 31        | 24.8%   |
+| Salekhard        | 22        | 17.6%   |
+| Murom            | 16        | 12.8%   |
+| St Petersburg    | 5         | 4%      |
+| Perm             | 4         | 3.2%    |
+| Yekaterinburg    | 3         | 2.4%    |
+| Yakutsk          | 3         | 2.4%    |
+| Vladimir         | 3         | 2.4%    |
+| Ryazan           | 3         | 2.4%    |
+| Novy Urengoy     | 3         | 2.4%    |
+| Krasnodar        | 3         | 2.4%    |
+| Nizhniy Novgorod | 2         | 1.6%    |
+| Kursk            | 2         | 1.6%    |
+| Krasnoyarsk      | 2         | 1.6%    |
+| Yaroslavl        | 1         | 0.8%    |
+| Volzhskiy        | 1         | 0.8%    |
+| Vladivostok      | 1         | 0.8%    |
+| Ulyanovsk        | 1         | 0.8%    |
+| Tver             | 1         | 0.8%    |
+| Strezhevoy       | 1         | 0.8%    |
+| Sevastopol       | 1         | 0.8%    |
+| Saratov          | 1         | 0.8%    |
+| Saransk          | 1         | 0.8%    |
+| Samara           | 1         | 0.8%    |
+| Pushkino         | 1         | 0.8%    |
+| Omsk             | 1         | 0.8%    |
+| Novosibirsk      | 1         | 0.8%    |
+| Novokuybyshevsk  | 1         | 0.8%    |
+| Nadym            | 1         | 0.8%    |
+| Muromskiy        | 1         | 0.8%    |
+| Kirzhach         | 1         | 0.8%    |
+| Khabarovsk       | 1         | 0.8%    |
+| Kaluga           | 1         | 0.8%    |
+| Giaginskaya      | 1         | 0.8%    |
+| Borinskoye       | 1         | 0.8%    |
+| Belgorod         | 1         | 0.8%    |
+| Balashikha       | 1         | 0.8%    |
 
 Drives
 ------
@@ -986,12 +991,12 @@ Hard drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 30        | 45     | 21.9%   |
-| WDC                 | 17        | 23     | 12.41%  |
+| WDC                 | 17        | 24     | 12.41%  |
 | SK hynix            | 10        | 12     | 7.3%    |
 | Seagate             | 7         | 9      | 5.11%   |
 | A-DATA Technology   | 7         | 7      | 5.11%   |
 | Toshiba             | 5         | 26     | 3.65%   |
-| Micron Technology   | 5         | 9      | 3.65%   |
+| Micron Technology   | 5         | 10     | 3.65%   |
 | HGST                | 5         | 5      | 3.65%   |
 | Foxline             | 5         | 5      | 3.65%   |
 | Unknown             | 4         | 4      | 2.92%   |
@@ -1081,7 +1086,7 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| WDC     | 8         | 14     | 34.78%  |
+| WDC     | 8         | 15     | 34.78%  |
 | Seagate | 7         | 9      | 30.43%  |
 | HGST    | 5         | 5      | 21.74%  |
 | Toshiba | 3         | 23     | 13.04%  |
@@ -1123,9 +1128,9 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 84        | 108    | 62.69%  |
+| NVMe    | 84        | 109    | 62.69%  |
 | SSD     | 23        | 29     | 17.16%  |
-| HDD     | 22        | 51     | 16.42%  |
+| HDD     | 22        | 52     | 16.42%  |
 | MMC     | 3         | 3      | 2.24%   |
 | Unknown | 2         | 2      | 1.49%   |
 
@@ -1139,8 +1144,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 84        | 108    | 64.62%  |
-| SATA | 40        | 77     | 30.77%  |
+| NVMe | 84        | 109    | 64.62%  |
+| SATA | 40        | 78     | 30.77%  |
 | SAS  | 3         | 5      | 2.31%   |
 | MMC  | 3         | 3      | 2.31%   |
 
@@ -1154,8 +1159,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 31        | 56     | 72.09%  |
-| 0.51-1.0   | 12        | 24     | 27.91%  |
+| 0.01-0.5   | 30        | 54     | 68.18%  |
+| 0.51-1.0   | 12        | 25     | 27.27%  |
+| 1.01-2.0   | 2         | 2      | 4.55%   |
 
 Space Total
 -----------
@@ -1185,12 +1191,12 @@ Amount of used disk space
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 1-20      | 88        | 69.84%  |
-| 21-50     | 23        | 18.25%  |
-| 101-250   | 4         | 3.17%   |
-| 501-1000  | 4         | 3.17%   |
-| 51-100    | 4         | 3.17%   |
-| 251-500   | 2         | 1.59%   |
+| 1-20      | 88        | 69.29%  |
+| 21-50     | 23        | 18.11%  |
+| 101-250   | 5         | 3.94%   |
+| 501-1000  | 4         | 3.15%   |
+| 51-100    | 4         | 3.15%   |
+| 251-500   | 2         | 1.57%   |
 | 1001-2000 | 1         | 0.79%   |
 
 Malfunc. Drives
@@ -1282,7 +1288,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 107       | 149    | 84.92%  |
+| Works    | 107       | 151    | 84.92%  |
 | Detected | 11        | 17     | 8.73%   |
 | Malfunc  | 8         | 27     | 6.35%   |
 
@@ -1796,17 +1802,17 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch    | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SDC4851 1366x768 344x194mm 15.5-inch    | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SAM71B4 3840x2160 1872x1053mm 84.6-inch | 1         | 0.8%    |
-| Samsung Electronics LCD Monitor SAM7016 3840x2160 1872x1053mm 84.6-inch | 1         | 0.8%    |
+| Samsung Electronics LCD Monitor SAM7016 3840x2160 950x540mm 43.0-inch   | 1         | 0.8%    |
 | Samsung Electronics LCD Monitor SAM090B 1920x1080 890x500mm 40.2-inch   | 1         | 0.8%    |
 | RGT LCD Monitor RGT1352 1920x1080 480x270mm 21.7-inch                   | 1         | 0.8%    |
 | Philips PHL 275S1 PHL094B 2560x1440 597x336mm 27.0-inch                 | 1         | 0.8%    |
-| Philips 227E4Q PHLC0A9 1920x1080 477x268mm 21.5-inch                    | 1         | 0.8%    |
+| Philips 227E4Q PHLC0A9 1920x1080 480x270mm 21.7-inch                    | 1         | 0.8%    |
 | Philips 226V4 PHLC0B1 1920x1080 477x268mm 21.5-inch                     | 1         | 0.8%    |
 | PANDA LM156LF1L03 NCP001C 1920x1080 344x194mm 15.5-inch                 | 1         | 0.8%    |
-| PANDA LM116LF3L02 NCP000A 1920x1080 256x144mm 11.6-inch                 | 1         | 0.8%    |
 | PANDA LCD Monitor NCP0065 1920x1080 309x174mm 14.0-inch                 | 1         | 0.8%    |
 | PANDA LCD Monitor NCP0040 1920x1080 344x194mm 15.5-inch                 | 1         | 0.8%    |
 | PANDA LCD Monitor NCP002B 1920x1080 309x174mm 14.0-inch                 | 1         | 0.8%    |
+| PANDA LC116LF3L03 NCP000A 1920x1080 256x144mm 11.6-inch                 | 1         | 0.8%    |
 | LG Display LCD Monitor LGDD302 1366x768 277x156mm 12.5-inch             | 1         | 0.8%    |
 | LG Display LCD Monitor LGD0671 1920x1080 382x215mm 17.3-inch            | 1         | 0.8%    |
 | LG Display LCD Monitor LGD063B 1920x1080 382x215mm 17.3-inch            | 1         | 0.8%    |
@@ -2025,7 +2031,7 @@ Controller models
 | Broadcom BCM43228 802.11a/b/g/n                                   | 2         | 0.88%   |
 | Broadcom BCM43142 802.11b/g/n                                     | 2         | 0.88%   |
 | Broadcom BCM4312 802.11b/g LP-PHY                                 | 2         | 0.88%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1         | 0.44%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1         | 0.44%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1         | 0.44%   |
 | TP-Link 802.11n NIC                                               | 1         | 0.44%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1         | 0.44%   |
@@ -2086,7 +2092,7 @@ Wireless models
 | Broadcom BCM43228 802.11a/b/g/n                                | 2         | 1.57%   |
 | Broadcom BCM43142 802.11b/g/n                                  | 2         | 1.57%   |
 | Broadcom BCM4312 802.11b/g LP-PHY                              | 2         | 1.57%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                            | 1         | 0.79%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                          | 1         | 0.79%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 0.79%   |
 | TP-Link 802.11n NIC                                            | 1         | 0.79%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter        | 1         | 0.79%   |
@@ -2151,10 +2157,10 @@ Ethernet models
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 1.02%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 1.02%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.02%   |
-| OPPO RMX3623                                                      | 1         | 1.02%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 1.02%   |
 | OKB SAPR Ethernet controller                                      | 1         | 1.02%   |
-| MediaTek X55                                                      | 1         | 1.02%   |
-| MediaTek P8                                                       | 1         | 1.02%   |
+| MediaTek moto e22                                                 | 1         | 1.02%   |
+| MediaTek M40Air_EEA                                               | 1         | 1.02%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.02%   |
 | Intel Ethernet Connection I218-LM                                 | 1         | 1.02%   |
 | Intel Ethernet Connection (13) I219-V                             | 1         | 1.02%   |
@@ -2253,12 +2259,11 @@ Controller models
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
 | Realtek Bluetooth Radio                        | 27        | 25.71%  |
+| Intel Bluetooth Device                         | 20        | 19.05%  |
 | Intel Bluetooth wireless interface             | 18        | 17.14%  |
-| Intel AX201 Bluetooth                          | 17        | 16.19%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 11        | 10.48%  |
 | Realtek  Bluetooth 4.2 Adapter                 | 4         | 3.81%   |
-| Intel Bluetooth Device                         | 3         | 2.86%   |
-| Realtek 802.11ac WLAN Adapter                  | 2         | 1.9%    |
+| Realtek Bluetooth Radio                        | 2         | 1.9%    |
 | Ralink RT3290 Bluetooth                        | 2         | 1.9%    |
 | Qualcomm Atheros  Bluetooth Device             | 2         | 1.9%    |
 | IMC Networks Bluetooth Radio                   | 2         | 1.9%    |
@@ -2415,7 +2420,7 @@ Memory module models
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 2         | 1.43%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 2         | 1.43%   |
 | Silicon Power & RAM Module 8GB SODIMM DDR4 3200MT/s              | 2         | 1.43%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 2         | 1.43%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s         | 2         | 1.43%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.43%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 2         | 1.43%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 2         | 1.43%   |
@@ -2591,9 +2596,9 @@ Camera device models
 | Bison Integrated Camera                             | 6         | 5.08%   |
 | IMC Networks ov9734_azurewave_camera                | 4         | 3.39%   |
 | Chicony Integrated Camera                           | 4         | 3.39%   |
+| Sunplus Integrated_Webcam_HD                        | 3         | 2.54%   |
 | IMC Networks HD Camera                              | 3         | 2.54%   |
 | USB Camera CS USB Camera CS                         | 2         | 1.69%   |
-| Sunplus FHD Camera Microphone                       | 2         | 1.69%   |
 | Sonix USB 2.0 Camera                                | 2         | 1.69%   |
 | Realtek Integrated_Webcam_HD                        | 2         | 1.69%   |
 | Quanta HP Webcam                                    | 2         | 1.69%   |
@@ -2602,7 +2607,6 @@ Camera device models
 | Luxvisions Innotech Limited Integrated Camera       | 2         | 1.69%   |
 | Chicony USB2.0 Camera                               | 2         | 1.69%   |
 | Chicony HD User Facing                              | 2         | 1.69%   |
-| Bison Lenovo Integrated Webcam                      | 2         | 1.69%   |
 | Bison HD Webcam                                     | 2         | 1.69%   |
 | Bison BisonCam,NB Pro                               | 2         | 1.69%   |
 | Acer BisonCam,NB Pro                                | 2         | 1.69%   |
@@ -2611,9 +2615,8 @@ Camera device models
 | Suyin Acer CrystalEye Webcam                        | 1         | 0.85%   |
 | SunplusIT XiaoMi USB 2.0 Webcam                     | 1         | 0.85%   |
 | SunplusIT MTD camera                                | 1         | 0.85%   |
-| Sunplus Integrated_Webcam_HD                        | 1         | 0.85%   |
 | Sunplus BKX Usb FHD Camera                          | 1         | 0.85%   |
-| Sunplus Asus Webcam                                 | 1         | 0.85%   |
+| Sunplus ASUS USB2.0 Webcam                          | 1         | 0.85%   |
 | Realtek USB Camera                                  | 1         | 0.85%   |
 | Realtek HP Truevision HD                            | 1         | 0.85%   |
 | Quanta USB2.0 HD UVC WebCam                         | 1         | 0.85%   |
@@ -2625,6 +2628,8 @@ Camera device models
 | Microdia Integrated Webcam                          | 1         | 0.85%   |
 | Luxvisions Innotech Limited HP TrueVision HD Camera | 1         | 0.85%   |
 | Luxvisions Innotech Limited HP HD Camera            | 1         | 0.85%   |
+| IMC Networks USB2.0 VGA UVC WebCam                  | 1         | 0.85%   |
+| IMC Networks USB2.0 HD UVC WebCam                   | 1         | 0.85%   |
 
 Security
 --------

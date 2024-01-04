@@ -1182,7 +1182,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Dell LCD Monitor DEL0001 1280x1024                                    | 6        | 54.55%  |
 | ViewSonic VA2419 Series VSC7B32 1920x1080 530x300mm 24.0-inch         | 1        | 9.09%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch | 1        | 9.09%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1        | 9.09%   |
 | Hewlett-Packard 24es HWP3320 1920x1080 527x296mm 23.8-inch            | 1        | 9.09%   |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1        | 9.09%   |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1        | 9.09%   |
@@ -1560,19 +1560,19 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s    | 2        | 14.29%  |
-| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s    | 2        | 14.29%  |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s     | 2        | 14.29%  |
-| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s             | 1        | 7.14%   |
-| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s     | 1        | 7.14%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 7.14%   |
-| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s      | 1        | 7.14%   |
-| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s      | 1        | 7.14%   |
-| Micron RAM 18ASF2G72PDZ-2G6E1 16384MB DIMM DDR4 2667MT/s | 1        | 7.14%   |
-| G.Skill RAM F4-3200C14-16GTZ 16GB DIMM DDR4 3600MT/s     | 1        | 7.14%   |
-| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s    | 1        | 7.14%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s | 2        | 14.29%  |
+| SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s | 2        | 14.29%  |
+| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s  | 2        | 14.29%  |
+| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s          | 1        | 7.14%   |
+| Samsung RAM M393A2G40DB0-CPB 16GB DIMM DDR4 2133MT/s  | 1        | 7.14%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s   | 1        | 7.14%   |
+| Samsung RAM M3 78T2863EHS-CF7 1GB DIMM DDR2 800MT/s   | 1        | 7.14%   |
+| Micron RAM 9ASF51272PZ-2G3B1 4GB RIMM DDR4 2400MT/s   | 1        | 7.14%   |
+| Micron RAM 18ASF2G72PDZ-2G6E1 16GB DIMM DDR4 2667MT/s | 1        | 7.14%   |
+| G.Skill RAM F4-3200C14-16GTZ 16GB DIMM DDR4 3600MT/s  | 1        | 7.14%   |
+| Crucial RAM BLT4G3D1608ET3LX0. 4GB DIMM DDR3 1600MT/s | 1        | 7.14%   |
 
 Memory Kind
 -----------

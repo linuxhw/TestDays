@@ -603,8 +603,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 20       | 74.07%  |
-| Yes       | 7        | 25.93%  |
+| No        | 21       | 77.78%  |
+| Yes       | 6        | 22.22%  |
 
 Has Ethernet
 ------------
@@ -754,8 +754,8 @@ Hard drive models
 | Model                                              | Desktops | Percent |
 |----------------------------------------------------|----------|---------|
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB | 2        | 2.74%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                | 2        | 2.74%   |
-| Intel SSD 660P Series 512GB                        | 2        | 2.74%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                | 2        | 2.74%   |
+| Intel SSD 660P Series 1TB                          | 2        | 2.74%   |
 | XUM HX256GSSDSATA3 256GB                           | 1        | 1.37%   |
 | WDC WDBA3V5000ANC-WRSN 500GB                       | 1        | 1.37%   |
 | WDC WD80EFAX-68KNBN0 8TB                           | 1        | 1.37%   |
@@ -773,7 +773,7 @@ Hard drive models
 | WDC WD10JPCX-24UE4T0 1TB                           | 1        | 1.37%   |
 | WDC WD10EZEX-00BBHA0 1TB                           | 1        | 1.37%   |
 | WDC WD100EFAX-68LHPN0 10TB                         | 1        | 1.37%   |
-| Unknown SD/MMC/MS PRO 128GB                        | 1        | 1.37%   |
+| Unknown SD/MMC/MS PRO 512GB                        | 1        | 1.37%   |
 | Unknown SD/MMC/M.S.PRO 32GB                        | 1        | 1.37%   |
 | Unknown SD/MMC 2GB                                 | 1        | 1.37%   |
 | Unknown M.S./M.S.Pro/HG 16GB                       | 1        | 1.37%   |
@@ -804,13 +804,14 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| WDC     | 9        | 16     | 39.13%  |
-| Seagate | 9        | 15     | 39.13%  |
-| Unknown | 1        | 1      | 4.35%   |
-| Toshiba | 1        | 1      | 4.35%   |
-| Hitachi | 1        | 1      | 4.35%   |
-| HGST    | 1        | 1      | 4.35%   |
-| Fantom  | 1        | 1      | 4.35%   |
+| WDC     | 9        | 16     | 37.5%   |
+| Seagate | 9        | 15     | 37.5%   |
+| Unknown | 1        | 1      | 4.17%   |
+| Toshiba | 1        | 1      | 4.17%   |
+| SABRENT | 1        | 1      | 4.17%   |
+| Hitachi | 1        | 1      | 4.17%   |
+| HGST    | 1        | 1      | 4.17%   |
+| Fantom  | 1        | 1      | 4.17%   |
 
 SSD Vendor
 ----------
@@ -843,8 +844,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| NVMe    | 17       | 27     | 34.69%  |
-| HDD     | 16       | 36     | 32.65%  |
+| NVMe    | 17       | 26     | 34.69%  |
+| HDD     | 16       | 37     | 32.65%  |
 | SSD     | 15       | 19     | 30.61%  |
 | Unknown | 1        | 3      | 2.04%   |
 
@@ -872,13 +873,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 15       | 22     | 41.67%  |
-| 0.51-1.0   | 7        | 9      | 19.44%  |
-| 1.01-2.0   | 5        | 6      | 13.89%  |
-| 3.01-4.0   | 3        | 7      | 8.33%   |
-| 2.01-3.0   | 2        | 3      | 5.56%   |
-| 10.01-20.0 | 2        | 4      | 5.56%   |
-| 4.01-10.0  | 2        | 4      | 5.56%   |
+| 0.01-0.5   | 15       | 21     | 40.54%  |
+| 0.51-1.0   | 8        | 10     | 21.62%  |
+| 1.01-2.0   | 5        | 7      | 13.51%  |
+| 3.01-4.0   | 3        | 7      | 8.11%   |
+| 2.01-3.0   | 2        | 3      | 5.41%   |
+| 10.01-20.0 | 2        | 4      | 5.41%   |
+| 4.01-10.0  | 2        | 4      | 5.41%   |
 
 Space Total
 -----------
@@ -1411,35 +1412,35 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| Acer ED322QR ACR06DD 1920x1080 700x390mm 31.5-inch                      | 2        | 6.9%    |
-| Unknown                                                                 | 2        | 6.9%    |
-| Vizio E480i-C2 VIZ1004 1920x1080 477x268mm 21.5-inch                    | 1        | 3.45%   |
-| STD HDMI STD0110 1440x900 420x240mm 19.0-inch                           | 1        | 3.45%   |
-| Sony TV SNYD703 1360x768                                                | 1        | 3.45%   |
-| Samsung Electronics SyncMaster SAM0526 1920x1080 510x287mm 23.0-inch    | 1        | 3.45%   |
-| Samsung Electronics SyncMaster SAM0370 1680x1050 459x296mm 21.5-inch    | 1        | 3.45%   |
-| Samsung Electronics SyncMaster SAM020D 1280x1024 338x270mm 17.0-inch    | 1        | 3.45%   |
-| Samsung Electronics SMS23A550H SAM07CA 1920x1080 509x286mm 23.0-inch    | 1        | 3.45%   |
-| Samsung Electronics S27C500 SAM0AF2 1920x1080 598x336mm 27.0-inch       | 1        | 3.45%   |
-| Samsung Electronics LCD Monitor SAM7103 3840x2160 700x390mm 31.5-inch   | 1        | 3.45%   |
-| Samsung Electronics LCD Monitor SAM7016 3840x2160 1872x1053mm 84.6-inch | 1        | 3.45%   |
-| Samsung Electronics LCD Monitor SAM0C04 3840x2160 1420x800mm 64.2-inch  | 1        | 3.45%   |
-| Philips PHL 322E1 PHLC20F 1920x1080 698x393mm 31.5-inch                 | 1        | 3.45%   |
-| Panasonic TV MEIA296 1920x1080 698x392mm 31.5-inch                      | 1        | 3.45%   |
-| OUT Analog OUT0096 1280x800 341x256mm 16.8-inch                         | 1        | 3.45%   |
-| Haier LED39C800F HAI17FC 1920x1080 1150x650mm 52.0-inch                 | 1        | 3.45%   |
-| Goldstar IPS226 GSM5807 1920x1080 477x268mm 21.5-inch                   | 1        | 3.45%   |
-| Dell S2721QS DELA196 3840x2160 600x340mm 27.2-inch                      | 1        | 3.45%   |
-| Dell S2318HN/NX DELD0BF 1920x1080 509x286mm 23.0-inch                   | 1        | 3.45%   |
-| Dell S2009W DELA045 1600x900 443x249mm 20.0-inch                        | 1        | 3.45%   |
-| Dell P2415Q DELA0BE 3840x2160 527x296mm 23.8-inch                       | 1        | 3.45%   |
-| Dell 1908FP DEL4025 1280x1024 376x301mm 19.0-inch                       | 1        | 3.45%   |
-| Deco Gear DGVIEW220 DGVFFFF 3440x1440 819x346mm 35.0-inch               | 1        | 3.45%   |
-| BenQ GW2255 BNQ78CD 1920x1080 477x268mm 21.5-inch                       | 1        | 3.45%   |
-| AOC Q3279WG5B AOC3279 2560x1440 725x428mm 33.1-inch                     | 1        | 3.45%   |
-| Acer SA241Y ACR0923 1920x1080 527x296mm 23.8-inch                       | 1        | 3.45%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Acer ED322QR ACR06DD 1920x1080 700x390mm 31.5-inch                     | 2        | 6.9%    |
+| Unknown                                                                | 2        | 6.9%    |
+| Vizio E480i-C2 VIZ1004 1920x1080 477x268mm 21.5-inch                   | 1        | 3.45%   |
+| STD HDMI STD0110 1440x900 420x240mm 19.0-inch                          | 1        | 3.45%   |
+| Sony TV SNYD703 1360x768                                               | 1        | 3.45%   |
+| Samsung Electronics SyncMaster SAM0526 1920x1080 510x287mm 23.0-inch   | 1        | 3.45%   |
+| Samsung Electronics SyncMaster SAM0370 1680x1050 459x296mm 21.5-inch   | 1        | 3.45%   |
+| Samsung Electronics SyncMaster SAM020D 1280x1024 338x270mm 17.0-inch   | 1        | 3.45%   |
+| Samsung Electronics SMS23A550H SAM07CA 1920x1080 509x286mm 23.0-inch   | 1        | 3.45%   |
+| Samsung Electronics S27C500 SAM0AF2 1920x1080 598x336mm 27.0-inch      | 1        | 3.45%   |
+| Samsung Electronics LCD Monitor SAM7103 3840x2160 950x540mm 43.0-inch  | 1        | 3.45%   |
+| Samsung Electronics LCD Monitor SAM7016 3840x2160 950x540mm 43.0-inch  | 1        | 3.45%   |
+| Samsung Electronics LCD Monitor SAM0C04 3840x2160 1420x800mm 64.2-inch | 1        | 3.45%   |
+| Philips PHL 322E1 PHLC20F 1920x1080 698x393mm 31.5-inch                | 1        | 3.45%   |
+| Panasonic TV MEIA296 1920x1080 698x392mm 31.5-inch                     | 1        | 3.45%   |
+| OUT Analog OUT0096 1280x800 341x256mm 16.8-inch                        | 1        | 3.45%   |
+| Haier LED39C800F HAI17FC 1920x1080 1150x650mm 52.0-inch                | 1        | 3.45%   |
+| Goldstar IPS226 GSM5807 1920x1080 477x268mm 21.5-inch                  | 1        | 3.45%   |
+| Dell S2721QS DELA196 3840x2160 597x336mm 27.0-inch                     | 1        | 3.45%   |
+| Dell S2318HN/NX DELD0BF 1920x1080 509x286mm 23.0-inch                  | 1        | 3.45%   |
+| Dell S2009W DELA045 1600x900 443x249mm 20.0-inch                       | 1        | 3.45%   |
+| Dell P2415Q DELA0BE 3840x2160 527x296mm 23.8-inch                      | 1        | 3.45%   |
+| Dell 1908FP DEL4025 1280x1024 376x301mm 19.0-inch                      | 1        | 3.45%   |
+| Deco Gear DGVIEW220 DGVFFFF 3440x1440 819x346mm 35.0-inch              | 1        | 3.45%   |
+| BenQ GW2255 BNQ78CD 1920x1080 477x268mm 21.5-inch                      | 1        | 3.45%   |
+| AOC Q3279WG5B AOC3279 2560x1440 725x428mm 33.1-inch                    | 1        | 3.45%   |
+| Acer SA241Y ACR0923 1920x1080 530x300mm 24.0-inch                      | 1        | 3.45%   |
 
 Monitor Resolution
 ------------------
@@ -1470,11 +1471,12 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 23      | 4        | 14.29%  |
 | 21      | 4        | 14.29%  |
+| 23      | 3        | 10.71%  |
 | 84      | 2        | 7.14%   |
 | 31      | 2        | 7.14%   |
 | 27      | 2        | 7.14%   |
+| 24      | 2        | 7.14%   |
 | Unknown | 2        | 7.14%   |
 | 72      | 1        | 3.57%   |
 | 64      | 1        | 3.57%   |
@@ -1483,7 +1485,6 @@ Diagonal size in inches
 | 43      | 1        | 3.57%   |
 | 35      | 1        | 3.57%   |
 | 33      | 1        | 3.57%   |
-| 24      | 1        | 3.57%   |
 | 20      | 1        | 3.57%   |
 | 19      | 1        | 3.57%   |
 | 17      | 1        | 3.57%   |
@@ -1794,10 +1795,9 @@ Controller models
 |-------------------------------------------------------|----------|---------|
 | Intel AX210 Bluetooth                                 | 4        | 26.67%  |
 | Intel Wireless-AC 3168 Bluetooth                      | 3        | 20%     |
-| Intel AX201 Bluetooth                                 | 2        | 13.33%  |
+| Intel Bluetooth Device                                | 3        | 20%     |
 | Intel AX200 Bluetooth                                 | 2        | 13.33%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 2        | 13.33%  |
-| Intel Bluetooth Device                                | 1        | 6.67%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter | 1        | 6.67%   |
 
 Sound
@@ -1913,9 +1913,9 @@ Memory module models
 | SK hynix RAM Module 16GB Row Of Chips LPDDR4 2933MT/s  | 1        | 7.14%   |
 | SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s   | 1        | 7.14%   |
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s    | 1        | 7.14%   |
-| Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s    | 1        | 7.14%   |
+| Kingston RAM KF3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s | 1        | 7.14%   |
 | HP RAM 669237-071 2GB DIMM DDR3 1600MT/s               | 1        | 7.14%   |
-| G.Skill RAM F5-6000J3636F16G 16GB DIMM DDR5 6400MT/s   | 1        | 7.14%   |
+| G.Skill RAM F5-6000J3636F16G 16GB DIMM 6400MT/s        | 1        | 7.14%   |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s | 1        | 7.14%   |
 | G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s   | 1        | 7.14%   |
 | Crucial RAM CT8G4S24AM.M8FJ 8GB SODIMM DDR4 2400MT/s   | 1        | 7.14%   |
@@ -2057,15 +2057,15 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR | 2        | 25%     |
-| vivo V2036                         | 1        | 12.5%   |
-| Realtek FULL HD 1080P Webcam       | 1        | 12.5%   |
-| Owon USB CAMERA                    | 1        | 12.5%   |
-| Microdia USB Camera                | 1        | 12.5%   |
-| Logitech Webcam C250               | 1        | 12.5%   |
-| IMC Networks XHC Camera            | 1        | 12.5%   |
+| Model                          | Desktops | Percent |
+|--------------------------------|----------|---------|
+| Apple iPhone 5/5C/5S/6/SE      | 2        | 25%     |
+| vivo V2036                     | 1        | 12.5%   |
+| Realtek Full HD webcam         | 1        | 12.5%   |
+| Owon USB CAMERA                | 1        | 12.5%   |
+| Microdia USB Camera            | 1        | 12.5%   |
+| Logitech Webcam C250           | 1        | 12.5%   |
+| IMC Networks Integrated Camera | 1        | 12.5%   |
 
 Security
 --------

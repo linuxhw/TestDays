@@ -911,7 +911,7 @@ Hard drive models
 |-----------------------------------------------------|----------|---------|
 | WDC WD10EZEX-08WN4A0 1TB                            | 2        | 2.3%    |
 | Seagate ST4000DM000-1F2168 4TB                      | 2        | 2.3%    |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2        | 2.3%    |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2        | 2.3%    |
 | Kingston SA400S37480G 480GB SSD                     | 2        | 2.3%    |
 | WDC WDS100T2B0B-00YS70 1TB SSD                      | 1        | 1.15%   |
 | WDC WDS100T2B0A-00SM50 1TB SSD                      | 1        | 1.15%   |
@@ -1028,12 +1028,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 18       | 26     | 36%     |
-| 0.01-0.5   | 15       | 17     | 30%     |
-| 3.01-4.0   | 8        | 23     | 16%     |
-| 1.01-2.0   | 5        | 6      | 10%     |
-| 4.01-10.0  | 3        | 4      | 6%      |
-| 2.01-3.0   | 1        | 1      | 2%      |
+| 0.51-1.0   | 16       | 24     | 32.65%  |
+| 0.01-0.5   | 15       | 17     | 30.61%  |
+| 3.01-4.0   | 8        | 23     | 16.33%  |
+| 1.01-2.0   | 6        | 8      | 12.24%  |
+| 4.01-10.0  | 3        | 4      | 6.12%   |
+| 2.01-3.0   | 1        | 1      | 2.04%   |
 
 Space Total
 -----------
@@ -1613,7 +1613,7 @@ Monitor models
 | ViewSonic VX2233wm-1 VSC1D22 1920x1080 477x268mm 21.5-inch           | 1        | 3.23%   |
 | ViewSonic VA2232 Series VSC8224 1680x1050 474x296mm 22.0-inch        | 1        | 3.23%   |
 | TopView HD TV TOPC37E 1920x1080 700x390mm 31.5-inch                  | 1        | 3.23%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 3.23%   |
+| STD HDMI TV STD00C7 1440x900 698x392mm 31.5-inch                     | 1        | 3.23%   |
 | Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch | 1        | 3.23%   |
 | Samsung Electronics S27H65x SAM0E1D 1920x1080 598x336mm 27.0-inch    | 1        | 3.23%   |
 | Samsung Electronics LCD Monitor S32B80P 5760x2160                    | 1        | 3.23%   |
@@ -1624,14 +1624,14 @@ Monitor models
 | Philips 19B PHL0879 1280x1024 376x301mm 19.0-inch                    | 1        | 3.23%   |
 | Medion MD7212AS MED4971 1280x1024 359x287mm 18.1-inch                | 1        | 3.23%   |
 | Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                 | 1        | 3.23%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 1        | 3.23%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 1        | 3.23%   |
 | Goldstar 22EA53 GSM59A6 1920x1080 477x268mm 21.5-inch                | 1        | 3.23%   |
 | Eizo RX220 ENC2146 1600x1200 440x330mm 21.7-inch                     | 1        | 3.23%   |
 | Eizo RP3225-004 ENC3225 3840x2160 700x390mm 31.5-inch                | 1        | 3.23%   |
 | Eizo LCD Monitor CG247 5760x2160                                     | 1        | 3.23%   |
 | Eizo LCD Monitor CG247 1920x1200                                     | 1        | 3.23%   |
 | Eizo EV2336W ENC2390 1920x1080 510x287mm 23.0-inch                   | 1        | 3.23%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 3.23%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                    | 1        | 3.23%   |
 | Dell P2417H DELA0DB 1920x1080 527x296mm 23.8-inch                    | 1        | 3.23%   |
 | Dell LCD Monitor U2515H 2560x1440                                    | 1        | 3.23%   |
 | Dell 1905FP DEL400C 1280x1024 376x301mm 19.0-inch                    | 1        | 3.23%   |
@@ -2070,7 +2070,7 @@ Sound card models
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 1        | 1.64%   |
 | Nvidia GK104 HDMI Audio Controller                                         | 1        | 1.64%   |
 | Nvidia AD102 High Definition Audio Controller                              | 1        | 1.64%   |
-| JMTek Speedlink PnP Sound Device                                           | 1        | 1.64%   |
+| JMTek USB PnP Audio Device                                                 | 1        | 1.64%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1        | 1.64%   |
 | Intel Comet Lake PCH-V cAVS                                                | 1        | 1.64%   |
 | Intel Cannon Lake PCH cAVS                                                 | 1        | 1.64%   |
@@ -2292,7 +2292,7 @@ Camera device models
 | Logitech Webcam C270                | 1        | 12.5%   |
 | Logitech Webcam B500                | 1        | 12.5%   |
 | Creative Live! Cam Chat HD [VF0700] | 1        | 12.5%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR  | 1        | 12.5%   |
+| Apple iPhone 5/5C/5S/6/SE           | 1        | 12.5%   |
 
 Security
 --------

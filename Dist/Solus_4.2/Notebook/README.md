@@ -690,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor

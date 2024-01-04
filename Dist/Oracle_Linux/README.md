@@ -1029,17 +1029,17 @@ Hard drive models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3         | 2.54%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 2         | 1.69%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3         | 2.54%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 2         | 1.69%   |
 | Seagate ST2000DM008-2FR102 2TB                      | 2         | 1.69%   |
 | SanDisk SSD PLUS 1000GB                             | 2         | 1.69%   |
 | Samsung SSD PM830 2.5 7mm 256GB                     | 2         | 1.69%   |
 | Samsung MZVLB512HAJQ-000L7 512GB                    | 2         | 1.69%   |
 | Samsung MZ7LN512HMJP-000L7 512GB SSD                | 2         | 1.69%   |
-| Phison E12 NVMe Controller 512GB                    | 2         | 1.69%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 2         | 1.69%   |
+| Phison E12 NVMe Controller 1TB                      | 2         | 1.69%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                 | 2         | 1.69%   |
 | Kingston SA400S37240G 240GB SSD                     | 2         | 1.69%   |
-| Intel SSD 660P Series 512GB                         | 2         | 1.69%   |
+| Intel SSD 660P Series 1TB                           | 2         | 1.69%   |
 | Crucial CT500MX500SSD1 500GB                        | 2         | 1.69%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 0.85%   |
 | WDC WDS250G2B0A-00SM50 250GB SSD                    | 1         | 0.85%   |
@@ -1152,10 +1152,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 29        | 40     | 49.15%  |
-| 0.51-1.0   | 22        | 32     | 37.29%  |
-| 1.01-2.0   | 7         | 45     | 11.86%  |
-| 4.01-10.0  | 1         | 2      | 1.69%   |
+| 0.01-0.5   | 28        | 36     | 46.67%  |
+| 0.51-1.0   | 24        | 36     | 40%     |
+| 1.01-2.0   | 7         | 45     | 11.67%  |
+| 4.01-10.0  | 1         | 2      | 1.67%   |
 
 Space Total
 -----------
@@ -2309,9 +2309,8 @@ Controller models
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface             | 14        | 25.45%  |
-| Intel AX201 Bluetooth                          | 8         | 14.55%  |
+| Intel Bluetooth Device                         | 14        | 25.45%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 7         | 12.73%  |
-| Intel Bluetooth Device                         | 6         | 10.91%  |
 | Realtek  Bluetooth 4.2 Adapter                 | 2         | 3.64%   |
 | Qualcomm Atheros  Bluetooth Device             | 2         | 3.64%   |
 | Intel AX210 Bluetooth                          | 2         | 3.64%   |
@@ -2402,7 +2401,7 @@ Sound card models
 | AMD Renoir Radeon High Definition Audio Controller                         | 2         | 1.42%   |
 | Unknown Definitive Sym1                                                    | 1         | 0.71%   |
 | TEAC US-2x2                                                                | 1         | 0.71%   |
-| RME ADI-2 DAC (58830529)                                                   | 1         | 0.71%   |
+| RME ADI-2 DAC (51060020)                                                   | 1         | 0.71%   |
 | Realtek Semiconductor USB Audio                                            | 1         | 0.71%   |
 | Plantronics BT600                                                          | 1         | 0.71%   |
 | Nvidia TU116 High Definition Audio Controller                              | 1         | 0.71%   |
@@ -2671,9 +2670,9 @@ Camera device models
 | Microsoft LifeCam HD-3000                                       | 1         | 1.92%   |
 | Luxvisions Innotech Limited HP 5MP Camera                       | 1         | 1.92%   |
 | Luxvisions Innotech Limited EasyCamera 1M                       | 1         | 1.92%   |
+| Logitech Webcam C925e                                           | 1         | 1.92%   |
 | Logitech Webcam C920-C                                          | 1         | 1.92%   |
 | Logitech Webcam C270                                            | 1         | 1.92%   |
-| Logitech Logitech Webcam C925e                                  | 1         | 1.92%   |
 | Logitech HD Webcam C615                                         | 1         | 1.92%   |
 | Logitech HD Webcam C510                                         | 1         | 1.92%   |
 | Logitech BRIO Ultra HD Webcam                                   | 1         | 1.92%   |
@@ -2687,7 +2686,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 1.92%   |
 | Cheng Uei Precision Industry (Foxlink) HP True Vision HD Camera | 1         | 1.92%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera             | 1         | 1.92%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                              | 1         | 1.92%   |
+| Apple iPhone 5/5C/5S/6/SE                                       | 1         | 1.92%   |
 
 Security
 --------

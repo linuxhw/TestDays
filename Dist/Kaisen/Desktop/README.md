@@ -731,7 +731,7 @@ Hard drive models
 | Seagate ST2000DM008-2UB102 2TB       | 1        | 3.23%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1        | 3.23%   |
 | SanDisk SD8SB8U-256G-1006 256GB SSD  | 1        | 3.23%   |
-| SanDisk Portable SSD 480GB           | 1        | 3.23%   |
+| SanDisk Portable SSD 2TB             | 1        | 3.23%   |
 | Samsung SSD 980 PRO 1TB              | 1        | 3.23%   |
 | Samsung SSD 970 EVO Plus 500GB       | 1        | 3.23%   |
 | Samsung SSD 970 EVO Plus 1TB         | 1        | 3.23%   |
@@ -820,11 +820,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 10       | 15     | 47.62%  |
-| 1.01-2.0   | 4        | 5      | 19.05%  |
-| 0.51-1.0   | 4        | 4      | 19.05%  |
-| 2.01-3.0   | 2        | 2      | 9.52%   |
-| 4.01-10.0  | 1        | 1      | 4.76%   |
+| 0.01-0.5   | 10       | 14     | 45.45%  |
+| 1.01-2.0   | 5        | 6      | 22.73%  |
+| 0.51-1.0   | 4        | 4      | 18.18%  |
+| 2.01-3.0   | 2        | 2      | 9.09%   |
+| 4.01-10.0  | 1        | 1      | 4.55%   |
 
 Space Total
 -----------
@@ -1305,7 +1305,7 @@ Monitor models
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch              | 1        | 7.69%   |
 | Hewlett-Packard vs17 HWP2647 1280x1024 337x270mm 17.0-inch           | 1        | 7.69%   |
 | Hewlett-Packard V221 HWP3111 1920x1080 477x268mm 21.5-inch           | 1        | 7.69%   |
-| Grundig WXGA GRU4448 1600x1200                                       | 1        | 7.69%   |
+| Grundig WUXGA GRU4448 1920x1080                                      | 1        | 7.69%   |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                    | 1        | 7.69%   |
 | Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                  | 1        | 7.69%   |
 | Dell P2418HT DEL4113 1920x1080 527x296mm 23.8-inch                   | 1        | 7.69%   |
@@ -1728,7 +1728,7 @@ Memory module models
 | Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3933MT/s  | 1        | 4.76%   |
 | Kingston RAM 99U5471-033.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 4.76%   |
 | Kingston RAM 9905702-017.A00G 8GB DIMM DDR4 2933MT/s   | 1        | 4.76%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s  | 1        | 4.76%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s     | 1        | 4.76%   |
 | G.Skill RAM F4-3200C14-8GFX 8GB DIMM DDR4 3733MT/s     | 1        | 4.76%   |
 | Crucial RAM RM51264BA1339.16FR 4GB DIMM DDR3 1333MT/s  | 1        | 4.76%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 4.76%   |

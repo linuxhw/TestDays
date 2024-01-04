@@ -1001,13 +1001,13 @@ Motherboard manufacture year
 | 2015 | 10        | 5.38%   |
 | 2011 | 10        | 5.38%   |
 | 2014 | 8         | 4.3%    |
-| 2007 | 7         | 3.76%   |
+| 2007 | 8         | 4.3%    |
 | 2010 | 6         | 3.23%   |
 | 2022 | 5         | 2.69%   |
 | 2009 | 5         | 2.69%   |
 | 2006 | 3         | 1.61%   |
 | 2023 | 2         | 1.08%   |
-| 2008 | 2         | 1.08%   |
+| 2008 | 1         | 0.54%   |
 | 2005 | 1         | 0.54%   |
 
 Form Factor
@@ -1111,8 +1111,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 126       | 67.38%  |
-| Yes       | 61        | 32.62%  |
+| No        | 125       | 66.84%  |
+| Yes       | 62        | 33.16%  |
 
 Has Ethernet
 ------------
@@ -1293,7 +1293,7 @@ Hard drive models
 | Seagate ST500LT012-9WS142 500GB                     | 2         | 0.83%   |
 | Seagate ST500LT012-1DG142 500GB                     | 2         | 0.83%   |
 | Samsung SSD 860 EVO 1TB                             | 2         | 0.83%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2         | 0.83%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2         | 0.83%   |
 | Micron NVMe SSD Drive 512GB                         | 2         | 0.83%   |
 | Hitachi HTS543232A7A384 320GB                       | 2         | 0.83%   |
 | Hitachi HTS541616J9SA00 160GB                       | 2         | 0.83%   |
@@ -1319,15 +1319,16 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Toshiba             | 32        | 34     | 29.09%  |
-| Seagate             | 29        | 45     | 26.36%  |
-| WDC                 | 28        | 36     | 25.45%  |
-| Hitachi             | 10        | 13     | 9.09%   |
-| HGST                | 6         | 8      | 5.45%   |
-| Fujitsu             | 2         | 2      | 1.82%   |
-| USB3.0              | 1         | 1      | 0.91%   |
-| Unknown             | 1         | 3      | 0.91%   |
-| Samsung Electronics | 1         | 1      | 0.91%   |
+| Toshiba             | 32        | 34     | 28.83%  |
+| Seagate             | 29        | 45     | 26.13%  |
+| WDC                 | 28        | 36     | 25.23%  |
+| Hitachi             | 10        | 13     | 9.01%   |
+| HGST                | 6         | 8      | 5.41%   |
+| Fujitsu             | 2         | 2      | 1.8%    |
+| USB3.0              | 1         | 1      | 0.9%    |
+| Unknown             | 1         | 3      | 0.9%    |
+| Samsung Electronics | 1         | 1      | 0.9%    |
+| SABRENT             | 1         | 1      | 0.9%    |
 
 SSD Vendor
 ----------
@@ -1370,11 +1371,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 106       | 143    | 47.96%  |
-| SSD     | 54        | 67     | 24.43%  |
-| NVMe    | 51        | 62     | 23.08%  |
-| MMC     | 8         | 11     | 3.62%   |
-| Unknown | 2         | 2      | 0.9%    |
+| HDD     | 106       | 144    | 48.18%  |
+| SSD     | 54        | 67     | 24.55%  |
+| NVMe    | 50        | 61     | 22.73%  |
+| MMC     | 8         | 11     | 3.64%   |
+| Unknown | 2         | 2      | 0.91%   |
 
 Drive Connector
 ---------------
@@ -1401,9 +1402,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 101       | 120    | 61.21%  |
-| 0.51-1.0   | 57        | 83     | 34.55%  |
-| 1.01-2.0   | 7         | 7      | 4.24%   |
+| 0.01-0.5   | 98        | 115    | 59.04%  |
+| 0.51-1.0   | 58        | 86     | 34.94%  |
+| 1.01-2.0   | 10        | 10     | 6.02%   |
 
 Space Total
 -----------
@@ -2069,7 +2070,7 @@ Monitor models
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | Goldstar HD GSM5ACD 1366x768 410x230mm 18.5-inch                      | 5         | 2.33%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 4         | 1.86%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 4         | 1.86%   |
 | Chimei Innolux LCD Monitor CMN15FD 1366x768 344x193mm 15.5-inch       | 3         | 1.4%    |
 | Chimei Innolux LCD Monitor CMN14D6 1366x768 309x173mm 13.9-inch       | 3         | 1.4%    |
 | Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch       | 3         | 1.4%    |
@@ -2105,7 +2106,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5742 1366x768 309x174mm 14.0-inch  | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC5557 1920x1200 367x230mm 17.1-inch | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 382x215mm 17.3-inch  | 1         | 0.47%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.47%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC4256 1600x900 382x215mm 17.3-inch  | 1         | 0.47%   |
 | Samsung Electronics LCD Monitor SEC3741 1280x800 331x207mm 15.4-inch  | 1         | 0.47%   |
 
@@ -2417,7 +2418,7 @@ Wireless models
 | Intel Centrino Wireless-N 1000 [Condor Peak]                            | 2         | 1.04%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                                | 2         | 1.04%   |
 | Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 1.04%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                     | 1         | 0.52%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                   | 1         | 0.52%   |
 | TP-Link 802.11ac WLAN Adapter                                           | 1         | 0.52%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                | 1         | 0.52%   |
 
@@ -2473,7 +2474,7 @@ Ethernet models
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 0.64%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 0.64%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 0.64%   |
-| OPPO RMX3623                                                      | 1         | 0.64%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 0.64%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 0.64%   |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter     | 1         | 0.64%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 0.64%   |
@@ -2594,10 +2595,10 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                  | 16        | 10.96%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 13        | 8.9%    |
 | Realtek Bluetooth Radio                             | 11        | 7.53%   |
-| Intel AX201 Bluetooth                               | 8         | 5.48%   |
+| Intel Bluetooth Device                              | 9         | 6.16%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 6         | 4.11%   |
-| IMC Networks Bluetooth Radio                        | 6         | 4.11%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 4         | 2.74%   |
+| IMC Networks Bluetooth Radio                        | 4         | 2.74%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 4         | 2.74%   |
 | Toshiba Bluetooth Device                            | 3         | 2.05%   |
 | Lite-On Bluetooth Device                            | 3         | 2.05%   |
@@ -2608,12 +2609,13 @@ Controller models
 | Lite-On Bluetooth Radio                             | 2         | 1.37%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 2         | 1.37%   |
 | Intel AX200 Bluetooth                               | 2         | 1.37%   |
+| IMC Networks 802.11ac WLAN Adapter                  | 2         | 1.37%   |
 | Foxconn / Hon Hai Bluetooth USB Host Controller     | 2         | 1.37%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 1.37%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 2         | 1.37%   |
 | Apple Bluetooth USB Host Controller                 | 2         | 1.37%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 0.68%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 0.68%   |
+| Realtek RTL8821A Bluetooth                          | 1         | 0.68%   |
+| Realtek Bluetooth Radio                             | 1         | 0.68%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 0.68%   |
 | Ralink CSR BS8510                                   | 1         | 0.68%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 0.68%   |
@@ -2622,7 +2624,6 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 0.68%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 0.68%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 0.68%   |
-| Intel Bluetooth Device                              | 1         | 0.68%   |
 | IMC Networks Wireless_Device                        | 1         | 0.68%   |
 | IMC Networks BCM20702A0                             | 1         | 0.68%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 1         | 0.68%   |
@@ -2747,16 +2748,17 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 5         | 3.45%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 4         | 2.76%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s         | 4         | 2.76%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 3         | 2.07%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 3         | 2.07%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 3         | 2.07%   |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s             | 3         | 2.07%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 1.38%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 1.38%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 1.38%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 2         | 1.38%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 2         | 1.38%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 2         | 1.38%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 2         | 1.38%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s         | 2         | 1.38%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 2         | 1.38%   |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 2         | 1.38%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 2         | 1.38%   |
@@ -2776,16 +2778,15 @@ Memory module models
 | Team RAM TEAMGROUP-SD4-2400 16GB SODIMM DDR4 8400MT/s            | 1         | 0.69%   |
 | SK hynix RAM HMT451S6MFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.69%   |
 | SK hynix RAM HMT451S6DFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.69%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.69%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.69%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 0.69%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 0.69%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.69%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.69%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 1         | 0.69%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 0.69%   |
 | SK hynix RAM HMCG78AGBSA092N 16GB SODIMM DDR5 5600MT/s           | 1         | 0.69%   |
 | SK hynix RAM HMAA2GS6CJR8N-XN 16GB SODIMM DDR4 3200MT/s          | 1         | 0.69%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 0.69%   |
+| SK hynix RAM HMA851S6DJR6N-XN 4GB Row Of Chips DDR4 3200MT/s     | 1         | 0.69%   |
 
 Memory Kind
 -----------
@@ -2972,8 +2973,8 @@ Camera device models
 | Chicony Integrated Camera                                      | 7         | 4.27%   |
 | IMC Networks USB2.0 HD UVC WebCam                              | 6         | 3.66%   |
 | Chicony HP Truevision HD                                       | 6         | 3.66%   |
+| Realtek Integrated_Webcam_HD                                   | 4         | 2.44%   |
 | IMC Networks Integrated Camera                                 | 4         | 2.44%   |
-| Realtek Integrated_Webcam_HD                                   | 3         | 1.83%   |
 | IMC Networks VGA UVC WebCam                                    | 3         | 1.83%   |
 | IMC Networks TOSHIBA Web Camera - HD                           | 3         | 1.83%   |
 | Chicony TOSHIBA Web Camera - HD                                | 3         | 1.83%   |
@@ -3097,8 +3098,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 129       | 68.98%  |
-| 1     | 50        | 26.74%  |
+| 0     | 130       | 69.52%  |
+| 1     | 49        | 26.2%   |
 | 2     | 7         | 3.74%   |
 | 5     | 1         | 0.53%   |
 
@@ -3112,16 +3113,16 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 17        | 24.64%  |
-| Fingerprint reader       | 16        | 23.19%  |
-| Net/wireless             | 12        | 17.39%  |
-| Multimedia controller    | 7         | 10.14%  |
-| Chipcard                 | 5         | 7.25%   |
-| Bluetooth                | 3         | 4.35%   |
-| Storage                  | 2         | 2.9%    |
-| Sound                    | 2         | 2.9%    |
-| Camera                   | 2         | 2.9%    |
-| Network                  | 1         | 1.45%   |
-| Net/ethernet             | 1         | 1.45%   |
-| Communication controller | 1         | 1.45%   |
+| Graphics card            | 16        | 23.53%  |
+| Fingerprint reader       | 16        | 23.53%  |
+| Net/wireless             | 12        | 17.65%  |
+| Multimedia controller    | 7         | 10.29%  |
+| Chipcard                 | 5         | 7.35%   |
+| Bluetooth                | 3         | 4.41%   |
+| Storage                  | 2         | 2.94%   |
+| Sound                    | 2         | 2.94%   |
+| Camera                   | 2         | 2.94%   |
+| Network                  | 1         | 1.47%   |
+| Net/ethernet             | 1         | 1.47%   |
+| Communication controller | 1         | 1.47%   |
 

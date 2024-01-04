@@ -1052,8 +1052,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 78       | 64.46%  |
-| Yes       | 43       | 35.54%  |
+| No        | 78       | 65%     |
+| Yes       | 42       | 35%     |
 
 Has Ethernet
 ------------
@@ -1153,7 +1153,7 @@ Hard drive vendors
 | Kingston                    | 34       | 59     | 14.11%  |
 | Samsung Electronics         | 20       | 40     | 8.3%    |
 | Toshiba                     | 13       | 15     | 5.39%   |
-| Sandisk                     | 10       | 10     | 4.15%   |
+| SanDisk                     | 10       | 10     | 4.15%   |
 | Crucial                     | 8        | 10     | 3.32%   |
 | Team                        | 5        | 5      | 2.07%   |
 | Phison Electronics          | 5        | 8      | 2.07%   |
@@ -1225,7 +1225,7 @@ Hard drive models
 | Samsung SSD 860 EVO 250GB               | 2        | 0.7%    |
 | Samsung NVMe SSD Drive 500GB            | 2        | 0.7%    |
 | Phison PS5013 E13 NVMe Controller 512GB | 2        | 0.7%    |
-| Phison E12 NVMe Controller 512GB        | 2        | 0.7%    |
+| Phison E12 NVMe Controller 1TB          | 2        | 0.7%    |
 | Lexar 128GB SSD                         | 2        | 0.7%    |
 | Kingston SMS200S3240G 240GB SSD         | 2        | 0.7%    |
 | Kingston SH103S3120G 120GB SSD          | 2        | 0.7%    |
@@ -1322,12 +1322,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 73       | 160    | 45.34%  |
-| 0.51-1.0   | 54       | 101    | 33.54%  |
-| 1.01-2.0   | 18       | 28     | 11.18%  |
-| 3.01-4.0   | 11       | 14     | 6.83%   |
-| 2.01-3.0   | 4        | 5      | 2.48%   |
-| 4.01-10.0  | 1        | 5      | 0.62%   |
+| 0.01-0.5   | 73       | 154    | 44.79%  |
+| 0.51-1.0   | 54       | 105    | 33.13%  |
+| 1.01-2.0   | 19       | 30     | 11.66%  |
+| 3.01-4.0   | 12       | 15     | 7.36%   |
+| 2.01-3.0   | 4        | 5      | 2.45%   |
+| 4.01-10.0  | 1        | 4      | 0.61%   |
 
 Space Total
 -----------
@@ -1975,48 +1975,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch                      | 4        | 3.01%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch   | 3        | 2.26%   |
-| Samsung Electronics S19C150 SAM0AE6 1366x768 410x230mm 18.5-inch        | 2        | 1.5%    |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 2        | 1.5%    |
-| Lenovo LEN G34w-10 LEN66A1 3440x1440 800x330mm 34.1-inch                | 2        | 1.5%    |
-| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                   | 2        | 1.5%    |
-| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                       | 2        | 1.5%    |
-| Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                       | 2        | 1.5%    |
-| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                       | 2        | 1.5%    |
-| WIT DVI WIT00FA 2560x1600 670x430mm 31.3-inch                           | 1        | 0.75%   |
-| ViewSonic VX2253 Series VSC0A28 1920x1080 476x268mm 21.5-inch           | 1        | 0.75%   |
-| Unknown MS306 0030 1920x1080 708x398mm 32.0-inch                        | 1        | 0.75%   |
-| Unknown LCD Monitor SCEI MONITOR 1920x1080                              | 1        | 0.75%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 0.75%   |
-| Unknown LCD Monitor AAA HDTV 1366x768                                   | 1        | 0.75%   |
-| Unknown (XXX) Beyond TV XXX2851 3840x2160 1210x680mm 54.6-inch          | 1        | 0.75%   |
-| Tech Concepts LCD Monitor TCL SMART TV 3840x2160                        | 1        | 0.75%   |
-| TCL SMART TV TCL6586 3840x2160 1209x680mm 54.6-inch                     | 1        | 0.75%   |
-| Sun SCEI MONITOR SCE0301 1920x1080 522x294mm 23.6-inch                  | 1        | 0.75%   |
-| Sony TV SNY3002 1920x1080 1018x573mm 46.0-inch                          | 1        | 0.75%   |
-| Sony TV *00 SNY7C04 3840x2160 1085x610mm 49.0-inch                      | 1        | 0.75%   |
-| Sony LCD Monitor TV  *00 3840x2160                                      | 1        | 0.75%   |
-| SKY LED TV SKY0104 1920x1080 885x498mm 40.0-inch                        | 1        | 0.75%   |
-| SHC SHARP SHC0030 3840x2160 708x398mm 32.0-inch                         | 1        | 0.75%   |
-| Sharp SHARP SHC0030 3840x2160 708x398mm 32.0-inch                       | 1        | 0.75%   |
-| Sharp LCD SHP4176 1920x1080 640x360mm 28.9-inch                         | 1        | 0.75%   |
-| Sharp LCD Monitor HDMI 1920x1080                                        | 1        | 0.75%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch       | 1        | 0.75%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch       | 1        | 0.75%   |
-| Samsung Electronics T27C370 SAM0ADC 1920x1080 598x336mm 27.0-inch       | 1        | 0.75%   |
-| Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch      | 1        | 0.75%   |
-| Samsung Electronics SMBX2450 SAM0721 1920x1080 531x299mm 24.0-inch      | 1        | 0.75%   |
-| Samsung Electronics SA300/SA350 SAM0789 1366x768 410x230mm 18.5-inch    | 1        | 0.75%   |
-| Samsung Electronics S24C300 SAM0A2A 1920x1080 521x293mm 23.5-inch       | 1        | 0.75%   |
-| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch       | 1        | 0.75%   |
-| Samsung Electronics S22D300 SAM0B3C 1920x1080 477x268mm 21.5-inch       | 1        | 0.75%   |
-| Samsung Electronics LS49AG95 SAM71AC 3840x1080 1193x336mm 48.8-inch     | 1        | 0.75%   |
-| Samsung Electronics LCD Monitor SMBX2450 3840x1080                      | 1        | 0.75%   |
-| Samsung Electronics LCD Monitor SMBX2450                                | 1        | 0.75%   |
-| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1110x620mm 50.1-inch  | 1        | 0.75%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch                     | 4        | 3.01%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch  | 3        | 2.26%   |
+| Samsung Electronics S19C150 SAM0AE6 1366x768 410x230mm 18.5-inch       | 2        | 1.5%    |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch  | 2        | 1.5%    |
+| Lenovo LEN G34w-10 LEN66A1 3440x1440 800x330mm 34.1-inch               | 2        | 1.5%    |
+| Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                  | 2        | 1.5%    |
+| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                      | 2        | 1.5%    |
+| Dell P2312H DEL4076 1920x1080 510x287mm 23.0-inch                      | 2        | 1.5%    |
+| BenQ GL2460 BNQ78CE 1920x1080 531x299mm 24.0-inch                      | 2        | 1.5%    |
+| WIT DVI WIT00FA 2560x1600 670x430mm 31.3-inch                          | 1        | 0.75%   |
+| ViewSonic VX2253 Series VSC0A28 1920x1080 476x268mm 21.5-inch          | 1        | 0.75%   |
+| Unknown MS306 0030 1920x1080 708x398mm 32.0-inch                       | 1        | 0.75%   |
+| Unknown LCD Monitor SCEI MONITOR 1920x1080                             | 1        | 0.75%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                  | 1        | 0.75%   |
+| Unknown LCD Monitor AAA HDTV 1366x768                                  | 1        | 0.75%   |
+| Unknown (XXX) Beyond TV XXX2851 3840x2160 1210x680mm 54.6-inch         | 1        | 0.75%   |
+| Tech Concepts LCD Monitor TCL SMART TV 3840x2160                       | 1        | 0.75%   |
+| TCL SMART TV TCL6586 3840x2160 1209x680mm 54.6-inch                    | 1        | 0.75%   |
+| Sun SCEI MONITOR SCE0301 1920x1080 522x294mm 23.6-inch                 | 1        | 0.75%   |
+| Sony TV SNY3002 1920x1080 1018x573mm 46.0-inch                         | 1        | 0.75%   |
+| Sony TV *00 SNY7C04 3840x2160 1085x610mm 49.0-inch                     | 1        | 0.75%   |
+| Sony LCD Monitor TV  *00 3840x2160                                     | 1        | 0.75%   |
+| SKY LED TV SKY0104 1920x1080 885x498mm 40.0-inch                       | 1        | 0.75%   |
+| SHC SHARP SHC0030 3840x2160 708x398mm 32.0-inch                        | 1        | 0.75%   |
+| Sharp SHARP SHC0030 3840x2160 708x398mm 32.0-inch                      | 1        | 0.75%   |
+| Sharp LCD SHP4176 1920x1080 640x360mm 28.9-inch                        | 1        | 0.75%   |
+| Sharp LCD Monitor HDMI 1920x1080                                       | 1        | 0.75%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 608x345mm 27.5-inch      | 1        | 0.75%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch      | 1        | 0.75%   |
+| Samsung Electronics T27C370 SAM0ADC 1920x1080 598x336mm 27.0-inch      | 1        | 0.75%   |
+| Samsung Electronics SMS19A100 SAM0867 1366x768 410x230mm 18.5-inch     | 1        | 0.75%   |
+| Samsung Electronics SMBX2450 SAM0721 1920x1080 531x299mm 24.0-inch     | 1        | 0.75%   |
+| Samsung Electronics SA300/SA350 SAM0789 1366x768 410x230mm 18.5-inch   | 1        | 0.75%   |
+| Samsung Electronics S24C300 SAM0A2A 1920x1080 521x293mm 23.5-inch      | 1        | 0.75%   |
+| Samsung Electronics S22D300 SAM0B3F 1920x1080 477x268mm 21.5-inch      | 1        | 0.75%   |
+| Samsung Electronics S22D300 SAM0B3C 1920x1080 477x268mm 21.5-inch      | 1        | 0.75%   |
+| Samsung Electronics LS49AG95 SAM71AC 3840x1080 1193x336mm 48.8-inch    | 1        | 0.75%   |
+| Samsung Electronics LCD Monitor SMBX2450 3840x1080                     | 1        | 0.75%   |
+| Samsung Electronics LCD Monitor SMBX2450                               | 1        | 0.75%   |
+| Samsung Electronics LCD Monitor SAM0DF6 3840x2160 1110x620mm 50.1-inch | 1        | 0.75%   |
 
 Monitor Resolution
 ------------------
@@ -2497,15 +2497,13 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 17       | 32.08%  |
 | Intel AX200 Bluetooth                                 | 12       | 22.64%  |
 | Intel Bluetooth wireless interface                    | 5        | 9.43%   |
-| TP-Link TP-Cdj+ UB5A Adapter                          | 3        | 5.66%   |
+| Intel Bluetooth Device                                | 4        | 7.55%   |
+| TP-Link UB500 Adapter                                 | 3        | 5.66%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 3        | 5.66%   |
-| Intel AX201 Bluetooth                                 | 3        | 5.66%   |
+| Realtek Bluetooth Radio                               | 2        | 3.77%   |
 | MediaTek Wireless_Device                              | 2        | 3.77%   |
-| Realtek Bluetooth Radio                               | 1        | 1.89%   |
-| Realtek 802.11ac WLAN Adapter                         | 1        | 1.89%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 1        | 1.89%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 1        | 1.89%   |
-| Intel Bluetooth Device                                | 1        | 1.89%   |
 | Broadcom BCM92045B3 ROM                               | 1        | 1.89%   |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE | 1        | 1.89%   |
 | ASUS Bluetooth Device                                 | 1        | 1.89%   |
@@ -2631,48 +2629,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s               | 3        | 4.17%   |
-| Team RAM TEAMGROUP-UD3-1600 8GB DIMM DDR3 1600MT/s                | 2        | 2.78%   |
-| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s              | 2        | 2.78%   |
-| Micron RAM Module 4GB DIMM DDR3 1333MT/s                          | 2        | 2.78%   |
-| G.Skill RAM F3-12800CL10-8GBXL 8GB DIMM DDR3 1600MT/s             | 2        | 2.78%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                         | 1        | 1.39%   |
-| Unknown RAM Module 8192MB DIMM 1333MT/s                           | 1        | 1.39%   |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                         | 1        | 1.39%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                      | 1        | 1.39%   |
-| Unknown RAM Module 2GB DIMM 800MT/s                               | 1        | 1.39%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                            | 1        | 1.39%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 1.39%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s                | 1        | 1.39%   |
-| Team RAM Dark-1600 8GB DIMM DDR3 1600MT/s                         | 1        | 1.39%   |
-| SK hynix RAM HMT425U6AFR6C-PB 2GB DIMM DDR3 1600MT/s              | 1        | 1.39%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1600MT/s              | 1        | 1.39%   |
-| SK hynix RAM HMA851U6DJR6N-XN 4GB DIMM DDR4 3200MT/s              | 1        | 1.39%   |
-| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2667MT/s              | 1        | 1.39%   |
-| SK hynix RAM HMA451R7MFR8N-TF 4GB DIMM DDR4 2133MT/s              | 1        | 1.39%   |
-| Samsung RAM Module 8GB DIMM DDR4 2667MT/s                         | 1        | 1.39%   |
-| Samsung RAM M393B1K70DH0-CK0 8192MB DIMM DDR3 1333MT/s            | 1        | 1.39%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s               | 1        | 1.39%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 1.39%   |
-| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 1.39%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 1.39%   |
-| Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 3466MT/s              | 1        | 1.39%   |
-| Samsung RAM M378A2G43AB3-CWE 16GB DIMM DDR4 3200MT/s              | 1        | 1.39%   |
-| Nanya RAM NT2GC64B88B0NF-CG 2GB DIMM DDR3 1333MT/s                | 1        | 1.39%   |
-| Micron RAM ITC 4096MB DIMM DDR3 1648MT/s                          | 1        | 1.39%   |
-| Micron RAM 9JSF51272PZ-1G9E2 4GB DIMM DDR3 1866MT/s               | 1        | 1.39%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s               | 1        | 1.39%   |
-| Micron RAM 8JTF25664AZ-1G4D1 2GB DIMM DDR3 1333MT/s               | 1        | 1.39%   |
-| Micron RAM 36JSF1G72PZ-1G6K1 8GB DIMM DDR3 1333MT/s               | 1        | 1.39%   |
-| Lexar Co Limited RAM LD4AS008G-H3200GST 8GB SODIMM DDR4 3200MT/s  | 1        | 1.39%   |
-| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2933MT/s              | 1        | 1.39%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s               | 1        | 1.39%   |
-| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s              | 1        | 1.39%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s               | 1        | 1.39%   |
-| Kingston RAM K1N7HK-ELC 2GB DIMM DDR3 1333MT/s                    | 1        | 1.39%   |
-| Kingston RAM HP32D4U8D8HC-16XR 16GB DIMM DDR4 3200MT/s            | 1        | 1.39%   |
+| Model                                                            | Desktops | Percent |
+|------------------------------------------------------------------|----------|---------|
+| Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 3200MT/s              | 3        | 4.17%   |
+| Team RAM TEAMGROUP-UD3-1600 8GB DIMM DDR3 1600MT/s               | 2        | 2.78%   |
+| SK hynix RAM HMA851U6AFR6N-UH 4GB DIMM DDR4 2400MT/s             | 2        | 2.78%   |
+| Micron RAM Module 4GB DIMM DDR3 1333MT/s                         | 2        | 2.78%   |
+| G.Skill RAM F3-12800CL10-8GBXL 8GB DIMM DDR3 1600MT/s            | 2        | 2.78%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                        | 1        | 1.39%   |
+| Unknown RAM Module 8192MB DIMM 1333MT/s                          | 1        | 1.39%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                        | 1        | 1.39%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                     | 1        | 1.39%   |
+| Unknown RAM Module 2GB DIMM 800MT/s                              | 1        | 1.39%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                           | 1        | 1.39%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 1        | 1.39%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s               | 1        | 1.39%   |
+| Team RAM Dark-1600 8GB DIMM DDR3 1600MT/s                        | 1        | 1.39%   |
+| SK hynix RAM HMT425U6AFR6C-PB 2GB DIMM DDR3 1600MT/s             | 1        | 1.39%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1600MT/s             | 1        | 1.39%   |
+| SK hynix RAM HMA851U6DJR6N-XN 4GB DIMM DDR4 3200MT/s             | 1        | 1.39%   |
+| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2667MT/s             | 1        | 1.39%   |
+| SK hynix RAM HMA451R7MFR8N-TF 4GB DIMM DDR4 2133MT/s             | 1        | 1.39%   |
+| Samsung RAM Module 8GB DIMM DDR4 2667MT/s                        | 1        | 1.39%   |
+| Samsung RAM M393B1K70DH0-CK0 8192MB DIMM DDR3 1333MT/s           | 1        | 1.39%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1867MT/s              | 1        | 1.39%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s              | 1        | 1.39%   |
+| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s              | 1        | 1.39%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s              | 1        | 1.39%   |
+| Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 3466MT/s             | 1        | 1.39%   |
+| Samsung RAM M378A2G43AB3-CWE 16GB DIMM DDR4 3200MT/s             | 1        | 1.39%   |
+| Nanya RAM NT2GC64B88B0NF-CG 2GB DIMM DDR3 1333MT/s               | 1        | 1.39%   |
+| Micron RAM ITC 4096MB DIMM DDR3 1648MT/s                         | 1        | 1.39%   |
+| Micron RAM 9JSF51272PZ-1G9E2 4GB DIMM DDR3 1866MT/s              | 1        | 1.39%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s              | 1        | 1.39%   |
+| Micron RAM 8JTF25664AZ-1G4D1 2GB DIMM DDR3 1333MT/s              | 1        | 1.39%   |
+| Micron RAM 36JSF1G72PZ-1G6K1 8GB DIMM DDR3 1333MT/s              | 1        | 1.39%   |
+| Lexar Co Limited RAM LD4AS008G-H3200GST 8GB SODIMM DDR4 3200MT/s | 1        | 1.39%   |
+| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2933MT/s             | 1        | 1.39%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s              | 1        | 1.39%   |
+| Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s             | 1        | 1.39%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s              | 1        | 1.39%   |
+| Kingston RAM K1N7HK-ELC 2GB DIMM DDR3 1333MT/s                   | 1        | 1.39%   |
+| Kingston RAM HP32D4U8D8HC-16XR 16GB DIMM DDR4 3200MT/s           | 1        | 1.39%   |
 
 Memory Kind
 -----------
@@ -2845,13 +2843,13 @@ Camera device models
 | Model                                   | Desktops | Percent |
 |-----------------------------------------|----------|---------|
 | ARC International Camera                | 2        | 20%     |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 2        | 20%     |
-| Sunplus Feeltek Full HD Webcam 1080P    | 1        | 10%     |
+| Apple iPhone 5/5C/5S/6/SE               | 2        | 20%     |
+| Sunplus Lihappe8 Webcam L0485A2SP       | 1        | 10%     |
 | Samsung Galaxy series, misc. (MTP mode) | 1        | 10%     |
 | Microsoft MicrosoftÂ LifeCam Cinema    | 1        | 10%     |
 | Microsoft LifeCam HD-5000               | 1        | 10%     |
 | Microsoft LifeCam Cinema                | 1        | 10%     |
-| Arkmicro Acme CA04                      | 1        | 10%     |
+| Arkmicro USB2.0 PC CAMERA               | 1        | 10%     |
 
 Security
 --------
@@ -2897,9 +2895,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 97       | 77.6%   |
+| 0     | 98       | 78.4%   |
 | 1     | 24       | 19.2%   |
-| 2     | 4        | 3.2%    |
+| 2     | 3        | 2.4%    |
 
 Unsupported Device Types
 ------------------------

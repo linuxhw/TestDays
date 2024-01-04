@@ -780,10 +780,10 @@ Hard drive models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3         | 5.36%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3         | 5.36%   |
 | Unknown MMC Card  256GB                             | 2         | 3.57%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 500GB     | 2         | 3.57%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB    | 2         | 3.57%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 128GB     | 2         | 3.57%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 2TB      | 2         | 3.57%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 2         | 3.57%   |
 | KIOXIA KBG5AZNT1T02 LA 1TB                          | 2         | 3.57%   |
 | WDC WDS240G2G0A-00JH30 240GB SSD                    | 1         | 1.79%   |
@@ -811,10 +811,10 @@ Hard drive models
 | Samsung MZALQ256HBJD-00BL2 256GB                    | 1         | 1.79%   |
 | Samsung MZALQ256HAJD-000L2 256GB                    | 1         | 1.79%   |
 | Samsung MZ7LN256HAJQ-000L7 256GB SSD                | 1         | 1.79%   |
-| SABRENT Disk 500GB                                  | 1         | 1.79%   |
+| SABRENT Disk 2TB                                    | 1         | 1.79%   |
 | Plextor PX-128S1G 128GB SSD                         | 1         | 1.79%   |
 | Phison NVMe SSD Drive 960GB                         | 1         | 1.79%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 1         | 1.79%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                 | 1         | 1.79%   |
 | Micron/Crucial P1 NVMe PCIe SSD 1TB                 | 1         | 1.79%   |
 | Micron MTFDHBA256TCK-1AS1AABHA  256GB               | 1         | 1.79%   |
 | Micron 2450_MTFDKBA256TFK 256GB                     | 1         | 1.79%   |
@@ -831,10 +831,11 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Toshiba | 4         | 4      | 44.44%  |
-| Seagate | 3         | 4      | 33.33%  |
-| WDC     | 1         | 1      | 11.11%  |
-| HGST    | 1         | 1      | 11.11%  |
+| Toshiba | 4         | 4      | 40%     |
+| Seagate | 3         | 4      | 30%     |
+| WDC     | 1         | 1      | 10%     |
+| SABRENT | 1         | 1      | 10%     |
+| HGST    | 1         | 1      | 10%     |
 
 SSD Vendor
 ----------
@@ -863,11 +864,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 27        | 36     | 55.1%   |
-| SSD     | 9         | 11     | 18.37%  |
-| HDD     | 9         | 10     | 18.37%  |
-| MMC     | 3         | 3      | 6.12%   |
-| Unknown | 1         | 1      | 2.04%   |
+| NVMe    | 27        | 35     | 54%     |
+| HDD     | 10        | 11     | 20%     |
+| SSD     | 9         | 11     | 18%     |
+| MMC     | 3         | 3      | 6%      |
+| Unknown | 1         | 1      | 2%      |
 
 Drive Connector
 ---------------
@@ -894,9 +895,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 8         | 9      | 47.06%  |
-| 0.01-0.5   | 8         | 10     | 47.06%  |
-| 4.01-10.0  | 1         | 2      | 5.88%   |
+| 0.51-1.0   | 8         | 9      | 44.44%  |
+| 0.01-0.5   | 8         | 10     | 44.44%  |
+| 1.01-2.0   | 1         | 1      | 5.56%   |
+| 4.01-10.0  | 1         | 2      | 5.56%   |
 
 Space Total
 -----------
@@ -1274,7 +1276,7 @@ Microarchitecture
 | Name             | Notebooks | Percent |
 |------------------|-----------|---------|
 | KabyLake         | 12        | 34.29%  |
-| IceLake          | 6         | 17.14%  |
+| Icelake          | 6         | 17.14%  |
 | Alderlake Hybrid | 5         | 14.29%  |
 | Skylake          | 4         | 11.43%  |
 | IvyBridge        | 2         | 5.71%   |
@@ -1448,7 +1450,7 @@ Monitor models
 | Hewlett-Packard LP2465 HWP2676 1920x1200 519x324mm 24.1-inch          | 1         | 2.13%   |
 | Hewlett-Packard LCD Monitor Pavilion32                                | 1         | 2.13%   |
 | Goldstar UltraFine GSM5B11 2560x2880 600x340mm 27.2-inch              | 1         | 2.13%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                                | 1         | 2.13%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                   | 1         | 2.13%   |
 | Gigabyte Technology M27Q GBT270D 2560x1440 596x335mm 26.9-inch        | 1         | 2.13%   |
 | Dell P2422H DELA1C4 1920x1080 527x296mm 23.8-inch                     | 1         | 2.13%   |
 | Dell P2419HC DELA11D 1920x1080 527x296mm 23.8-inch                    | 1         | 2.13%   |
@@ -1851,7 +1853,7 @@ Controller models
 
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                          | 7         | 23.33%  |
+| Intel Bluetooth Device                         | 8         | 26.67%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 5         | 16.67%  |
 | Intel Bluetooth wireless interface             | 4         | 13.33%  |
 | Intel AX210 Bluetooth                          | 2         | 6.67%   |
@@ -1861,11 +1863,10 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device             | 1         | 3.33%   |
 | Intel Wireless-AC 3168 Bluetooth               | 1         | 3.33%   |
 | Intel Centrino Bluetooth Wireless Transceiver  | 1         | 3.33%   |
-| Intel Bluetooth Device                         | 1         | 3.33%   |
 | IMC Networks Bluetooth Radio                   | 1         | 3.33%   |
 | Broadcom HP Portable SoftSailing               | 1         | 3.33%   |
 | Broadcom BCM2045B (BDC-2.1)                    | 1         | 3.33%   |
-| ASUS ASUS USB-BT500                            | 1         | 3.33%   |
+| ASUS Bluetooth Device                          | 1         | 3.33%   |
 
 Sound
 -----
@@ -1977,7 +1978,7 @@ Memory module models
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 7.14%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 7.14%   |
 | Samsung RAM K3LK7K7@BM-BGCP 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 7.14%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4096MB SODIMM DDR4 3200MT/s     | 1         | 7.14%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 3200MT/s        | 1         | 7.14%   |
 | Kingston RAM X74R9W-MIE 8GB SODIMM DDR4 2933MT/s             | 1         | 7.14%   |
 | Kingston RAM MSI24D4S7S8MB-8 8GB SODIMM DDR4 2667MT/s        | 1         | 7.14%   |
 | Kingston RAM 9905744-108.A00G 16GB SODIMM DDR4 3200MT/s      | 1         | 7.14%   |
@@ -2104,7 +2105,6 @@ Camera device vendors
 | Microdia                               | 3         | 8.82%   |
 | Sunplus Innovation Technology          | 2         | 5.88%   |
 | Realtek Semiconductor                  | 2         | 5.88%   |
-| Luxvisions Innotech Limited            | 2         | 5.88%   |
 | Lite-On Technology                     | 2         | 5.88%   |
 | Syntek                                 | 1         | 2.94%   |
 | Suyin                                  | 1         | 2.94%   |
@@ -2114,10 +2114,12 @@ Camera device vendors
 | Remo Tech                              | 1         | 2.94%   |
 | Quanta                                 | 1         | 2.94%   |
 | Microsoft                              | 1         | 2.94%   |
+| Luxvisions Innotech Limited            | 1         | 2.94%   |
 | LG Electronics                         | 1         | 2.94%   |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 2.94%   |
 | Bison Electronics                      | 1         | 2.94%   |
 | Acer                                   | 1         | 2.94%   |
+| 8SSC21D67422V1SR28902JL                | 1         | 2.94%   |
 
 Camera Model
 ------------
@@ -2144,7 +2146,6 @@ Camera device models
 | Quanta HP TrueVision HD Camera                                 | 1         | 2.94%   |
 | Microsoft LifeCam VX-2000                                      | 1         | 2.94%   |
 | Microdia 1.3 MPixel Integrated Webcam                          | 1         | 2.94%   |
-| Luxvisions Innotech Limited Integrated RGB Camera              | 1         | 2.94%   |
 | Luxvisions Innotech Limited Integrated Camera                  | 1         | 2.94%   |
 | Lite-On Integrated Camera                                      | 1         | 2.94%   |
 | Lite-On HP HD Camera                                           | 1         | 2.94%   |
@@ -2159,6 +2160,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 2.94%   |
 | Bison Integrated Camera                                        | 1         | 2.94%   |
 | Acer BisonCam, NB Pro                                          | 1         | 2.94%   |
+| 8SSC21D67422V1SR28902JL Integrated RGB Camera                  | 1         | 2.94%   |
 
 Security
 --------

@@ -968,8 +968,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 58       | 53.7%   |
-| No        | 50       | 46.3%   |
+| Yes       | 59       | 54.63%  |
+| No        | 49       | 45.37%  |
 
 Has Ethernet
 ------------
@@ -1334,7 +1334,7 @@ Drive models with a malfunction
 | Seagate ST3250310AS 250GB                   | 1        | 1      | 2.86%   |
 | Samsung Electronics SSD PM810 2.5 7mm 128GB | 1        | 1      | 2.86%   |
 | Samsung Electronics HD256GJ 250GB           | 1        | 1      | 2.86%   |
-| Samsung Electronics HD160JJ/ 160GB          | 1        | 1      | 2.86%   |
+| Samsung Electronics HD160JJ 160GB           | 1        | 1      | 2.86%   |
 | Samsung Electronics HD103SI 1TB             | 1        | 1      | 2.86%   |
 | Maxtor STM3320613AS 320GB                   | 1        | 1      | 2.86%   |
 | Maxtor STM3160215AS 160GB                   | 1        | 1      | 2.86%   |
@@ -2170,14 +2170,14 @@ Controller models
 | Ralink RT2561/RT61 rev B 802.11g                                     | 2        | 1.2%    |
 | Ralink RT2561/RT61 802.11g PCI                                       | 2        | 1.2%    |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                     | 2        | 1.2%    |
-| MediaTek X55                                                         | 2        | 1.2%    |
+| MediaTek M40Air_EEA                                                  | 2        | 1.2%    |
 | Intel I211 Gigabit Network Connection                                | 2        | 1.2%    |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                | 2        | 1.2%    |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070] | 2        | 1.2%    |
 | ZTE WCDMA MSM DEMO Mobile Boardband                                  | 1        | 0.6%    |
 | Xiaomi Mi/Redmi series (RNDIS)                                       | 1        | 0.6%    |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                 | 1        | 0.6%    |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                  | 1        | 0.6%    |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                | 1        | 0.6%    |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)          | 1        | 0.6%    |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 1        | 0.6%    |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                      | 1        | 0.6%    |
@@ -2238,7 +2238,7 @@ Wireless models
 | Ralink RT2561/RT61 802.11g PCI                                       | 2        | 3.57%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                     | 2        | 3.57%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A2) [Ralink RT3070] | 2        | 3.57%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                  | 1        | 1.79%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                | 1        | 1.79%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 1        | 1.79%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                      | 1        | 1.79%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                           | 1        | 1.79%   |
@@ -2299,7 +2299,7 @@ Ethernet models
 | VIA VT6102/VT6103 [Rhine-II]                                      | 3        | 2.75%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 3        | 2.75%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 3        | 2.75%   |
-| MediaTek X55                                                      | 2        | 1.83%   |
+| MediaTek M40Air_EEA                                               | 2        | 1.83%   |
 | Intel I211 Gigabit Network Connection                             | 2        | 1.83%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 1.83%   |
 | ZTE WCDMA MSM DEMO Mobile Boardband                               | 1        | 0.92%   |
@@ -2392,10 +2392,9 @@ Controller vendors
 |----------------------------|----------|---------|
 | Cambridge Silicon Radio    | 6        | 50%     |
 | Intel                      | 2        | 16.67%  |
+| Broadcom                   | 2        | 16.67%  |
 | Realtek Semiconductor      | 1        | 8.33%   |
 | Integrated System Solution | 1        | 8.33%   |
-| Broadcom                   | 1        | 8.33%   |
-| ASUSTek Computer           | 1        | 8.33%   |
 
 Bluetooth Model
 ---------------
@@ -2413,7 +2412,7 @@ Controller models
 | Intel AX210 Bluetooth                                 | 1        | 8.33%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter | 1        | 8.33%   |
 | Broadcom BCM92045B3 ROM                               | 1        | 8.33%   |
-| ASUS BCM20702A0                                       | 1        | 8.33%   |
+| Broadcom BCM20702A0                                   | 1        | 8.33%   |
 
 Sound
 -----
@@ -2460,7 +2459,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                                | 4        | 2.42%   |
 | Nvidia GF108 High Definition Audio Controller                                     | 4        | 2.42%   |
 | VIA Technologies VX900/VT8xxx High Definition Audio Controller                    | 3        | 1.82%   |
-| JMTek Speedlink PnP Sound Device                                                  | 3        | 1.82%   |
+| JMTek USB PnP Audio Device                                                        | 3        | 1.82%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                                    | 3        | 1.82%   |
 | AMD Starship/Matisse HD Audio Controller                                          | 3        | 1.82%   |
 | AMD Renoir Radeon High Definition Audio Controller                                | 3        | 1.82%   |
@@ -2533,48 +2532,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                         | 6        | 6.59%   |
-| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                         | 3        | 3.3%    |
-| Unknown RAM Module 2GB DIMM 800MT/s                               | 2        | 2.2%    |
-| Unknown RAM Module 2GB DIMM 667MT/s                               | 2        | 2.2%    |
-| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s              | 2        | 2.2%    |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s               | 2        | 2.2%    |
-| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3600MT/s                       | 2        | 2.2%    |
-| Unknown                                                           | 2        | 2.2%    |
-| Unknown RAM Module 4GB SODIMM DDR2                                | 1        | 1.1%    |
-| Unknown RAM Module 4GB DIMM SDRAM                                 | 1        | 1.1%    |
-| Unknown RAM Module 4GB DIMM DDR3 1067MT/s                         | 1        | 1.1%    |
-| Unknown RAM Module 4GB DIMM 400MT/s                               | 1        | 1.1%    |
-| Unknown RAM Module 4096MB SODIMM DDR2                             | 1        | 1.1%    |
-| Unknown RAM Module 4096MB DIMM SDRAM 1333MT/s                     | 1        | 1.1%    |
-| Unknown RAM Module 4096MB DIMM SDRAM                              | 1        | 1.1%    |
-| Unknown RAM Module 4096MB DIMM DDR3 800MT/s                       | 1        | 1.1%    |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                      | 1        | 1.1%    |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                           | 1        | 1.1%    |
-| Unknown RAM Module 2GB DIMM SDRAM 1066MT/s                        | 1        | 1.1%    |
-| Unknown RAM Module 2GB DIMM SDRAM                                 | 1        | 1.1%    |
-| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                      | 1        | 1.1%    |
-| Unknown RAM Module 2048MB DIMM SDRAM 1333MT/s                     | 1        | 1.1%    |
-| Unknown RAM Module 2048MB DIMM SDRAM                              | 1        | 1.1%    |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 1        | 1.1%    |
-| Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 1.1%    |
-| Unknown RAM Module 1GB DIMM DDR3 1333MT/s                         | 1        | 1.1%    |
-| Unknown RAM Module 1GB DIMM DDR2 667MT/s                          | 1        | 1.1%    |
-| Unknown RAM Module 1GB DIMM 800MT/s                               | 1        | 1.1%    |
-| Unknown RAM Module 1GB DIMM 533MT/s                               | 1        | 1.1%    |
-| Unknown RAM Module 1024MB DIMM DDR2 266MT/s                       | 1        | 1.1%    |
-| Unknown RAM Module 1024MB DIMM DDR2 200MT/s                       | 1        | 1.1%    |
-| Unknown RAM Module 1024MB DIMM DDR2                               | 1        | 1.1%    |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 1.1%    |
-| TwinMOS RAM 9DPCBNZB-TATP 4GB DIMM DDR3 1333MT/s                  | 1        | 1.1%    |
-| TwinMOS RAM 9DECBNZB-TATP 4GB DIMM DDR3 1333MT/s                  | 1        | 1.1%    |
-| Thermaltake RAM R019D408GX2-3200C16A 8GB DIMM DDR4 2666MT/s       | 1        | 1.1%    |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 1.1%    |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 1.1%    |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s              | 1        | 1.1%    |
-| SK hynix RAM HMT125R7BFR8C-H9 2048MB DIMM DDR2 1333MT/s           | 1        | 1.1%    |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 6        | 6.59%   |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                      | 3        | 3.3%    |
+| Unknown RAM Module 2GB DIMM 800MT/s                            | 2        | 2.2%    |
+| Unknown RAM Module 2GB DIMM 667MT/s                            | 2        | 2.2%    |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2        | 2.2%    |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s            | 2        | 2.2%    |
+| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3600MT/s                    | 2        | 2.2%    |
+| Unknown                                                        | 2        | 2.2%    |
+| Unknown RAM Module 4GB SODIMM DDR2                             | 1        | 1.1%    |
+| Unknown RAM Module 4GB DIMM SDRAM                              | 1        | 1.1%    |
+| Unknown RAM Module 4GB DIMM DDR3 1067MT/s                      | 1        | 1.1%    |
+| Unknown RAM Module 4GB DIMM 400MT/s                            | 1        | 1.1%    |
+| Unknown RAM Module 4096MB SODIMM DDR2                          | 1        | 1.1%    |
+| Unknown RAM Module 4096MB DIMM SDRAM 1333MT/s                  | 1        | 1.1%    |
+| Unknown RAM Module 4096MB DIMM SDRAM                           | 1        | 1.1%    |
+| Unknown RAM Module 4096MB DIMM DDR3 800MT/s                    | 1        | 1.1%    |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s                   | 1        | 1.1%    |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 1        | 1.1%    |
+| Unknown RAM Module 2GB DIMM SDRAM 1066MT/s                     | 1        | 1.1%    |
+| Unknown RAM Module 2GB DIMM SDRAM                              | 1        | 1.1%    |
+| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                   | 1        | 1.1%    |
+| Unknown RAM Module 2048MB DIMM SDRAM 1333MT/s                  | 1        | 1.1%    |
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 1        | 1.1%    |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1        | 1.1%    |
+| Unknown RAM Module 2048MB DIMM DDR2                            | 1        | 1.1%    |
+| Unknown RAM Module 1GB DIMM DDR3 1333MT/s                      | 1        | 1.1%    |
+| Unknown RAM Module 1GB DIMM DDR2 667MT/s                       | 1        | 1.1%    |
+| Unknown RAM Module 1GB DIMM 800MT/s                            | 1        | 1.1%    |
+| Unknown RAM Module 1GB DIMM 533MT/s                            | 1        | 1.1%    |
+| Unknown RAM Module 1024MB DIMM DDR2 266MT/s                    | 1        | 1.1%    |
+| Unknown RAM Module 1024MB DIMM DDR2 200MT/s                    | 1        | 1.1%    |
+| Unknown RAM Module 1024MB DIMM DDR2                            | 1        | 1.1%    |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.1%    |
+| TwinMOS RAM 9DPCBNZB-TATP 4GB DIMM DDR3 1333MT/s               | 1        | 1.1%    |
+| TwinMOS RAM 9DECBNZB-TATP 4GB DIMM DDR3 1333MT/s               | 1        | 1.1%    |
+| Thermaltake RAM R019D408GX2-3200C16A 8GB DIMM DDR4 2666MT/s    | 1        | 1.1%    |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 1.1%    |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 1.1%    |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s           | 1        | 1.1%    |
+| SK hynix RAM HMT125R7BFR8C-H9 2048MB DIMM DDR2 1333MT/s        | 1        | 1.1%    |
 
 Memory Kind
 -----------

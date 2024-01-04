@@ -1835,7 +1835,7 @@ Monitor models
 | Acer G276HL ACR0300 1920x1080 600x340mm 27.2-inch                       | 2        | 2.04%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.02%   |
 | ViewSonic VG2230wm-EU VSCA21E 1680x1050 474x296mm 22.0-inch             | 1        | 1.02%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch      | 1        | 1.02%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1        | 1.02%   |
 | Toshiba TV TSB0206 1920x1080 890x500mm 40.2-inch                        | 1        | 1.02%   |
 | Sony TV SNYB800 1280x768 690x390mm 31.2-inch                            | 1        | 1.02%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.02%   |
@@ -1858,8 +1858,8 @@ Monitor models
 | Samsung Electronics C27R50x SAM0F9E 1920x1080 598x336mm 27.0-inch       | 1        | 1.02%   |
 | Philips LCD Monitor 240BW 1920x1200                                     | 1        | 1.02%   |
 | Panasonic TH-42PD25U MEIA023 1920x540 920x518mm 41.6-inch               | 1        | 1.02%   |
-| OEM 32W_LCD_TV OEM3700 1920x540                                         | 1        | 1.02%   |
-| MPI WIMAXIT MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.02%   |
+| OEM 26W_LCD_TV OEM3700 1920x540                                         | 1        | 1.02%   |
+| MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.02%   |
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.02%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.02%   |
 | LG Electronics LCD Monitor LG IPS FULLHD 1920x1080                      | 1        | 1.02%   |
@@ -2103,7 +2103,7 @@ Controller models
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.6%    |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                      | 1        | 0.6%    |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 0.6%    |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 0.6%    |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 0.6%    |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                  | 1        | 0.6%    |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 0.6%    |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1        | 0.6%    |
@@ -2166,7 +2166,7 @@ Wireless models
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                       | 2        | 3.45%   |
 | VIA VIA VNT-6656 [WiFi 802.11b/g USB Dongle]                                           | 1        | 1.72%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                            | 1        | 1.72%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                    | 1        | 1.72%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                  | 1        | 1.72%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                                       | 1        | 1.72%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                               | 1        | 1.72%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                                 | 1        | 1.72%   |

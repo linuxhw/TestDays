@@ -1576,7 +1576,7 @@ Monitor models
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 1.82%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 1.82%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 1.82%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 1.82%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 1.82%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 1.82%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 1.82%   |
 | Samsung Electronics LCD Monitor SEC3942 1280x800 261x163mm 12.1-inch     | 1         | 1.82%   |
@@ -2023,8 +2023,8 @@ Controller models
 | Realtek Bluetooth Radio                             | 2         | 5.26%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 5.26%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 2         | 5.26%   |
+| Intel Bluetooth Device                              | 2         | 5.26%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 5.26%   |
-| Intel AX201 Bluetooth                               | 2         | 5.26%   |
 | IMC Networks Bluetooth Radio                        | 2         | 5.26%   |
 | Toshiba Bluetooth Device                            | 1         | 2.63%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 2.63%   |
@@ -2134,14 +2134,14 @@ Memory module models
 |-------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 8%      |
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s   | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 4%      |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s      | 1         | 4%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s      | 1         | 4%      |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s         | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 1         | 4%      |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s       | 1         | 4%      |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s    | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s    | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s       | 1         | 4%      |

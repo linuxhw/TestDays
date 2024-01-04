@@ -1280,7 +1280,7 @@ Controller models
 | Realtek RTL8153 Gigabit Ethernet Adapter                           | 1         | 4.35%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 1         | 4.35%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                   | 1         | 4.35%   |
-| OPPO RMX3623                                                       | 1         | 4.35%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                       | 1         | 4.35%   |
 | Intel Wi-Fi 6 AX200                                                | 1         | 4.35%   |
 | Intel Ethernet Connection (7) I219-LM                              | 1         | 4.35%   |
 | Intel Ethernet Connection (6) I219-LM                              | 1         | 4.35%   |
@@ -1354,7 +1354,7 @@ Ethernet models
 | Intel Ethernet Connection (6) I219-V                              | 2         | 18.18%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 9.09%   |
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
-| OPPO RMX3623                                                      | 1         | 9.09%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 9.09%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (6) I219-LM                             | 1         | 9.09%   |
 | Intel Ethernet Connection (5) I219-LM                             | 1         | 9.09%   |

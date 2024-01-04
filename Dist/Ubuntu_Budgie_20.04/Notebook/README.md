@@ -932,8 +932,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 119       | 69.19%  |
-| Yes       | 53        | 30.81%  |
+| No        | 121       | 70.35%  |
+| Yes       | 51        | 29.65%  |
 
 Has Ethernet
 ------------
@@ -1145,7 +1145,7 @@ Hard drive models
 | Samsung SM963 2.5" NVMe PCIe SSD 250GB | 3         | 1.35%   |
 | Samsung NVMe SSD Drive 1TB             | 3         | 1.35%   |
 | WDC WD10SPZX-60Z10T0 1TB               | 2         | 0.9%    |
-| Unknown SD/MMC/MS PRO 128GB            | 2         | 0.9%    |
+| Unknown SD/MMC/MS PRO 512GB            | 2         | 0.9%    |
 | Unknown MMC Card  32GB                 | 2         | 0.9%    |
 | SK hynix NVMe SSD Drive 256GB          | 2         | 0.9%    |
 | Seagate ST1000LX015-1U7172 1TB         | 2         | 0.9%    |
@@ -1263,8 +1263,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 81        | 98     | 64.8%   |
-| 0.51-1.0   | 40        | 52     | 32%     |
+| 0.01-0.5   | 80        | 96     | 64%     |
+| 0.51-1.0   | 41        | 54     | 32.8%   |
 | 1.01-2.0   | 4         | 5      | 3.2%    |
 
 Space Total
@@ -1720,7 +1720,7 @@ Microarchitecture
 | Westmere         | 5         | 2.92%   |
 | Broadwell        | 5         | 2.92%   |
 | Silvermont       | 4         | 2.34%   |
-| IceLake          | 4         | 2.34%   |
+| Icelake          | 4         | 2.34%   |
 | Zen+             | 2         | 1.17%   |
 | Zen 3            | 2         | 1.17%   |
 | Jaguar           | 2         | 1.17%   |
@@ -1907,48 +1907,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Notebooks | Percent |
-|------------------------------------------------------------------------|-----------|---------|
-| Chimei Innolux LCD Monitor CMN14D2 1920x1080 309x173mm 13.9-inch       | 4         | 1.84%   |
-| Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch       | 3         | 1.38%   |
-| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch       | 3         | 1.38%   |
-| BOE LCD Monitor BOE0974 2560x1440 344x194mm 15.5-inch                  | 3         | 1.38%   |
-| AU Optronics LCD Monitor AUO623D 1920x1080 309x174mm 14.0-inch         | 3         | 1.38%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch         | 3         | 1.38%   |
-| Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch                | 2         | 0.92%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch   | 2         | 0.92%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 2         | 0.92%   |
-| LGD LCD Monitor 1920x1080                                              | 2         | 0.92%   |
-| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch           | 2         | 0.92%   |
-| LG Display LCD Monitor LGD02D8 1366x768 277x156mm 12.5-inch            | 2         | 0.92%   |
-| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                       | 2         | 0.92%   |
-| Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch       | 2         | 0.92%   |
-| Chimei Innolux LCD Monitor CMN1490 1366x768 309x173mm 13.9-inch        | 2         | 0.92%   |
-| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch         | 2         | 0.92%   |
-| AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch          | 2         | 0.92%   |
-| AU Optronics LCD Monitor AUO13ED 1920x1080 344x193mm 15.5-inch         | 2         | 0.92%   |
-| AU Optronics LCD Monitor AUO105C 1366x768 256x144mm 11.6-inch          | 2         | 0.92%   |
-| UPD LCD801 UPD4843 1920x1080 708x398mm 32.0-inch                       | 1         | 0.46%   |
-| Unknown LCD Monitor Sony Nvidia Default Flat Panel 1366x768            | 1         | 0.46%   |
-| Sharp LQ133Z1JW26 SHP1493 3200x1800 294x165mm 13.3-inch                | 1         | 0.46%   |
-| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch                | 1         | 0.46%   |
-| Sharp LCD Monitor SHP14AE 1920x1080 294x165mm 13.3-inch                | 1         | 0.46%   |
-| Sharp LCD Monitor SHP1445 3840x2160 346x194mm 15.6-inch                | 1         | 0.46%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1         | 0.46%   |
-| Samsung Electronics SyncMaster SAM060D 1920x1080                       | 1         | 0.46%   |
-| Samsung Electronics SyncMaster SAM041D 1920x1200 459x296mm 21.5-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SEC5A42 1366x768 309x174mm 14.0-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SEC4B41 1280x800 261x163mm 12.1-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SEC324C 1600x900 310x174mm 14.0-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SEC315A 1366x768 344x194mm 15.5-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch  | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SDC3150 1920x1080 344x194mm 15.5-inch  | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 890x500mm 40.2-inch  | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SAM0C3C 1366x768 609x347mm 27.6-inch   | 1         | 0.46%   |
-| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch | 1         | 0.46%   |
+| Model                                                                   | Notebooks | Percent |
+|-------------------------------------------------------------------------|-----------|---------|
+| Chimei Innolux LCD Monitor CMN14D2 1920x1080 309x173mm 13.9-inch        | 4         | 1.84%   |
+| Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch        | 3         | 1.38%   |
+| Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch        | 3         | 1.38%   |
+| BOE LCD Monitor BOE0974 2560x1440 344x194mm 15.5-inch                   | 3         | 1.38%   |
+| AU Optronics LCD Monitor AUO623D 1920x1080 309x174mm 14.0-inch          | 3         | 1.38%   |
+| AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch          | 3         | 1.38%   |
+| Sharp LQ156M1JW01 SHP14C3 1920x1080 344x194mm 15.5-inch                 | 2         | 0.92%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch    | 2         | 0.92%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                 | 2         | 0.92%   |
+| LGD LCD Monitor 1920x1080                                               | 2         | 0.92%   |
+| LG Display LCD Monitor LGD053F 1920x1080 344x194mm 15.5-inch            | 2         | 0.92%   |
+| LG Display LCD Monitor LGD02D8 1366x768 277x156mm 12.5-inch             | 2         | 0.92%   |
+| Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                        | 2         | 0.92%   |
+| Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch        | 2         | 0.92%   |
+| Chimei Innolux LCD Monitor CMN1490 1366x768 309x173mm 13.9-inch         | 2         | 0.92%   |
+| AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch          | 2         | 0.92%   |
+| AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch           | 2         | 0.92%   |
+| AU Optronics LCD Monitor AUO13ED 1920x1080 344x193mm 15.5-inch          | 2         | 0.92%   |
+| AU Optronics LCD Monitor AUO105C 1366x768 256x144mm 11.6-inch           | 2         | 0.92%   |
+| UPD LCD801 UPD4843 1920x1080 708x398mm 32.0-inch                        | 1         | 0.46%   |
+| Unknown LCD Monitor Sony Nvidia Default Flat Panel 1366x768             | 1         | 0.46%   |
+| Sharp LQ133Z1JW26 SHP1493 3200x1800 294x165mm 13.3-inch                 | 1         | 0.46%   |
+| Sharp LCD Monitor SHP14D0 3840x2400 336x210mm 15.6-inch                 | 1         | 0.46%   |
+| Sharp LCD Monitor SHP14AE 1920x1080 294x165mm 13.3-inch                 | 1         | 0.46%   |
+| Sharp LCD Monitor SHP1445 3840x2160 346x194mm 15.6-inch                 | 1         | 0.46%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch       | 1         | 0.46%   |
+| Samsung Electronics SyncMaster SAM060D 1920x1080                        | 1         | 0.46%   |
+| Samsung Electronics SyncMaster SAM041D 1920x1200 459x296mm 21.5-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SEC5A42 1366x768 309x174mm 14.0-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SEC4B41 1280x800 261x163mm 12.1-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SEC4149 1366x768 292x174mm 13.4-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SEC3847 1440x900 367x230mm 17.1-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SEC324C 1600x900 310x174mm 14.0-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SEC315A 1366x768 344x194mm 15.5-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch   | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SDC4E51 1366x768 344x194mm 15.5-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SDC3150 1920x1080 344x194mm 15.5-inch   | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1872x1053mm 84.6-inch | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SAM0C3C 1366x768 609x347mm 27.6-inch    | 1         | 0.46%   |
+| Samsung Electronics LCD Monitor SAM0A7A 1920x1080 1060x626mm 48.5-inch  | 1         | 0.46%   |
 
 Monitor Resolution
 ------------------
@@ -2329,7 +2329,7 @@ Ethernet models
 | Intel Ethernet Connection (3) I218-LM                             | 1         | 0.63%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 0.63%   |
 | HP lt4120 Snapdragon X5 LTE                                       | 1         | 0.63%   |
-| DisplayLink UG69PD10 Docking                                      | 1         | 0.63%   |
+| DisplayLink USB3.0 5K Graphic Docking                             | 1         | 0.63%   |
 | Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 0.63%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 0.63%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 0.63%   |
@@ -2431,12 +2431,12 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 26        | 17.69%  |
 | Intel AX200 Bluetooth                                                               | 23        | 15.65%  |
-| Intel AX201 Bluetooth                                                               | 11        | 7.48%   |
+| Intel Bluetooth Device                                                              | 12        | 8.16%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 9         | 6.12%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 7         | 4.76%   |
-| Realtek Bluetooth Radio                                                             | 5         | 3.4%    |
 | Qualcomm Atheros  Bluetooth Device                                                  | 5         | 3.4%    |
 | Dell DW375 Bluetooth Module                                                         | 5         | 3.4%    |
+| Realtek Bluetooth Radio                                                             | 4         | 2.72%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 3         | 2.04%   |
 | Qualcomm Atheros AR3011 Bluetooth                                                   | 3         | 2.04%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                                          | 3         | 2.04%   |
@@ -2449,8 +2449,9 @@ Controller models
 | Apple Bluetooth Host Controller                                                     | 2         | 1.36%   |
 | Apple Bluetooth HCI                                                                 | 2         | 1.36%   |
 | Toshiba Integrated Bluetooth HCI                                                    | 1         | 0.68%   |
+| Realtek RTL8821A Bluetooth                                                          | 1         | 0.68%   |
 | Realtek RTL8723B Bluetooth                                                          | 1         | 0.68%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 1         | 0.68%   |
+| Realtek Bluetooth Radio                                                             | 1         | 0.68%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 1         | 0.68%   |
 | Qualcomm Atheros AR9462 Bluetooth                                                   | 1         | 0.68%   |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device                                        | 1         | 0.68%   |
@@ -2458,7 +2459,6 @@ Controller models
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 0.68%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 1         | 0.68%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 0.68%   |
-| Intel Bluetooth Device                                                              | 1         | 0.68%   |
 | IMC Networks Wireless_Device                                                        | 1         | 0.68%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter                                   | 1         | 0.68%   |
 | HP Integrated Module with Bluetooth 2.1 Wireless technology                         | 1         | 0.68%   |
@@ -2597,7 +2597,7 @@ Memory module models
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s       | 6         | 4.32%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s       | 6         | 4.32%   |
 | Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 8400MT/s       | 3         | 2.16%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 3         | 2.16%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s     | 3         | 2.16%   |
 | Unknown RAM Module 4096MB SODIMM DDR2 667MT/s                | 2         | 1.44%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.44%   |
 | SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.44%   |
@@ -2610,7 +2610,7 @@ Memory module models
 | Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 2         | 1.44%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 2         | 1.44%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s        | 2         | 1.44%   |
-| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s       | 2         | 1.44%   |
+| Micron RAM 16JSF51264HZ-1G4D1 4096MB SODIMM DDR3 1334MT/s    | 2         | 1.44%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s       | 2         | 1.44%   |
 | Unknown                                                      | 2         | 1.44%   |
 | Unknown RAM Module 8192MB SODIMM DDR4 2400MT/s               | 1         | 0.72%   |
@@ -2626,8 +2626,8 @@ Memory module models
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 0.72%   |
 | SK hynix RAM Module 2048MB SODIMM DDR2 667MT/s               | 1         | 0.72%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2133MT/s             | 1         | 0.72%   |
-| SK hynix RAM HMT451S6AFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.72%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.72%   |
+| SK hynix RAM HMT451S6AFR8C-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 0.72%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 0.72%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 0.72%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 0.72%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.72%   |
@@ -2780,12 +2780,12 @@ Camera device vendors
 | Chicony Electronics                    | 48        | 30.38%  |
 | Sunplus Innovation Technology          | 15        | 9.49%   |
 | Realtek Semiconductor                  | 13        | 8.23%   |
+| Bison Electronics                      | 12        | 7.59%   |
 | Microdia                               | 10        | 6.33%   |
 | IMC Networks                           | 9         | 5.7%    |
-| Bison Electronics                      | 9         | 5.7%    |
-| Acer                                   | 9         | 5.7%    |
 | Cheng Uei Precision Industry (Foxlink) | 7         | 4.43%   |
 | Quanta                                 | 6         | 3.8%    |
+| Acer                                   | 6         | 3.8%    |
 | Suyin                                  | 5         | 3.16%   |
 | Silicon Motion                         | 5         | 3.16%   |
 | Syntek                                 | 4         | 2.53%   |
@@ -2813,27 +2813,26 @@ Camera device models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Chicony HD Webcam                                                          | 12        | 7.59%   |
+| Chicony HD Webcam                                                          | 10        | 6.33%   |
 | Chicony USB2.0 Camera                                                      | 9         | 5.7%    |
 | Microdia Integrated_Webcam_HD                                              | 7         | 4.43%   |
 | Realtek Integrated_Webcam_HD                                               | 5         | 3.16%   |
 | Chicony Integrated Camera                                                  | 5         | 3.16%   |
 | Bison HD Webcam                                                            | 5         | 3.16%   |
+| Sunplus USB Camera                                                         | 4         | 2.53%   |
+| Chicony Integrated IR Camera                                               | 4         | 2.53%   |
 | Chicony HP HD Camera                                                       | 4         | 2.53%   |
-| Sunplus Asus Webcam                                                        | 3         | 1.9%    |
 | IMC Networks Integrated Camera                                             | 3         | 1.9%    |
+| Bison BisonCam, NB Pro                                                     | 3         | 1.9%    |
 | Acer BisonCam,NB Pro                                                       | 3         | 1.9%    |
-| Acer BisonCam, NB Pro                                                      | 3         | 1.9%    |
 | Suyin HP Truevision HD                                                     | 2         | 1.27%   |
-| Sunplus USB Camera                                                         | 2         | 1.27%   |
 | Sunplus Integrated_Webcam_HD                                               | 2         | 1.27%   |
 | Sunplus HP HD Webcam [Fixed]                                               | 2         | 1.27%   |
-| Sunplus 5Mega Webcam                                                       | 2         | 1.27%   |
+| Sunplus ASUS Webcam                                                        | 2         | 1.27%   |
 | Realtek USB2.0 HD UVC WebCam                                               | 2         | 1.27%   |
 | Realtek Integrated Webcam                                                  | 2         | 1.27%   |
 | IMC Networks VGA UVC WebCam                                                | 2         | 1.27%   |
 | IMC Networks USB2.0 HD UVC WebCam                                          | 2         | 1.27%   |
-| Chicony Integrated HD WebCam                                               | 2         | 1.27%   |
 | Chicony Integrated Camera [ThinkPad]                                       | 2         | 1.27%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 2         | 1.27%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD                    | 2         | 1.27%   |
@@ -2850,6 +2849,7 @@ Camera device models
 | Sunplus Laptop_Integrated_Webcam_FHD                                       | 1         | 0.63%   |
 | Sunplus Laptop Integrated WebCam HD                                        | 1         | 0.63%   |
 | Sunplus HD WebCam                                                          | 1         | 0.63%   |
+| Sunplus ASUS USB2.0 Webcam                                                 | 1         | 0.63%   |
 | Sonix USB2.0 HD UVC WebCam                                                 | 1         | 0.63%   |
 | Silicon Motion WebCam SC-13HDL12131N                                       | 1         | 0.63%   |
 | Silicon Motion WebCam SC-10HDD13335N                                       | 1         | 0.63%   |

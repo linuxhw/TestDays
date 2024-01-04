@@ -1170,9 +1170,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 62        | 77     | 72.94%  |
-| 0.51-1.0   | 22        | 22     | 25.88%  |
-| 1.01-2.0   | 1         | 1      | 1.18%   |
+| 0.01-0.5   | 62        | 76     | 72.09%  |
+| 0.51-1.0   | 23        | 23     | 26.74%  |
+| 1.01-2.0   | 1         | 1      | 1.16%   |
 
 Space Total
 -----------
@@ -1832,7 +1832,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC335A 1366x768 309x174mm 14.0-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SEC334A 1366x768 344x194mm 15.5-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 344x194mm 15.5-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC3242 1920x1080 235x132mm 10.6-inch | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC3242 1024x600 223x125mm 10.1-inch  | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SEC3155 1920x1200 367x230mm 17.1-inch | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SDCC34F 3840x2160 344x194mm 15.5-inch | 1         | 0.97%   |
 | Samsung Electronics LCD Monitor SDC4942 1366x768 309x174mm 14.0-inch  | 1         | 0.97%   |
@@ -1840,7 +1840,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM07C0 1920x1080 480x270mm 21.7-inch | 1         | 0.97%   |
 | PANDA LCD Monitor NCP0004 1920x1080 294x165mm 13.3-inch               | 1         | 0.97%   |
 | PANDA LC133LF2L03 NCP0015 1920x1080 294x165mm 13.3-inch               | 1         | 0.97%   |
-| OEM 32W_LCD_TV OEM3700 1920x540                                       | 1         | 0.97%   |
+| OEM 26W_LCD_TV OEM3700 1920x540                                       | 1         | 0.97%   |
 | LG Philips LCD Monitor LPLA101 1440x900 367x230mm 17.1-inch           | 1         | 0.97%   |
 | LG Philips LCD Monitor LPL2A00 1280x800 330x210mm 15.4-inch           | 1         | 0.97%   |
 | LG Philips LCD Monitor LPL118A 1920x1200 370x230mm 17.2-inch          | 1         | 0.97%   |
@@ -2067,7 +2067,7 @@ Controller models
 | Intel 82567LM Gigabit Network Connection                                | 2         | 1.08%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 2         | 1.08%   |
 | Broadcom BCM4311 802.11b/g WLAN                                         | 2         | 1.08%   |
-| Sierra Wireless EM7455                                                  | 1         | 0.54%   |
+| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A                     | 1         | 0.54%   |
 | Sierra Wireless EM7305 Modem                                            | 1         | 0.54%   |
 | Realtek USB 10/100 LAN                                                  | 1         | 0.54%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                | 1         | 0.54%   |
@@ -2132,7 +2132,7 @@ Wireless models
 | Intel Alder Lake-P PCH CNVi WiFi                                                              | 2         | 1.94%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                                           | 2         | 1.94%   |
 | Broadcom BCM4311 802.11b/g WLAN                                                               | 2         | 1.94%   |
-| Sierra Wireless EM7455                                                                        | 1         | 0.97%   |
+| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A                                           | 1         | 0.97%   |
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 0.97%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 0.97%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                               | 1         | 0.97%   |
@@ -2312,12 +2312,12 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 11        | 16.18%  |
-| Realtek Bluetooth Radio                             | 10        | 14.71%  |
+| Realtek Bluetooth Radio                             | 9         | 13.24%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 4         | 5.88%   |
 | Qualcomm Atheros  Bluetooth Device                  | 3         | 4.41%   |
+| Intel Bluetooth Device                              | 3         | 4.41%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 4.41%   |
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 3         | 4.41%   |
-| Intel AX201 Bluetooth                               | 2         | 2.94%   |
 | IMC Networks Bluetooth Device                       | 2         | 2.94%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 2         | 2.94%   |
 | Dell Wireless 355 Bluetooth                         | 2         | 2.94%   |
@@ -2326,6 +2326,7 @@ Controller models
 | Broadcom BCM2045 Bluetooth                          | 2         | 2.94%   |
 | Toshiba Askey Bluetooth Module                      | 1         | 1.47%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 1.47%   |
+| Realtek RTL8821A Bluetooth                          | 1         | 1.47%   |
 | Ralink RT3290 Bluetooth                             | 1         | 1.47%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 1.47%   |
 | Qualcomm Atheros AR3012 Bluetooth                   | 1         | 1.47%   |
@@ -2335,7 +2336,6 @@ Controller models
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 1.47%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.47%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 1.47%   |
-| Intel Bluetooth Device                              | 1         | 1.47%   |
 | IMC Networks Bluetooth USB Host Controller          | 1         | 1.47%   |
 | IMC Networks Bluetooth Radio                        | 1         | 1.47%   |
 | Foxconn / Hon Hai BCM20702A0                        | 1         | 1.47%   |
@@ -2459,7 +2459,8 @@ Memory module models
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s            | 4         | 4.21%   |
 | Unknown                                                          | 4         | 4.21%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 2.11%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 2         | 2.11%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 2.11%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 2         | 2.11%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.11%   |
 | Samsung RAM M4 70T5663QZ3-CF7 2GB SODIMM DDR2 2048MT/s           | 2         | 2.11%   |
 | Kingston RAM ACR256X64D3S1333C9 2GB SODIMM DDR3 1333MT/s         | 2         | 2.11%   |
@@ -2481,11 +2482,9 @@ Memory module models
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 1         | 1.05%   |
 | SK hynix RAM HMT451S6DFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.05%   |
 | SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.05%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.05%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.05%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.05%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.05%   |
+| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 1         | 1.05%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 1.05%   |
-| SK hynix RAM HMT425S6AFR6A-PB 2048MB SODIMM DDR3 3200MT/s        | 1         | 1.05%   |
 | SK hynix RAM HMT41GS6MFR8C-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 1.05%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.05%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.05%   |
@@ -2496,6 +2495,7 @@ Memory module models
 | Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                      | 1         | 1.05%   |
 | Samsung RAM Module 2GB SODIMM DDR3 1333MT/s                      | 1         | 1.05%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 1         | 1.05%   |
+| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 3200MT/s            | 1         | 1.05%   |
 
 Memory Kind
 -----------
@@ -2666,12 +2666,13 @@ Camera device models
 |-----------------------------------------------------|-----------|---------|
 | Chicony USB2.0 VGA UVC WebCam                       | 5         | 6.1%    |
 | Chicony Integrated Camera                           | 3         | 3.66%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                  | 3         | 3.66%   |
+| Apple iPhone 5/5C/5S/6/SE                           | 3         | 3.66%   |
 | Syntek Lenovo EasyCamera                            | 2         | 2.44%   |
 | Suyin HP TrueVision HD Integrated Webcam            | 2         | 2.44%   |
-| Realtek USB Camera                                  | 2         | 2.44%   |
+| Realtek USB camera                                  | 2         | 2.44%   |
 | Quanta HP TrueVision HD Camera                      | 2         | 2.44%   |
 | Lite-On HP Webcam                                   | 2         | 2.44%   |
+| Chicony USB 2.0 Camera                              | 2         | 2.44%   |
 | Chicony FJ Camera                                   | 2         | 2.44%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam    | 2         | 2.44%   |
 | Alcor Micro USB 2.0 Camera                          | 2         | 2.44%   |
@@ -2703,7 +2704,6 @@ Camera device models
 | Logitech HD Webcam C615                             | 1         | 1.22%   |
 | Lite-On Integrated Camera                           | 1         | 1.22%   |
 | IMC Networks USB2.0 UVC VGA WebCam                  | 1         | 1.22%   |
-| IMC Networks USB2.0 UVC HD Webcam                   | 1         | 1.22%   |
 
 Security
 --------
@@ -2789,9 +2789,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 65        | 65.66%  |
+| 0     | 66        | 66.67%  |
 | 1     | 27        | 27.27%  |
-| 2     | 7         | 7.07%   |
+| 2     | 6         | 6.06%   |
 
 Unsupported Device Types
 ------------------------
@@ -2803,16 +2803,16 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Fingerprint reader       | 10        | 24.39%  |
-| Graphics card            | 9         | 21.95%  |
-| Net/wireless             | 5         | 12.2%   |
-| Chipcard                 | 5         | 12.2%   |
-| Storage                  | 3         | 7.32%   |
-| Multimedia controller    | 2         | 4.88%   |
-| Bluetooth                | 2         | 4.88%   |
-| Sound                    | 1         | 2.44%   |
-| Net/ethernet             | 1         | 2.44%   |
-| Dvb card                 | 1         | 2.44%   |
-| Communication controller | 1         | 2.44%   |
-| Camera                   | 1         | 2.44%   |
+| Fingerprint reader       | 10        | 25.64%  |
+| Graphics card            | 7         | 17.95%  |
+| Net/wireless             | 5         | 12.82%  |
+| Chipcard                 | 5         | 12.82%  |
+| Storage                  | 3         | 7.69%   |
+| Multimedia controller    | 2         | 5.13%   |
+| Bluetooth                | 2         | 5.13%   |
+| Sound                    | 1         | 2.56%   |
+| Net/ethernet             | 1         | 2.56%   |
+| Dvb card                 | 1         | 2.56%   |
+| Communication controller | 1         | 2.56%   |
+| Camera                   | 1         | 2.56%   |
 

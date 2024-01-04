@@ -907,48 +907,48 @@ Hard drive models
 ![Drive Model](./All/images/pie_chart/drive_model.svg)
 
 
-| Model                                                  | Computers | Percent |
-|--------------------------------------------------------|-----------|---------|
-| SK hynix NVMe SSD Drive 512GB                          | 2         | 2.63%   |
-| Seagate ST9500325AS 500GB                              | 2         | 2.63%   |
-| Seagate ST500LM012 HN-M500MBB 500GB                    | 2         | 2.63%   |
-| Seagate ST1000LM035-1RK172 1TB                         | 2         | 2.63%   |
-| Seagate ST1000DM003-1SB102 1TB                         | 2         | 2.63%   |
-| Samsung PM963 2.5" NVMe PCIe SSD 256GB                 | 2         | 2.63%   |
-| PNY CS900 240GB SSD                                    | 2         | 2.63%   |
-| Kingston SA400S37120G 120GB SSD                        | 2         | 2.63%   |
-| HGST HTS541010A9E680 1TB                               | 2         | 2.63%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD                       | 1         | 1.32%   |
-| WDC WD5000LPVX-75V0TT0 500GB                           | 1         | 1.32%   |
-| WDC WD5000LPVX-08V0TT5 500GB                           | 1         | 1.32%   |
-| WDC WD5000AAKX-003CA0 500GB                            | 1         | 1.32%   |
-| WDC WD3200LPVX-08V0TT5 320GB                           | 1         | 1.32%   |
-| WDC WD20SPZX-11UA7T0 2TB                               | 1         | 1.32%   |
-| WDC WD1600AAJS-22L7A0 160GB                            | 1         | 1.32%   |
-| WDC WD10SPZX-24Z10 1TB                                 | 1         | 1.32%   |
-| WDC WD10SPZX-22Z10T0 1TB                               | 1         | 1.32%   |
-| WDC WD10EALX-009BA0 1TB                                | 1         | 1.32%   |
-| Transcend TS64GMTS400 64GB SSD                         | 1         | 1.32%   |
-| Toshiba MQ04ABF100 1TB                                 | 1         | 1.32%   |
-| Toshiba MQ01ABD032 320GB                               | 1         | 1.32%   |
-| Toshiba HDWD120 2TB                                    | 1         | 1.32%   |
-| Toshiba DT01ACA100 1TB                                 | 1         | 1.32%   |
-| Toshiba DT01ACA050 500GB                               | 1         | 1.32%   |
-| SSSTC CVB-8D128-HP 128GB SSD                           | 1         | 1.32%   |
-| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB              | 1         | 1.32%   |
-| SK hynix HFS128G39TND-N210A 128GB SSD                  | 1         | 1.32%   |
-| Seagate ST9500420AS 500GB                              | 1         | 1.32%   |
-| Seagate ST8000DM004-2CX188 8TB                         | 1         | 1.32%   |
-| Seagate ST500DM002-1BD142 500GB                        | 1         | 1.32%   |
-| Seagate ST4000DX001-1CE168 4TB                         | 1         | 1.32%   |
-| Seagate ST3500312CS 500GB                              | 1         | 1.32%   |
-| Seagate ST2000DM001-1ER164 2TB                         | 1         | 1.32%   |
-| Seagate ST1000DM010-2EP102 1TB                         | 1         | 1.32%   |
-| Seagate ST1000DM003-1CH162 1TB                         | 1         | 1.32%   |
-| SanDisk X300 MSATA 128GB SSD                           | 1         | 1.32%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 1024GB | 1         | 1.32%   |
-| SanDisk SSD PLUS 120 GB                                | 1         | 1.32%   |
-| SanDisk SD8SN8U512G1002 512GB SSD                      | 1         | 1.32%   |
+| Model                                               | Computers | Percent |
+|-----------------------------------------------------|-----------|---------|
+| SK hynix NVMe SSD Drive 512GB                       | 2         | 2.63%   |
+| Seagate ST9500325AS 500GB                           | 2         | 2.63%   |
+| Seagate ST500LM012 HN-M500MBB 500GB                 | 2         | 2.63%   |
+| Seagate ST1000LM035-1RK172 1TB                      | 2         | 2.63%   |
+| Seagate ST1000DM003-1SB102 1TB                      | 2         | 2.63%   |
+| Samsung PM963 2.5" NVMe PCIe SSD 256GB              | 2         | 2.63%   |
+| PNY CS900 240GB SSD                                 | 2         | 2.63%   |
+| Kingston SA400S37120G 120GB SSD                     | 2         | 2.63%   |
+| HGST HTS541010A9E680 1TB                            | 2         | 2.63%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD                    | 1         | 1.32%   |
+| WDC WD5000LPVX-75V0TT0 500GB                        | 1         | 1.32%   |
+| WDC WD5000LPVX-08V0TT5 500GB                        | 1         | 1.32%   |
+| WDC WD5000AAKX-003CA0 500GB                         | 1         | 1.32%   |
+| WDC WD3200LPVX-08V0TT5 320GB                        | 1         | 1.32%   |
+| WDC WD20SPZX-11UA7T0 2TB                            | 1         | 1.32%   |
+| WDC WD1600AAJS-22L7A0 160GB                         | 1         | 1.32%   |
+| WDC WD10SPZX-24Z10 1TB                              | 1         | 1.32%   |
+| WDC WD10SPZX-22Z10T0 1TB                            | 1         | 1.32%   |
+| WDC WD10EALX-009BA0 1TB                             | 1         | 1.32%   |
+| Transcend TS64GMTS400 64GB SSD                      | 1         | 1.32%   |
+| Toshiba MQ04ABF100 1TB                              | 1         | 1.32%   |
+| Toshiba MQ01ABD032 320GB                            | 1         | 1.32%   |
+| Toshiba HDWD120 2TB                                 | 1         | 1.32%   |
+| Toshiba DT01ACA100 1TB                              | 1         | 1.32%   |
+| Toshiba DT01ACA050 500GB                            | 1         | 1.32%   |
+| SSSTC CVB-8D128-HP 128GB SSD                        | 1         | 1.32%   |
+| SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB           | 1         | 1.32%   |
+| SK hynix HFS128G39TND-N210A 128GB SSD               | 1         | 1.32%   |
+| Seagate ST9500420AS 500GB                           | 1         | 1.32%   |
+| Seagate ST8000DM004-2CX188 8TB                      | 1         | 1.32%   |
+| Seagate ST500DM002-1BD142 500GB                     | 1         | 1.32%   |
+| Seagate ST4000DX001-1CE168 4TB                      | 1         | 1.32%   |
+| Seagate ST3500312CS 500GB                           | 1         | 1.32%   |
+| Seagate ST2000DM001-1ER164 2TB                      | 1         | 1.32%   |
+| Seagate ST1000DM010-2EP102 1TB                      | 1         | 1.32%   |
+| Seagate ST1000DM003-1CH162 1TB                      | 1         | 1.32%   |
+| SanDisk X300 MSATA 128GB SSD                        | 1         | 1.32%   |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD 1TB | 1         | 1.32%   |
+| SanDisk SSD PLUS 120 GB                             | 1         | 1.32%   |
+| SanDisk SD8SN8U512G1002 512GB SSD                   | 1         | 1.32%   |
 
 HDD Vendor
 ----------
@@ -1590,7 +1590,7 @@ Monitor models
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 2         | 3.57%   |
 | Apple Color LCD APP9C6B 1680x1050 433x270mm 20.1-inch                | 2         | 3.57%   |
-| Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                  | 1         | 1.79%   |
+| Viotek GNV34DBE VTK3400 3440x1440 797x334mm 34.0-inch                | 1         | 1.79%   |
 | Sony TV SNY4803 1920x1080 930x523mm 42.0-inch                        | 1         | 1.79%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch  | 1         | 1.79%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch   | 1         | 1.79%   |
@@ -1599,7 +1599,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC3754 1600x900 382x215mm 17.3-inch | 1         | 1.79%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch    | 1         | 1.79%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch    | 1         | 1.79%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1         | 1.79%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch              | 1         | 1.79%   |
 | LG Display LCD Monitor LGD05EC 1920x1080 309x174mm 14.0-inch         | 1         | 1.79%   |
 | LG Display LCD Monitor LGD04B3 1920x1080 345x194mm 15.6-inch         | 1         | 1.79%   |
 | LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch          | 1         | 1.79%   |
@@ -1609,7 +1609,7 @@ Monitor models
 | Insignia DX-32L200NA14 BBY0032 1360x768 544x326mm 25.0-inch          | 1         | 1.79%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 1.79%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                  | 1         | 1.79%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                               | 1         | 1.79%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                  | 1         | 1.79%   |
 | Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch             | 1         | 1.79%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch              | 1         | 1.79%   |
 | Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                    | 1         | 1.79%   |
@@ -2061,15 +2061,15 @@ Controller models
 | Apple Bluetooth HCI MacBookPro (HID mode)           | 2         | 4.76%   |
 | Apple Bluetooth HCI                                 | 2         | 4.76%   |
 | Toshiba Bluetooth Device                            | 1         | 2.38%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 2.38%   |
+| Realtek RTL8821A Bluetooth                          | 1         | 2.38%   |
 | Ralink RT3290 Bluetooth                             | 1         | 2.38%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 2.38%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.38%   |
 | Lite-On Bluetooth Device                            | 1         | 2.38%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.38%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.38%   |
+| Intel Bluetooth Device                              | 1         | 2.38%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 2.38%   |
-| Intel AX201 Bluetooth                               | 1         | 2.38%   |
 | Intel AX200 Bluetooth                               | 1         | 2.38%   |
 | Dell Broadcom BCM20702A0 Bluetooth                  | 1         | 2.38%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 2.38%   |
@@ -2280,7 +2280,7 @@ Camera device vendors
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.71%   |
 | Quanta                                 | 1         | 2.86%   |
 | IMC Networks                           | 1         | 2.86%   |
-| HDR webcam                             | 1         | 2.86%   |
+| Creality 3D Technology                 | 1         | 2.86%   |
 
 Camera Model
 ------------
@@ -2309,7 +2309,7 @@ Camera device models
 | Logitech Webcam C270                             | 1         | 2.78%   |
 | Logitech HD Pro Webcam C920                      | 1         | 2.78%   |
 | IMC Networks HP TrueVision HD Camera             | 1         | 2.78%   |
-| HDR webcam HDR webcam                            | 1         | 2.78%   |
+| Creality 3D CREALITY CAM                         | 1         | 2.78%   |
 | Chicony USB2.0 VGA UVC WebCam                    | 1         | 2.78%   |
 | Chicony USB2.0 HD UVC WebCam                     | 1         | 2.78%   |
 | Chicony TOSHIBA Web Camera - HD                  | 1         | 2.78%   |

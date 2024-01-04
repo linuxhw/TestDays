@@ -1386,7 +1386,7 @@ Controller models
 | Nvidia MCP61 Ethernet                                               | 2        | 10.53%  |
 | Ralink RT2870/RT3070 Wireless Adapter                               | 1        | 5.26%   |
 | Ralink MT7601U Wireless Adapter                                     | 1        | 5.26%   |
-| Qualcomm Fairphone 4 5G                                             | 1        | 5.26%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                      | 1        | 5.26%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller           | 1        | 5.26%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 1        | 5.26%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1        | 5.26%   |
@@ -1455,7 +1455,7 @@ Ethernet models
 |-------------------------------------------------------------------|----------|---------|
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 38.46%  |
 | Nvidia MCP61 Ethernet                                             | 2        | 15.38%  |
-| Qualcomm Fairphone 4 5G                                           | 1        | 7.69%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                    | 1        | 7.69%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 7.69%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 7.69%   |
 | Intel Ethernet Connection (5) I219-LM                             | 1        | 7.69%   |
@@ -1626,7 +1626,7 @@ Memory module models
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s                      | 1        | 7.69%   |
 | Samsung RAM Module 4096MB DIMM DDR4 2400MT/s                              | 1        | 7.69%   |
 | Samsung RAM Module 4096MB DIMM DDR3 1066MT/s                              | 1        | 7.69%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s                       | 1        | 7.69%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR2 2133MT/s                    | 1        | 7.69%   |
 | PNY RAM Module 4096MB DIMM DDR3 1066MT/s                                  | 1        | 7.69%   |
 | Micron RAM Module 2048MB DIMM DDR3 1066MT/s                               | 1        | 7.69%   |
 | Micron RAM 36JSF1G72PZ-1 8192MB DIMM DDR3 1866MT/s                        | 1        | 7.69%   |

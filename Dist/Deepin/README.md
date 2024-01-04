@@ -1120,8 +1120,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 156       | 68.12%  |
-| Yes       | 73        | 31.88%  |
+| No        | 158       | 69%     |
+| Yes       | 71        | 31%     |
 
 Has Ethernet
 ------------
@@ -1363,7 +1363,7 @@ Hard drive models
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB | 2         | 0.59%   |
 | Kingston SV300S37A120G 120GB SSD                   | 2         | 0.59%   |
 | Kingston SA400S37480G 480GB SSD                    | 2         | 0.59%   |
-| JMicron Generic 250GB                              | 2         | 0.59%   |
+| JMicron Generic 2TB                                | 2         | 0.59%   |
 | HGST HTS721010A9E630 1TB                           | 2         | 0.59%   |
 | HGST HTS545050A7E680 500GB                         | 2         | 0.59%   |
 | FORESEE P900F256GBH                                | 2         | 0.59%   |
@@ -1474,9 +1474,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 118       | 173    | 59%     |
-| 0.51-1.0   | 70        | 82     | 35%     |
-| 1.01-2.0   | 9         | 12     | 4.5%    |
+| 0.01-0.5   | 117       | 169    | 58.5%   |
+| 0.51-1.0   | 69        | 82     | 34.5%   |
+| 1.01-2.0   | 11        | 16     | 5.5%    |
 | 3.01-4.0   | 1         | 1      | 0.5%    |
 | 2.01-3.0   | 1         | 1      | 0.5%    |
 | 4.01-10.0  | 1         | 1      | 0.5%    |
@@ -2209,7 +2209,7 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | ViewSonic VA2478-H-2 VSC8335 1920x1080 527x296mm 23.8-inch            | 3         | 1.26%   |
 | AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch         | 3         | 1.26%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 3         | 1.26%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 3         | 1.26%   |
 | Samsung Electronics LCD Monitor SAM0FF0 3840x2160 950x540mm 43.0-inch | 2         | 0.84%   |
 | LG Display LCD Monitor LGD0468 1366x768 344x194mm 15.5-inch           | 2         | 0.84%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                  | 2         | 0.84%   |
@@ -2238,8 +2238,8 @@ Monitor models
 | Samsung Electronics S32B80P SAM71F1 3840x2160 700x400mm 31.7-inch     | 1         | 0.42%   |
 | Samsung Electronics S24E360 SAM0C10 1920x1080 520x290mm 23.4-inch     | 1         | 0.42%   |
 | Samsung Electronics LCD Monitor SMS23A350H 1920x1080                  | 1         | 0.42%   |
-| Samsung Electronics LCD Monitor SEC5448 1920x1080 353x198mm 15.9-inch | 1         | 0.42%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.42%   |
+| Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch | 1         | 0.42%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.42%   |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.42%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 344x194mm 15.5-inch  | 1         | 0.42%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 0.42%   |
@@ -2585,7 +2585,7 @@ Wireless models
 | Broadcom BCM43142 802.11b/g/n                                  | 2         | 1.11%   |
 | Xiaomi MediaTek MT7601U [MI WiFi]                              | 1         | 0.56%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                    | 1         | 0.56%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                            | 1         | 0.56%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                          | 1         | 0.56%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 0.56%   |
 
 Ethernet Vendor
@@ -2646,10 +2646,10 @@ Ethernet models
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 0.53%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 0.53%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 0.53%   |
-| OPPO RMX3623                                                      | 1         | 0.53%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 0.53%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 0.53%   |
 | Nvidia MCP61 Ethernet                                             | 1         | 0.53%   |
-| MediaTek X55                                                      | 1         | 0.53%   |
+| MediaTek M40Air_EEA                                               | 1         | 0.53%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 0.53%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1         | 0.53%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1         | 0.53%   |
@@ -2765,16 +2765,15 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 24        | 16%     |
 | Qualcomm Atheros  Bluetooth Device                                                  | 16        | 10.67%  |
+| Intel Bluetooth Device                                                              | 14        | 9.33%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 13        | 8.67%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 12        | 8%      |
-| Intel AX201 Bluetooth                                                               | 11        | 7.33%   |
 | Realtek Bluetooth Radio                                                             | 9         | 6%      |
 | Intel AX200 Bluetooth                                                               | 7         | 4.67%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 5         | 3.33%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 5         | 3.33%   |
+| Realtek Bluetooth Radio                                                             | 5         | 3.33%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 4         | 2.67%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 3         | 2%      |
-| Intel Bluetooth Device                                                              | 3         | 2%      |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 2         | 1.33%   |
 | Qualcomm Atheros Bluetooth USB Host Controller                                      | 2         | 1.33%   |
 | Lite-On Bluetooth Device                                                            | 2         | 1.33%   |
@@ -2786,8 +2785,8 @@ Controller models
 | Broadcom HP Portable SoftSailing                                                    | 2         | 1.33%   |
 | Toshiba Bluetooth Radio                                                             | 1         | 0.67%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 1         | 0.67%   |
+| Realtek RTL8821A Bluetooth                                                          | 1         | 0.67%   |
 | Realtek RTL8723B Bluetooth                                                          | 1         | 0.67%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 1         | 0.67%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                                        | 1         | 0.67%   |
 | MediaTek BT                                                                         | 1         | 0.67%   |
 | Marvell Bluetooth and Wireless LAN Composite                                        | 1         | 0.67%   |
@@ -2803,6 +2802,7 @@ Controller models
 | Dell DW375 Bluetooth Module                                                         | 1         | 0.67%   |
 | Broadcom HP Portable Bumble Bee                                                     | 1         | 0.67%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                                                  | 1         | 0.67%   |
+| Apple Built-in Bluetooth 2.0+EDR HCI                                                | 1         | 0.67%   |
 
 Sound
 -----
@@ -2972,7 +2972,7 @@ Memory module models
 | Unknown RAM 1866 CL10 Ser 8192MB DIMM DDR3 800MT/s               | 1         | 0.62%   |
 | Unknown (07FB) RAM GST32G08SCL196P-26 32GB SODIMM DDR4 2667MT/s  | 1         | 0.62%   |
 | UniIC RAM SCC08GU03H1F1C-26V 8192MB DIMM DDR4 2666MT/s           | 1         | 0.62%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s              | 1         | 0.62%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s              | 1         | 0.62%   |
 | Smart RAM SH564568FJ8NZRNSDR 2GB SODIMM DDR3 1600MT/s            | 1         | 0.62%   |
 | Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s            | 1         | 0.62%   |
 
@@ -3150,9 +3150,9 @@ Camera device vendors
 | Lenovo                                 | 1         | 0.7%    |
 | kingcome                               | 1         | 0.7%    |
 | icSpring                               | 1         | 0.7%    |
-| HDR webcam                             | 1         | 0.7%    |
 | Goodong Industry                       | 1         | 0.7%    |
 | Generalplus Technology                 | 1         | 0.7%    |
+| Creality 3D Technology                 | 1         | 0.7%    |
 | Arkmicro Technologies                  | 1         | 0.7%    |
 | Apple                                  | 1         | 0.7%    |
 
@@ -3168,6 +3168,7 @@ Camera device models
 |------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                | 8         | 5.56%   |
 | IMC Networks Integrated Camera           | 5         | 3.47%   |
+| IMC Networks HD Camera                   | 5         | 3.47%   |
 | Quanta HD User Facing                    | 4         | 2.78%   |
 | Logitech Webcam C270                     | 4         | 2.78%   |
 | Chicony EasyCamera                       | 4         | 2.78%   |
@@ -3175,17 +3176,15 @@ Camera device models
 | Silicon Motion Web Camera                | 3         | 2.08%   |
 | Quanta HP TrueVision HD Camera           | 3         | 2.08%   |
 | Microdia Integrated_Webcam_HD            | 3         | 2.08%   |
-| IMC Networks ov9734_azurewave_camera     | 3         | 2.08%   |
 | Chicony TOSHIBA Web Camera - HD          | 3         | 2.08%   |
 | Syntek Integrated Camera                 | 2         | 1.39%   |
 | Sunplus Integrated_Webcam_HD             | 2         | 1.39%   |
 | Sunplus HD WebCam                        | 2         | 1.39%   |
-| Realtek USB Camera                       | 2         | 1.39%   |
+| Realtek USB camera                       | 2         | 1.39%   |
 | Realtek Integrated_Webcam_HD             | 2         | 1.39%   |
 | Realtek HP "Truevision HD" laptop camera | 2         | 1.39%   |
 | Primax HP HD Webcam [Fixed]              | 2         | 1.39%   |
 | Lite-On Integrated Camera                | 2         | 1.39%   |
-| IMC Networks HD Camera                   | 2         | 1.39%   |
 | Chicony HP Webcam                        | 2         | 1.39%   |
 | Chicony HP HD Webcam                     | 2         | 1.39%   |
 | Bison Integrated Camera                  | 2         | 1.39%   |
@@ -3199,13 +3198,14 @@ Camera device models
 | Sunplus XiaoMi USB 2.0 Webcam            | 1         | 0.69%   |
 | Sunplus HP Wide Vision HD                | 1         | 0.69%   |
 | Sunplus HesTongCamera                    | 1         | 0.69%   |
-| Sunplus Asus Webcam                      | 1         | 0.69%   |
+| Sunplus ASUS USB2.0 Webcam               | 1         | 0.69%   |
 | Silicon Motion WebCam SC-13HDL11939N     | 1         | 0.69%   |
 | Silicon Motion WebCam SC-10IRQ12340N     | 1         | 0.69%   |
 | Silicon Motion WebCam SC-0311139N        | 1         | 0.69%   |
 | Silicon Motion ATIV VGA Camera           | 1         | 0.69%   |
 | Ricoh Sony Vaio Integrated Webcam        | 1         | 0.69%   |
 | Ricoh Laptop_Integrated_Webcam_FHD       | 1         | 0.69%   |
+| Realtek NexiGo N960E FHD Webcam          | 1         | 0.69%   |
 
 Security
 --------

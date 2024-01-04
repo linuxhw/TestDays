@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 271
+Total: 272
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Lenovo        | IdeaPad 5 15ALC05 82LN      | Notebook    | [e832f6b336](https://linux-hardware.org/?probe=e832f6b336) | Dec 26, 2023 |
 | Lenovo        | IdeaPad 5 15ALC05 82LN      | Notebook    | [b3e3c041d7](https://linux-hardware.org/?probe=b3e3c041d7) | Dec 23, 2023 |
 | ASUSTek       | P5G41T-M LX3                | Desktop     | [42a7acfe4b](https://linux-hardware.org/?probe=42a7acfe4b) | Dec 09, 2023 |
 | Fujitsu       | D3161-A1 S26361-D3161-A1    | Desktop     | [34a16ab09d](https://linux-hardware.org/?probe=34a16ab09d) | Dec 06, 2023 |
@@ -1273,48 +1274,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Computers | Percent |
-|--------------------------------------|-----------|---------|
-| Kingston SA400S37120G 120GB SSD      | 6         | 2.61%   |
-| Toshiba MQ01ABD100 1TB               | 5         | 2.17%   |
-| Kingston SA400S37240G 240GB SSD      | 5         | 2.17%   |
-| Seagate ST500DM002-1BD142 500GB      | 4         | 1.74%   |
-| SK hynix NVMe SSD Drive 512GB        | 3         | 1.3%    |
-| Kingston SHFS37A120G 120GB SSD       | 3         | 1.3%    |
-| Hitachi HDS721050CLA362 500GB        | 3         | 1.3%    |
-| WDC WD800JD-00MSA1 80GB              | 2         | 0.87%   |
-| WDC WD3200AAJS-00L7A0 320GB          | 2         | 0.87%   |
-| Unknown SD/MMC/MS PRO 128GB          | 2         | 0.87%   |
-| Unknown MMC Card  32GB               | 2         | 0.87%   |
-| Toshiba HDWD120 2TB                  | 2         | 0.87%   |
-| Toshiba DT01ACA100 1TB               | 2         | 0.87%   |
-| Toshiba DT01ACA050 500GB             | 2         | 0.87%   |
-| Seagate ST3500413AS 500GB            | 2         | 0.87%   |
-| Seagate ST250LT021-1AF14C 250GB      | 2         | 0.87%   |
-| SanDisk NVMe SSD Drive 256GB         | 2         | 0.87%   |
-| Samsung SSD 980 500GB                | 2         | 0.87%   |
-| Samsung SSD 860 EVO 250GB            | 2         | 0.87%   |
-| Samsung NVMe SSD Drive 512GB         | 2         | 0.87%   |
-| Kingston SUV400S37240G 240GB SSD     | 2         | 0.87%   |
-| Kingston SHFS37A240G 240GB SSD       | 2         | 0.87%   |
-| Kingston SA400S37480G 480GB SSD      | 2         | 0.87%   |
-| Hitachi HTS723232A7A364 320GB        | 2         | 0.87%   |
-| Hitachi HTS547575A9E384 752GB        | 2         | 0.87%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD | 2         | 0.87%   |
-| WDC WDS240G2G0B-00EPW0 240GB SSD     | 1         | 0.43%   |
-| WDC WDS240G2G0A-00JH30 240GB SSD     | 1         | 0.43%   |
-| WDC WDS240G1G0A-00SS50 240GB SSD     | 1         | 0.43%   |
-| WDC WDS120G2G0B-00EPW0 120GB SSD     | 1         | 0.43%   |
-| WDC WD800JD-75MSA3 80GB              | 1         | 0.43%   |
-| WDC WD800JD-60LSA5 80GB              | 1         | 0.43%   |
-| WDC WD7500BPVX-22JC3T0 752GB         | 1         | 0.43%   |
-| WDC WD7500BPVT-75HXZT3 752GB         | 1         | 0.43%   |
-| WDC WD7500BPVT-24HXZT3 752GB         | 1         | 0.43%   |
-| WDC WD7500AACS-00D6B0 752GB          | 1         | 0.43%   |
-| WDC WD6400AARS-00Y5B1 640GB          | 1         | 0.43%   |
-| WDC WD5000LPVX-75V0TT0 500GB         | 1         | 0.43%   |
-| WDC WD5000LPVT-75G33T0 500GB         | 1         | 0.43%   |
-| WDC WD5000LPVT-22G33T0 500GB         | 1         | 0.43%   |
+| Model                            | Computers | Percent |
+|----------------------------------|-----------|---------|
+| Kingston SA400S37120G 120GB SSD  | 6         | 2.61%   |
+| Toshiba MQ01ABD100 1TB           | 5         | 2.17%   |
+| Kingston SA400S37240G 240GB SSD  | 5         | 2.17%   |
+| Seagate ST500DM002-1BD142 500GB  | 4         | 1.74%   |
+| SK hynix NVMe SSD Drive 512GB    | 3         | 1.3%    |
+| Kingston SHFS37A120G 120GB SSD   | 3         | 1.3%    |
+| Hitachi HDS721050CLA362 500GB    | 3         | 1.3%    |
+| WDC WD800JD-00MSA1 80GB          | 2         | 0.87%   |
+| WDC WD3200AAJS-00L7A0 320GB      | 2         | 0.87%   |
+| Unknown SD/MMC/MS PRO 512GB      | 2         | 0.87%   |
+| Unknown MMC Card  32GB           | 2         | 0.87%   |
+| Toshiba HDWD120 2TB              | 2         | 0.87%   |
+| Toshiba DT01ACA100 1TB           | 2         | 0.87%   |
+| Toshiba DT01ACA050 500GB         | 2         | 0.87%   |
+| Seagate ST3500413AS 500GB        | 2         | 0.87%   |
+| Seagate ST250LT021-1AF14C 250GB  | 2         | 0.87%   |
+| SanDisk NVMe SSD Drive 256GB     | 2         | 0.87%   |
+| Samsung SSD 980 500GB            | 2         | 0.87%   |
+| Samsung SSD 860 EVO 250GB        | 2         | 0.87%   |
+| Samsung NVMe SSD Drive 512GB     | 2         | 0.87%   |
+| Kingston SUV400S37240G 240GB SSD | 2         | 0.87%   |
+| Kingston SHFS37A240G 240GB SSD   | 2         | 0.87%   |
+| Kingston SA400S37480G 480GB SSD  | 2         | 0.87%   |
+| Hitachi HTS723232A7A364 320GB    | 2         | 0.87%   |
+| Hitachi HTS547575A9E384 752GB    | 2         | 0.87%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB | 2         | 0.87%   |
+| WDC WDS240G2G0B-00EPW0 240GB SSD | 1         | 0.43%   |
+| WDC WDS240G2G0A-00JH30 240GB SSD | 1         | 0.43%   |
+| WDC WDS240G1G0A-00SS50 240GB SSD | 1         | 0.43%   |
+| WDC WDS120G2G0B-00EPW0 120GB SSD | 1         | 0.43%   |
+| WDC WD800JD-75MSA3 80GB          | 1         | 0.43%   |
+| WDC WD800JD-60LSA5 80GB          | 1         | 0.43%   |
+| WDC WD7500BPVX-22JC3T0 752GB     | 1         | 0.43%   |
+| WDC WD7500BPVT-75HXZT3 752GB     | 1         | 0.43%   |
+| WDC WD7500BPVT-24HXZT3 752GB     | 1         | 0.43%   |
+| WDC WD7500AACS-00D6B0 752GB      | 1         | 0.43%   |
+| WDC WD6400AARS-00Y5B1 640GB      | 1         | 0.43%   |
+| WDC WD5000LPVX-75V0TT0 500GB     | 1         | 0.43%   |
+| WDC WD5000LPVT-75G33T0 500GB     | 1         | 0.43%   |
+| WDC WD5000LPVT-22G33T0 500GB     | 1         | 0.43%   |
 
 HDD Vendor
 ----------
@@ -1410,8 +1411,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 117       | 173    | 78.52%  |
-| 0.51-1.0   | 25        | 28     | 16.78%  |
+| 0.01-0.5   | 116       | 171    | 77.85%  |
+| 0.51-1.0   | 26        | 30     | 17.45%  |
 | 1.01-2.0   | 4         | 6      | 2.68%   |
 | 3.01-4.0   | 1         | 2      | 0.67%   |
 | 2.01-3.0   | 1         | 2      | 0.67%   |
@@ -1475,7 +1476,7 @@ Drive models with a malfunction
 | Seagate ST3120813AS 120GB                                       | 1         | 1      | 6.25%   |
 | Seagate ST3000DM001-1CH166 3TB                                  | 1         | 2      | 6.25%   |
 | Seagate ST250LT021-1AF14C 250GB                                 | 1         | 1      | 6.25%   |
-| Samsung Electronics NVMe SSD Controller SM961/PM961/SM963 256GB | 1         | 1      | 6.25%   |
+| Samsung Electronics NVMe SSD Controller SM961/PM961/SM963 250GB | 1         | 1      | 6.25%   |
 | Samsung Electronics MZVKW512HMJP-000H1 512GB                    | 1         | 1      | 6.25%   |
 | Samsung Electronics MMCRE64G8MPP-0VA 64GB SSD                   | 1         | 1      | 6.25%   |
 | Samsung Electronics HD322HJ 320GB                               | 1         | 1      | 6.25%   |
@@ -1659,10 +1660,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 112       | 55.45%  |
-| NVMe | 40        | 19.8%   |
-| IDE  | 34        | 16.83%  |
-| RAID | 16        | 7.92%   |
+| SATA | 112       | 55.72%  |
+| NVMe | 40        | 19.9%   |
+| IDE  | 34        | 16.92%  |
+| RAID | 15        | 7.46%   |
 
 Processor
 ---------
@@ -2124,7 +2125,7 @@ Monitor models
 | AOC 917W AOC1917 1440x900 410x256mm 19.0-inch                          | 2         | 1.12%   |
 | Acer KA220HQ ACR0467 1920x1080 477x268mm 21.5-inch                     | 2         | 1.12%   |
 | ViewSonic VA702 VSC1C1C 1280x1024 338x270mm 17.0-inch                  | 1         | 0.56%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch     | 1         | 0.56%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1         | 0.56%   |
 | Unknown LCD Monitor SAMSUNG 1366x768                                   | 1         | 0.56%   |
 | Unknown LCD Monitor Maxdata/XXXXXXX B_101920 1280x1024                 | 1         | 0.56%   |
 | Sony TV SNY4D04 1920x1080 1600x900mm 72.3-inch                         | 1         | 0.56%   |
@@ -2543,7 +2544,7 @@ Ethernet models
 | Nvidia MCP51 Ethernet Controller                                  | 1         | 0.66%   |
 | Nvidia CK8S Ethernet Controller                                   | 1         | 0.66%   |
 | Nvidia CK804 Ethernet Controller                                  | 1         | 0.66%   |
-| MediaTek X55                                                      | 1         | 0.66%   |
+| MediaTek M40Air_EEA                                               | 1         | 0.66%   |
 | Marvell Group 88E8072 PCI-E Gigabit Ethernet Controller           | 1         | 0.66%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 0.66%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 0.66%   |
@@ -2652,10 +2653,9 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 9         | 10.84%  |
+| Intel Bluetooth Device                              | 9         | 10.84%  |
 | Qualcomm Atheros  Bluetooth Device                  | 7         | 8.43%   |
 | Realtek Bluetooth Radio                             | 6         | 7.23%   |
-| Intel AX201 Bluetooth                               | 5         | 6.02%   |
-| Intel Bluetooth Device                              | 4         | 4.82%   |
 | IMC Networks Bluetooth Radio                        | 4         | 4.82%   |
 | Ralink RT3290 Bluetooth                             | 3         | 3.61%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 3         | 3.61%   |
@@ -2670,7 +2670,7 @@ Controller models
 | Toshiba RT Bluetooth Radio                          | 1         | 1.2%    |
 | Toshiba Bluetooth USB Host Controller               | 1         | 1.2%    |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 1.2%    |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 1.2%    |
+| Realtek Bluetooth Radio                             | 1         | 1.2%    |
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 1.2%    |
 | Marvell Bluetooth and Wireless LAN Composite        | 1         | 1.2%    |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 1.2%    |
@@ -2807,9 +2807,9 @@ Memory module models
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 2         | 1.96%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 2         | 1.96%   |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s           | 2         | 1.96%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s              | 2         | 1.96%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s              | 2         | 1.96%   |
 | Kingston RAM 99U5584-005.A00LF 4GB DIMM DDR3 1600MT/s            | 2         | 1.96%   |
-| Kingston RAM 99U5471-054.A00LF 8192MB DIMM DDR3 1600MT/s         | 2         | 1.96%   |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s            | 2         | 1.96%   |
 | Crucial RAM CT16G4SFD8266.M16FE 16GB SODIMM DDR4 2667MT/s        | 2         | 1.96%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1         | 0.98%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 1         | 0.98%   |
@@ -2823,18 +2823,18 @@ Memory module models
 | SK hynix RAM Module 16384MB SODIMM DDR4 2133MT/s                 | 1         | 0.98%   |
 | SK hynix RAM HYMP125S64CP8-S6 2048MB DIMM SDRAM 2048MT/s         | 1         | 0.98%   |
 | SK hynix RAM HYMP112S64CP6-S6 1GB DIMM SDRAM 2048MT/s            | 1         | 0.98%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.98%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.98%   |
 | SK hynix RAM HMT41GS6AFR8C-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 0.98%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1800MT/s             | 1         | 0.98%   |
 | SK hynix RAM HMT351U6CFR8C 4096MB DIMM DDR3 1333MT/s             | 1         | 0.98%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.98%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.98%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 0.98%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 1         | 0.98%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 0.98%   |
 | SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s             | 1         | 0.98%   |
 | SK hynix RAM HMCG66MEBSA092N 8GB SODIMM DDR5 4800MT/s            | 1         | 0.98%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 1         | 0.98%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s           | 1         | 0.98%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 1         | 0.98%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 0.98%   |
 | SK hynix RAM HMA81GS6CJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 1         | 0.98%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 0.98%   |
@@ -3031,15 +3031,15 @@ Camera device models
 | Syntek Integrated Camera                                    | 2         | 1.94%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 2         | 1.94%   |
 | Sunplus HP Universal Camera                                 | 2         | 1.94%   |
-| Realtek Laptop_Integrated_Webcam_HD                         | 2         | 1.94%   |
 | Realtek Integrated_Webcam_HD                                | 2         | 1.94%   |
 | Realtek HD WebCam                                           | 2         | 1.94%   |
 | Lite-On HP HD Webcam                                        | 2         | 1.94%   |
 | Chicony TOSHIBA Web Camera - HD                             | 2         | 1.94%   |
 | Chicony HP Truevision HD                                    | 2         | 1.94%   |
+| Chicony HD WebCam                                           | 2         | 1.94%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera         | 2         | 1.94%   |
 | Bison Integrated Camera                                     | 2         | 1.94%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                          | 2         | 1.94%   |
+| Apple iPhone 5/5C/5S/6/SE                                   | 2         | 1.94%   |
 | Syntek Lenovo EasyCamera                                    | 1         | 0.97%   |
 | Suyin HP TrueVision HD                                      | 1         | 0.97%   |
 | Sunplus TOSHIBA Web Camera - HD                             | 1         | 0.97%   |
@@ -3052,6 +3052,8 @@ Camera device models
 | Ricoh Laptop_Integrated_Webcam_3M                           | 1         | 0.97%   |
 | Realtek VGA WebCam                                          | 1         | 0.97%   |
 | Realtek USB Camera                                          | 1         | 0.97%   |
+| Realtek Laptop_Integrated_Webcam_HD                         | 1         | 0.97%   |
+| Realtek Integrated Webcam HD                                | 1         | 0.97%   |
 | Realtek HP Wide Vision FHD Camera                           | 1         | 0.97%   |
 | Realtek FJ Camera                                           | 1         | 0.97%   |
 | Quanta USB Webcam                                           | 1         | 0.97%   |
@@ -3062,8 +3064,6 @@ Camera device models
 | Primax HP HD Webcam [Fixed]                                 | 1         | 0.97%   |
 | MacroSilicon USB3.0 UHD                                     | 1         | 0.97%   |
 | Luxvisions Innotech Limited HP HD Camera                    | 1         | 0.97%   |
-| Logitech Webcam C270                                        | 1         | 0.97%   |
-| Logitech Webcam C210                                        | 1         | 0.97%   |
 
 Security
 --------

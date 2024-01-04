@@ -1,10 +1,11 @@
 Ubuntu 21.04 - Test Cases
 -------------------------
 
-Total: 2550
+Total: 2551
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Dell          | 0F642F A00                  | Desktop     | [6adfd04a7e](https://linux-hardware.org/?probe=6adfd04a7e) | Dec 27, 2023 |
 | Dell          | 0F642F A00                  | Desktop     | [72a8f53afa](https://linux-hardware.org/?probe=72a8f53afa) | Dec 06, 2023 |
 | Dell          | 0F642F A00                  | Desktop     | [2c0a966390](https://linux-hardware.org/?probe=2c0a966390) | Nov 23, 2023 |
 | HP            | Pavilion dv6                | Notebook    | [e2560d6378](https://linux-hardware.org/?probe=e2560d6378) | Sep 30, 2023 |

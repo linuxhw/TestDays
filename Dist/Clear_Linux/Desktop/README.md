@@ -1263,8 +1263,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 224      | 71.57%  |
-| Yes       | 89       | 28.43%  |
+| No        | 225      | 71.88%  |
+| Yes       | 88       | 28.12%  |
 
 Has Ethernet
 ------------
@@ -1478,7 +1478,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 1TB             | 11       | 1.62%   |
 | Seagate ST1000DM010-2EP102 1TB         | 9        | 1.32%   |
 | Samsung SSD 850 EVO 250GB              | 9        | 1.32%   |
-| Unknown SD/MMC/MS PRO 128GB            | 8        | 1.18%   |
+| Unknown SD/MMC/MS PRO 512GB            | 8        | 1.18%   |
 | Toshiba DT01ACA100 1TB                 | 8        | 1.18%   |
 | WDC WD10EZEX-08WN4A0 1TB               | 7        | 1.03%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 250GB | 7        | 1.03%   |
@@ -1629,13 +1629,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 202      | 376    | 52.47%  |
-| 0.51-1.0   | 96       | 131    | 24.94%  |
-| 1.01-2.0   | 39       | 49     | 10.13%  |
-| 4.01-10.0  | 17       | 23     | 4.42%   |
-| 3.01-4.0   | 15       | 20     | 3.9%    |
-| 2.01-3.0   | 9        | 10     | 2.34%   |
-| 10.01-20.0 | 7        | 11     | 1.82%   |
+| 0.01-0.5   | 199      | 365    | 51.16%  |
+| 0.51-1.0   | 98       | 137    | 25.19%  |
+| 1.01-2.0   | 44       | 54     | 11.31%  |
+| 4.01-10.0  | 17       | 23     | 4.37%   |
+| 3.01-4.0   | 15       | 20     | 3.86%   |
+| 2.01-3.0   | 9        | 10     | 2.31%   |
+| 10.01-20.0 | 7        | 11     | 1.8%    |
 
 Space Total
 -----------
@@ -2263,20 +2263,20 @@ Monitor models
 | Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch          | 5        | 1.36%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 4        | 1.08%   |
 | MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch               | 4        | 1.08%   |
-| Hitachi HDMI HEC0030 1920x1080 580x330mm 26.3-inch                    | 4        | 1.08%   |
+| Hitachi HDMI HEC0030 1920x1080 1150x650mm 52.0-inch                   | 4        | 1.08%   |
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 3        | 0.81%   |
 | ViewSonic LCD Monitor VA2212 Series                                   | 2        | 0.54%   |
-| Unknown (XXX) Beyond TV XXX2851 3840x2160 1209x680mm 54.6-inch        | 2        | 0.54%   |
+| Unknown (XXX) Beyond TV XXX2851 1920x1080 1209x680mm 54.6-inch        | 2        | 0.54%   |
 | Toshiba TV TSB0108 1280x1024 708x398mm 32.0-inch                      | 2        | 0.54%   |
 | Samsung Electronics U28E510 SAM0D64 3840x2160 610x350mm 27.7-inch     | 2        | 0.54%   |
 | Samsung Electronics U28E510 SAM0D63 3840x2160 607x345mm 27.5-inch     | 2        | 0.54%   |
 | Samsung Electronics S24D391 SAM0B87 1920x1080 521x293mm 23.5-inch     | 2        | 0.54%   |
 | Samsung Electronics LCD Monitor SAM0F13 3840x2160 950x540mm 43.0-inch | 2        | 0.54%   |
-| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1190x340mm 48.7-inch    | 2        | 0.54%   |
+| Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch    | 2        | 0.54%   |
 | Hitachi W240D DVI HIT7D03 1920x1200 520x320mm 24.0-inch               | 2        | 0.54%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 2        | 0.54%   |
 | Goldstar ULTRAWIDE GSM59F2 2560x1080 677x290mm 29.0-inch              | 2        | 0.54%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 2        | 0.54%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 2        | 0.54%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch               | 2        | 0.54%   |
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch            | 2        | 0.54%   |
 | Dell P2414H DELA09A 1920x1080 527x297mm 23.8-inch                     | 2        | 0.54%   |
@@ -2289,7 +2289,7 @@ Monitor models
 | Yuraku MA2221 FAC2221 1920x1080 410x230mm 18.5-inch                   | 1        | 0.27%   |
 | Westinghouse WD32HD1390 WET3553 1680x1050 708x398mm 32.0-inch         | 1        | 0.27%   |
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1        | 0.27%   |
-| Vizio E241i-A1 VIZ1005 1920x1080 521x293mm 23.5-inch                  | 1        | 0.27%   |
+| Vizio E24-C1 VIZ1005 1920x1080 521x293mm 23.5-inch                    | 1        | 0.27%   |
 | ViewSonic VX3276-QHD VSCE635 2560x1440 698x393mm 31.5-inch            | 1        | 0.27%   |
 | ViewSonic VX2718-2KPC VSCB73A 2560x1440 598x336mm 27.0-inch           | 1        | 0.27%   |
 | ViewSonic VX2450 SERIES VSCE226 1920x1080 525x297mm 23.7-inch         | 1        | 0.27%   |
@@ -2631,7 +2631,7 @@ Wireless models
 | Realtek 802.11ac NIC                                                                          | 2        | 1.26%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 2        | 1.26%   |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                                    | 2        | 1.26%   |
-| Microsoft XBOX ACC                                                                            | 2        | 1.26%   |
+| Microsoft Xbox Wireless Adapter for Windows                                                   | 2        | 1.26%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                                         | 1        | 0.63%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1        | 0.63%   |
 | Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                                       | 1        | 0.63%   |
@@ -2708,7 +2708,7 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.29%   |
 | Realtek RTL8152 Fast Ethernet Adapter                                         | 1        | 0.29%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 0.29%   |
-| MediaTek X55                                                                  | 1        | 0.29%   |
+| MediaTek M40Air_EEA                                                           | 1        | 0.29%   |
 | Intel Ethernet Controller I226-V                                              | 1        | 0.29%   |
 | Intel Ethernet Controller I225-LM                                             | 1        | 0.29%   |
 | Intel Ethernet Connection (12) I219-V                                         | 1        | 0.29%   |
@@ -2819,7 +2819,7 @@ Controller models
 | Intel AX200 Bluetooth                                                | 22       | 16.92%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                  | 21       | 16.15%  |
 | Intel Bluetooth wireless interface                                   | 13       | 10%     |
-| Intel AX201 Bluetooth                                                | 10       | 7.69%   |
+| Intel Bluetooth Device                                               | 11       | 8.46%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 8        | 6.15%   |
 | Realtek  Bluetooth 4.2 Adapter                                       | 7        | 5.38%   |
 | Intel AX210 Bluetooth                                                | 6        | 4.62%   |
@@ -2832,7 +2832,7 @@ Controller models
 | HTC (High Tech Computer) Vive Hub Bluetooth 4.1 (Broadcom BCM920703) | 2        | 1.54%   |
 | ASUS Qualcomm Bluetooth 4.1                                          | 2        | 1.54%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                                   | 2        | 1.54%   |
-| TP-Link TP-Cdj+ UB5A Adapter                                         | 1        | 0.77%   |
+| TP-Link UB500 Adapter                                                | 1        | 0.77%   |
 | Realtek Bluetooth Radio                                              | 1        | 0.77%   |
 | Qualcomm Atheros Bluetooth USB Host Controller                       | 1        | 0.77%   |
 | Qualcomm Atheros Bluetooth (AR3011)                                  | 1        | 0.77%   |
@@ -2840,7 +2840,6 @@ Controller models
 | Micro Star International Bluetooth Device                            | 1        | 0.77%   |
 | MediaTek Wireless_Device                                             | 1        | 0.77%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                           | 1        | 0.77%   |
-| Intel Bluetooth Device                                               | 1        | 0.77%   |
 | IMC Networks Bluetooth Radio                                         | 1        | 0.77%   |
 | Creative Bluetooth Audio W2                                          | 1        | 0.77%   |
 | Broadcom BCM43142 Bluetooth 4.0                                      | 1        | 0.77%   |
@@ -3172,19 +3171,19 @@ Camera device models
 | Logitech HD Pro Webcam C920                | 3        | 7.5%    |
 | Samsung Galaxy series, misc. (MTP mode)    | 2        | 5%      |
 | Microsoft LifeCam HD-3000                  | 2        | 5%      |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR         | 2        | 5%      |
+| Apple iPhone 5/5C/5S/6/SE                  | 2        | 5%      |
 | Z-Star Venus USB2.0 Camera                 | 1        | 2.5%    |
 | Sunplus WEBCAM ESSENTIELB W1               | 1        | 2.5%    |
 | Sunplus Sandberg USB Webcam Pro            | 1        | 2.5%    |
 | Realtek NexiGo N960E FHD Webcam            | 1        | 2.5%    |
-| Realtek FULL HD 1080P Webcam               | 1        | 2.5%    |
+| Realtek Full HD webcam                     | 1        | 2.5%    |
 | Microsoft LifeCam VX-7000 (UVC-compliant)  | 1        | 2.5%    |
 | Microsoft LifeCam VX-700                   | 1        | 2.5%    |
 | Microsoft LifeCam Studio                   | 1        | 2.5%    |
 | Microsoft LifeCam Cinema                   | 1        | 2.5%    |
 | Microdia Sonix USB 2.0 Camera              | 1        | 2.5%    |
+| Logitech Webcam C925e                      | 1        | 2.5%    |
 | Logitech QuickCam Zoom                     | 1        | 2.5%    |
-| Logitech Logitech Webcam C925e             | 1        | 2.5%    |
 | Logitech Logitech Webcam C160              | 1        | 2.5%    |
 | Logitech C922 Pro Stream Webcam            | 1        | 2.5%    |
 | Logitech BRIO 4K Stream Edition            | 1        | 2.5%    |

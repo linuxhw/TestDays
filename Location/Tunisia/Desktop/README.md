@@ -1581,7 +1581,7 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch    | 1        | 2.44%   |
 | S2-Tek TV STK531A 1920x1080 930x530mm 42.1-inch                      | 1        | 2.44%   |
 | PKB LCD Monitor VIS220WS 1680x1050                                   | 1        | 2.44%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1        | 2.44%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch              | 1        | 2.44%   |
 | Philips 17S PHL0877 1280x1024 337x270mm 17.0-inch                    | 1        | 2.44%   |
 | Packard Bell PKB VIS220WS PKB5064 1680x1050 460x290mm 21.4-inch      | 1        | 2.44%   |
 | MSI MP271 MSI30A2 1920x1080 598x336mm 27.0-inch                      | 1        | 2.44%   |
@@ -1948,7 +1948,7 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Intel AX201 Bluetooth                               | 3        | 27.27%  |
+| Intel Bluetooth Device                              | 3        | 27.27%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 27.27%  |
 | Intel Bluetooth wireless interface                  | 2        | 18.18%  |
 | Ralink RT3290 Bluetooth                             | 1        | 9.09%   |
@@ -2056,37 +2056,37 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                         | 1        | 3.45%   |
-| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                         | 1        | 3.45%   |
-| Unknown RAM Module 4GB DIMM DDR3                                  | 1        | 3.45%   |
-| Unknown RAM Module 1024MB DIMM 667MT/s                            | 1        | 3.45%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 3.45%   |
-| TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s                  | 1        | 3.45%   |
-| TwinMOS RAM 9D7TBNZB-TATP 4096MB DIMM DDR3 1066MT/s               | 1        | 3.45%   |
-| Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s             | 1        | 3.45%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s               | 1        | 3.45%   |
-| Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 2400MT/s             | 1        | 3.45%   |
-| SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                     | 1        | 3.45%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s             | 1        | 3.45%   |
-| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s              | 1        | 3.45%   |
-| SK hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4 2667MT/s             | 1        | 3.45%   |
-| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2667MT/s              | 1        | 3.45%   |
-| Samsung RAM Module 4096MB DIMM DDR3 1333MT/s                      | 1        | 3.45%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s             | 1        | 3.45%   |
-| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s               | 1        | 3.45%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 3.45%   |
-| PNY RAM 8GBF1X08LIII43-12-K 8GB DIMM DDR4 2667MT/s                | 1        | 3.45%   |
-| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s                | 1        | 3.45%   |
-| Micron RAM ITC 4096MB DIMM DDR3 1648MT/s                          | 1        | 3.45%   |
-| Micron RAM 8JTF25664AZ-1G4M1 2GB DIMM DDR3 1333MT/s               | 1        | 3.45%   |
-| Micron RAM 4ATF1G64HZ-3G2B2 8GB SODIMM DDR4 3200MT/s              | 1        | 3.45%   |
-| Melco RAM Module 2GB DIMM DDR2 667MT/s                            | 1        | 3.45%   |
-| GOODRAM RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s                | 1        | 3.45%   |
-| Elpida RAM HMT451S6AFR8C-H9 4GB DIMM DDR3                         | 1        | 3.45%   |
-| Crucial RAM BL16G32C16U4B.16FE 16384MB DIMM DDR4 3200MT/s         | 1        | 3.45%   |
-| 0BBA00000000 RAM KBN1333D3N9/4G 4096MB DIMM DDR3 1066MT/s         | 1        | 3.45%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 3.45%   |
+| Unknown RAM Module 4GB DIMM DDR3 1066MT/s                      | 1        | 3.45%   |
+| Unknown RAM Module 4GB DIMM DDR3                               | 1        | 3.45%   |
+| Unknown RAM Module 1024MB DIMM 667MT/s                         | 1        | 3.45%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 3.45%   |
+| TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s               | 1        | 3.45%   |
+| TwinMOS RAM 9D7TBNZB-TATP 4096MB DIMM DDR3 1066MT/s            | 1        | 3.45%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s              | 1        | 3.45%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s            | 1        | 3.45%   |
+| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s            | 1        | 3.45%   |
+| SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 3.45%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 3.45%   |
+| SK hynix RAM HMA851U6CJR6N-VK 4GB DIMM DDR4 2667MT/s           | 1        | 3.45%   |
+| SK hynix RAM HMA82GU7CJR8N-VK 16GB DIMM DDR4 2667MT/s          | 1        | 3.45%   |
+| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2667MT/s           | 1        | 3.45%   |
+| Samsung RAM Module 4096MB DIMM DDR3 1333MT/s                   | 1        | 3.45%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1        | 3.45%   |
+| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s            | 1        | 3.45%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 3.45%   |
+| PNY RAM 8GBF1X08LIII43-12-K 8GB DIMM DDR4 2667MT/s             | 1        | 3.45%   |
+| Patriot RAM 3000 C15 Series 8GB DIMM DDR4 3000MT/s             | 1        | 3.45%   |
+| Micron RAM ITC 4096MB DIMM DDR3 1648MT/s                       | 1        | 3.45%   |
+| Micron RAM 8JTF25664AZ-1G4M1 2GB DIMM DDR3 1333MT/s            | 1        | 3.45%   |
+| Micron RAM 4ATF1G64HZ-3G2B2 8GB SODIMM DDR4 3200MT/s           | 1        | 3.45%   |
+| Melco RAM Module 2GB DIMM DDR2 667MT/s                         | 1        | 3.45%   |
+| GOODRAM RAM GR1333D364L9/4G 4GB DIMM DDR3 1600MT/s             | 1        | 3.45%   |
+| Elpida RAM HMT451S6AFR8C-H9 4GB DIMM DDR3                      | 1        | 3.45%   |
+| Crucial RAM BL16G32C16U4B.16FE 16384MB DIMM DDR4 3200MT/s      | 1        | 3.45%   |
+| 0BBA00000000 RAM KBN1333D3N9/4G 4096MB DIMM DDR3 1066MT/s      | 1        | 3.45%   |
 
 Memory Kind
 -----------

@@ -1237,7 +1237,7 @@ Hard drive vendors
 | Team                | 2        | 3      | 0.7%    |
 | SPCC                | 2        | 2      | 0.7%    |
 | SK hynix            | 2        | 2      | 0.7%    |
-| SanDisk             | 2        | 3      | 0.7%    |
+| Sandisk             | 2        | 3      | 0.7%    |
 | HGST                | 2        | 2      | 0.7%    |
 | Fujitsu             | 2        | 2      | 0.7%    |
 | addlink             | 2        | 2      | 0.7%    |
@@ -1391,10 +1391,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 175      | 294    | 79.19%  |
-| 0.51-1.0   | 30       | 36     | 13.57%  |
-| 1.01-2.0   | 9        | 10     | 4.07%   |
-| 3.01-4.0   | 4        | 8      | 1.81%   |
+| 0.01-0.5   | 175      | 293    | 78.83%  |
+| 0.51-1.0   | 30       | 36     | 13.51%  |
+| 1.01-2.0   | 10       | 11     | 4.5%    |
+| 3.01-4.0   | 4        | 8      | 1.8%    |
 | 2.01-3.0   | 2        | 3      | 0.9%    |
 | 4.01-10.0  | 1        | 1      | 0.45%   |
 
@@ -1678,10 +1678,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| IDE  | 122      | 55.96%  |
-| SATA | 82       | 37.61%  |
-| NVMe | 7        | 3.21%   |
-| RAID | 5        | 2.29%   |
+| IDE  | 122      | 56.22%  |
+| SATA | 81       | 37.33%  |
+| NVMe | 7        | 3.23%   |
+| RAID | 5        | 2.3%    |
 | SAS  | 1        | 0.46%   |
 | SCSI | 1        | 0.46%   |
 
@@ -2545,7 +2545,7 @@ Ethernet models
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet             | 1        | 0.48%   |
 | Nvidia MCP77 Ethernet                                                      | 1        | 0.48%   |
 | National DP83815 (MacPhyter) Ethernet Controller                           | 1        | 0.48%   |
-| Motorola PCS moto g62 5G                                                   | 1        | 0.48%   |
+| Motorola PCS motorola edge 40                                              | 1        | 0.48%   |
 | Motorola BCS SurfBoard SB5100 Cable Modem                                  | 1        | 0.48%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                    | 1        | 0.48%   |
 | JMicron JMC250 PCI Express Gigabit Ethernet Controller                     | 1        | 0.48%   |
@@ -2641,12 +2641,12 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 11       | 50%     |
-| Intel AX201 Bluetooth                               | 2        | 9.09%   |
+| Intel Bluetooth Device                              | 2        | 9.09%   |
 | IMC Networks Bluetooth Module                       | 2        | 9.09%   |
 | Intel Bluetooth wireless interface                  | 1        | 4.55%   |
 | Intel AX200 Bluetooth                               | 1        | 4.55%   |
+| Broadcom Broadcom BCM2070 Bluetooth Device          | 1        | 4.55%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 UHE Dongle | 1        | 4.55%   |
-| Broadcom BCM2070 Bluetooth Device                   | 1        | 4.55%   |
 | Broadcom BCM2035B3 Bluetooth Adapter                | 1        | 4.55%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 4.55%   |
 | ASUS Bluetooth Adapter                              | 1        | 4.55%   |
@@ -2776,48 +2776,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Desktops | Percent |
-|-------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2GB DIMM SDRAM                     | 6        | 3.39%   |
-| Unknown RAM Module 4GB DIMM SDRAM                     | 4        | 2.26%   |
-| Unknown RAM Module 4GB DIMM 400MT/s                   | 4        | 2.26%   |
-| Unknown RAM Module 2GB DIMM DDR2                      | 3        | 1.69%   |
-| Unknown RAM Module 2048MB DIMM DDR2                   | 3        | 1.69%   |
-| Unknown RAM Module 1024MB DIMM DDR2                   | 3        | 1.69%   |
-| Ramaxel RAM RMR5030ED58E8W1600 2GB DIMM DDR3 1600MT/s | 3        | 1.69%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s             | 2        | 1.13%   |
-| Unknown RAM Module 4GB DIMM 1066MT/s                  | 2        | 1.13%   |
-| Unknown RAM Module 2GB DIMM DDR3 1066MT/s             | 2        | 1.13%   |
-| Unknown RAM Module 2GB DIMM 400MT/s                   | 2        | 1.13%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                  | 2        | 1.13%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                  | 2        | 1.13%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s           | 2        | 1.13%   |
-| Samsung RAM Module 2GB DIMM DDR3 1333MT/s             | 2        | 1.13%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s   | 2        | 1.13%   |
-| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3            | 2        | 1.13%   |
-| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s | 2        | 1.13%   |
-| Ramaxel RAM RMR5030ME68F9F1600 4GB DIMM DDR3 1600MT/s | 2        | 1.13%   |
-| Ramaxel RAM RMR5030EF68F9W1600 4GB DIMM DDR3 1600MT/s | 2        | 1.13%   |
-| Ramaxel RAM RMR1870EC58E9F1333 4GB DIMM DDR3 1333MT/s | 2        | 1.13%   |
-| Nanya RAM NT2GT64U8HD0BY-AD 2048MB DIMM DDR2 2048MT/s | 2        | 1.13%   |
-| Unknown                                               | 2        | 1.13%   |
-| Unknown RAM Module 8GB DIMM 1600MT/s                  | 1        | 0.56%   |
-| Unknown RAM Module 512MB DIMM DDR2                    | 1        | 0.56%   |
-| Unknown RAM Module 4GB DIMM 667MT/s                   | 1        | 0.56%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                  | 1        | 0.56%   |
-| Unknown RAM Module 4096MB DIMM SDRAM                  | 1        | 0.56%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s          | 1        | 0.56%   |
-| Unknown RAM Module 4096MB DIMM                        | 1        | 0.56%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s              | 1        | 0.56%   |
-| Unknown RAM Module 2GB DIMM DDR2 667MT/s              | 1        | 0.56%   |
-| Unknown RAM Module 2GB DIMM DDR 800MT/s               | 1        | 0.56%   |
-| Unknown RAM Module 2GB DIMM 800MT/s                   | 1        | 0.56%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s          | 1        | 0.56%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s          | 1        | 0.56%   |
-| Unknown RAM Module 2048MB DIMM DDR2 533MT/s           | 1        | 0.56%   |
-| Unknown RAM Module 2048MB DIMM DDR2 1639MT/s          | 1        | 0.56%   |
-| Unknown RAM Module 2048MB DIMM DDR 800MT/s            | 1        | 0.56%   |
-| Unknown RAM Module 2048MB DIMM DDR 133MT/s            | 1        | 0.56%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2GB DIMM SDRAM                      | 6        | 3.39%   |
+| Unknown RAM Module 4GB DIMM SDRAM                      | 4        | 2.26%   |
+| Unknown RAM Module 4GB DIMM 400MT/s                    | 4        | 2.26%   |
+| Unknown RAM Module 2GB DIMM DDR2                       | 3        | 1.69%   |
+| Unknown RAM Module 2048MB DIMM DDR2                    | 3        | 1.69%   |
+| Unknown RAM Module 1024MB DIMM DDR2                    | 3        | 1.69%   |
+| Ramaxel RAM RMR5030ED58E8W1600 2GB DIMM DDR3 1600MT/s  | 3        | 1.69%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s              | 2        | 1.13%   |
+| Unknown RAM Module 4GB DIMM 1066MT/s                   | 2        | 1.13%   |
+| Unknown RAM Module 2GB DIMM DDR3 1066MT/s              | 2        | 1.13%   |
+| Unknown RAM Module 2GB DIMM 400MT/s                    | 2        | 1.13%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                   | 2        | 1.13%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                   | 2        | 1.13%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s            | 2        | 1.13%   |
+| Samsung RAM Module 2GB DIMM DDR3 1333MT/s              | 2        | 1.13%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR2 2133MT/s | 2        | 1.13%   |
+| Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s    | 2        | 1.13%   |
+| Ramaxel RAM RMR5040ED58E9W1600 4GB DIMM DDR3 1600MT/s  | 2        | 1.13%   |
+| Ramaxel RAM RMR5030ME68F9F1600 4GB DIMM DDR3 1600MT/s  | 2        | 1.13%   |
+| Ramaxel RAM RMR5030EF68F9W1600 4GB DIMM DDR3 1600MT/s  | 2        | 1.13%   |
+| Ramaxel RAM RMR1870EC58E9F1333 4GB DIMM DDR3 1333MT/s  | 2        | 1.13%   |
+| Nanya RAM NT2GT64U8HD0BY-AD 2048MB DIMM DDR2 2048MT/s  | 2        | 1.13%   |
+| Unknown                                                | 2        | 1.13%   |
+| Unknown RAM Module 8GB DIMM 1600MT/s                   | 1        | 0.56%   |
+| Unknown RAM Module 512MB DIMM DDR2                     | 1        | 0.56%   |
+| Unknown RAM Module 4GB DIMM 667MT/s                    | 1        | 0.56%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                   | 1        | 0.56%   |
+| Unknown RAM Module 4096MB DIMM SDRAM                   | 1        | 0.56%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s           | 1        | 0.56%   |
+| Unknown RAM Module 4096MB DIMM                         | 1        | 0.56%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s               | 1        | 0.56%   |
+| Unknown RAM Module 2GB DIMM DDR2 667MT/s               | 1        | 0.56%   |
+| Unknown RAM Module 2GB DIMM DDR 800MT/s                | 1        | 0.56%   |
+| Unknown RAM Module 2GB DIMM 800MT/s                    | 1        | 0.56%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s           | 1        | 0.56%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 0.56%   |
+| Unknown RAM Module 2048MB DIMM DDR2 533MT/s            | 1        | 0.56%   |
+| Unknown RAM Module 2048MB DIMM DDR2 1639MT/s           | 1        | 0.56%   |
+| Unknown RAM Module 2048MB DIMM DDR 800MT/s             | 1        | 0.56%   |
+| Unknown RAM Module 2048MB DIMM DDR 133MT/s             | 1        | 0.56%   |
 
 Memory Kind
 -----------

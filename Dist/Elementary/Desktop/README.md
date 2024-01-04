@@ -1474,8 +1474,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 263      | 55.72%  |
-| Yes       | 209      | 44.28%  |
+| No        | 264      | 55.93%  |
+| Yes       | 208      | 44.07%  |
 
 Has Ethernet
 ------------
@@ -1639,7 +1639,7 @@ Hard drive vendors
 | Samsung Electronics         | 112      | 190    | 13.58%  |
 | Kingston                    | 57       | 82     | 6.91%   |
 | Toshiba                     | 42       | 68     | 5.09%   |
-| SanDisk                     | 42       | 46     | 5.09%   |
+| Sandisk                     | 42       | 46     | 5.09%   |
 | Crucial                     | 37       | 51     | 4.48%   |
 | Hitachi                     | 26       | 30     | 3.15%   |
 | A-DATA Technology           | 14       | 15     | 1.7%    |
@@ -1695,7 +1695,7 @@ Hard drive models
 | Kingston SA400S37120G 120GB SSD                     | 9        | 0.96%   |
 | Toshiba DT01ACA100 1TB                              | 8        | 0.85%   |
 | Samsung SSD 860 EVO 1TB                             | 8        | 0.85%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 8        | 0.85%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 8        | 0.85%   |
 | Crucial CT240BX500SSD1 240GB                        | 8        | 0.85%   |
 | Seagate ST1000DM010-2EP102 1TB                      | 7        | 0.75%   |
 | Samsung NVMe SSD Drive 1TB                          | 7        | 0.75%   |
@@ -1841,12 +1841,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 344      | 605    | 58.11%  |
-| 0.51-1.0   | 165      | 260    | 27.87%  |
-| 1.01-2.0   | 40       | 55     | 6.76%   |
-| 2.01-3.0   | 20       | 37     | 3.38%   |
-| 3.01-4.0   | 13       | 14     | 2.2%    |
-| 4.01-10.0  | 10       | 14     | 1.69%   |
+| 0.01-0.5   | 343      | 600    | 57.65%  |
+| 0.51-1.0   | 166      | 262    | 27.9%   |
+| 1.01-2.0   | 43       | 58     | 7.23%   |
+| 2.01-3.0   | 20       | 37     | 3.36%   |
+| 3.01-4.0   | 13       | 14     | 2.18%   |
+| 4.01-10.0  | 10       | 14     | 1.68%   |
 
 Space Total
 -----------
@@ -1896,35 +1896,35 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                              | Desktops | Drives | Percent |
-|------------------------------------|----------|--------|---------|
-| WDC WD5000AAKX-22ERMA0 500GB       | 1        | 1      | 3.7%    |
-| WDC WD5000AAKX-221CA1 500GB        | 1        | 1      | 3.7%    |
-| WDC WD5000AAKX-00ERMA0 500GB       | 1        | 1      | 3.7%    |
-| WDC WD5000AAKS-00UU3A0 500GB       | 1        | 1      | 3.7%    |
-| WDC WD3200AAJS-56B4A0 320GB        | 1        | 1      | 3.7%    |
-| WDC WD10EZEX-00KUWA0 1TB           | 1        | 1      | 3.7%    |
-| WDC WD1003FZEX-00MK2A0 1TB         | 1        | 1      | 3.7%    |
-| Seagate ST500DM002-1BD142 500GB    | 1        | 1      | 3.7%    |
-| Seagate ST3500414CS 500GB          | 1        | 2      | 3.7%    |
-| Seagate ST3500312CS 500GB          | 1        | 1      | 3.7%    |
-| Seagate ST3320613AS 320GB          | 1        | 1      | 3.7%    |
-| Seagate ST3250312AS 250GB          | 1        | 1      | 3.7%    |
-| Seagate ST3160813AS 160GB          | 1        | 1      | 3.7%    |
-| Seagate ST3160318AS 160GB          | 1        | 1      | 3.7%    |
-| Seagate ST2000DM006-2DM164 2TB     | 1        | 1      | 3.7%    |
-| SanDisk SSD PLUS 240GB             | 1        | 1      | 3.7%    |
-| Samsung Electronics HD322GJ 320GB  | 1        | 1      | 3.7%    |
-| Samsung Electronics HD204UI 2TB    | 1        | 1      | 3.7%    |
-| Samsung Electronics HD160JJ/ 160GB | 1        | 1      | 3.7%    |
-| OCZ VECTOR150 240GB SSD            | 1        | 1      | 3.7%    |
-| Kingston SA400S37120G 120GB SSD    | 1        | 1      | 3.7%    |
-| Hitachi HTS725050A7E630 500GB      | 1        | 1      | 3.7%    |
-| Hitachi HTS542525K9SA00 250GB      | 1        | 1      | 3.7%    |
-| Hitachi HDT721064SLA360 640GB      | 1        | 1      | 3.7%    |
-| Hitachi HDS721010CLA332 1TB        | 1        | 1      | 3.7%    |
-| HGST HUS724030ALA640 3TB           | 1        | 1      | 3.7%    |
-| Crucial CT256M550SSD1 256GB        | 1        | 1      | 3.7%    |
+| Model                             | Desktops | Drives | Percent |
+|-----------------------------------|----------|--------|---------|
+| WDC WD5000AAKX-22ERMA0 500GB      | 1        | 1      | 3.7%    |
+| WDC WD5000AAKX-221CA1 500GB       | 1        | 1      | 3.7%    |
+| WDC WD5000AAKX-00ERMA0 500GB      | 1        | 1      | 3.7%    |
+| WDC WD5000AAKS-00UU3A0 500GB      | 1        | 1      | 3.7%    |
+| WDC WD3200AAJS-56B4A0 320GB       | 1        | 1      | 3.7%    |
+| WDC WD10EZEX-00KUWA0 1TB          | 1        | 1      | 3.7%    |
+| WDC WD1003FZEX-00MK2A0 1TB        | 1        | 1      | 3.7%    |
+| Seagate ST500DM002-1BD142 500GB   | 1        | 1      | 3.7%    |
+| Seagate ST3500414CS 500GB         | 1        | 2      | 3.7%    |
+| Seagate ST3500312CS 500GB         | 1        | 1      | 3.7%    |
+| Seagate ST3320613AS 320GB         | 1        | 1      | 3.7%    |
+| Seagate ST3250312AS 250GB         | 1        | 1      | 3.7%    |
+| Seagate ST3160813AS 160GB         | 1        | 1      | 3.7%    |
+| Seagate ST3160318AS 160GB         | 1        | 1      | 3.7%    |
+| Seagate ST2000DM006-2DM164 2TB    | 1        | 1      | 3.7%    |
+| SanDisk SSD PLUS 240GB            | 1        | 1      | 3.7%    |
+| Samsung Electronics HD322GJ 320GB | 1        | 1      | 3.7%    |
+| Samsung Electronics HD204UI 2TB   | 1        | 1      | 3.7%    |
+| Samsung Electronics HD160JJ 160GB | 1        | 1      | 3.7%    |
+| OCZ VECTOR150 240GB SSD           | 1        | 1      | 3.7%    |
+| Kingston SA400S37120G 120GB SSD   | 1        | 1      | 3.7%    |
+| Hitachi HTS725050A7E630 500GB     | 1        | 1      | 3.7%    |
+| Hitachi HTS542525K9SA00 250GB     | 1        | 1      | 3.7%    |
+| Hitachi HDT721064SLA360 640GB     | 1        | 1      | 3.7%    |
+| Hitachi HDS721010CLA332 1TB       | 1        | 1      | 3.7%    |
+| HGST HUS724030ALA640 3TB          | 1        | 1      | 3.7%    |
+| Crucial CT256M550SSD1 256GB       | 1        | 1      | 3.7%    |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -2573,8 +2573,8 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 4        | 0.75%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                  | 4        | 0.75%   |
-| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 4        | 0.75%   |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch  | 3        | 0.56%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 4        | 0.75%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 470x300mm 22.0-inch  | 3        | 0.56%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch     | 3        | 0.56%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 3        | 0.56%   |
 | Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                   | 3        | 0.56%   |
@@ -2582,8 +2582,8 @@ Monitor models
 | AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                       | 3        | 0.56%   |
 | AOC 2369M AOC2369 1920x1080 509x286mm 23.0-inch                       | 3        | 0.56%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 521x293mm 23.5-inch | 3        | 0.56%   |
+| Vizio M220VA VIZ0070 1920x1080 476x268mm 21.5-inch                    | 2        | 0.38%   |
 | Vizio E280i-A1 VIZ1002 1360x768 607x345mm 27.5-inch                   | 2        | 0.38%   |
-| Vizio E221VA VIZ0070 1920x1080 476x268mm 21.5-inch                    | 2        | 0.38%   |
 | ViewSonic VA2719 Series VSCC132 1920x1080 598x336mm 27.0-inch         | 2        | 0.38%   |
 | Unknown LCD Monitor SAMSUNG 1920x1080                                 | 2        | 0.38%   |
 | Sharp HDMI SHP1048 1920x1080 820x460mm 37.0-inch                      | 2        | 0.38%   |
@@ -2596,9 +2596,9 @@ Monitor models
 | Hewlett-Packard TouchSmart HWP4211 1920x1080 509x286mm 23.0-inch      | 2        | 0.38%   |
 | Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch             | 2        | 0.38%   |
 | Hewlett-Packard 2010 HWP2889 1600x900 442x249mm 20.0-inch             | 2        | 0.38%   |
-| Grundig WXGA GRU4448 1600x1200                                        | 2        | 0.38%   |
+| Grundig WUXGA GRU4448 1920x1080                                       | 2        | 0.38%   |
 | Goldstar L1753T GSM4434 1280x1024 338x270mm 17.0-inch                 | 2        | 0.38%   |
-| Goldstar FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch                | 2        | 0.38%   |
+| Goldstar FHD GSM5B54 1920x1080 480x270mm 21.7-inch                    | 2        | 0.38%   |
 | Goldstar E2211 GSM5838 1920x1080 477x268mm 21.5-inch                  | 2        | 0.38%   |
 | Goldstar 2D HD TV GSM59C8 1366x768 509x286mm 23.0-inch                | 2        | 0.38%   |
 | Goldstar 25UM58G GSM5B98 2560x1080 673x284mm 28.8-inch                | 2        | 0.38%   |
@@ -2664,19 +2664,19 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 85       | 17.03%  |
-| 27      | 55       | 11.02%  |
-| 24      | 55       | 11.02%  |
-| 21      | 51       | 10.22%  |
-| 23      | 49       | 9.82%   |
-| 19      | 28       | 5.61%   |
-| 22      | 26       | 5.21%   |
-| 18      | 20       | 4.01%   |
+| Unknown | 85       | 17.07%  |
+| 27      | 55       | 11.04%  |
+| 24      | 55       | 11.04%  |
+| 21      | 51       | 10.24%  |
+| 23      | 48       | 9.64%   |
+| 19      | 28       | 5.62%   |
+| 22      | 26       | 5.22%   |
+| 18      | 20       | 4.02%   |
 | 20      | 18       | 3.61%   |
 | 31      | 16       | 3.21%   |
 | 17      | 14       | 2.81%   |
-| 32      | 10       | 2%      |
-| 34      | 9        | 1.8%    |
+| 32      | 10       | 2.01%   |
+| 34      | 9        | 1.81%   |
 | 84      | 5        | 1%      |
 | 72      | 5        | 1%      |
 | 36      | 5        | 1%      |
@@ -2897,7 +2897,7 @@ Controller models
 | Intel 82567LM-3 Gigabit Network Connection                        | 5        | 0.65%   |
 | Broadcom BCM43228 802.11a/b/g/n                                   | 5        | 0.65%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 4        | 0.52%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 4        | 0.52%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 4        | 0.52%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 4        | 0.52%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 4        | 0.52%   |
 | Intel Ethernet Connection (2) I218-V                              | 4        | 0.52%   |
@@ -2969,7 +2969,7 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                              | 5        | 1.97%   |
 | Broadcom BCM43228 802.11a/b/g/n                              | 5        | 1.97%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                  | 4        | 1.57%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                          | 4        | 1.57%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                        | 4        | 1.57%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]             | 4        | 1.57%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                 | 3        | 1.18%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]   | 3        | 1.18%   |
@@ -3152,8 +3152,8 @@ Controller vendors
 | Intel                           | 58       | 33.92%  |
 | Cambridge Silicon Radio         | 50       | 29.24%  |
 | Realtek Semiconductor           | 17       | 9.94%   |
-| Broadcom                        | 12       | 7.02%   |
-| ASUSTek Computer                | 11       | 6.43%   |
+| Broadcom                        | 13       | 7.6%    |
+| ASUSTek Computer                | 10       | 5.85%   |
 | Apple                           | 8        | 4.68%   |
 | Qualcomm Atheros Communications | 3        | 1.75%   |
 | TP-Link                         | 2        | 1.17%   |
@@ -3178,40 +3178,38 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 50       | 29.24%  |
 | Intel AX200 Bluetooth                                 | 15       | 8.77%   |
 | Intel Bluetooth wireless interface                    | 14       | 8.19%   |
-| Realtek Bluetooth Radio                               | 12       | 7.02%   |
+| Realtek Bluetooth Radio                               | 13       | 7.6%    |
+| Intel Bluetooth Device                                | 7        | 4.09%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 7        | 4.09%   |
 | Intel AX210 Bluetooth                                 | 7        | 4.09%   |
-| Intel AX201 Bluetooth                                 | 6        | 3.51%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 5        | 2.92%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 4        | 2.34%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 4        | 2.34%   |
+| Apple Bluetooth USB Host Controller                   | 4        | 2.34%   |
 | Realtek  Bluetooth 4.2 Adapter                        | 3        | 1.75%   |
 | Broadcom HP Portable Bumble Bee                       | 3        | 1.75%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 3        | 1.75%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                  | 3        | 1.75%   |
-| TP-Link TP-Cdj+ UB5A Adapter                          | 2        | 1.17%   |
+| TP-Link UB500 Adapter                                 | 2        | 1.17%   |
 | Qualcomm Atheros  Bluetooth Device                    | 2        | 1.17%   |
 | MediaTek Wireless_Device                              | 2        | 1.17%   |
 | IMC Networks BCM20702A0                               | 2        | 1.17%   |
 | Broadcom Bluetooth 3.0 Dongle                         | 2        | 1.17%   |
 | Belkin Components Bluetooth Mini Dongle               | 2        | 1.17%   |
 | ASUS Bluetooth Radio                                  | 2        | 1.17%   |
-| ASUS BCM20702A0                                       | 2        | 1.17%   |
-| Apple Bluetooth USB Host Controller                   | 2        | 1.17%   |
-| Apple Bluetooth Host Controller                       | 2        | 1.17%   |
 | Realtek Bluetooth 5.1 Radio                           | 1        | 0.58%   |
-| Realtek 802.11ac WLAN Adapter                         | 1        | 0.58%   |
 | Ralink RT3290 Bluetooth                               | 1        | 0.58%   |
 | Qualcomm Atheros Bluetooth USB Host Controller        | 1        | 0.58%   |
 | Qcom Bluetooth USB                                    | 1        | 0.58%   |
-| Intel Bluetooth Device                                | 1        | 0.58%   |
-| Edimax Bluetooth Adapter                              | 1        | 0.58%   |
+| Edimax Edimax Bluetooth Adapter                       | 1        | 0.58%   |
 | Broadcom Bluetooth dongle                             | 1        | 0.58%   |
 | Broadcom Bluetooth Controller                         | 1        | 0.58%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter      | 1        | 0.58%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                     | 1        | 0.58%   |
+| Broadcom BCM20702A0                                   | 1        | 0.58%   |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE | 1        | 0.58%   |
-| ASUS ASUS USB-BT500                                   | 1        | 0.58%   |
+| ASUS Bluetooth Device                                 | 1        | 0.58%   |
+| ASUS BCM20702A0                                       | 1        | 0.58%   |
 | Apple Bluetooth HCI                                   | 1        | 0.58%   |
 | 3Com 3CREB96 Bluetooth Adapter                        | 1        | 0.58%   |
 
@@ -3243,7 +3241,7 @@ Sound card vendors
 | GN Netcom                            | 2        | 0.25%   |
 | Focusrite-Novation                   | 2        | 0.25%   |
 | Corsair                              | 2        | 0.25%   |
-| BR25                                 | 2        | 0.25%   |
+| BR23                                 | 2        | 0.25%   |
 | BEHRINGER International              | 2        | 0.25%   |
 | VIA Technologies                     | 1        | 0.13%   |
 | Thesycon Systemsoftware & Consulting | 1        | 0.13%   |
@@ -3398,9 +3396,9 @@ Memory module models
 | SK hynix RAM HMA81GU6AFR8N-UH 8192MB DIMM DDR4 2400MT/s         | 1        | 0.76%   |
 | Samsung RAM Module 8192MB Row Of Chips LPDDR4 3733MT/s          | 1        | 0.76%   |
 | Samsung RAM Module 8192MB DIMM DDR4 2666MT/s                    | 1        | 0.76%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s           | 1        | 0.76%   |
+| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s        | 1        | 0.76%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1        | 0.76%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s           | 1        | 0.76%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s        | 1        | 0.76%   |
 | Samsung RAM M393B2K70DM0 16384MB DIMM DDR3 1066MT/s             | 1        | 0.76%   |
 | Samsung RAM M393B1K70CHD-CH9 8GB DIMM DDR3 1333MT/s             | 1        | 0.76%   |
 | Samsung RAM M378B5673EH1-CH9 2GB DIMM DDR3 1333MT/s             | 1        | 0.76%   |
@@ -3635,7 +3633,7 @@ Camera device models
 |-----------------------------------------|----------|---------|
 | Logitech HD Pro Webcam C920             | 7        | 7.78%   |
 | Logitech Webcam C270                    | 5        | 5.56%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 5        | 5.56%   |
+| Apple iPhone 5/5C/5S/6/SE               | 5        | 5.56%   |
 | Microsoft LifeCam HD-3000               | 3        | 3.33%   |
 | Microdia Integrated Camera              | 3        | 3.33%   |
 | Logitech HD Webcam C615                 | 3        | 3.33%   |
@@ -3653,10 +3651,10 @@ Camera device models
 | Trust USB Camera                        | 1        | 1.11%   |
 | Teslong Camera                          | 1        | 1.11%   |
 | SunplusIT MTD camera                    | 1        | 1.11%   |
-| Sunplus FHD Camera Microphone           | 1        | 1.11%   |
-| Sunplus 5Mega Webcam                    | 1        | 1.11%   |
+| Sunplus USB Camera                      | 1        | 1.11%   |
+| Sunplus Integrated_Webcam_HD            | 1        | 1.11%   |
 | Silicon Motion Silicon Motion Camera    | 1        | 1.11%   |
-| Realtek FULL HD 1080P Webcam            | 1        | 1.11%   |
+| Realtek Full HD webcam                  | 1        | 1.11%   |
 | Razer USA Razer Kiyo Pro                | 1        | 1.11%   |
 | Philips (or NXP) SPZ2500                | 1        | 1.11%   |
 | OmniVision Monitor Webcam               | 1        | 1.11%   |
@@ -3669,10 +3667,10 @@ Camera device models
 | Microdia Sonix USB 2.0 Camera           | 1        | 1.11%   |
 | Microdia Camera                         | 1        | 1.11%   |
 | MacroSilicon USB3.0 UHD                 | 1        | 1.11%   |
+| Logitech Webcam C925e                   | 1        | 1.11%   |
 | Logitech Webcam C310                    | 1        | 1.11%   |
 | Logitech Webcam C250                    | 1        | 1.11%   |
 | Logitech QuickCam Communicate Deluxe    | 1        | 1.11%   |
-| Logitech Logitech Webcam C925e          | 1        | 1.11%   |
 
 Security
 --------
@@ -3742,11 +3740,11 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 403      | 85.38%  |
-| 1     | 57       | 12.08%  |
+| 0     | 404      | 85.59%  |
+| 1     | 56       | 11.86%  |
 | 2     | 9        | 1.91%   |
-| 4     | 2        | 0.42%   |
-| 3     | 1        | 0.21%   |
+| 3     | 2        | 0.42%   |
+| 4     | 1        | 0.21%   |
 
 Unsupported Device Types
 ------------------------
@@ -3758,18 +3756,18 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 35       | 45.45%  |
-| Graphics card            | 14       | 18.18%  |
-| Sound                    | 6        | 7.79%   |
-| Network                  | 3        | 3.9%    |
-| Multimedia controller    | 3        | 3.9%    |
-| Bluetooth                | 3        | 3.9%    |
-| Unassigned class         | 2        | 2.6%    |
-| Communication controller | 2        | 2.6%    |
-| Chipcard                 | 2        | 2.6%    |
-| Card reader              | 2        | 2.6%    |
-| Camera                   | 2        | 2.6%    |
-| Storage/ide              | 1        | 1.3%    |
-| Net/ethernet             | 1        | 1.3%    |
-| Fingerprint reader       | 1        | 1.3%    |
+| Net/wireless             | 35       | 46.05%  |
+| Graphics card            | 13       | 17.11%  |
+| Sound                    | 6        | 7.89%   |
+| Network                  | 3        | 3.95%   |
+| Multimedia controller    | 3        | 3.95%   |
+| Bluetooth                | 3        | 3.95%   |
+| Unassigned class         | 2        | 2.63%   |
+| Communication controller | 2        | 2.63%   |
+| Chipcard                 | 2        | 2.63%   |
+| Card reader              | 2        | 2.63%   |
+| Camera                   | 2        | 2.63%   |
+| Storage/ide              | 1        | 1.32%   |
+| Net/ethernet             | 1        | 1.32%   |
+| Fingerprint reader       | 1        | 1.32%   |
 

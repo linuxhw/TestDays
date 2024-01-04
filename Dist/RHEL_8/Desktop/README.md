@@ -727,8 +727,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 30       | 53.57%  |
-| Yes       | 26       | 46.43%  |
+| No        | 31       | 55.36%  |
+| Yes       | 25       | 44.64%  |
 
 Has Ethernet
 ------------
@@ -953,7 +953,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.71%   |
-| Unknown SD/MMC/MS PRO 128GB          | 1        | 0.71%   |
+| Unknown SD/MMC/MS PRO 512GB          | 1        | 0.71%   |
 
 HDD Vendor
 ----------
@@ -1039,12 +1039,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 36       | 75     | 40.91%  |
-| 0.51-1.0   | 28       | 50     | 31.82%  |
-| 1.01-2.0   | 14       | 17     | 15.91%  |
-| 3.01-4.0   | 6        | 11     | 6.82%   |
-| 4.01-10.0  | 3        | 6      | 3.41%   |
-| 2.01-3.0   | 1        | 1      | 1.14%   |
+| 0.01-0.5   | 35       | 74     | 40.7%   |
+| 0.51-1.0   | 28       | 52     | 32.56%  |
+| 1.01-2.0   | 13       | 16     | 15.12%  |
+| 3.01-4.0   | 6        | 11     | 6.98%   |
+| 4.01-10.0  | 3        | 6      | 3.49%   |
+| 2.01-3.0   | 1        | 1      | 1.16%   |
 
 Space Total
 -----------
@@ -1668,16 +1668,16 @@ Monitor models
 | Lenovo Group Limited LCD Monitor LEN P27u-10 9600x2160                | 1        | 1.41%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10 7680x2160                | 1        | 1.41%   |
 | Lenovo Group Limited LCD Monitor LEN P27u-10                          | 1        | 1.41%   |
-| Insignia NS-48D510NA15 BBY4000 1920x1080 591x355mm 27.1-inch          | 1        | 1.41%   |
+| Insignia NS-48D420NA16 BBY4000 1920x1080 1210x680mm 54.6-inch         | 1        | 1.41%   |
 | Hewlett-Packard Z38c HPN3411 3840x1600 880x367mm 37.5-inch            | 1        | 1.41%   |
 | Hewlett-Packard LE2002x HWP2963 1600x900 443x249mm 20.0-inch          | 1        | 1.41%   |
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.41%   |
 | Hewlett-Packard LA2405x HWP301F 1920x1200 520x320mm 24.0-inch         | 1        | 1.41%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.41%   |
 | Hewlett-Packard E233 HPN3460 1920x1080 510x290mm 23.1-inch            | 1        | 1.41%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.41%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 1.41%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.41%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 1        | 1.41%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1        | 1.41%   |
 
 Monitor Resolution
 ------------------
@@ -2071,12 +2071,12 @@ Controller vendors
 |---------------------------------|----------|---------|
 | Intel                           | 8        | 33.33%  |
 | Cambridge Silicon Radio         | 6        | 25%     |
-| ASUSTek Computer                | 3        | 12.5%   |
+| Broadcom                        | 3        | 12.5%   |
 | Realtek Semiconductor           | 2        | 8.33%   |
 | Qualcomm Atheros Communications | 2        | 8.33%   |
 | Micro Star International        | 1        | 4.17%   |
 | IMC Networks                    | 1        | 4.17%   |
-| Broadcom                        | 1        | 4.17%   |
+| ASUSTek Computer                | 1        | 4.17%   |
 
 Bluetooth Model
 ---------------
@@ -2093,11 +2093,11 @@ Controller models
 | Realtek Bluetooth Radio                               | 2        | 8.33%   |
 | Qualcomm Atheros  Bluetooth Device                    | 2        | 8.33%   |
 | Intel AX200 Bluetooth                                 | 2        | 8.33%   |
-| ASUS BCM20702A0                                       | 2        | 8.33%   |
+| Broadcom BCM20702A0                                   | 2        | 8.33%   |
 | Micro Star International Bluetooth Device             | 1        | 4.17%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 1        | 4.17%   |
 | Intel Bluetooth wireless interface                    | 1        | 4.17%   |
-| Intel AX201 Bluetooth                                 | 1        | 4.17%   |
+| Intel Bluetooth Device                                | 1        | 4.17%   |
 | IMC Networks BCM20702A0                               | 1        | 4.17%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 1        | 4.17%   |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE | 1        | 4.17%   |

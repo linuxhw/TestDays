@@ -1598,7 +1598,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.38%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.38%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch     | 1        | 2.38%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.38%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.38%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.38%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.38%   |
@@ -1623,7 +1623,7 @@ Monitor models
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch             | 1        | 2.38%   |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.38%   |
 | Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.38%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.38%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                      | 1        | 2.38%   |
 | Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 1        | 2.38%   |
 | Dell S2722DGM DEL423A 2560x1440 597x336mm 27.0-inch                    | 1        | 2.38%   |
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.38%   |
@@ -2041,7 +2041,7 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.25%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 6.25%   |
 | Integrated System Solution Bluetooth Device         | 1        | 6.25%   |
-| Apple Bluetooth Host Controller                     | 1        | 6.25%   |
+| Apple Bluetooth USB Host Controller                 | 1        | 6.25%   |
 
 Sound
 -----
@@ -2157,7 +2157,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                            | 1        | 5.56%   |
 | Unknown RAM Module 2048MB DIMM 800MT/s                                  | 1        | 5.56%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                   | 1        | 5.56%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                   | 1        | 5.56%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s                | 1        | 5.56%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1GB DIMM DDR2 800MT/s  | 1        | 5.56%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                        | 1        | 5.56%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR 49926MT/s                      | 1        | 5.56%   |
@@ -2312,7 +2312,7 @@ Camera device models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Huawei UVC Camera                 | 2        | 33.33%  |
+| Huawei HiCamera                   | 2        | 33.33%  |
 | Z-Star A4 TECH USB2.0 PC Camera E | 1        | 16.67%  |
 | Microdia Sonix USB 2.0 Camera     | 1        | 16.67%  |
 | Logitech HD Pro Webcam C920       | 1        | 16.67%  |

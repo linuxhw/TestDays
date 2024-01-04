@@ -971,7 +971,7 @@ Hard drive models
 | WDC WD1600AAJS-22PSA0 160GB                  | 1         | 1.1%    |
 | WDC WD10SPZX-60Z10T0 1TB                     | 1         | 1.1%    |
 | WDC WD10EZEX-00KUWA0 1TB                     | 1         | 1.1%    |
-| Unknown SD/MMC/MS PRO 128GB                  | 1         | 1.1%    |
+| Unknown SD/MMC/MS PRO 512GB                  | 1         | 1.1%    |
 | Transcend TS64GMSA230S 64GB SSD              | 1         | 1.1%    |
 | Toshiba NVMe SSD Drive 512GB                 | 1         | 1.1%    |
 | Toshiba MQ01ABF050M 500GB                    | 1         | 1.1%    |
@@ -989,7 +989,7 @@ Hard drive models
 | Seagate ST31000524AS 1TB                     | 1         | 1.1%    |
 | Seagate ST250DM000-1BD141 250GB              | 1         | 1.1%    |
 | Seagate ST1000LM024 HN-M101MBB 1TB           | 1         | 1.1%    |
-| Seagate Expansion Desk 6TB                   | 1         | 1.1%    |
+| Seagate Expansion Desk 8TB                   | 1         | 1.1%    |
 | Seagate BarraCuda 120 SSD ZA500CM10003 500GB | 1         | 1.1%    |
 | SanDisk SSD U110 128GB                       | 1         | 1.1%    |
 | SanDisk SSD PLUS 480GB                       | 1         | 1.1%    |
@@ -1086,12 +1086,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 35        | 53     | 60.34%  |
-| 0.51-1.0   | 18        | 20     | 31.03%  |
-| 1.01-2.0   | 2         | 2      | 3.45%   |
-| 3.01-4.0   | 1         | 1      | 1.72%   |
-| 2.01-3.0   | 1         | 1      | 1.72%   |
-| 4.01-10.0  | 1         | 1      | 1.72%   |
+| 0.01-0.5   | 35        | 50     | 57.38%  |
+| 0.51-1.0   | 20        | 22     | 32.79%  |
+| 1.01-2.0   | 3         | 3      | 4.92%   |
+| 3.01-4.0   | 1         | 1      | 1.64%   |
+| 2.01-3.0   | 1         | 1      | 1.64%   |
+| 4.01-10.0  | 1         | 1      | 1.64%   |
 
 Space Total
 -----------
@@ -2162,9 +2162,8 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 5         | 16.13%  |
+| Realtek Bluetooth Radio                             | 4         | 12.9%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 4         | 12.9%   |
-| Realtek Bluetooth Radio                             | 2         | 6.45%   |
-| Realtek 802.11ac WLAN Adapter                       | 2         | 6.45%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.45%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 3.23%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 3.23%   |
@@ -2448,8 +2447,8 @@ Camera device models
 | Suyin HP Truevision HD                                         | 1         | 3.85%   |
 | Sunplus Integrated_Webcam_HD                                   | 1         | 3.85%   |
 | Sonix USB 2.0 Camera                                           | 1         | 3.85%   |
-| Realtek Laptop_Integrated_Webcam_HD                            | 1         | 3.85%   |
 | Realtek Integrated_Webcam_FHD                                  | 1         | 3.85%   |
+| Realtek Integrated Webcam HD                                   | 1         | 3.85%   |
 | Realtek FJ Camera                                              | 1         | 3.85%   |
 | Quanta HP 5MP Camera                                           | 1         | 3.85%   |
 | Microsoft LifeCam VX-2000                                      | 1         | 3.85%   |

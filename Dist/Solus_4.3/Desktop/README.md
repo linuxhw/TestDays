@@ -690,8 +690,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 22       | 53.66%  |
-| Yes       | 19       | 46.34%  |
+| No        | 23       | 57.5%   |
+| Yes       | 17       | 42.5%   |
 
 Has Ethernet
 ------------
@@ -875,7 +875,7 @@ Hard drive models
 | WDC WD10EZEX-08WN4A0 1TB                          | 2        | 2%      |
 | WDC WD10EZEX-08M2NA0 1TB                          | 2        | 2%      |
 | Toshiba DT01ACA050 500GB                          | 2        | 2%      |
-| Kingston Company A2000 NVMe SSD 250GB             | 2        | 2%      |
+| Kingston Company A2000 NVMe SSD 1TB               | 2        | 2%      |
 | Kingston SA400S37480G 480GB SSD                   | 2        | 2%      |
 | Kingston SA400S37240G 240GB SSD                   | 2        | 2%      |
 | Crucial CT1000P1SSD8 1TB                          | 2        | 2%      |
@@ -903,9 +903,9 @@ Hard drive models
 | WDC WD10EADS-00M2B0 1TB                           | 1        | 1%      |
 | WDC WD1003FBYX-01Y7B0 1TB                         | 1        | 1%      |
 | WDC WD My Passport 25F3 512GB                     | 1        | 1%      |
-| Unknown SD/MMC/MS PRO 128GB                       | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 512GB                       | 1        | 1%      |
 | Toshiba DT01ACA100 1TB                            | 1        | 1%      |
-| SPCC Sol id State Disk 128GB SSD                  | 1        | 1%      |
+| SPCC Sol id State Disk 1024GB SSD                 | 1        | 1%      |
 | SK hynix HFS512GD9TNG-L2A0A 512GB                 | 1        | 1%      |
 | Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 1%      |
 
@@ -990,9 +990,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 55     | 48.28%  |
+| 0.01-0.5   | 28       | 53     | 48.28%  |
 | 0.51-1.0   | 16       | 22     | 27.59%  |
-| 1.01-2.0   | 8        | 9      | 13.79%  |
+| 1.01-2.0   | 8        | 11     | 13.79%  |
 | 3.01-4.0   | 5        | 7      | 8.62%   |
 | 10.01-20.0 | 1        | 1      | 1.72%   |
 
@@ -1580,10 +1580,10 @@ Monitor models
 | ASUSTek Computer VG245 AUS24A3 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2%      |
-| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
+| AOC G2460 AOC2460 1920x1080 531x299mm 24.0-inch                      | 1        | 2%      |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2%      |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2%      |
-| AOC 2460 AOC2460 1920x1080 531x299mm 24.0-inch                       | 1        | 2%      |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2%      |
 
 Monitor Resolution
@@ -2090,7 +2090,7 @@ Memory module models
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 7.69%   |
 | Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 7.69%   |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 7.69%   |
-| Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s  | 1        | 7.69%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
 | Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 7.69%   |

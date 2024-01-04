@@ -917,7 +917,7 @@ Hard drive models
 | WDC WD10SPZX-60Z10T0 1TB                            | 1         | 1.56%   |
 | WDC WD10JPVX-00JC3T0 1TB                            | 1         | 1.56%   |
 | WDC PC SN730 SDBQNTY-256G-1001 256GB                | 1         | 1.56%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 1         | 1.56%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 1         | 1.56%   |
 | Unknown MMC Card  16GB                              | 1         | 1.56%   |
 | Union Memory UMIS RPITJ512VME2OWD 512GB             | 1         | 1.56%   |
 | Transcend TS256GMTE220S 256GB                       | 1         | 1.56%   |
@@ -930,12 +930,12 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB                     | 1         | 1.56%   |
 | Seagate ST250LM004 HN-M250MBB 250GB                 | 1         | 1.56%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 1         | 1.56%   |
-| Sandisk WD Blue SN550 NVMe SSD 512GB                | 1         | 1.56%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 500GB     | 1         | 1.56%   |
+| Sandisk WD Blue SN550 NVMe SSD 1TB                  | 1         | 1.56%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 128GB     | 1         | 1.56%   |
 | SanDisk SD6PP4M-256G-1006 256GB SSD                 | 1         | 1.56%   |
 | Samsung SSD PM810 FDE 2.5 256GB                     | 1         | 1.56%   |
 | Samsung SSD 870 EVO 500GB                           | 1         | 1.56%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 1.56%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 1         | 1.56%   |
 | Samsung MZVLQ512HALU-00000 512GB                    | 1         | 1.56%   |
 | Samsung MZVLQ128HBHQ-000H1 128GB                    | 1         | 1.56%   |
 | Samsung MZVL22T0HBLB-00BL7 2TB                      | 1         | 1.56%   |
@@ -945,7 +945,7 @@ Hard drive models
 | Netac SSD 128GB                                     | 1         | 1.56%   |
 | Netac NVMe SSD Drive 2TB                            | 1         | 1.56%   |
 | Micron MTFDDAK256MAM-1K12 256GB SSD                 | 1         | 1.56%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 1024GB | 1         | 1.56%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 256GB  | 1         | 1.56%   |
 | LITEONIT LSS-16L6G-HP 16GB SSD                      | 1         | 1.56%   |
 | LITEONIT LGT-128M6G 128GB SSD                       | 1         | 1.56%   |
 | Lite-On CX2-8B512-Q11 NVMe LITEON 512GB             | 1         | 1.56%   |
@@ -1035,8 +1035,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 25        | 33     | 71.43%  |
-| 0.51-1.0   | 10        | 13     | 28.57%  |
+| 0.01-0.5   | 25        | 31     | 69.44%  |
+| 0.51-1.0   | 11        | 15     | 30.56%  |
 
 Space Total
 -----------
@@ -1646,7 +1646,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch         | 1         | 1.92%   |
 | Chimei Innolux LCD Monitor CMN14A1 1366x768 309x174mm 14.0-inch          | 1         | 1.92%   |
 | Chimei Innolux LCD Monitor CMN1132 1366x768 256x144mm 11.6-inch          | 1         | 1.92%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x194mm 15.5-inch | 1         | 1.92%   |
+| Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch | 1         | 1.92%   |
 | BOE LCD Monitor BOE09BA 2560x1600 345x215mm 16.0-inch                    | 1         | 1.92%   |
 | BOE LCD Monitor BOE08C5 1920x1080 380x210mm 17.1-inch                    | 1         | 1.92%   |
 | BOE LCD Monitor BOE0812 1920x1080 344x194mm 15.5-inch                    | 1         | 1.92%   |
@@ -1842,7 +1842,7 @@ Controller models
 | Qualcomm Atheros AR9271 802.11n                                   | 1         | 1.08%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.08%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.08%   |
-| MediaTek P8                                                       | 1         | 1.08%   |
+| MediaTek moto e22                                                 | 1         | 1.08%   |
 | Intel Wireless 7265                                               | 1         | 1.08%   |
 | Intel Wireless 3165                                               | 1         | 1.08%   |
 | Intel Ethernet Connection I218-LM                                 | 1         | 1.08%   |
@@ -1951,7 +1951,7 @@ Ethernet models
 | Realtek RTL8125 2.5GbE Controller                                 | 1         | 2.56%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 2.56%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 2.56%   |
-| MediaTek P8                                                       | 1         | 2.56%   |
+| MediaTek moto e22                                                 | 1         | 2.56%   |
 | Intel Ethernet Connection I218-LM                                 | 1         | 2.56%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 2.56%   |
 | Intel Ethernet Connection (4) I219-V                              | 1         | 2.56%   |
@@ -2049,15 +2049,14 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 7         | 16.28%  |
+| Realtek Bluetooth Radio                             | 6         | 13.95%  |
 | Qualcomm Atheros  Bluetooth Device                  | 6         | 13.95%  |
-| Intel AX201 Bluetooth                               | 6         | 13.95%  |
-| Realtek Bluetooth Radio                             | 5         | 11.63%  |
+| Intel Bluetooth Device                              | 6         | 13.95%  |
 | Intel AX200 Bluetooth                               | 3         | 6.98%   |
 | Intel AX210 Bluetooth                               | 2         | 4.65%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 2         | 4.65%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 2.33%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 2.33%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 2.33%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 2.33%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 2.33%   |
 | Lite-On Bluetooth Device                            | 1         | 2.33%   |
@@ -2170,13 +2169,13 @@ Memory module models
 
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 5.26%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s                  | 2         | 5.26%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                               | 1         | 2.63%   |
 | Unknown (0x0100) RAM R744G2133S1S 4GB SODIMM DDR4 1866MT/s                | 1         | 2.63%   |
 | Timetec RAM SD3-1600 8GB SODIMM DDR3 1600MT/s                             | 1         | 2.63%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 2.63%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s                 | 1         | 2.63%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s                    | 1         | 2.63%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 2.63%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s                 | 1         | 2.63%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s                 | 1         | 2.63%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s              | 1         | 2.63%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s                    | 1         | 2.63%   |
@@ -2318,9 +2317,9 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 13        | 30.23%  |
 | IMC Networks                           | 5         | 11.63%  |
-| Bison Electronics                      | 5         | 11.63%  |
 | Microdia                               | 4         | 9.3%    |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 9.3%    |
+| Bison Electronics                      | 4         | 9.3%    |
 | Realtek Semiconductor                  | 3         | 6.98%   |
 | Luxvisions Innotech Limited            | 3         | 6.98%   |
 | Suyin                                  | 2         | 4.65%   |
@@ -2328,6 +2327,7 @@ Camera device vendors
 | SunplusIT                              | 1         | 2.33%   |
 | Sunplus Innovation Technology          | 1         | 2.33%   |
 | icSpring                               | 1         | 2.33%   |
+| Acer                                   | 1         | 2.33%   |
 
 Camera Model
 ------------
@@ -2343,7 +2343,6 @@ Camera device models
 | Chicony HP Truevision HD                                                 | 3         | 6.82%   |
 | Microdia Integrated Webcam HD                                            | 2         | 4.55%   |
 | Chicony Integrated HP HD Webcam                                          | 2         | 4.55%   |
-| Bison Integrated Camera                                                  | 2         | 4.55%   |
 | Syntek Integrated Camera                                                 | 1         | 2.27%   |
 | Suyin HD WebCam                                                          | 1         | 2.27%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)              | 1         | 2.27%   |
@@ -2374,7 +2373,9 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP EliteBook integrated HD Webcam | 1         | 2.27%   |
 | Bison USB Camera                                                         | 1         | 2.27%   |
 | Bison Lenovo EasyCamera                                                  | 1         | 2.27%   |
+| Bison Integrated Camera                                                  | 1         | 2.27%   |
 | Bison HD Webcam                                                          | 1         | 2.27%   |
+| Acer Integrated Camera                                                   | 1         | 2.27%   |
 
 Security
 --------
@@ -2454,8 +2455,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 26        | 53.06%  |
-| 1     | 18        | 36.73%  |
+| 0     | 25        | 51.02%  |
+| 1     | 19        | 38.78%  |
 | 2     | 4         | 8.16%   |
 | 7     | 1         | 2.04%   |
 
@@ -2469,14 +2470,14 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 9         | 29.03%  |
-| Graphics card         | 6         | 19.35%  |
-| Net/wireless          | 5         | 16.13%  |
-| Multimedia controller | 4         | 12.9%   |
-| Bluetooth             | 2         | 6.45%   |
-| Storage               | 1         | 3.23%   |
-| Sound                 | 1         | 3.23%   |
-| Firewire controller   | 1         | 3.23%   |
-| Chipcard              | 1         | 3.23%   |
-| Camera                | 1         | 3.23%   |
+| Fingerprint reader    | 9         | 28.13%  |
+| Graphics card         | 7         | 21.88%  |
+| Net/wireless          | 5         | 15.63%  |
+| Multimedia controller | 4         | 12.5%   |
+| Bluetooth             | 2         | 6.25%   |
+| Storage               | 1         | 3.13%   |
+| Sound                 | 1         | 3.13%   |
+| Firewire controller   | 1         | 3.13%   |
+| Chipcard              | 1         | 3.13%   |
+| Camera                | 1         | 3.13%   |
 

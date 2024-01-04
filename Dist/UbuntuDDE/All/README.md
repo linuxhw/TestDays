@@ -1812,48 +1812,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Computers | Percent |
-|-----------------------------------------------------------------------|-----------|---------|
-| Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch     | 2         | 1.94%   |
-| Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch | 2         | 1.94%   |
-| Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1         | 0.97%   |
-| ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1         | 0.97%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 1         | 0.97%   |
-| Unknown LCD Monitor Sony 55R617 1920x1080                             | 1         | 0.97%   |
-| Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1         | 0.97%   |
-| SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                   | 1         | 0.97%   |
-| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch               | 1         | 0.97%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1         | 0.97%   |
-| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1         | 0.97%   |
-| Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch     | 1         | 0.97%   |
-| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch  | 1         | 0.97%   |
-| Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch     | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC3942 1280x800 261x163mm 12.1-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SDC4142 3840x2160 294x165mm 13.3-inch | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch  | 1         | 0.97%   |
-| Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch  | 1         | 0.97%   |
-| Philips LCD Monitor 150C4 1024x768                                    | 1         | 0.97%   |
-| Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                    | 1         | 0.97%   |
-| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch               | 1         | 0.97%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                     | 1         | 0.97%   |
-| LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch          | 1         | 0.97%   |
-| LG Display LCD Monitor LGD0582 3000x2000 275x183mm 13.0-inch          | 1         | 0.97%   |
-| LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch          | 1         | 0.97%   |
-| LG Display LCD Monitor LGD046D 1920x1080 309x174mm 14.0-inch          | 1         | 0.97%   |
-| LG Display LCD Monitor LGD046B 1366x768 344x194mm 15.5-inch           | 1         | 0.97%   |
-| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch           | 1         | 0.97%   |
-| LG Display LCD Monitor LGD037C 1366x768 310x174mm 14.0-inch           | 1         | 0.97%   |
-| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch           | 1         | 0.97%   |
-| LG Display LCD Monitor LGD02AC 1366x768 344x194mm 15.5-inch           | 1         | 0.97%   |
-| LG Display LCD Monitor LGD024F 1280x800 260x160mm 12.0-inch           | 1         | 0.97%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch      | 2         | 1.94%   |
+| Samsung Electronics LCD Monitor SDC324C 1920x1080 344x194mm 15.5-inch  | 2         | 1.94%   |
+| Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1         | 0.97%   |
+| ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1         | 0.97%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1         | 0.97%   |
+| Unknown LCD Monitor Sony 55R617 1920x1080                              | 1         | 0.97%   |
+| Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1         | 0.97%   |
+| SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1         | 0.97%   |
+| Sharp LCD Monitor SHP149A 1920x1080 344x194mm 15.5-inch                | 1         | 0.97%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 1         | 0.97%   |
+| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch      | 1         | 0.97%   |
+| Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch      | 1         | 0.97%   |
+| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch   | 1         | 0.97%   |
+| Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch      | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC3942 1280x800 261x163mm 12.1-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SDC4146 1366x768 344x194mm 15.5-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SDC4142 3840x2160 294x165mm 13.3-inch  | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SDC344A 1366x768 344x194mm 15.5-inch   | 1         | 0.97%   |
+| Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch   | 1         | 0.97%   |
+| Philips LCD Monitor 150C4 1024x768                                     | 1         | 0.97%   |
+| Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                     | 1         | 0.97%   |
+| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                | 1         | 0.97%   |
+| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1         | 0.97%   |
+| LG Display LCD Monitor LGD0611 1920x1080 382x215mm 17.3-inch           | 1         | 0.97%   |
+| LG Display LCD Monitor LGD0582 3000x2000 275x183mm 13.0-inch           | 1         | 0.97%   |
+| LG Display LCD Monitor LGD056D 1920x1080 382x215mm 17.3-inch           | 1         | 0.97%   |
+| LG Display LCD Monitor LGD046D 1920x1080 309x174mm 14.0-inch           | 1         | 0.97%   |
+| LG Display LCD Monitor LGD046B 1366x768 344x194mm 15.5-inch            | 1         | 0.97%   |
+| LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch            | 1         | 0.97%   |
+| LG Display LCD Monitor LGD037C 1366x768 310x174mm 14.0-inch            | 1         | 0.97%   |
+| LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch            | 1         | 0.97%   |
+| LG Display LCD Monitor LGD02AC 1366x768 344x194mm 15.5-inch            | 1         | 0.97%   |
+| LG Display LCD Monitor LGD024F 1280x800 260x160mm 12.0-inch            | 1         | 0.97%   |
 
 Monitor Resolution
 ------------------
@@ -2217,7 +2217,7 @@ Ethernet models
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                        | 1         | 1.12%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 1.12%   |
 | Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.12%   |
-| Qualcomm MDM9207-MTP _SN:F0565CAE                                 | 1         | 1.12%   |
+| Qualcomm MDM9207-MTP _SN:E28CB43E                                 | 1         | 1.12%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1         | 1.12%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.12%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.12%   |
@@ -2339,13 +2339,14 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 7         | 11.67%  |
 | Realtek  Bluetooth 4.2 Adapter                      | 3         | 5%      |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 3         | 5%      |
+| Intel Bluetooth Device                              | 3         | 5%      |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 5%      |
-| Intel AX201 Bluetooth                               | 3         | 5%      |
 | Realtek Bluetooth Radio                             | 2         | 3.33%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 3.33%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 3.33%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 2         | 3.33%   |
 | IMC Networks Bluetooth Radio                        | 2         | 3.33%   |
+| Apple Bluetooth USB Host Controller                 | 2         | 3.33%   |
 | Toshiba Bluetooth Device                            | 1         | 1.67%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 1.67%   |
 | Ralink RT3290 Bluetooth                             | 1         | 1.67%   |
@@ -2360,8 +2361,6 @@ Controller models
 | Dell BCM20702A0 Bluetooth Module                    | 1         | 1.67%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 1         | 1.67%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 1         | 1.67%   |
-| Apple Bluetooth USB Host Controller                 | 1         | 1.67%   |
-| Apple Bluetooth Host Controller                     | 1         | 1.67%   |
 | Apple Bluetooth HCI                                 | 1         | 1.67%   |
 
 Sound
@@ -2484,20 +2483,20 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 800MT/s                                  | 1         | 2.27%   |
 | Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                   | 1         | 2.27%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s               | 1         | 2.27%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s               | 1         | 2.27%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                  | 1         | 2.27%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                  | 1         | 2.27%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s                  | 1         | 2.27%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s                     | 1         | 2.27%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                   | 1         | 2.27%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s                   | 1         | 2.27%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s                | 1         | 2.27%   |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s                | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s                   | 1         | 2.27%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s                   | 1         | 2.27%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s                  | 1         | 2.27%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s                   | 1         | 2.27%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                   | 1         | 2.27%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s                | 1         | 2.27%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s                   | 1         | 2.27%   |
 | Samsung RAM K4UBE3D4AA-MGCL 8GB Row Of Chips LPDDR4 4267MT/s            | 1         | 2.27%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1GB DIMM DDR2 800MT/s  | 1         | 2.27%   |
@@ -2683,7 +2682,7 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                   | 2         | 3.85%   |
 | Microdia Integrated_Webcam_HD                  | 2         | 3.85%   |
 | Microdia Integrated Webcam                     | 2         | 3.85%   |
-| Huawei UVC Camera                              | 2         | 3.85%   |
+| Huawei HiCamera                                | 2         | 3.85%   |
 | Chicony Integrated Camera                      | 2         | 3.85%   |
 | Chicony HP Webcam                              | 2         | 3.85%   |
 | Z-Star A4 TECH USB2.0 PC Camera E              | 1         | 1.92%   |

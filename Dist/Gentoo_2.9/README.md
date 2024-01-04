@@ -1036,8 +1036,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 129       | 80.12%  |
-| Yes       | 32        | 19.88%  |
+| No        | 131       | 81.37%  |
+| Yes       | 30        | 18.63%  |
 
 Has Ethernet
 ------------
@@ -1247,18 +1247,18 @@ Hard drive models
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB   | 30        | 9.09%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB   | 30        | 9.09%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB    | 15        | 4.55%   |
 | Seagate ST2000DM008-2FR102 2TB                        | 6         | 1.82%   |
-| Sandisk WD Blue SN550 NVMe SSD 512GB                  | 4         | 1.21%   |
+| Sandisk WD Blue SN550 NVMe SSD 1TB                    | 4         | 1.21%   |
 | Samsung SSD 860 EVO 500GB                             | 4         | 1.21%   |
 | Samsung SSD 860 EVO 1TB                               | 4         | 1.21%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 256GB   | 4         | 1.21%   |
-| Phison E16 PCIe4 NVMe Controller 500GB                | 4         | 1.21%   |
-| Intel SSD 660P Series 512GB                           | 4         | 1.21%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 250GB   | 4         | 1.21%   |
+| Phison E16 PCIe4 NVMe Controller 2TB                  | 4         | 1.21%   |
+| Intel SSD 660P Series 1TB                             | 4         | 1.21%   |
 | WDC WD30EFRX-68EUZN0 3TB                              | 3         | 0.91%   |
 | WDC WD10EZEX-08WN4A0 1TB                              | 3         | 0.91%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 3         | 0.91%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 500GB | 3         | 0.91%   |
 | Seagate ST1000DM010-2EP102 1TB                        | 3         | 0.91%   |
 | Samsung SSD 980 1TB                                   | 3         | 0.91%   |
 | Phison PS5013 E13 NVMe Controller 512GB               | 3         | 0.91%   |
@@ -1279,8 +1279,8 @@ Hard drive models
 | Samsung SSD 860 PRO 1TB                               | 2         | 0.61%   |
 | Samsung SSD 860 EVO 250GB                             | 2         | 0.61%   |
 | Samsung SSD 850 EVO 500GB                             | 2         | 0.61%   |
-| Phison E12 NVMe Controller 512GB                      | 2         | 0.61%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                   | 2         | 0.61%   |
+| Phison E12 NVMe Controller 1TB                        | 2         | 0.61%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                   | 2         | 0.61%   |
 | Kingston SA400S37240G 240GB SSD                       | 2         | 0.61%   |
 | HGST HTS721010A9E630 1TB                              | 2         | 0.61%   |
 | GOODRAM SSDPR-CL100-480-G2 480GB                      | 2         | 0.61%   |
@@ -1460,10 +1460,10 @@ Drive models with a malfunction
 | Samsung Electronics SSD 980 1TB                                 | 1         | 1      | 4%      |
 | Samsung Electronics SP2504C 250GB                               | 1         | 1      | 4%      |
 | Samsung Electronics PM9A1 NVMe 2048GB                           | 1         | 1      | 4%      |
-| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 250GB | 1         | 2      | 4%      |
+| Samsung Electronics NVMe SSD Controller SM981/PM981/PM983 512GB | 1         | 2      | 4%      |
 | Samsung Electronics NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 1         | 2      | 4%      |
-| Realtek Semiconductor RTS5763DL NVMe SSD Controller 512GB       | 1         | 1      | 4%      |
-| Realtek Semiconductor ADATA SX6000PNP 1024GB                    | 1         | 4      | 4%      |
+| Realtek Semiconductor RTS5763DL NVMe SSD Controller 256GB       | 1         | 1      | 4%      |
+| Realtek Semiconductor ADATA SX6000PNP 1TB                       | 1         | 4      | 4%      |
 | OCZ VERTEX4 256GB SSD                                           | 1         | 1      | 4%      |
 | Kingston Technology Company KC2000 NVMe SSD 1TB                 | 1         | 1      | 4%      |
 | IBM/Hitachi IC25N040ATMR04-0 40GB                               | 1         | 1      | 4%      |
@@ -1650,11 +1650,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 115       | 46.18%  |
-| NVMe | 109       | 43.78%  |
-| RAID | 12        | 4.82%   |
-| IDE  | 11        | 4.42%   |
-| SAS  | 2         | 0.8%    |
+| SATA | 113       | 45.56%  |
+| NVMe | 109       | 43.95%  |
+| RAID | 12        | 4.84%   |
+| IDE  | 12        | 4.84%   |
+| SAS  | 2         | 0.81%   |
 
 Processor
 ---------
@@ -2113,13 +2113,13 @@ Monitor models
 | Hewlett-Packard 22es HWP331B 1920x1080 476x268mm 21.5-inch             | 2         | 1.1%    |
 | Goldstar ULTRAWIDE GSM59F2 2560x1080 677x290mm 29.0-inch               | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO80ED 1920x1080 344x193mm 15.5-inch         | 2         | 1.1%    |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch         | 2         | 1.1%    |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch         | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO243D 1920x1080 309x173mm 13.9-inch         | 2         | 1.1%    |
 | AU Optronics LCD Monitor AUO109D 1920x1080 381x214mm 17.2-inch         | 2         | 1.1%    |
 | ASUSTek Computer VG278 AUS27AF 1920x1080 598x336mm 27.0-inch           | 2         | 1.1%    |
 | ZIS ZWS 28" 240HZ ZIS4ED5 1920x1080 619x348mm 28.0-inch                | 1         | 0.55%   |
+| Viotek GNV34DBE VTK3400 3440x1440 797x334mm 34.0-inch                  | 1         | 0.55%   |
 | Viotek GNV27DB VTK2700 2560x1440 597x336mm 27.0-inch                   | 1         | 0.55%   |
-| Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                    | 1         | 0.55%   |
 | ViewSonic VX2450 SERIES VSCE226 1920x1080 525x297mm 23.7-inch          | 1         | 0.55%   |
 | ViewSonic VX2370 SERIES VSC342C 1920x1080 509x286mm 23.0-inch          | 1         | 0.55%   |
 | ViewSonic VG2039 SERIES VSC362D 1600x900 432x240mm 19.5-inch           | 1         | 0.55%   |
@@ -2138,12 +2138,12 @@ Monitor models
 | Samsung Electronics LCD Monitor SyncMaster                             | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor SDC4163 3456x2160 288x180mm 13.4-inch  | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor SDC4159 1920x1080 344x194mm 15.5-inch  | 1         | 0.55%   |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch  | 1         | 0.55%   |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch  | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor SAM07D0 1360x768 700x390mm 31.5-inch   | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor LC34G55T 3440x2880                     | 1         | 0.55%   |
 | Samsung Electronics LCD Monitor LC34G55T                               | 1         | 0.55%   |
 | Samsung Electronics LC49G95T SAM7053 3840x1080 1193x336mm 48.8-inch    | 1         | 0.55%   |
-| Samsung Electronics LC24RG50 SAM0F90 1920x1080 532x304mm 24.1-inch     | 1         | 0.55%   |
+| Samsung Electronics LC24RG50 SAM0F90 1920x1080 530x300mm 24.0-inch     | 1         | 0.55%   |
 | Samsung Electronics C32JG5x SAM0F73 1920x1080 698x393mm 31.5-inch      | 1         | 0.55%   |
 
 Monitor Resolution
@@ -2659,12 +2659,11 @@ Controller models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                                               | 18        | 16.51%  |
 | Intel Bluetooth wireless interface                                   | 16        | 14.68%  |
 | Intel AX200 Bluetooth                                                | 14        | 12.84%  |
-| Intel AX201 Bluetooth                                                | 12        | 11.01%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 11        | 10.09%  |
-| Realtek Bluetooth Radio                                              | 6         | 5.5%    |
-| Intel Bluetooth Device                                               | 6         | 5.5%    |
+| Realtek Bluetooth Radio                                              | 7         | 6.42%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                             | 4         | 3.67%   |
 | Intel AX210 Bluetooth                                                | 4         | 3.67%   |
 | Intel Centrino Bluetooth Wireless Transceiver                        | 3         | 2.75%   |
@@ -2672,12 +2671,12 @@ Controller models
 | IMC Networks Bluetooth Radio                                         | 3         | 2.75%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                  | 3         | 2.75%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                                    | 3         | 2.75%   |
-| Apple Bluetooth Host Controller                                      | 3         | 2.75%   |
 | MediaTek Wireless_Device                                             | 2         | 1.83%   |
 | Foxconn / Hon Hai MediaTek Bluetooth Adapter                         | 2         | 1.83%   |
+| Apple Bluetooth USB Host Controller                                  | 2         | 1.83%   |
+| Apple Bluetooth Host Controller                                      | 2         | 1.83%   |
 | USI Bluetooth Device                                                 | 1         | 0.92%   |
-| Realtek 802.11ac WLAN Adapter                                        | 1         | 0.92%   |
-| Realtek 802.11ac WLAN Adapter                                        | 1         | 0.92%   |
+| Realtek Bluetooth Radio                                              | 1         | 0.92%   |
 | Lite-On Wireless_Device                                              | 1         | 0.92%   |
 | Intel Wireless-AC 3168 Bluetooth                                     | 1         | 0.92%   |
 | IMC Networks Bluetooth module                                        | 1         | 0.92%   |
@@ -2687,8 +2686,7 @@ Controller models
 | Broadcom HP Portable SoftSailing                                     | 1         | 0.92%   |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter                | 1         | 0.92%   |
 | ASUS Bluetooth Radio                                                 | 1         | 0.92%   |
-| ASUS ASUS USB-BT500                                                  | 1         | 0.92%   |
-| Apple Bluetooth USB Host Controller                                  | 1         | 0.92%   |
+| ASUS Bluetooth Device                                                | 1         | 0.92%   |
 
 Sound
 -----
@@ -2785,7 +2783,7 @@ Sound card models
 | Nvidia GP107GL High Definition Audio Controller                            | 2         | 0.67%   |
 | Nvidia GM204 High Definition Audio Controller                              | 2         | 0.67%   |
 | Logitech H390 headset with microphone                                      | 2         | 0.67%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 2         | 0.67%   |
+| JMTek USB PnP Audio Device                                                 | 2         | 0.67%   |
 
 Memory
 ------
@@ -2921,8 +2919,8 @@ Memory module size
 | Size  | Computers | Percent |
 |-------|-----------|---------|
 | 16384 | 57        | 35.4%   |
-| 8192  | 49        | 30.43%  |
-| 4096  | 27        | 16.77%  |
+| 8192  | 50        | 31.06%  |
+| 4096  | 26        | 16.15%  |
 | 32768 | 14        | 8.7%    |
 | 2048  | 10        | 6.21%   |
 | 1024  | 2         | 1.24%   |
@@ -3182,8 +3180,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 69        | 40.59%  |
-| 1     | 53        | 31.18%  |
-| 2     | 20        | 11.76%  |
+| 1     | 54        | 31.76%  |
+| 2     | 19        | 11.18%  |
 | 3     | 10        | 5.88%   |
 | 4     | 9         | 5.29%   |
 | 5     | 5         | 2.94%   |
@@ -3199,22 +3197,22 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 30        | 16.04%  |
-| Communication controller | 29        | 15.51%  |
-| Camera                   | 24        | 12.83%  |
-| Bluetooth                | 22        | 11.76%  |
-| Net/wireless             | 18        | 9.63%   |
-| Fingerprint reader       | 10        | 5.35%   |
-| Card reader              | 9         | 4.81%   |
-| Sound                    | 8         | 4.28%   |
-| Multimedia controller    | 8         | 4.28%   |
-| Unassigned class         | 7         | 3.74%   |
-| Chipcard                 | 5         | 2.67%   |
-| Storage/ide              | 3         | 1.6%    |
-| Network                  | 3         | 1.6%    |
-| Net/ethernet             | 3         | 1.6%    |
-| Modem                    | 3         | 1.6%    |
-| Tv card                  | 2         | 1.07%   |
-| Storage/nvme             | 2         | 1.07%   |
-| Storage/ata              | 1         | 0.53%   |
+| Graphics card            | 29        | 15.59%  |
+| Communication controller | 29        | 15.59%  |
+| Camera                   | 24        | 12.9%   |
+| Bluetooth                | 22        | 11.83%  |
+| Net/wireless             | 18        | 9.68%   |
+| Fingerprint reader       | 10        | 5.38%   |
+| Card reader              | 9         | 4.84%   |
+| Sound                    | 8         | 4.3%    |
+| Multimedia controller    | 8         | 4.3%    |
+| Unassigned class         | 7         | 3.76%   |
+| Chipcard                 | 5         | 2.69%   |
+| Storage/ide              | 3         | 1.61%   |
+| Network                  | 3         | 1.61%   |
+| Net/ethernet             | 3         | 1.61%   |
+| Modem                    | 3         | 1.61%   |
+| Tv card                  | 2         | 1.08%   |
+| Storage/nvme             | 2         | 1.08%   |
+| Storage/ata              | 1         | 0.54%   |
 

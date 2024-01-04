@@ -841,7 +841,7 @@ Hard drive models
 | Lexar SSD NS100 512GB                   | 1         | 2%      |
 | KIOXIA KXG60ZNV1T02 1TB                 | 1         | 2%      |
 | KIOXIA KBG5AZNT512G LA 512GB            | 1         | 2%      |
-| Kingston Company OM3PDP3 NVMe SSD 256GB | 1         | 2%      |
+| Kingston Company OM3PDP3 NVMe SSD 512GB | 1         | 2%      |
 | Kingston SNVS500G 500GB                 | 1         | 2%      |
 | Kingston SNV2S500G 500GB                | 1         | 2%      |
 | Kingston OM8PCP3512F-AB 512GB           | 1         | 2%      |
@@ -1520,10 +1520,10 @@ Monitor models
 | AU Optronics LCD Monitor AUO662D 1920x1080 293x165mm 13.2-inch        | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO5A99 1920x1200 301x188mm 14.0-inch        | 1         | 2.56%   |
 | AU Optronics LCD Monitor AUO1496 2560x1440 382x214mm 17.2-inch        | 1         | 2.56%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch         | 1         | 2.56%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch         | 1         | 2.56%   |
 | Apple iMac APPAE19 3840x2160 475x267mm 21.5-inch                      | 1         | 2.56%   |
 | Ancor Communications VG248 ACI24A4 1920x1080 531x299mm 24.0-inch      | 1         | 2.56%   |
-| Ancor Communications VE228 ACI22FA 1920x1080 477x268mm 21.5-inch      | 1         | 2.56%   |
+| Ancor Communications VE228 ACI22FA 1920x1080 480x270mm 21.7-inch      | 1         | 2.56%   |
 | Acer H193HQV ACR01B8 1366x768 410x230mm 18.5-inch                     | 1         | 2.56%   |
 | Acer G246HL ACR02FF 1920x1080 531x299mm 24.0-inch                     | 1         | 2.56%   |
 
@@ -1706,7 +1706,7 @@ Controller models
 | Intel Ethernet Connection (16) I219-V                                                         | 3         | 4.17%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                                      | 2         | 2.78%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                         | 2         | 2.78%   |
-| OPPO WAIPIO-MTP _SN:AC53F926                                                                  | 2         | 2.78%   |
+| OPPO RMX3710                                                                                  | 2         | 2.78%   |
 | Intel Wireless 8265 / 8275                                                                    | 2         | 2.78%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 2         | 2.78%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                                          | 1         | 1.39%   |
@@ -1720,7 +1720,7 @@ Controller models
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 1.39%   |
 | Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 1.39%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                                     | 1         | 1.39%   |
-| Qualcomm Fairphone 4 5G                                                                       | 1         | 1.39%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                                                | 1         | 1.39%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter                                    | 1         | 1.39%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                                    | 1         | 1.39%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 1.39%   |
@@ -1729,7 +1729,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                              | 1         | 1.39%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1         | 1.39%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                                                      | 1         | 1.39%   |
-| OPPO RMX3623                                                                                  | 1         | 1.39%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                                                  | 1         | 1.39%   |
 | NetGear A6210                                                                                 | 1         | 1.39%   |
 | Mercucys 802.11n NIC                                                                          | 1         | 1.39%   |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter                                 | 1         | 1.39%   |
@@ -1835,15 +1835,15 @@ Ethernet models
 | Intel Ethernet Connection (16) I219-V                             | 3         | 8.57%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 5.71%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 5.71%   |
-| OPPO WAIPIO-MTP _SN:AC53F926                                      | 2         | 5.71%   |
+| OPPO RMX3710                                                      | 2         | 5.71%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 5.71%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 2.86%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1         | 2.86%   |
-| Qualcomm Fairphone 4 5G                                           | 1         | 2.86%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                    | 1         | 2.86%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 2.86%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 2.86%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 2.86%   |
-| OPPO RMX3623                                                      | 1         | 2.86%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 2.86%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 2.86%   |
 | Intel Ethernet Connection I219-V                                  | 1         | 2.86%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 2.86%   |
@@ -1937,15 +1937,14 @@ Controller models
 
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                         | 5         | 23.81%  |
 | Intel Bluetooth wireless interface             | 4         | 19.05%  |
-| Intel AX201 Bluetooth                          | 4         | 19.05%  |
 | Realtek Bluetooth Radio                        | 1         | 4.76%   |
 | Ralink RT3290 Bluetooth                        | 1         | 4.76%   |
 | Qualcomm Atheros  Bluetooth Device             | 1         | 4.76%   |
 | Qualcomm Atheros AR9462 Bluetooth              | 1         | 4.76%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth     | 1         | 4.76%   |
 | Intel Centrino Bluetooth Wireless Transceiver  | 1         | 4.76%   |
-| Intel Bluetooth Device                         | 1         | 4.76%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 4.76%   |
 | Intel AX200 Bluetooth                          | 1         | 4.76%   |
 | IMC Networks Wireless_Device                   | 1         | 4.76%   |
@@ -2052,7 +2051,7 @@ Memory module models
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
 | Samsung RAM Module 1GB Row Of Chips LPDDR4 3733MT/s          | 1         | 2.78%   |
 | Samsung RAM Module 16GB SODIMM 4800MT/s                      | 1         | 2.78%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 2.78%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
 | Samsung RAM M471A5143DB0-CPB 4GB SODIMM DDR4 2133MT/s        | 1         | 2.78%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 2.78%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 2.78%   |
@@ -2062,12 +2061,12 @@ Memory module models
 | Samsung RAM K4F8E304HB-MGCJ 1GB LPDDR4 2400MT/s              | 1         | 2.78%   |
 | Ramos RAM EMB2GB481CL4-13HA 2GB DIMM 1227MT/s                | 1         | 2.78%   |
 | PNY RAM 8GBF1X08QFHH38-135-K 8GB DIMM DDR4 3600MT/s          | 1         | 2.78%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s          | 1         | 2.78%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3600MT/s           | 1         | 2.78%   |
 | Micron RAM MT40A1G16RC-062E:B 8GB SODIMM DDR4 3200MT/s       | 1         | 2.78%   |
 | Micron RAM MT40A1G16RC-062E:B 8GB Row Of Chips DDR4 3200MT/s | 1         | 2.78%   |
 | Micron RAM 4ATF51264HZ-2G6E3 4GB SODIMM DDR4 2667MT/s        | 1         | 2.78%   |
 | Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2667MT/s        | 1         | 2.78%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4096MB SODIMM DDR4 3200MT/s     | 1         | 2.78%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 3200MT/s        | 1         | 2.78%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
 | Kingston RAM 9905428-086.A00LF 4GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
 | fef5 RAM K4F8E304HB-MGCJ 1GB 2400MT/s                        | 1         | 2.78%   |
@@ -2205,8 +2204,8 @@ Camera device vendors
 | Quanta                        | 1         | 3.57%   |
 | Primax Electronics            | 1         | 3.57%   |
 | Microdia                      | 1         | 3.57%   |
-| Luxvisions Innotech Limited   | 1         | 3.57%   |
 | Apple                         | 1         | 3.57%   |
+| 8SSC21D67422V1SR28902JL       | 1         | 3.57%   |
 
 Camera Model
 ------------
@@ -2224,15 +2223,14 @@ Camera device models
 | Syntek Integrated Camera                                              | 1         | 3.57%   |
 | Sunplus TOSHIBA Web Camera - HD                                       | 1         | 3.57%   |
 | Sunplus Laptop Integrated Webcam FHD                                  | 1         | 3.57%   |
-| Sunplus FHD Camera Microphone                                         | 1         | 3.57%   |
+| Sunplus Integrated_Webcam_HD                                          | 1         | 3.57%   |
 | Sonix USB2.0 FHD UVC WebCam                                           | 1         | 3.57%   |
-| Realtek Laptop_Integrated_Webcam_HD                                   | 1         | 3.57%   |
 | Realtek Integrated Webcam_HD                                          | 1         | 3.57%   |
+| Realtek Integrated Webcam HD                                          | 1         | 3.57%   |
 | Realtek HD WebCam                                                     | 1         | 3.57%   |
 | Quanta HD User Facing                                                 | 1         | 3.57%   |
 | Primax HP HD Webcam [Fixed]                                           | 1         | 3.57%   |
 | Microdia Laptop_Integrated_Webcam_7645BB9590586C77DC683CD9114697FF.3M | 1         | 3.57%   |
-| Luxvisions Innotech Limited Integrated RGB Camera                     | 1         | 3.57%   |
 | IMC Networks VGA UVC WebCam                                           | 1         | 3.57%   |
 | IMC Networks Integrated Camera                                        | 1         | 3.57%   |
 | Chicony HP Truevision HD                                              | 1         | 3.57%   |
@@ -2242,6 +2240,7 @@ Camera device models
 | Bison Integrated Camera                                               | 1         | 3.57%   |
 | Bison HD Webcam                                                       | 1         | 3.57%   |
 | Apple FaceTime HD Camera (Built-in)                                   | 1         | 3.57%   |
+| 8SSC21D67422V1SR28902JL Integrated RGB Camera                         | 1         | 3.57%   |
 
 Security
 --------

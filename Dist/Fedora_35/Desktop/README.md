@@ -1608,8 +1608,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 368      | 68.4%   |
-| Yes       | 170      | 31.6%   |
+| No        | 370      | 68.77%  |
+| Yes       | 168      | 31.23%  |
 
 Has Ethernet
 ------------
@@ -1870,13 +1870,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 172      | 309    | 41.15%  |
-| WDC                 | 154      | 296    | 36.84%  |
-| Toshiba             | 40       | 51     | 9.57%   |
-| Hitachi             | 22       | 31     | 5.26%   |
-| Samsung Electronics | 12       | 16     | 2.87%   |
-| HGST                | 6        | 12     | 1.44%   |
-| Maxtor              | 5        | 5      | 1.2%    |
+| Seagate             | 172      | 309    | 40.86%  |
+| WDC                 | 154      | 296    | 36.58%  |
+| Toshiba             | 40       | 51     | 9.5%    |
+| Hitachi             | 22       | 31     | 5.23%   |
+| Samsung Electronics | 12       | 16     | 2.85%   |
+| HGST                | 6        | 12     | 1.43%   |
+| Maxtor              | 5        | 5      | 1.19%   |
+| SABRENT             | 3        | 3      | 0.71%   |
 | SSK                 | 2        | 2      | 0.48%   |
 | USB 3.0             | 1        | 2      | 0.24%   |
 | MaxDigital          | 1        | 1      | 0.24%   |
@@ -1945,9 +1946,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 343      | 581    | 36.8%   |
-| HDD     | 341      | 728    | 36.59%  |
-| NVMe    | 228      | 376    | 24.46%  |
+| SSD     | 343      | 581    | 36.72%  |
+| HDD     | 343      | 731    | 36.72%  |
+| NVMe    | 228      | 373    | 24.41%  |
 | Unknown | 15       | 23     | 1.61%   |
 | MMC     | 5        | 6      | 0.54%   |
 
@@ -1976,12 +1977,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 344      | 587    | 44.33%  |
-| 0.51-1.0   | 232      | 372    | 29.9%   |
-| 1.01-2.0   | 91       | 137    | 11.73%  |
-| 3.01-4.0   | 52       | 81     | 6.7%    |
-| 2.01-3.0   | 26       | 65     | 3.35%   |
-| 4.01-10.0  | 24       | 54     | 3.09%   |
+| 0.01-0.5   | 344      | 586    | 44.1%   |
+| 0.51-1.0   | 231      | 369    | 29.62%  |
+| 1.01-2.0   | 96       | 144    | 12.31%  |
+| 3.01-4.0   | 52       | 81     | 6.67%   |
+| 2.01-3.0   | 26       | 65     | 3.33%   |
+| 4.01-10.0  | 24       | 54     | 3.08%   |
 | 10.01-20.0 | 7        | 13     | 0.9%    |
 
 Space Total
@@ -2265,10 +2266,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 490      | 59.68%  |
-| NVMe | 228      | 27.77%  |
-| IDE  | 61       | 7.43%   |
-| RAID | 32       | 3.9%    |
+| SATA | 490      | 59.61%  |
+| NVMe | 228      | 27.74%  |
+| IDE  | 62       | 7.54%   |
+| RAID | 32       | 3.89%   |
 | SAS  | 10       | 1.22%   |
 
 Processor
@@ -2753,7 +2754,7 @@ Monitor models
 | AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                        | 3        | 0.46%   |
 | Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch  | 3        | 0.46%   |
 | Acer XF270HU ACR0549 2560x1440 597x336mm 27.0-inch                     | 3        | 0.46%   |
-| Vizio E241i-A1 VIZ1005 1920x1080 521x293mm 23.5-inch                   | 2        | 0.31%   |
+| Vizio E24-C1 VIZ1005 1920x1080 521x293mm 23.5-inch                     | 2        | 0.31%   |
 | ViewSonic XG2401 SERIES VSCBB31 1920x1080 531x299mm 24.0-inch          | 2        | 0.31%   |
 | Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 2        | 0.31%   |
 | Samsung Electronics U28D590 SAM0B80 3840x2160 607x345mm 27.5-inch      | 2        | 0.31%   |
@@ -2767,7 +2768,7 @@ Monitor models
 | Samsung Electronics LU28R55 SAM1018 3840x2160 632x360mm 28.6-inch      | 2        | 0.31%   |
 | Samsung Electronics LF24T35 SAM707D 1920x1080 528x297mm 23.9-inch      | 2        | 0.31%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 890x500mm 40.2-inch  | 2        | 0.31%   |
-| Samsung Electronics C49HG9x SAM0E5D 1920x1080 1200x340mm 49.1-inch     | 2        | 0.31%   |
+| Samsung Electronics C49HG9x SAM0E5D 3840x1080 1196x336mm 48.9-inch     | 2        | 0.31%   |
 | Samsung Electronics C27HG7x SAM0E16 2560x1440 598x336mm 27.0-inch      | 2        | 0.31%   |
 | Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch               | 2        | 0.31%   |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 2        | 0.31%   |
@@ -3127,7 +3128,7 @@ Wireless models
 | Realtek 802.11ac NIC                                           | 3        | 1.05%   |
 | Ralink RT5372 Wireless Adapter                                 | 3        | 1.05%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 3        | 1.05%   |
-| Microsoft XBOX ACC                                             | 3        | 1.05%   |
+| Microsoft Xbox Wireless Adapter for Windows                    | 3        | 1.05%   |
 | Intel Wireless 7260                                            | 3        | 1.05%   |
 | Intel Tiger Lake PCH CNVi WiFi                                 | 3        | 1.05%   |
 | Wilocity Wil6200 802.11ad Wireless Network Adapter             | 2        | 0.7%    |
@@ -3304,9 +3305,9 @@ Controller vendors
 |---------------------------------|----------|---------|
 | Intel                           | 144      | 56.03%  |
 | Cambridge Silicon Radio         | 48       | 18.68%  |
-| ASUSTek Computer                | 20       | 7.78%   |
+| ASUSTek Computer                | 19       | 7.39%   |
+| Broadcom                        | 13       | 5.06%   |
 | Realtek Semiconductor           | 12       | 4.67%   |
-| Broadcom                        | 12       | 4.67%   |
 | Qualcomm Atheros Communications | 7        | 2.72%   |
 | Apple                           | 4        | 1.56%   |
 | TP-Link                         | 3        | 1.17%   |
@@ -3333,24 +3334,21 @@ Controller models
 | Intel Bluetooth wireless interface                    | 14       | 5.45%   |
 | Realtek Bluetooth Radio                               | 10       | 3.89%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 10       | 3.89%   |
+| Intel Bluetooth Device                                | 10       | 3.89%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 10       | 3.89%   |
 | Intel AX210 Bluetooth                                 | 10       | 3.89%   |
-| Intel AX201 Bluetooth                                 | 8        | 3.11%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 8        | 3.11%   |
 | ASUS Bluetooth Radio                                  | 6        | 2.33%   |
+| ASUS Bluetooth Device                                 | 5        | 1.95%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 4        | 1.56%   |
-| TP-Link TP-Cdj+ UB5A Adapter                          | 3        | 1.17%   |
-| ASUS ASUS USB-BT500                                   | 3        | 1.17%   |
+| TP-Link UB500 Adapter                                 | 3        | 1.17%   |
 | Realtek  Bluetooth 4.2 Adapter                        | 2        | 0.78%   |
 | Qualcomm Atheros  Bluetooth Device                    | 2        | 0.78%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 2        | 0.78%   |
 | Intel Centrino Bluetooth Wireless Transceiver         | 2        | 0.78%   |
-| Intel Bluetooth Device                                | 2        | 0.78%   |
-| ASUS Bluetooth Device                                 | 2        | 0.78%   |
 | ASUS Bluetooth Adapter                                | 2        | 0.78%   |
-| ASUS BCM20702A0                                       | 2        | 0.78%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                  | 2        | 0.78%   |
-| Apple Bluetooth Host Controller                       | 2        | 0.78%   |
+| Apple Bluetooth USB Host Controller                   | 2        | 0.78%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                | 1        | 0.39%   |
 | Qualcomm Atheros Bluetooth USB Host Controller        | 1        | 0.39%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                 | 1        | 0.39%   |
@@ -3358,15 +3356,17 @@ Controller models
 | Kensington Bluetooth EDR Dongle                       | 1        | 0.39%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter      | 1        | 0.39%   |
 | IMC Networks Bluetooth Device                         | 1        | 0.39%   |
-| Edimax Bluetooth Adapter                              | 1        | 0.39%   |
+| Edimax Edimax Bluetooth Adapter                       | 1        | 0.39%   |
 | Dell Wireless 365 Bluetooth                           | 1        | 0.39%   |
 | Broadcom HP Portable Bumble Bee                       | 1        | 0.39%   |
 | Broadcom BCM920702 Bluetooth 4.0 Zero Touch Dongle    | 1        | 0.39%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter      | 1        | 0.39%   |
+| Broadcom BCM20702A0                                   | 1        | 0.39%   |
 | Broadcom BCM2045 Bluetooth                            | 1        | 0.39%   |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter | 1        | 0.39%   |
 | Belkin Components F8T012 Bluetooth Adapter            | 1        | 0.39%   |
 | ASUS Qualcomm Bluetooth 4.1                           | 1        | 0.39%   |
+| ASUS BCM20702A0                                       | 1        | 0.39%   |
 
 Sound
 -----
@@ -3533,7 +3533,7 @@ Memory module models
 | Unknown                                                  | 4        | 1.22%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 3        | 0.91%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s        | 3        | 0.91%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s      | 3        | 0.91%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s   | 3        | 0.91%   |
 | Kingston RAM KF3600C16D4/16GX 16GB DIMM DDR4 3800MT/s    | 3        | 0.91%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s      | 3        | 0.91%   |
 | Unknown RAM Module 8GB DIMM 1600MT/s                     | 2        | 0.61%   |
@@ -3551,9 +3551,9 @@ Memory module models
 | Kingston RAM KHX3600C17D4/8GX 8GB DIMM DDR4 3600MT/s     | 2        | 0.61%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s   | 2        | 0.61%   |
 | Kingston RAM KHX2133C14D4/4G 4GB DIMM DDR4 2933MT/s      | 2        | 0.61%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s      | 2        | 0.61%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s      | 2        | 0.61%   |
 | Kingston RAM CBD32D4S2S8ME-16 16GB SODIMM DDR4 3200MT/s  | 2        | 0.61%   |
-| Kingston RAM 99U5471-054.A00LF 8192MB DIMM DDR3 1600MT/s | 2        | 0.61%   |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s    | 2        | 0.61%   |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s   | 2        | 0.61%   |
 | G.Skill RAM F4-3200C16-16GIS 16GB DIMM DDR4 3600MT/s     | 2        | 0.61%   |
 | G.Skill RAM F4-3200C14-16GVK 16GB DIMM DDR4 3200MT/s     | 2        | 0.61%   |
@@ -3816,7 +3816,7 @@ Camera device models
 | Microdia Webcam Vitade AF               | 4        | 2.94%   |
 | Logitech StreamCam                      | 4        | 2.94%   |
 | Logitech C922 Pro Stream Webcam         | 4        | 2.94%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 4        | 2.94%   |
+| Apple iPhone 5/5C/5S/6/SE               | 4        | 2.94%   |
 | Logitech Webcam Pro 9000                | 3        | 2.21%   |
 | Logitech HD Webcam C615                 | 3        | 2.21%   |
 | Logitech C920 PRO HD Webcam             | 3        | 2.21%   |
@@ -3836,9 +3836,9 @@ Camera device models
 | Trust USB Camera                        | 1        | 0.74%   |
 | Trust Full HD Webcam                    | 1        | 0.74%   |
 | Tobii AB EyeChip                        | 1        | 0.74%   |
+| Sunplus USB Camera                      | 1        | 0.74%   |
 | Sunplus HD 720P webcam                  | 1        | 0.74%   |
 | Sunplus ezcap U3 capture-04             | 1        | 0.74%   |
-| Sunplus 5Mega Webcam                    | 1        | 0.74%   |
 | Sonix USB Camera                        | 1        | 0.74%   |
 | Quanta HD Camera                        | 1        | 0.74%   |
 | Nokia Mobile Phones Lumia 620/920       | 1        | 0.74%   |
@@ -3909,8 +3909,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 476      | 87.02%  |
-| 1     | 60       | 10.97%  |
+| 0     | 477      | 87.2%   |
+| 1     | 59       | 10.79%  |
 | 2     | 7        | 1.28%   |
 | 3     | 3        | 0.55%   |
 | 5     | 1        | 0.18%   |
@@ -3925,15 +3925,15 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 24       | 32%     |
-| Net/wireless             | 19       | 25.33%  |
-| Unassigned class         | 9        | 12%     |
-| Communication controller | 7        | 9.33%   |
-| Camera                   | 5        | 6.67%   |
-| Sound                    | 4        | 5.33%   |
-| Modem                    | 3        | 4%      |
-| Storage/raid             | 1        | 1.33%   |
-| Storage/ata              | 1        | 1.33%   |
-| Firewire controller      | 1        | 1.33%   |
-| Bluetooth                | 1        | 1.33%   |
+| Graphics card            | 23       | 31.08%  |
+| Net/wireless             | 19       | 25.68%  |
+| Unassigned class         | 9        | 12.16%  |
+| Communication controller | 7        | 9.46%   |
+| Camera                   | 5        | 6.76%   |
+| Sound                    | 4        | 5.41%   |
+| Modem                    | 3        | 4.05%   |
+| Storage/raid             | 1        | 1.35%   |
+| Storage/ata              | 1        | 1.35%   |
+| Firewire controller      | 1        | 1.35%   |
+| Bluetooth                | 1        | 1.35%   |
 

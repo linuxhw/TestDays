@@ -718,8 +718,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 55        | 73.33%  |
-| Yes       | 20        | 26.67%  |
+| No        | 55        | 74.32%  |
+| Yes       | 19        | 25.68%  |
 
 Has Ethernet
 ------------
@@ -926,7 +926,7 @@ Hard drive models
 | WDC PC SN530 SDBPMPZ-512G-1001 512GB      | 1         | 1%      |
 | WDC PC SN530 SDBPMPZ-256G-1001 256GB      | 1         | 1%      |
 | Unknown SD2GB                             | 1         | 1%      |
-| Unknown SD/MMC/MS PRO 128GB               | 1         | 1%      |
+| Unknown SD/MMC/MS PRO 512GB               | 1         | 1%      |
 | Unknown MMC Card  8GB                     | 1         | 1%      |
 | Unknown MMC Card  64GB                    | 1         | 1%      |
 | Toshiba MQ01ABD100 1TB                    | 1         | 1%      |
@@ -1023,9 +1023,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 25        | 31     | 58.14%  |
-| 0.51-1.0   | 15        | 18     | 34.88%  |
-| 1.01-2.0   | 3         | 3      | 6.98%   |
+| 0.01-0.5   | 25        | 30     | 56.82%  |
+| 0.51-1.0   | 16        | 19     | 36.36%  |
+| 1.01-2.0   | 3         | 3      | 6.82%   |
 
 Space Total
 -----------
@@ -1661,7 +1661,7 @@ Monitor models
 | VOR LED21300 VOR2150 1920x1080 597x336mm 27.0-inch                     | 1         | 1.15%   |
 | ViewSonic VA2718-FHD VSCD839 1920x1080 598x336mm 27.0-inch             | 1         | 1.15%   |
 | Unknown LCD TV 9000 1360x768 1600x900mm 72.3-inch                      | 1         | 1.15%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                      | 1         | 1.15%   |
+| STD HDMI TV STD00C7 1440x900 698x392mm 31.5-inch                       | 1         | 1.15%   |
 | Sharp LCD Monitor SHP1542 1920x1080 309x174mm 14.0-inch                | 1         | 1.15%   |
 | Samsung Electronics S27B350 SAM08DC 1920x1080 598x336mm 27.0-inch      | 1         | 1.15%   |
 | Samsung Electronics LF27T35 SAM707F 1920x1080 598x337mm 27.0-inch      | 1         | 1.15%   |
@@ -1676,7 +1676,7 @@ Monitor models
 | Planar PNR PL1910MW PNR1910 1440x900 410x257mm 19.1-inch               | 1         | 1.15%   |
 | PANDA LCD Monitor NCP004D 1920x1080 344x194mm 15.5-inch                | 1         | 1.15%   |
 | NEC Computers EA243WM NEC6863 1920x1200 519x324mm 24.1-inch            | 1         | 1.15%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                       | 1         | 1.15%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 1         | 1.15%   |
 | LG Philips LCD Monitor LPLBC00 1280x800 331x207mm 15.4-inch            | 1         | 1.15%   |
 | LG Display LCD Monitor LGD06A5 1920x1080 344x194mm 15.5-inch           | 1         | 1.15%   |
 | LG Display LCD Monitor LGD0637 1920x1080 344x194mm 15.5-inch           | 1         | 1.15%   |
@@ -1920,7 +1920,7 @@ Controller models
 | Intel Comet Lake PCH CNVi WiFi                                    | 2         | 1.38%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller            | 2         | 1.38%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 0.69%   |
-| vivo V2134                                                        | 1         | 0.69%   |
+| vivo iQOO Neo7 ç«éç                                 | 1         | 0.69%   |
 | TP-Link Archer T4U ver.3                                          | 1         | 0.69%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1         | 0.69%   |
 | TP-Link 802.11ac NIC                                              | 1         | 0.69%   |
@@ -2061,11 +2061,11 @@ Ethernet models
 | Realtek PCIe GbE Family Controller                                | 1         | 1.56%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.56%   |
 | Realtek Killer E2500 Gigabit Ethernet Controller                  | 1         | 1.56%   |
-| Qualcomm Redmi 9T                                                 | 1         | 1.56%   |
+| Qualcomm FP3                                                      | 1         | 1.56%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 1.56%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.56%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1         | 1.56%   |
-| OPPO RMX3623                                                      | 1         | 1.56%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 1.56%   |
 | Nvidia MCP61 Ethernet                                             | 1         | 1.56%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1         | 1.56%   |
 | Lenovo TB-X606F                                                   | 1         | 1.56%   |
@@ -2170,10 +2170,9 @@ Controller models
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                                 | 14        | 25.45%  |
+| Intel Bluetooth Device                                | 18        | 32.73%  |
 | Intel Bluetooth wireless interface                    | 7         | 12.73%  |
 | Realtek Bluetooth Radio                               | 4         | 7.27%   |
-| Intel Bluetooth Device                                | 4         | 7.27%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 3         | 5.45%   |
 | IMC Networks Wireless_Device                          | 3         | 5.45%   |
 | Realtek  Bluetooth 4.2 Adapter                        | 2         | 3.64%   |
@@ -2181,7 +2180,7 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                      | 2         | 3.64%   |
 | Intel AX200 Bluetooth                                 | 2         | 3.64%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                  | 2         | 3.64%   |
-| TP-Link TP-Cdj+ UB5A Adapter                          | 1         | 1.82%   |
+| TP-Link UB500 Adapter                                 | 1         | 1.82%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                 | 1         | 1.82%   |
 | Lite-On Wireless_Device                               | 1         | 1.82%   |
 | IMC Networks Bluetooth Radio                          | 1         | 1.82%   |
@@ -2310,7 +2309,7 @@ Memory module models
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 3         | 4.55%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s             | 3         | 4.55%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 3.03%   |
-| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s         | 2         | 3.03%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 2         | 3.03%   |
 | Unknown RAM Module 4GB DIMM 800MT/s                              | 1         | 1.52%   |
 | Unknown RAM Module 4GB DIMM 1066MT/s                             | 1         | 1.52%   |
 | Unknown RAM Module 2GB DIMM 800MT/s                              | 1         | 1.52%   |
@@ -2329,7 +2328,7 @@ Memory module models
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 1.52%   |
 | SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 1.52%   |
 | Samsung RAM Module 4GB Row Of Chips DDR4 2400MT/s                | 1         | 1.52%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.52%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 1         | 1.52%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 1         | 1.52%   |
@@ -2337,9 +2336,9 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 1.52%   |
-| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM 4800MT/s               | 1         | 1.52%   |
+| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s          | 1         | 1.52%   |
 | Samsung RAM K4A8G165WC-BCTD 4GB SODIMM DDR4 2667MT/s             | 1         | 1.52%   |
-| Samsung RAM K3LKBKB@BM-MGCP 2GB Row Of Chips LPDDR5 6400MT/s     | 1         | 1.52%   |
+| Samsung RAM K3LKBKB@BM-MGCP 8GB Row Of Chips LPDDR5 6400MT/s     | 1         | 1.52%   |
 | Ramaxel RAM RMSA3260NA78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 1.52%   |
 | PNY RAM Module 8GB SODIMM DDR3 1600MT/s                          | 1         | 1.52%   |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s             | 1         | 1.52%   |
@@ -2519,7 +2518,7 @@ Camera device models
 | Microdia Integrated_Webcam_HD                                  | 2         | 3.64%   |
 | IMC Networks USB2.0 HD UVC WebCam                              | 2         | 3.64%   |
 | Chicony HD User Facing                                         | 2         | 3.64%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                             | 2         | 3.64%   |
+| Apple iPhone 5/5C/5S/6/SE                                      | 2         | 3.64%   |
 | Apple Built-in iSight                                          | 2         | 3.64%   |
 | USB Camera CS USB Camera CS                                    | 1         | 1.82%   |
 | Suyin USB 2.0 UVC 1.3M WebCam                                  | 1         | 1.82%   |

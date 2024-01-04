@@ -826,8 +826,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 104       | 87.39%  |
-| Yes       | 15        | 12.61%  |
+| No        | 102       | 85.71%  |
+| Yes       | 17        | 14.29%  |
 
 Has Ethernet
 ------------
@@ -1035,7 +1035,7 @@ Hard drive models
 | Unknown MMC Card  16GB                 | 2         | 1.23%   |
 | Toshiba XG6 NVMe SSD Controller 512GB  | 2         | 1.23%   |
 | Toshiba KXG6AZNV256G 256GB             | 2         | 1.23%   |
-| Seagate Expansion 1TB                  | 2         | 1.23%   |
+| Seagate Expansion 2TB                  | 2         | 1.23%   |
 | Samsung SSD 860 QVO 1TB                | 2         | 1.23%   |
 | Samsung SSD 860 EVO 1TB                | 2         | 1.23%   |
 | Samsung Portable SSD T5 500GB          | 2         | 1.23%   |
@@ -1144,11 +1144,11 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 29        | 35     | 50%     |
-| 0.51-1.0   | 20        | 28     | 34.48%  |
-| 1.01-2.0   | 5         | 6      | 8.62%   |
-| 3.01-4.0   | 2         | 2      | 3.45%   |
-| 4.01-10.0  | 2         | 4      | 3.45%   |
+| 0.01-0.5   | 29        | 35     | 51.79%  |
+| 0.51-1.0   | 18        | 26     | 32.14%  |
+| 1.01-2.0   | 5         | 8      | 8.93%   |
+| 3.01-4.0   | 3         | 3      | 5.36%   |
+| 4.01-10.0  | 1         | 3      | 1.79%   |
 
 Space Total
 -----------
@@ -1731,11 +1731,11 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 344x193mm 15.5-inch      | 7         | 4.09%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch              | 5         | 2.92%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch        | 5         | 2.92%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 5         | 2.92%   |
 | LG Display LCD Monitor LGD0676 1920x1080 309x174mm 14.0-inch          | 3         | 1.75%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 3         | 1.75%   |
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                     | 3         | 1.75%   |
-| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                     | 3         | 1.75%   |
+| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                     | 3         | 1.75%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 3         | 1.75%   |
 | BOE LCD Monitor BOE086E 1920x1080 344x194mm 15.5-inch                 | 3         | 1.75%   |
 | BOE LCD Monitor BOE07C9 1920x1080 309x173mm 13.9-inch                 | 3         | 1.75%   |
@@ -1746,12 +1746,12 @@ Monitor models
 | LG Display LCD Monitor LGD0306 1600x900 310x174mm 14.0-inch           | 2         | 1.17%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch              | 2         | 1.17%   |
 | Hewlett-Packard 27yh HPN351C 1920x1080 598x336mm 27.0-inch            | 2         | 1.17%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 2         | 1.17%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 2         | 1.17%   |
 | Chimei Innolux LCD Monitor CMN14F5 1920x1080 309x173mm 13.9-inch      | 2         | 1.17%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch       | 2         | 1.17%   |
 | AU Optronics LCD Monitor AUO562D 1920x1080 293x165mm 13.2-inch        | 2         | 1.17%   |
 | AU Optronics LCD Monitor AUO313E 1600x900 309x174mm 14.0-inch         | 2         | 1.17%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 2         | 1.17%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.17%   |
 | Sun LCD Monitor SUN059A 1920x1080 518x324mm 24.1-inch                 | 1         | 0.58%   |
 | Sharp LCD Monitor SHP14D1 1920x1200 336x210mm 15.6-inch               | 1         | 0.58%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 0.58%   |
@@ -2233,7 +2233,7 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                                                               | 30        | 31.25%  |
+| Intel Bluetooth Device                                                              | 31        | 32.29%  |
 | Intel Bluetooth wireless interface                                                  | 20        | 20.83%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 16        | 16.67%  |
 | Intel AX200 Bluetooth                                                               | 5         | 5.21%   |
@@ -2248,7 +2248,6 @@ Controller models
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 1         | 1.04%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 1.04%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter                                    | 1         | 1.04%   |
-| Intel Bluetooth Device                                                              | 1         | 1.04%   |
 | Foxconn / Hon Hai MediaTek Bluetooth Adapter                                        | 1         | 1.04%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 1.04%   |
 | Foxconn / Hon Hai BT                                                                | 1         | 1.04%   |
@@ -2376,8 +2375,7 @@ Memory module models
 
 | Model                                                           | Notebooks | Percent |
 |-----------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 4%      |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 2         | 4%      |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 4         | 8%      |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 2         | 4%      |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s          | 2         | 4%      |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s          | 2         | 4%      |
@@ -2388,19 +2386,19 @@ Memory module models
 | Unknown (0x0B5E) RAM HEMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s | 1         | 2%      |
 | Smart RAM SF4642G8CK8IEHLSBG 16GB SODIMM DDR4 2667MT/s          | 1         | 2%      |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 1         | 2%      |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 2%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s       | 1         | 2%      |
 | SK hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 2%      |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s          | 1         | 2%      |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s          | 1         | 2%      |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s       | 1         | 2%      |
 | SK hynix RAM HMA82GS7MFR8N-TF 16GB SODIMM DDR4 2133MT/s         | 1         | 2%      |
 | SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 2%      |
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s         | 1         | 2%      |
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                    | 1         | 2%      |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s           | 1         | 2%      |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s        | 1         | 2%      |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
-| Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
+| Samsung RAM M471B5173CB0-YK0 4096MB SODIMM DDR3 1600MT/s        | 1         | 2%      |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s        | 1         | 2%      |
 | Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s          | 1         | 2%      |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s           | 1         | 2%      |
@@ -2416,6 +2414,7 @@ Memory module models
 | Innodisk RAM M4S0-BGS2OCEM 32GB SODIMM DDR4 3200MT/s            | 1         | 2%      |
 | GOODRAM RAM GR3200S464L22/16G 16GB SODIMM DDR4 3200MT/s         | 1         | 2%      |
 | Elpida RAM EBJ40UG8BBU0-GN-F 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
+| Crucial RAM CT16G4SFRA32A.M8FF 16GB SODIMM DDR4 3200MT/s        | 1         | 2%      |
 
 Memory Kind
 -----------
@@ -2569,9 +2568,9 @@ Camera device models
 | Bison Integrated Camera                           | 8         | 6.3%    |
 | Realtek Integrated_Webcam_HD                      | 7         | 5.51%   |
 | Bison SunplusIT Integrated Camera                 | 5         | 3.94%   |
+| Sunplus Integrated_Webcam_HD                      | 4         | 3.15%   |
 | Logitech HD Pro Webcam C920                       | 4         | 3.15%   |
 | Chicony Integrated Camera (1280x720@30)           | 4         | 3.15%   |
-| Sunplus Integrated_Webcam_HD                      | 3         | 2.36%   |
 | Lite-On Integrated Camera                         | 3         | 2.36%   |
 | Chicony ThinkPad T490 Webcam                      | 3         | 2.36%   |
 | Chicony HP HD Camera                              | 3         | 2.36%   |
@@ -2588,7 +2587,6 @@ Camera device models
 | Sunplus Laptop_Integrated_Webcam_FHD              | 1         | 0.79%   |
 | Sunplus Integrated Webcam                         | 1         | 0.79%   |
 | Sunplus HP HD Webcam [Fixed]                      | 1         | 0.79%   |
-| Sunplus FHD Camera Microphone                     | 1         | 0.79%   |
 | Ruision UVC Camera                                | 1         | 0.79%   |
 | Remo Tech OBSBOT Tiny 4K                          | 1         | 0.79%   |
 | Realtek USB2.0 VGA UVC WebCam                     | 1         | 0.79%   |
@@ -2601,9 +2599,10 @@ Camera device models
 | Microdia Laptop_Integrated_Webcam_E4HD            | 1         | 0.79%   |
 | Microdia Integrated_Webcam_HD                     | 1         | 0.79%   |
 | Luxvisions Innotech Limited Integrated RGB Camera | 1         | 0.79%   |
+| Logitech Webcam C925e                             | 1         | 0.79%   |
 | Logitech Webcam C310                              | 1         | 0.79%   |
-| Logitech Logitech Webcam C925e                    | 1         | 0.79%   |
 | Logitech B525 HD Webcam                           | 1         | 0.79%   |
+| Lite-On HP HD Camera                              | 1         | 0.79%   |
 
 Security
 --------

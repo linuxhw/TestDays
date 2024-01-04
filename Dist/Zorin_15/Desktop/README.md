@@ -1602,8 +1602,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 343      | 61.36%  |
-| No        | 216      | 38.64%  |
+| Yes       | 347      | 62.08%  |
+| No        | 212      | 37.92%  |
 
 Has Ethernet
 ------------
@@ -1864,22 +1864,23 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 188      | 267    | 34.88%  |
-| WDC                 | 177      | 235    | 32.84%  |
-| Samsung Electronics | 50       | 70     | 9.28%   |
-| Hitachi             | 50       | 58     | 9.28%   |
-| Toshiba             | 31       | 47     | 5.75%   |
-| Maxtor              | 28       | 41     | 5.19%   |
-| Unknown             | 3        | 4      | 0.56%   |
-| HGST                | 3        | 3      | 0.56%   |
+| Seagate             | 188      | 267    | 34.75%  |
+| WDC                 | 177      | 235    | 32.72%  |
+| Samsung Electronics | 50       | 70     | 9.24%   |
+| Hitachi             | 50       | 58     | 9.24%   |
+| Toshiba             | 31       | 47     | 5.73%   |
+| Maxtor              | 28       | 41     | 5.18%   |
+| Unknown             | 3        | 4      | 0.55%   |
+| HGST                | 3        | 3      | 0.55%   |
 | XrayDisk            | 2        | 2      | 0.37%   |
-| USB3.0              | 1        | 1      | 0.19%   |
-| TO Exter            | 1        | 1      | 0.19%   |
-| Fujitsu             | 1        | 1      | 0.19%   |
-| External            | 1        | 1      | 0.19%   |
-| ExcelStor           | 1        | 1      | 0.19%   |
-| ASMT109x            | 1        | 2      | 0.19%   |
-| Apple               | 1        | 1      | 0.19%   |
+| SABRENT             | 2        | 2      | 0.37%   |
+| USB3.0              | 1        | 1      | 0.18%   |
+| TO Exter            | 1        | 1      | 0.18%   |
+| Fujitsu             | 1        | 1      | 0.18%   |
+| External            | 1        | 1      | 0.18%   |
+| ExcelStor           | 1        | 1      | 0.18%   |
+| ASMT109x            | 1        | 2      | 0.18%   |
+| Apple               | 1        | 1      | 0.18%   |
 
 SSD Vendor
 ----------
@@ -1941,9 +1942,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 427      | 735    | 61.26%  |
-| SSD     | 209      | 318    | 29.99%  |
-| NVMe    | 47       | 64     | 6.74%   |
+| HDD     | 428      | 737    | 61.49%  |
+| SSD     | 209      | 318    | 30.03%  |
+| NVMe    | 45       | 62     | 6.47%   |
 | Unknown | 13       | 19     | 1.87%   |
 | MMC     | 1        | 1      | 0.14%   |
 
@@ -1972,11 +1973,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 441      | 711    | 67.02%  |
-| 0.51-1.0   | 149      | 227    | 22.64%  |
-| 1.01-2.0   | 38       | 61     | 5.78%   |
-| 3.01-4.0   | 13       | 31     | 1.98%   |
-| 4.01-10.0  | 9        | 10     | 1.37%   |
+| 0.01-0.5   | 439      | 702    | 66.31%  |
+| 0.51-1.0   | 148      | 228    | 22.36%  |
+| 1.01-2.0   | 45       | 71     | 6.8%    |
+| 3.01-4.0   | 13       | 31     | 1.96%   |
+| 4.01-10.0  | 9        | 10     | 1.36%   |
 | 2.01-3.0   | 7        | 12     | 1.06%   |
 | 10.01-20.0 | 1        | 1      | 0.15%   |
 
@@ -2197,8 +2198,8 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 310      | 44.6%   |
-| IDE  | 295      | 42.45%  |
+| SATA | 309      | 44.46%  |
+| IDE  | 296      | 42.59%  |
 | NVMe | 45       | 6.47%   |
 | RAID | 41       | 5.9%    |
 | SAS  | 2        | 0.29%   |
@@ -2672,7 +2673,7 @@ Monitor models
 | Philips PHL 242M8 PHLC253 1920x1080 527x296mm 23.8-inch               | 4        | 0.74%   |
 | Hewlett-Packard 2009 HWP2827 1600x900 442x249mm 20.0-inch             | 3        | 0.56%   |
 | Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                      | 3        | 0.56%   |
-| Vizio E221VA VIZ0070 1920x1080 476x268mm 21.5-inch                    | 2        | 0.37%   |
+| Vizio M220VA VIZ0070 1920x1080 476x268mm 21.5-inch                    | 2        | 0.37%   |
 | VIZ LCD Monitor E320VT 1920x1080                                      | 2        | 0.37%   |
 | Unknown LCD Monitor SAMSUNG 3840x2160                                 | 2        | 0.37%   |
 | Unknown LCD Monitor AAA LCDTV 1360x768                                | 2        | 0.37%   |
@@ -3182,7 +3183,7 @@ Ethernet models
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet         | 3        | 0.49%   |
 | Samsung Galaxy series, misc. (tethering mode)                     | 3        | 0.49%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 3        | 0.49%   |
-| MediaTek X55                                                      | 3        | 0.49%   |
+| MediaTek M40Air_EEA                                               | 3        | 0.49%   |
 | Intel 82567LF-2 Gigabit Network Connection                        | 3        | 0.49%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 3        | 0.49%   |
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 3        | 0.49%   |
@@ -3289,13 +3290,14 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)      | 29       | 27.88%  |
 | Intel Bluetooth wireless interface                       | 9        | 8.65%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                 | 5        | 4.81%   |
-| Intel AX201 Bluetooth                                    | 5        | 4.81%   |
+| Intel Bluetooth Device                                   | 5        | 4.81%   |
 | Intel AX200 Bluetooth                                    | 5        | 4.81%   |
-| Realtek Bluetooth Radio                                  | 4        | 3.85%   |
 | Intel Wireless-AC 3168 Bluetooth                         | 4        | 3.85%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                        | 4        | 3.85%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)           | 3        | 2.88%   |
 | IMC Networks Bluetooth Radio                             | 3        | 2.88%   |
+| Realtek RTL8821A Bluetooth                               | 2        | 1.92%   |
+| Realtek Bluetooth Radio                                  | 2        | 1.92%   |
 | Qualcomm Atheros  Bluetooth Device                       | 2        | 1.92%   |
 | Micro Star International Bluetooth Device                | 2        | 1.92%   |
 | Intel Centrino Bluetooth Wireless Transceiver            | 2        | 1.92%   |
@@ -3303,7 +3305,7 @@ Controller models
 | Broadcom BCM92045B3 ROM                                  | 2        | 1.92%   |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter    | 2        | 1.92%   |
 | ASUS Bluetooth Radio                                     | 2        | 1.92%   |
-| Apple Bluetooth Host Controller                          | 2        | 1.92%   |
+| Apple Bluetooth USB Host Controller                      | 2        | 1.92%   |
 | Qualcomm Atheros Bluetooth USB Host Controller           | 1        | 0.96%   |
 | Qualcomm Atheros Bluetooth                               | 1        | 0.96%   |
 | Qualcomm Atheros AR9462 Bluetooth                        | 1        | 0.96%   |
@@ -3320,7 +3322,7 @@ Controller models
 | Broadcom BCM2035 Bluetooth dongle                        | 1        | 0.96%   |
 | Broadcom ANYCOM Blue USB-200/250                         | 1        | 0.96%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                       | 1        | 0.96%   |
-| Apple Bluetooth USB Host Controller                      | 1        | 0.96%   |
+| Apple Bluetooth Host Controller                          | 1        | 0.96%   |
 
 Sound
 -----
@@ -3458,7 +3460,7 @@ Memory module models
 | Unknown RAM Module 1GB DIMM DDR2                       | 2        | 1.83%   |
 | Unknown RAM Module 1024MB DIMM DDR2 333MT/s            | 2        | 1.83%   |
 | Unknown RAM Module 1024MB DIMM                         | 2        | 1.83%   |
-| Kingston RAM KCM633-ELC 1GB DIMM DDR2 2048MT/s         | 2        | 1.83%   |
+| Kingston RAM KCM633-ELC 1024MB DIMM DDR2 2048MT/s      | 2        | 1.83%   |
 | Elpida RAM EBJ20UF8BCF0-DJ-F 2GB DIMM DDR3 1333MT/s    | 2        | 1.83%   |
 | Crucial RAM BLS4G3D1609DS1S00. 4GB DIMM DDR3 1600MT/s  | 2        | 1.83%   |
 | Unknown RAM Module 8GB DIMM DDR3 1333MT/s              | 1        | 0.92%   |
@@ -3725,7 +3727,7 @@ Camera device models
 |---------------------------------------------------|----------|---------|
 | Samsung Galaxy series, misc. (MTP mode)           | 4        | 6.9%    |
 | Logitech Webcam C270                              | 4        | 6.9%    |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                | 4        | 6.9%    |
+| Apple iPhone 5/5C/5S/6/SE                         | 4        | 6.9%    |
 | Microsoft LifeCam HD-3000                         | 2        | 3.45%   |
 | Logitech Webcam C250                              | 2        | 3.45%   |
 | Logitech HD Pro Webcam C920                       | 2        | 3.45%   |
@@ -3754,8 +3756,8 @@ Camera device models
 | LG AN-VC500 Camera                                | 1        | 1.72%   |
 | KYE Systems (Mouse Systems) Slim 2020AF camera    | 1        | 1.72%   |
 | Jieli USB PHY 2.0                                 | 1        | 1.72%   |
-| IMC Networks XHC Camera                           | 1        | 1.72%   |
 | IMC Networks USB 2.0 Camera                       | 1        | 1.72%   |
+| IMC Networks Integrated Camera                    | 1        | 1.72%   |
 | Genesys Logic USB2.0 UVC PC Camera                | 1        | 1.72%   |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311] | 1        | 1.72%   |
 | Cubeternet WebCam                                 | 1        | 1.72%   |
@@ -3830,8 +3832,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 421      | 74.91%  |
-| 1     | 116      | 20.64%  |
+| 0     | 422      | 75.09%  |
+| 1     | 115      | 20.46%  |
 | 2     | 20       | 3.56%   |
 | 3     | 4        | 0.71%   |
 | 4     | 1        | 0.18%   |
@@ -3846,14 +3848,14 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 78       | 48.15%  |
-| Net/wireless             | 42       | 25.93%  |
-| Communication controller | 15       | 9.26%   |
-| Multimedia controller    | 9        | 5.56%   |
-| Unassigned class         | 5        | 3.09%   |
-| Modem                    | 5        | 3.09%   |
-| Sound                    | 2        | 1.23%   |
-| Chipcard                 | 2        | 1.23%   |
+| Graphics card            | 77       | 47.83%  |
+| Net/wireless             | 42       | 26.09%  |
+| Communication controller | 15       | 9.32%   |
+| Multimedia controller    | 9        | 5.59%   |
+| Unassigned class         | 5        | 3.11%   |
+| Modem                    | 5        | 3.11%   |
+| Sound                    | 2        | 1.24%   |
+| Chipcard                 | 2        | 1.24%   |
 | Storage/raid             | 1        | 0.62%   |
 | Storage/nvme             | 1        | 0.62%   |
 | Storage                  | 1        | 0.62%   |

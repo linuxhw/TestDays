@@ -746,8 +746,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 22       | 55%     |
-| Yes       | 18       | 45%     |
+| No        | 23       | 57.5%   |
+| Yes       | 17       | 42.5%   |
 
 Has Ethernet
 ------------
@@ -940,7 +940,7 @@ Hard drive models
 | WDC WD10EURX-83UY4Y0 1TB              | 1        | 1.32%   |
 | WDC WD Blue SA510 2.5 500GB           | 1        | 1.32%   |
 | Verbatim Vi550 S3 SSD 512GB           | 1        | 1.32%   |
-| Unknown SD/MMC/MS PRO 128GB           | 1        | 1.32%   |
+| Unknown SD/MMC/MS PRO 512GB           | 1        | 1.32%   |
 | Toshiba THNSNJ256GCST 256GB SSD       | 1        | 1.32%   |
 | Toshiba MK3275GSX 320GB               | 1        | 1.32%   |
 | Toshiba MK1234GSX 120GB               | 1        | 1.32%   |
@@ -1027,12 +1027,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 27       | 42     | 47.37%  |
-| 0.51-1.0   | 18       | 31     | 31.58%  |
-| 1.01-2.0   | 6        | 10     | 10.53%  |
-| 3.01-4.0   | 3        | 7      | 5.26%   |
-| 2.01-3.0   | 2        | 2      | 3.51%   |
-| 4.01-10.0  | 1        | 1      | 1.75%   |
+| 0.01-0.5   | 26       | 41     | 46.43%  |
+| 0.51-1.0   | 18       | 32     | 32.14%  |
+| 1.01-2.0   | 6        | 10     | 10.71%  |
+| 3.01-4.0   | 3        | 7      | 5.36%   |
+| 2.01-3.0   | 2        | 2      | 3.57%   |
+| 4.01-10.0  | 1        | 1      | 1.79%   |
 
 Space Total
 -----------
@@ -1642,7 +1642,7 @@ Monitor models
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.38%   |
 | FNI LCD Monitor LCD TV 1920x1080                                      | 1        | 2.38%   |
 | Dell UP3017 DEL40FA 2560x1600 641x401mm 29.8-inch                     | 1        | 2.38%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.38%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                     | 1        | 2.38%   |
 | Dell SP1908FP DEL4030 1280x1024 376x301mm 19.0-inch                   | 1        | 2.38%   |
 | Dell S2715H DEL40BB 1920x1080 598x336mm 27.0-inch                     | 1        | 2.38%   |
 | Chi Mei Optoelectronics LCD Monitor CMC 19AW 1440x900                 | 1        | 2.38%   |
@@ -2128,7 +2128,7 @@ Sound card models
 | Intel 82801G (ICH7 Family) AC'97 Audio Controller                                               | 1        | 1.32%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.32%   |
 | Hewlett-Packard Speaker Bar                                                                     | 1        | 1.32%   |
-| C-Media Electronics TONOR TC30 Audio Device                                                     | 1        | 1.32%   |
+| C-Media Electronics TONOR TC-777 Audio Device                                                   | 1        | 1.32%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.32%   |
 | C-Media Electronics Audio Adapter                                                               | 1        | 1.32%   |
 | AMD Vega 10 HDMI Audio [Radeon Vega 56/64]                                                      | 1        | 1.32%   |
@@ -2173,7 +2173,7 @@ Memory module models
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1        | 8.33%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2048MB DIMM DDR2 2048MT/s          | 1        | 8.33%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s         | 1        | 8.33%   |
 | HP RAM 7EH65AA# 16384MB DIMM DDR4 2666MT/s                     | 1        | 8.33%   |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s           | 1        | 8.33%   |
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
@@ -2338,12 +2338,12 @@ Camera device models
 |------------------------------------------|----------|---------|
 | Z-Star WebCam SC-03FFL11739P             | 2        | 16.67%  |
 | Z-Star Integrated Camera                 | 1        | 8.33%   |
-| Novatek J1455                            | 1        | 8.33%   |
+| Novatek DEMO1                            | 1        | 8.33%   |
 | Microsoft LifeCam VX-5000                | 1        | 8.33%   |
 | Microsoft LifeCam VX-500 [1357]          | 1        | 8.33%   |
 | Logitech Webcam C270                     | 1        | 8.33%   |
 | Logitech QuickCam Communicate MP/S5500   | 1        | 8.33%   |
-| Huawei UVC Camera                        | 1        | 8.33%   |
+| Huawei HiCamera                          | 1        | 8.33%   |
 | Generalplus 808 Camera #9 (web-cam mode) | 1        | 8.33%   |
 | Cubeternet GL-UPC822 UVC WebCam          | 1        | 8.33%   |
 | ARC International Camera                 | 1        | 8.33%   |
@@ -2404,8 +2404,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 32       | 78.05%  |
-| 1     | 7        | 17.07%  |
+| 0     | 33       | 80.49%  |
+| 1     | 6        | 14.63%  |
 | 3     | 1        | 2.44%   |
 | 2     | 1        | 2.44%   |
 
@@ -2419,11 +2419,11 @@ Types of unsupported devices
 
 | Type                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Graphics card         | 3        | 27.27%  |
-| Net/wireless          | 2        | 18.18%  |
-| Multimedia controller | 2        | 18.18%  |
-| Sound                 | 1        | 9.09%   |
-| Net/ethernet          | 1        | 9.09%   |
-| Chipcard              | 1        | 9.09%   |
-| Bluetooth             | 1        | 9.09%   |
+| Net/wireless          | 2        | 20%     |
+| Multimedia controller | 2        | 20%     |
+| Graphics card         | 2        | 20%     |
+| Sound                 | 1        | 10%     |
+| Net/ethernet          | 1        | 10%     |
+| Chipcard              | 1        | 10%     |
+| Bluetooth             | 1        | 10%     |
 

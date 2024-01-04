@@ -1783,8 +1783,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 377      | 55.69%  |
-| No        | 300      | 44.31%  |
+| Yes       | 375      | 55.39%  |
+| No        | 302      | 44.61%  |
 
 Has Ethernet
 ------------
@@ -1998,7 +1998,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB      | 23       | 2.26%   |
 | Toshiba DT01ACA100 1TB              | 19       | 1.87%   |
 | Kingston SV300S37A120G 120GB SSD    | 18       | 1.77%   |
-| Unknown SD/MMC/MS PRO 128GB         | 17       | 1.67%   |
+| Unknown SD/MMC/MS PRO 512GB         | 17       | 1.67%   |
 | WDC WD10EZEX-08WN4A0 1TB            | 12       | 1.18%   |
 | Crucial CT240BX500SSD1 240GB        | 11       | 1.08%   |
 | Kingston SA400S37120G 120GB SSD     | 10       | 0.98%   |
@@ -2152,12 +2152,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 504      | 761    | 67.92%  |
-| 0.51-1.0   | 177      | 241    | 23.85%  |
-| 1.01-2.0   | 36       | 50     | 4.85%   |
-| 2.01-3.0   | 12       | 14     | 1.62%   |
-| 4.01-10.0  | 8        | 11     | 1.08%   |
-| 3.01-4.0   | 5        | 5      | 0.67%   |
+| 0.01-0.5   | 490      | 743    | 67.31%  |
+| 0.51-1.0   | 176      | 257    | 24.18%  |
+| 1.01-2.0   | 38       | 53     | 5.22%   |
+| 2.01-3.0   | 11       | 13     | 1.51%   |
+| 4.01-10.0  | 8        | 11     | 1.1%    |
+| 3.01-4.0   | 5        | 5      | 0.69%   |
 
 Space Total
 -----------
@@ -2354,10 +2354,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 442      | 53.97%  |
-| IDE  | 282      | 34.43%  |
-| NVMe | 70       | 8.55%   |
-| RAID | 22       | 2.69%   |
+| SATA | 442      | 54.1%   |
+| IDE  | 282      | 34.52%  |
+| NVMe | 70       | 8.57%   |
+| RAID | 20       | 2.45%   |
 | SCSI | 2        | 0.24%   |
 | SAS  | 1        | 0.12%   |
 
@@ -2820,48 +2820,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                      | 6        | 0.92%   |
-| Vizio VOJ320F1A VIZ0050 1920x1080 700x390mm 31.5-inch                 | 5        | 0.76%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 5        | 0.76%   |
-| Samsung Electronics U28D590 SAM0B81 3840x2160 608x345mm 27.5-inch     | 5        | 0.76%   |
-| HSI LED-TV HSI0001 1920x1080 708x398mm 32.0-inch                      | 5        | 0.76%   |
-| AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                        | 5        | 0.76%   |
-| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                        | 5        | 0.76%   |
-| Samsung Electronics U28D590 SAM0B80 3840x2160 607x345mm 27.5-inch     | 4        | 0.61%   |
-| Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch     | 4        | 0.61%   |
-| Hewlett-Packard 27wm HWP3354 1920x1080 598x336mm 27.0-inch            | 4        | 0.61%   |
-| Goldstar IPS FULLHD GSM5AB9 1920x1080 480x270mm 21.7-inch             | 4        | 0.61%   |
-| Dell SE177FP DELF001 1280x1024 338x270mm 17.0-inch                    | 4        | 0.61%   |
-| Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                     | 4        | 0.61%   |
-| AOC F19 AOC1900 1366x768 410x230mm 18.5-inch                          | 4        | 0.61%   |
-| Sony TV SNYEE01 1920x1080                                             | 3        | 0.46%   |
-| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch   | 3        | 0.46%   |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch  | 3        | 0.46%   |
-| Samsung Electronics LCD Monitor SAM0C44 3840x2160 890x500mm 40.2-inch | 3        | 0.46%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 3        | 0.46%   |
-| SAC LED MONITOR SAC309A 1920x1080 443x249mm 20.0-inch                 | 3        | 0.46%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                      | 3        | 0.46%   |
-| Hewlett-Packard TouchSmart HWP4218 1600x900 440x240mm 19.7-inch       | 3        | 0.46%   |
-| Goldstar W2252 GSM567D 1920x1080 474x296mm 22.0-inch                  | 3        | 0.46%   |
-| Dell SE2419HR DELF113 1920x1080 527x296mm 23.8-inch                   | 3        | 0.46%   |
-| Dell P170S DEL4058 1280x1024 338x270mm 17.0-inch                      | 3        | 0.46%   |
-| VOR LED21300 VOR2150 1920x1080 597x336mm 27.0-inch                    | 2        | 0.31%   |
-| Vizio M470NV VIZ0063 1920x1080 1040x585mm 47.0-inch                   | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM0598 1360x768 410x230mm 18.5-inch   | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM047D 1360x768 410x230mm 18.5-inch   | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM0321 1440x900 428x255mm 19.6-inch   | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM030C 1680x1050 474x296mm 22.0-inch  | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM0304 1680x1050 494x320mm 23.2-inch  | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM020C 1280x1024 338x270mm 17.0-inch  | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch  | 2        | 0.31%   |
-| Samsung Electronics SMS22A300B SAM078E 1920x1080 477x268mm 21.5-inch  | 2        | 0.31%   |
-| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch     | 2        | 0.31%   |
-| Samsung Electronics LCD Monitor SAM0C26 1920x1080 700x390mm 31.5-inch | 2        | 0.31%   |
-| Samsung Electronics LCD Monitor SAM07C0 1920x1080 480x270mm 21.7-inch | 2        | 0.31%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 2        | 0.31%   |
-| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                | 2        | 0.31%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Goldstar HD GSM5ACB 1366x768 410x230mm 18.5-inch                       | 6        | 0.92%   |
+| Vizio VOJ320F1A VIZ0050 1920x1080 700x390mm 31.5-inch                  | 5        | 0.76%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 5        | 0.76%   |
+| Samsung Electronics U28D590 SAM0B81 3840x2160 608x345mm 27.5-inch      | 5        | 0.76%   |
+| HSI HiTV HSI0001 1920x1080 600x340mm 27.2-inch                         | 5        | 0.76%   |
+| AOC LM522 AOCA522 1024x768 304x228mm 15.0-inch                         | 5        | 0.76%   |
+| AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                         | 5        | 0.76%   |
+| Samsung Electronics U28D590 SAM0B80 3840x2160 607x345mm 27.5-inch      | 4        | 0.61%   |
+| Samsung Electronics C32F39M SAM100B 1920x1080 698x393mm 31.5-inch      | 4        | 0.61%   |
+| Hewlett-Packard 27wm HWP3354 1920x1080 598x336mm 27.0-inch             | 4        | 0.61%   |
+| Goldstar FULL HD GSM5AB9 1920x1080 480x270mm 21.7-inch                 | 4        | 0.61%   |
+| Dell SE177FP DELF001 1280x1024 338x270mm 17.0-inch                     | 4        | 0.61%   |
+| Dell P2418D DELD0C1 2560x1440 526x296mm 23.8-inch                      | 4        | 0.61%   |
+| AOC F19 AOC1900 1366x768 410x230mm 18.5-inch                           | 4        | 0.61%   |
+| Sony TV SNYEE01 1920x1080                                              | 3        | 0.46%   |
+| Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch    | 3        | 0.46%   |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch   | 3        | 0.46%   |
+| Samsung Electronics LCD Monitor SAM0C44 3840x2160 890x500mm 40.2-inch  | 3        | 0.46%   |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch      | 3        | 0.46%   |
+| SAC LED MONITOR SAC309A 1920x1080 443x249mm 20.0-inch                  | 3        | 0.46%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                         | 3        | 0.46%   |
+| Hewlett-Packard TouchSmart HWP4218 1600x900 440x240mm 19.7-inch        | 3        | 0.46%   |
+| Goldstar W2252 GSM567D 1920x1080 474x296mm 22.0-inch                   | 3        | 0.46%   |
+| Dell SE2419HR DELF113 1920x1080 527x296mm 23.8-inch                    | 3        | 0.46%   |
+| Dell P170S DEL4058 1280x1024 338x270mm 17.0-inch                       | 3        | 0.46%   |
+| VOR LED21300 VOR2150 1920x1080 597x336mm 27.0-inch                     | 2        | 0.31%   |
+| Vizio M470NV VIZ0063 1920x1080 1040x585mm 47.0-inch                    | 2        | 0.31%   |
+| Samsung Electronics SyncMaster SAM0598 1360x768 410x230mm 18.5-inch    | 2        | 0.31%   |
+| Samsung Electronics SyncMaster SAM047D 1360x768 410x230mm 18.5-inch    | 2        | 0.31%   |
+| Samsung Electronics SyncMaster SAM0321 1440x900 428x255mm 19.6-inch    | 2        | 0.31%   |
+| Samsung Electronics SyncMaster SAM030C 1680x1050 474x296mm 22.0-inch   | 2        | 0.31%   |
+| Samsung Electronics SyncMaster SAM0304 1680x1050 494x320mm 23.2-inch   | 2        | 0.31%   |
+| Samsung Electronics SyncMaster SAM020C 1280x1024 338x270mm 17.0-inch   | 2        | 0.31%   |
+| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch   | 2        | 0.31%   |
+| Samsung Electronics SMS22A300B SAM078E 1920x1080 477x268mm 21.5-inch   | 2        | 0.31%   |
+| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch      | 2        | 0.31%   |
+| Samsung Electronics LCD Monitor SAM0C26 1920x1080 700x390mm 31.5-inch  | 2        | 0.31%   |
+| Samsung Electronics LCD Monitor SAM07C0 1920x1080 480x270mm 21.7-inch  | 2        | 0.31%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch      | 2        | 0.31%   |
+| RTK LCD Monitor RTK1D1A 1920x1080 1020x570mm 46.0-inch                 | 2        | 0.31%   |
 
 Monitor Resolution
 ------------------
@@ -3316,7 +3316,7 @@ Ethernet models
 | Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 4        | 0.56%   |
 | VIA VT6105/VT6106S [Rhine-III]                                    | 3        | 0.42%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 3        | 0.42%   |
-| Qualcomm Redmi 9T                                                 | 3        | 0.42%   |
+| Qualcomm FP3                                                      | 3        | 0.42%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 3        | 0.42%   |
 | Nvidia MCP73 Ethernet                                             | 3        | 0.42%   |
 | Intel Ethernet Connection (2) I219-LM                             | 3        | 0.42%   |
@@ -3329,7 +3329,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 2        | 0.28%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 2        | 0.28%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 2        | 0.28%   |
-| OPPO RMX3623                                                      | 2        | 0.28%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 2        | 0.28%   |
 | Nvidia MCP67 Ethernet                                             | 2        | 0.28%   |
 
 Net Controller Kind
@@ -3427,19 +3427,20 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)   | 43       | 35.54%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)        | 13       | 10.74%  |
 | Intel Bluetooth wireless interface                    | 11       | 9.09%   |
-| Intel AX201 Bluetooth                                 | 6        | 4.96%   |
+| Intel Bluetooth Device                                | 6        | 4.96%   |
 | Intel AX200 Bluetooth                                 | 5        | 4.13%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                    | 5        | 4.13%   |
 | Qualcomm Atheros AR3011 Bluetooth                     | 4        | 3.31%   |
 | Intel Wireless-AC 3168 Bluetooth                      | 4        | 3.31%   |
 | IMC Networks Bluetooth Radio                          | 4        | 3.31%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 3        | 2.48%   |
-| Realtek Bluetooth Radio                               | 2        | 1.65%   |
 | Qualcomm Atheros  Bluetooth Device                    | 2        | 1.65%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth            | 2        | 1.65%   |
 | Lite-On Bluetooth Device                              | 2        | 1.65%   |
 | Broadcom BCM2035 Bluetooth                            | 2        | 1.65%   |
 | ASUS Bluetooth Radio                                  | 2        | 1.65%   |
+| Realtek RTL8821A Bluetooth                            | 1        | 0.83%   |
+| Realtek Bluetooth Radio                               | 1        | 0.83%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                 | 1        | 0.83%   |
 | Intel AX210 Bluetooth                                 | 1        | 0.83%   |
 | Integrated System Solution KY-BT100 Bluetooth Adapter | 1        | 0.83%   |
@@ -3781,7 +3782,7 @@ Camera device models
 | Logitech Webcam C310                                  | 3        | 3.3%    |
 | Logitech HD Pro Webcam C920                           | 3        | 3.3%    |
 | Chicony HP Webcam                                     | 3        | 3.3%    |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                    | 3        | 3.3%    |
+| Apple iPhone 5/5C/5S/6/SE                             | 3        | 3.3%    |
 | Realtek HP 1.0MP High Definition Webcam               | 2        | 2.2%    |
 | Microsoft LifeCam HD-3000                             | 2        | 2.2%    |
 | Logitech Webcam Pro 9000                              | 2        | 2.2%    |
@@ -3874,8 +3875,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 585      | 87.05%  |
-| 1     | 84       | 12.5%   |
+| 0     | 586      | 87.2%   |
+| 1     | 83       | 12.35%  |
 | 2     | 3        | 0.45%   |
 
 Unsupported Device Types
@@ -3888,16 +3889,16 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Net/wireless             | 40       | 45.45%  |
-| Graphics card            | 18       | 20.45%  |
-| Communication controller | 9        | 10.23%  |
-| Storage/ide              | 5        | 5.68%   |
-| Chipcard                 | 4        | 4.55%   |
-| Unassigned class         | 3        | 3.41%   |
-| Network                  | 3        | 3.41%   |
-| Storage/raid             | 2        | 2.27%   |
-| Sound                    | 1        | 1.14%   |
-| Multimedia controller    | 1        | 1.14%   |
-| Modem                    | 1        | 1.14%   |
-| Bluetooth                | 1        | 1.14%   |
+| Net/wireless             | 40       | 45.98%  |
+| Graphics card            | 17       | 19.54%  |
+| Communication controller | 9        | 10.34%  |
+| Storage/ide              | 5        | 5.75%   |
+| Chipcard                 | 4        | 4.6%    |
+| Unassigned class         | 3        | 3.45%   |
+| Network                  | 3        | 3.45%   |
+| Storage/raid             | 2        | 2.3%    |
+| Sound                    | 1        | 1.15%   |
+| Multimedia controller    | 1        | 1.15%   |
+| Modem                    | 1        | 1.15%   |
+| Bluetooth                | 1        | 1.15%   |
 

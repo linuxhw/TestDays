@@ -759,8 +759,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 37       | 54.41%  |
-| No        | 31       | 45.59%  |
+| Yes       | 36       | 52.94%  |
+| No        | 32       | 47.06%  |
 
 Has Ethernet
 ------------
@@ -996,14 +996,15 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 25       | 40     | 37.88%  |
-| WDC                 | 22       | 36     | 33.33%  |
-| Toshiba             | 8        | 8      | 12.12%  |
-| HGST                | 4        | 5      | 6.06%   |
-| Hitachi             | 3        | 3      | 4.55%   |
-| Maxtor              | 2        | 5      | 3.03%   |
-| Unknown             | 1        | 1      | 1.52%   |
-| Samsung Electronics | 1        | 1      | 1.52%   |
+| Seagate             | 25       | 40     | 37.31%  |
+| WDC                 | 22       | 36     | 32.84%  |
+| Toshiba             | 8        | 8      | 11.94%  |
+| HGST                | 4        | 5      | 5.97%   |
+| Hitachi             | 3        | 3      | 4.48%   |
+| Maxtor              | 2        | 5      | 2.99%   |
+| Unknown             | 1        | 1      | 1.49%   |
+| Samsung Electronics | 1        | 1      | 1.49%   |
+| SABRENT             | 1        | 1      | 1.49%   |
 
 SSD Vendor
 ----------
@@ -1044,9 +1045,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 50       | 99     | 43.86%  |
+| HDD     | 51       | 100    | 44.74%  |
 | SSD     | 38       | 72     | 33.33%  |
-| NVMe    | 22       | 31     | 19.3%   |
+| NVMe    | 21       | 30     | 18.42%  |
 | Unknown | 4        | 5      | 3.51%   |
 
 Drive Connector
@@ -1073,11 +1074,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 49       | 96     | 51.58%  |
-| 0.51-1.0   | 22       | 31     | 23.16%  |
-| 1.01-2.0   | 13       | 27     | 13.68%  |
-| 3.01-4.0   | 8        | 12     | 8.42%   |
-| 4.01-10.0  | 3        | 5      | 3.16%   |
+| 0.01-0.5   | 47       | 94     | 48.96%  |
+| 0.51-1.0   | 23       | 32     | 23.96%  |
+| 1.01-2.0   | 15       | 29     | 15.63%  |
+| 3.01-4.0   | 8        | 12     | 8.33%   |
+| 4.01-10.0  | 3        | 5      | 3.13%   |
 
 Space Total
 -----------
@@ -1692,48 +1693,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics S27B550 SAM091B 1920x1080 598x336mm 27.0-inch      | 2        | 2.47%   |
-| Samsung Electronics LCD Monitor SAM0BB4 3840x2160 890x500mm 40.2-inch  | 2        | 2.47%   |
-| Samsung Electronics LCD Monitor C34H89x 3440x1440                      | 2        | 2.47%   |
-| Unknown LCD Monitor SAMSUNG 3840x2160                                  | 1        | 1.23%   |
-| Unknown LCD Monitor SAMSUNG 1920x1080                                  | 1        | 1.23%   |
-| Unknown LCD Monitor SAMSUNG                                            | 1        | 1.23%   |
-| Unknown LCD Monitor GTW KX2153                                         | 1        | 1.23%   |
-| Unknown LCD Monitor EMA E202HL                                         | 1        | 1.23%   |
-| Sceptre Tech Sceptre B34 SPT0D52 2560x1080 797x334mm 34.0-inch         | 1        | 1.23%   |
-| Samsung Electronics SyncMaster SAM05CD 1920x1080                       | 1        | 1.23%   |
-| Samsung Electronics SyncMaster SAM0587 1920x1200 518x324mm 24.1-inch   | 1        | 1.23%   |
-| Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch   | 1        | 1.23%   |
-| Samsung Electronics S34J55x SAM0F72 3440x1440 800x330mm 34.1-inch      | 1        | 1.23%   |
-| Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch      | 1        | 1.23%   |
-| Samsung Electronics S24C650 SAM09E9 1920x1080 521x293mm 23.5-inch      | 1        | 1.23%   |
-| Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch      | 1        | 1.23%   |
-| Samsung Electronics S24B300 SAM08B4 1920x1080 521x293mm 23.5-inch      | 1        | 1.23%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch  | 1        | 1.23%   |
-| Samsung Electronics LCD Monitor SAM06CA 1920x1080 1110x620mm 50.1-inch | 1        | 1.23%   |
-| Samsung Electronics LCD Monitor S24E310 3840x1080                      | 1        | 1.23%   |
-| Samsung Electronics LCD Monitor S24E310                                | 1        | 1.23%   |
-| Samsung Electronics LCD Monitor C32F391 1920x1080                      | 1        | 1.23%   |
-| Samsung Electronics C49RG9x SAM0F99 3840x1080 1193x336mm 48.8-inch     | 1        | 1.23%   |
-| Pioneer Electronic LCD Monitor PDP-42FXE10 2646x768                    | 1        | 1.23%   |
-| Pioneer Electronic LCD Monitor PDP-42FXE10 2390x768                    | 1        | 1.23%   |
-| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                | 1        | 1.23%   |
-| Philips 236VL PHLC082 1920x1080 509x286mm 23.0-inch                    | 1        | 1.23%   |
-| NEC Computers LCD2070NX NEC667B 1600x1200 410x310mm 20.2-inch          | 1        | 1.23%   |
-| NEC Computers LCD2070NX NEC667B 1600x1200 408x306mm 20.1-inch          | 1        | 1.23%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.23%   |
-| MPI WIMAXIT MPI7002 1920x1080 180x130mm 8.7-inch                       | 1        | 1.23%   |
-| Medion MD41077EA MED078B 1280x1024 330x270mm 16.8-inch                 | 1        | 1.23%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 1.23%   |
-| LG Electronics LCD Monitor LG QHD 2560x1440                            | 1        | 1.23%   |
-| LG Electronics LCD Monitor 2D HD LG TV 1366x768                        | 1        | 1.23%   |
-| Iiyama X2483/2481 IVM6128 1920x1080 527x296mm 23.8-inch                | 1        | 1.23%   |
-| Idek Iiyama LCD Monitor X2485 1920x1200                                | 1        | 1.23%   |
-| Idek Iiyama LCD Monitor PL2730H 1920x1080                              | 1        | 1.23%   |
-| Hewlett-Packard w185e HWP292E 1366x768 410x230mm 18.5-inch             | 1        | 1.23%   |
-| Hewlett-Packard LCD Monitor LP3065 2560x1600                           | 1        | 1.23%   |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| Samsung Electronics S27B550 SAM091B 1920x1080 598x336mm 27.0-inch       | 2        | 2.47%   |
+| Samsung Electronics LCD Monitor SAM0BB4 3840x2160 1872x1053mm 84.6-inch | 2        | 2.47%   |
+| Samsung Electronics LCD Monitor C34H89x 3440x1440                       | 2        | 2.47%   |
+| Unknown LCD Monitor SAMSUNG 3840x2160                                   | 1        | 1.23%   |
+| Unknown LCD Monitor SAMSUNG 1920x1080                                   | 1        | 1.23%   |
+| Unknown LCD Monitor SAMSUNG                                             | 1        | 1.23%   |
+| Unknown LCD Monitor GTW KX2153                                          | 1        | 1.23%   |
+| Unknown LCD Monitor EMA E202HL                                          | 1        | 1.23%   |
+| Sceptre Tech Sceptre B34 SPT0D52 2560x1080 797x334mm 34.0-inch          | 1        | 1.23%   |
+| Samsung Electronics SyncMaster SAM05CD 1920x1080                        | 1        | 1.23%   |
+| Samsung Electronics SyncMaster SAM0587 1920x1200 518x324mm 24.1-inch    | 1        | 1.23%   |
+| Samsung Electronics SyncMaster SAM021B 1400x1050 408x300mm 19.9-inch    | 1        | 1.23%   |
+| Samsung Electronics S34J55x SAM0F72 3440x1440 797x333mm 34.0-inch       | 1        | 1.23%   |
+| Samsung Electronics S27F350 SAM0D22 1920x1080 598x336mm 27.0-inch       | 1        | 1.23%   |
+| Samsung Electronics S24C650 SAM09E9 1920x1080 521x293mm 23.5-inch       | 1        | 1.23%   |
+| Samsung Electronics S24B300 SAM08CC 1920x1080 521x293mm 23.5-inch       | 1        | 1.23%   |
+| Samsung Electronics S24B300 SAM08B4 1920x1080 521x293mm 23.5-inch       | 1        | 1.23%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch   | 1        | 1.23%   |
+| Samsung Electronics LCD Monitor SAM06CA 1920x1080 1110x620mm 50.1-inch  | 1        | 1.23%   |
+| Samsung Electronics LCD Monitor S24E310 3840x1080                       | 1        | 1.23%   |
+| Samsung Electronics LCD Monitor S24E310                                 | 1        | 1.23%   |
+| Samsung Electronics LCD Monitor C32F391 1920x1080                       | 1        | 1.23%   |
+| Samsung Electronics C49RG9x SAM0F99 3840x1080 1193x336mm 48.8-inch      | 1        | 1.23%   |
+| Pioneer Electronic LCD Monitor PDP-42FXE10 2646x768                     | 1        | 1.23%   |
+| Pioneer Electronic LCD Monitor PDP-42FXE10 2390x768                     | 1        | 1.23%   |
+| Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 1        | 1.23%   |
+| Philips 236VL PHLC082 1920x1080 509x286mm 23.0-inch                     | 1        | 1.23%   |
+| NEC Computers LCD2070NX NEC667B 1600x1200 410x310mm 20.2-inch           | 1        | 1.23%   |
+| NEC Computers LCD2070NX NEC667B 1600x1200 408x306mm 20.1-inch           | 1        | 1.23%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                          | 1        | 1.23%   |
+| MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.23%   |
+| Medion MD41077EA MED078B 1280x1024 330x270mm 16.8-inch                  | 1        | 1.23%   |
+| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                       | 1        | 1.23%   |
+| LG Electronics LCD Monitor LG QHD 2560x1440                             | 1        | 1.23%   |
+| LG Electronics LCD Monitor 2D HD LG TV 1366x768                         | 1        | 1.23%   |
+| Iiyama X2483/2481 IVM6128 1920x1080 527x296mm 23.8-inch                 | 1        | 1.23%   |
+| Idek Iiyama LCD Monitor X2485 1920x1200                                 | 1        | 1.23%   |
+| Idek Iiyama LCD Monitor PL2730H 1920x1080                               | 1        | 1.23%   |
+| Hewlett-Packard w185e HWP292E 1366x768 410x230mm 18.5-inch              | 1        | 1.23%   |
+| Hewlett-Packard LCD Monitor LP3065 2560x1600                            | 1        | 1.23%   |
 
 Monitor Resolution
 ------------------
@@ -1972,7 +1973,7 @@ Controller models
 | NetGear WNA3100M(v1) Wireless-N 300 [Realtek RTL8192CU]           | 1        | 0.83%   |
 | NetGear WNA1100 Wireless-N 150 [Atheros AR9271]                   | 1        | 0.83%   |
 | NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]       | 1        | 0.83%   |
-| Microsoft XBOX ACC                                                | 1        | 0.83%   |
+| Microsoft Xbox Wireless Adapter for Windows                       | 1        | 0.83%   |
 | Linksys WUSB54GC v1 802.11g Adapter [Ralink RT73]                 | 1        | 0.83%   |
 
 Wireless Vendor
@@ -2030,7 +2031,7 @@ Wireless models
 | NetGear WNA3100M(v1) Wireless-N 300 [Realtek RTL8192CU]                                 | 1        | 2.22%   |
 | NetGear WNA1100 Wireless-N 150 [Atheros AR9271]                                         | 1        | 2.22%   |
 | NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]                             | 1        | 2.22%   |
-| Microsoft XBOX ACC                                                                      | 1        | 2.22%   |
+| Microsoft Xbox Wireless Adapter for Windows                                             | 1        | 2.22%   |
 | Linksys WUSB54GC v1 802.11g Adapter [Ralink RT73]                                       | 1        | 2.22%   |
 | Intel Wireless 7265                                                                     | 1        | 2.22%   |
 | Intel Wireless 3165                                                                     | 1        | 2.22%   |
@@ -2503,8 +2504,8 @@ Camera device models
 | Realtek Web Camera                       | 1        | 5.88%   |
 | OPPO CPH1725                             | 1        | 5.88%   |
 | Microsoft LifeCam HD-3000                | 1        | 5.88%   |
+| Logitech Webcam C925e                    | 1        | 5.88%   |
 | Logitech Webcam C170                     | 1        | 5.88%   |
-| Logitech Logitech Webcam C925e           | 1        | 5.88%   |
 | Logitech Logitech Webcam C160            | 1        | 5.88%   |
 | Logitech HD Pro Webcam C920              | 1        | 5.88%   |
 | LG Optimus (Various Models) MTP Mode     | 1        | 5.88%   |

@@ -733,8 +733,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 23        | 54.76%  |
-| No        | 19        | 45.24%  |
+| Yes       | 22        | 52.38%  |
+| No        | 20        | 47.62%  |
 
 Has Ethernet
 ------------
@@ -1596,7 +1596,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0216 1280x1024 338x270mm 17.0-inch     | 1         | 2.5%    |
 | Samsung Electronics SMC27A550U SAM07F6 1920x1080 598x336mm 27.0-inch     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SEC374E 1366x768 344x193mm 15.5-inch     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch    | 1         | 2.5%    |
@@ -1811,7 +1811,7 @@ Controller models
 | Realtek Killer E2600 Gigabit Ethernet Controller                    | 1         | 1.22%   |
 | Ralink RT2870/RT3070 Wireless Adapter                               | 1         | 1.22%   |
 | Ralink MT7601U Wireless Adapter                                     | 1         | 1.22%   |
-| Qualcomm Fairphone 4 5G                                             | 1         | 1.22%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                      | 1         | 1.22%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter          | 1         | 1.22%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter          | 1         | 1.22%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                              | 1         | 1.22%   |
@@ -1923,7 +1923,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 2         | 5%      |
 | Nvidia MCP61 Ethernet                                             | 2         | 5%      |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 2.5%    |
-| Qualcomm Fairphone 4 5G                                           | 1         | 2.5%    |
+| Qualcomm CAPE-MTP _SN:14677F87                                    | 1         | 2.5%    |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 2.5%    |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 2.5%    |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 2.5%    |
@@ -2023,7 +2023,7 @@ Controller models
 
 | Model                                              | Computers | Percent |
 |----------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                              | 4         | 20%     |
+| Intel Bluetooth Device                             | 4         | 20%     |
 | Realtek Bluetooth Radio                            | 2         | 10%     |
 | Qualcomm Atheros  Bluetooth Device                 | 2         | 10%     |
 | Intel Bluetooth wireless interface                 | 2         | 10%     |
@@ -2149,10 +2149,10 @@ Memory module models
 | Samsung RAM Module 4096MB DIMM DDR4 2400MT/s                              | 1         | 2.86%   |
 | Samsung RAM Module 4096MB DIMM DDR3 1066MT/s                              | 1         | 2.86%   |
 | Samsung RAM Module 2GB Row Of Chips DDR3 1600MT/s                         | 1         | 2.86%   |
-| Samsung RAM M471B5773CHS-CK0 2048MB SODIMM DDR3 1600MT/s                  | 1         | 2.86%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 1         | 2.86%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s                       | 1         | 2.86%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s                   | 1         | 2.86%   |
+| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s                  | 1         | 2.86%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR2 2133MT/s                    | 1         | 2.86%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s                | 1         | 2.86%   |
 | Qimonda RAM 64T512022EDL2.5A 4096MB SODIMM DDR 800MT/s                    | 1         | 2.86%   |
 | PNY RAM Module 4096MB DIMM DDR3 1066MT/s                                  | 1         | 2.86%   |
 | Micron RAM MT52L512M32D2PF-10 4GB Row Of Chips LPDDR3 1867MT/s            | 1         | 2.86%   |
@@ -2320,7 +2320,7 @@ Camera device models
 | Sunplus ZET USB WEBCAM                                       | 1         | 4%      |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 4%      |
 | Sunplus HD WebCam                                            | 1         | 4%      |
-| Sunplus Asus Webcam                                          | 1         | 4%      |
+| Sunplus ASUS USB2.0 Webcam                                   | 1         | 4%      |
 | Realtek Lenovo EasyCamera                                    | 1         | 4%      |
 | Quanta HD User Facing                                        | 1         | 4%      |
 | Microdia Integrated_Webcam_HD                                | 1         | 4%      |

@@ -1091,7 +1091,7 @@ Hard drive models
 |-----------------------------------------------------|-----------|---------|
 | Samsung SSD 860 EVO 500GB                           | 5         | 1.98%   |
 | Samsung SSD 840 EVO 120GB                           | 5         | 1.98%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 5         | 1.98%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 5         | 1.98%   |
 | Kingston SA400S37480G 480GB SSD                     | 4         | 1.58%   |
 | Kingston SA400S37240G 240GB SSD                     | 4         | 1.58%   |
 | Seagate ST2000DM001-1ER164 2TB                      | 3         | 1.19%   |
@@ -1108,16 +1108,16 @@ Hard drive models
 | Seagate ST1000VX000-1CU162 1TB                      | 2         | 0.79%   |
 | Seagate ST1000LM035-1RK172 1TB                      | 2         | 0.79%   |
 | Seagate ST1000DM003-1CH162 1TB                      | 2         | 0.79%   |
-| Seagate Expansion 1TB                               | 2         | 0.79%   |
+| Seagate Expansion 2TB                               | 2         | 0.79%   |
 | Sandisk WD Black SN850 1024GB                       | 2         | 0.79%   |
 | SanDisk NVMe SSD Drive 240GB                        | 2         | 0.79%   |
 | Samsung SSD 870 QVO 2TB                             | 2         | 0.79%   |
 | Samsung SSD 860 EVO 250GB                           | 2         | 0.79%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 256GB | 2         | 0.79%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 250GB | 2         | 0.79%   |
 | PNY CS900 480GB SSD                                 | 2         | 0.79%   |
-| Kingston Company A2000 NVMe SSD 250GB               | 2         | 0.79%   |
+| Kingston Company A2000 NVMe SSD 1TB                 | 2         | 0.79%   |
 | Kingston SA400S37960G 960GB SSD                     | 2         | 0.79%   |
-| Intel SSD 600P Series 256GB                         | 2         | 0.79%   |
+| Intel SSD 600P Series 128GB                         | 2         | 0.79%   |
 | Unknown                                             | 2         | 0.79%   |
 | WDC WDS500G1B0B-00AS40 500GB SSD                    | 1         | 0.4%    |
 | WDC WDS250G1B0A-00H9H0 250GB SSD                    | 1         | 0.4%    |
@@ -1161,29 +1161,29 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 24        | 28     | 30.77%  |
-| Kingston            | 12        | 15     | 15.38%  |
-| Crucial             | 10        | 11     | 12.82%  |
-| WDC                 | 5         | 5      | 6.41%   |
-| Intenso             | 3         | 4      | 3.85%   |
-| Toshiba             | 2         | 2      | 2.56%   |
-| PNY                 | 2         | 3      | 2.56%   |
-| Patriot             | 2         | 2      | 2.56%   |
-| Intel               | 2         | 3      | 2.56%   |
-| A-DATA Technology   | 2         | 2      | 2.56%   |
-| Unknown             | 2         | 2      | 2.56%   |
-| VISIPRO             | 1         | 1      | 1.28%   |
-| Team                | 1         | 1      | 1.28%   |
-| SPCC                | 1         | 2      | 1.28%   |
-| Smartbuy            | 1         | 2      | 1.28%   |
-| SK hynix            | 1         | 1      | 1.28%   |
-| SanDisk             | 1         | 3      | 1.28%   |
-| Plextor             | 1         | 3      | 1.28%   |
-| Micron Technology   | 1         | 1      | 1.28%   |
-| Leven               | 1         | 1      | 1.28%   |
-| Hewlett-Packard     | 1         | 3      | 1.28%   |
-| Gigabyte Technology | 1         | 1      | 1.28%   |
-| China               | 1         | 1      | 1.28%   |
+| Samsung Electronics | 25        | 29     | 31.65%  |
+| Kingston            | 12        | 15     | 15.19%  |
+| Crucial             | 10        | 11     | 12.66%  |
+| WDC                 | 5         | 5      | 6.33%   |
+| Intenso             | 3         | 4      | 3.8%    |
+| Toshiba             | 2         | 2      | 2.53%   |
+| PNY                 | 2         | 3      | 2.53%   |
+| Patriot             | 2         | 2      | 2.53%   |
+| Intel               | 2         | 3      | 2.53%   |
+| A-DATA Technology   | 2         | 2      | 2.53%   |
+| Unknown             | 2         | 2      | 2.53%   |
+| VISIPRO             | 1         | 1      | 1.27%   |
+| Team                | 1         | 1      | 1.27%   |
+| SPCC                | 1         | 2      | 1.27%   |
+| Smartbuy            | 1         | 2      | 1.27%   |
+| SK hynix            | 1         | 1      | 1.27%   |
+| SanDisk             | 1         | 3      | 1.27%   |
+| Plextor             | 1         | 3      | 1.27%   |
+| Micron Technology   | 1         | 1      | 1.27%   |
+| Leven               | 1         | 1      | 1.27%   |
+| Hewlett-Packard     | 1         | 3      | 1.27%   |
+| Gigabyte Technology | 1         | 1      | 1.27%   |
+| China               | 1         | 1      | 1.27%   |
 
 Drive Kind
 ----------
@@ -1195,11 +1195,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 74        | 133    | 37%     |
-| SSD     | 66        | 97     | 33%     |
-| NVMe    | 53        | 77     | 26.5%   |
-| MMC     | 4         | 5      | 2%      |
-| Unknown | 3         | 3      | 1.5%    |
+| HDD     | 74        | 133    | 36.82%  |
+| SSD     | 67        | 98     | 33.33%  |
+| NVMe    | 53        | 76     | 26.37%  |
+| MMC     | 4         | 5      | 1.99%   |
+| Unknown | 3         | 3      | 1.49%   |
 
 Drive Connector
 ---------------
@@ -1226,13 +1226,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 75        | 111    | 50.34%  |
-| 0.51-1.0   | 41        | 67     | 27.52%  |
-| 1.01-2.0   | 18        | 28     | 12.08%  |
-| 2.01-3.0   | 6         | 8      | 4.03%   |
-| 3.01-4.0   | 5         | 9      | 3.36%   |
-| 4.01-10.0  | 3         | 6      | 2.01%   |
-| 10.01-20.0 | 1         | 1      | 0.67%   |
+| 0.01-0.5   | 76        | 112    | 50.33%  |
+| 0.51-1.0   | 40        | 65     | 26.49%  |
+| 1.01-2.0   | 20        | 30     | 13.25%  |
+| 2.01-3.0   | 6         | 8      | 3.97%   |
+| 3.01-4.0   | 5         | 9      | 3.31%   |
+| 4.01-10.0  | 3         | 6      | 1.99%   |
+| 10.01-20.0 | 1         | 1      | 0.66%   |
 
 Space Total
 -----------
@@ -1295,7 +1295,7 @@ Drive models with a malfunction
 | Maxtor 6L250S0 256GB                      | 1         | 1      | 5.56%   |
 | Kingston SV300S37A120G 120GB SSD          | 1         | 1      | 5.56%   |
 | Kingston SUV300S37A240G 240GB SSD         | 1         | 2      | 5.56%   |
-| Intel SSD 600P Series 256GB               | 1         | 1      | 5.56%   |
+| Intel SSD 600P Series 128GB               | 1         | 1      | 5.56%   |
 | Hitachi HTS725025A9A364 250GB             | 1         | 2      | 5.56%   |
 | Crucial CT250BX100SSD1 250GB              | 1         | 1      | 5.56%   |
 | Biwin Storage Technology HP SSD EX900 1TB | 1         | 1      | 5.56%   |
@@ -1938,7 +1938,7 @@ Monitor models
 | Samsung Electronics S24E650 SAM0C85 1920x1200 518x324mm 24.1-inch     | 1         | 0.64%   |
 | Samsung Electronics S23B350 SAM08F4 1920x1080 510x287mm 23.0-inch     | 1         | 0.64%   |
 | Samsung Electronics S22A33x SAM7122 1920x1080 479x260mm 21.5-inch     | 1         | 0.64%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.64%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.64%   |
 | Samsung Electronics LCD Monitor SEC3152 1366x768 344x194mm 15.5-inch  | 1         | 0.64%   |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 0.64%   |
 | Samsung Electronics LCD Monitor SDC3754 1600x900 382x215mm 17.3-inch  | 1         | 0.64%   |
@@ -2267,7 +2267,7 @@ Wireless models
 | Intel Centrino Ultimate-N 6300                                | 2         | 2.06%   |
 | Intel Cannon Lake PCH CNVi WiFi                               | 2         | 2.06%   |
 | Broadcom BCM43142 802.11b/g/n                                 | 2         | 2.06%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                           | 1         | 1.03%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                         | 1         | 1.03%   |
 | Sierra Wireless EM7455                                        | 1         | 1.03%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter              | 1         | 1.03%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                            | 1         | 1.03%   |
@@ -2454,21 +2454,20 @@ Controller models
 
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
+| Intel Bluetooth Device                                      | 10        | 12.35%  |
 | Intel Bluetooth wireless interface                          | 9         | 11.11%  |
+| Realtek Bluetooth Radio                                     | 7         | 8.64%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)              | 7         | 8.64%   |
-| Intel AX201 Bluetooth                                       | 7         | 8.64%   |
 | Intel AX200 Bluetooth                                       | 7         | 8.64%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 7         | 8.64%   |
-| Realtek Bluetooth Radio                                     | 6         | 7.41%   |
 | Intel AX210 Bluetooth                                       | 4         | 4.94%   |
-| Intel Bluetooth Device                                      | 3         | 3.7%    |
-| Realtek 802.11ac WLAN Adapter                               | 2         | 2.47%   |
 | Qualcomm Atheros  Bluetooth Device                          | 2         | 2.47%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                    | 2         | 2.47%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 2.47%   |
 | IMC Networks Wireless_Device                                | 2         | 2.47%   |
 | IMC Networks Bluetooth Device                               | 2         | 2.47%   |
 | Broadcom BCM2045B (BDC-2.1)                                 | 2         | 2.47%   |
+| Realtek RTL8821A Bluetooth                                  | 1         | 1.23%   |
 | Realtek  Bluetooth 4.2 Adapter                              | 1         | 1.23%   |
 | Ralink RT3290 Bluetooth                                     | 1         | 1.23%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                      | 1         | 1.23%   |
@@ -2636,7 +2635,7 @@ Memory module models
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s             | 1         | 1.04%   |
 | SK hynix RAM HMT451R7AFR8C-RD 4GB DIMM DDR3 1866MT/s             | 1         | 1.04%   |
 | SK hynix RAM HMT41GU6BFR8C-PB 8GB DIMM DDR3 1600MT/s             | 1         | 1.04%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 1.04%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s        | 1         | 1.04%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 1         | 1.04%   |
 | SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 1         | 1.04%   |
 | SK hynix RAM HMA82GU6AFR8N-UH 16GB DIMM DDR4 2400MT/s            | 1         | 1.04%   |
@@ -2649,7 +2648,7 @@ Memory module models
 | Samsung RAM Module 32GB SODIMM DDR5 4800MT/s                     | 1         | 1.04%   |
 | Samsung RAM Module 32GB DIMM DDR4 2400MT/s                       | 1         | 1.04%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.04%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.04%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 1         | 1.04%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.04%   |
 
 Memory Kind
@@ -2810,18 +2809,18 @@ Camera device vendors
 | Sunplus Innovation Technology          | 7         | 8.33%   |
 | Microdia                               | 7         | 8.33%   |
 | Logitech                               | 7         | 8.33%   |
-| Bison Electronics                      | 5         | 5.95%   |
 | Syntek                                 | 4         | 4.76%   |
 | Quanta                                 | 4         | 4.76%   |
 | Luxvisions Innotech Limited            | 4         | 4.76%   |
+| Bison Electronics                      | 4         | 4.76%   |
 | Alcor Micro                            | 4         | 4.76%   |
 | Lite-On Technology                     | 3         | 3.57%   |
 | IMC Networks                           | 3         | 3.57%   |
+| Acer                                   | 3         | 3.57%   |
 | Realtek Semiconductor                  | 2         | 2.38%   |
-| HDR webcam                             | 2         | 2.38%   |
 | Generalplus Technology                 | 2         | 2.38%   |
+| Creality 3D Technology                 | 2         | 2.38%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 2.38%   |
-| Acer                                   | 2         | 2.38%   |
 | vivo                                   | 1         | 1.19%   |
 | Suyin                                  | 1         | 1.19%   |
 | Microsoft                              | 1         | 1.19%   |
@@ -2849,9 +2848,8 @@ Camera device models
 | Sunplus HD WebCam                                    | 2         | 2.38%   |
 | Quanta HP True Vision HD Camera                      | 2         | 2.38%   |
 | Logitech HD Webcam C615                              | 2         | 2.38%   |
-| HDR webcam HDR webcam                                | 2         | 2.38%   |
+| Creality 3D CREALITY CAM                             | 2         | 2.38%   |
 | Chicony FJ Camera                                    | 2         | 2.38%   |
-| Bison Integrated Camera                              | 2         | 2.38%   |
 | vivo V2036                                           | 1         | 1.19%   |
 | Syntek Web Cam - Asus F3SA, F9J, F9S                 | 1         | 1.19%   |
 | Syntek EasyCamera                                    | 1         | 1.19%   |
@@ -2859,7 +2857,7 @@ Camera device models
 | Sunplus Laptop Integrated Webcam HD                  | 1         | 1.19%   |
 | Sunplus HD 720P webcam                               | 1         | 1.19%   |
 | Sunplus Dell E5570 integrated webcam                 | 1         | 1.19%   |
-| Realtek USB Camera                                   | 1         | 1.19%   |
+| Realtek USB camera                                   | 1         | 1.19%   |
 | Realtek Integrated_Webcam_HD                         | 1         | 1.19%   |
 | Quanta HP HD Camera                                  | 1         | 1.19%   |
 | Quanta HD User Facing                                | 1         | 1.19%   |
@@ -2881,6 +2879,7 @@ Camera device models
 | Lite-On Integrated Camera                            | 1         | 1.19%   |
 | Lite-On HP HD Webcam                                 | 1         | 1.19%   |
 | Lenovo Integrated Webcam [R5U877]                    | 1         | 1.19%   |
+| kingcome 480p VGA Camera                             | 1         | 1.19%   |
 
 Security
 --------

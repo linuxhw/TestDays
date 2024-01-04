@@ -784,7 +784,7 @@ Hard drive models
 | WDC WD10JPVX-75JC3T0 1TB                  | 1         | 2.7%    |
 | Toshiba MQ01ABF050 500GB                  | 1         | 2.7%    |
 | Toshiba KXG6AZNV1T02 1TB                  | 1         | 2.7%    |
-| TO Exter nal USB 3.0 1TB                  | 1         | 2.7%    |
+| TO Exter nal USB 3.0 480GB                | 1         | 2.7%    |
 | TCSUNBOW N4 120GB SSD                     | 1         | 2.7%    |
 | SK hynix SKHynix_HFM256GDHTNI-87A0B 256GB | 1         | 2.7%    |
 | Seagate ST500LM000-1EJ162 500GB           | 1         | 2.7%    |
@@ -805,7 +805,7 @@ Hard drive models
 | Kingston SV300S37A240G 240GB SSD          | 1         | 2.7%    |
 | Kingston SNVS1000GB 1TB                   | 1         | 2.7%    |
 | Kingston SA400S37240G 240GB SSD           | 1         | 2.7%    |
-| JMicron Generic 250GB                     | 1         | 2.7%    |
+| JMicron Generic 2TB                       | 1         | 2.7%    |
 | Intel SSDSC2BX480G4 480GB                 | 1         | 2.7%    |
 | Hitachi HTS545050A7E380 500GB             | 1         | 2.7%    |
 | HGST HTS725050A7E630 500GB                | 1         | 2.7%    |
@@ -893,7 +893,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 19        | 23     | 76%     |
-| 0.51-1.0   | 6         | 6      | 24%     |
+| 0.51-1.0   | 5         | 5      | 20%     |
+| 1.01-2.0   | 1         | 1      | 4%      |
 
 Space Total
 -----------
@@ -1437,7 +1438,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15BC 1366x768 344x194mm 15.5-inch           | 1         | 3.13%   |
 | Chimei Innolux LCD Monitor CMN14C3 1366x768 309x173mm 13.9-inch           | 1         | 3.13%   |
 | Chimei Innolux LCD Monitor CMN1495 1366x768 309x173mm 13.9-inch           | 1         | 3.13%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 3.13%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 380x210mm 17.1-inch | 1         | 3.13%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1100 1366x768 256x144mm 11.6-inch  | 1         | 3.13%   |
 | BOE LCD Monitor BOE09DC 1920x1080 344x194mm 15.5-inch                     | 1         | 3.13%   |
 | BOE LCD Monitor BOE06B3 1366x768 309x173mm 13.9-inch                      | 1         | 3.13%   |
@@ -1445,7 +1446,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO63ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO453D 1920x1080 309x174mm 14.0-inch            | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 309x173mm 13.9-inch             | 1         | 3.13%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch            | 1         | 3.13%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch            | 1         | 3.13%   |
 | AU Optronics LCD Monitor AUO203D 1920x1080 309x174mm 14.0-inch            | 1         | 3.13%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                    | 1         | 3.13%   |
 | Acer K202HQL ACR03E0 1600x900 430x240mm 19.4-inch                         | 1         | 3.13%   |
@@ -1809,11 +1810,10 @@ Controller models
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 7         | 33.33%  |
 | Qualcomm Atheros  Bluetooth Device                  | 3         | 14.29%  |
+| Intel Bluetooth Device                              | 2         | 9.52%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 4.76%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 4.76%   |
-| Intel Bluetooth Device                              | 1         | 4.76%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 4.76%   |
-| Intel AX201 Bluetooth                               | 1         | 4.76%   |
 | Intel AX200 Bluetooth                               | 1         | 4.76%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 4.76%   |
 | Foxconn / Hon Hai Acer Module                       | 1         | 4.76%   |
@@ -1849,37 +1849,37 @@ Sound card models
 ![Sound Model](./images/pie_chart/snd_model.svg)
 
 
-| Model                                                                        | Notebooks | Percent |
-|------------------------------------------------------------------------------|-----------|---------|
-| Intel Wildcat Point-LP High Definition Audio Controller                      | 4         | 8.89%   |
-| Intel Broadwell-U Audio Controller                                           | 4         | 8.89%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller          | 4         | 8.89%   |
-| AMD FCH Azalia Controller                                                    | 4         | 8.89%   |
-| AMD Trinity HDMI Audio Controller                                            | 3         | 6.67%   |
-| Intel Sunrise Point-LP HD Audio                                              | 2         | 4.44%   |
-| Intel 8 Series HD Audio Controller                                           | 2         | 4.44%   |
-| Roland QUAD-CAPTURE                                                          | 1         | 2.22%   |
-| Plantronics Blackwire C5220 headset (remote control and 3.5mm audio adapter) | 1         | 2.22%   |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller               | 1         | 2.22%   |
-| Nvidia GP107GL High Definition Audio Controller                              | 1         | 2.22%   |
-| Nvidia GK107 HDMI Audio Controller                                           | 1         | 2.22%   |
-| Nvidia GF119 HDMI Audio Controller                                           | 1         | 2.22%   |
-| Nvidia GA104 High Definition Audio Controller                                | 1         | 2.22%   |
-| Lenovo ThinkPad USB-C Dock Gen2 USB Audio                                    | 1         | 2.22%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                  | 1         | 2.22%   |
-| Intel Ice Lake-LP Smart Sound Technology Audio Controller                    | 1         | 2.22%   |
-| Intel Haswell-ULT HD Audio Controller                                        | 1         | 2.22%   |
-| Intel Comet Lake PCH cAVS                                                    | 1         | 2.22%   |
-| Intel CM238 HD Audio Controller                                              | 1         | 2.22%   |
-| Intel Cannon Lake PCH cAVS                                                   | 1         | 2.22%   |
-| Intel Alder Lake PCH-P High Definition Audio Controller                      | 1         | 2.22%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller   | 1         | 2.22%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                     | 1         | 2.22%   |
-| AMD Renoir Radeon High Definition Audio Controller                           | 1         | 2.22%   |
-| AMD Kabini HDMI/DP Audio                                                     | 1         | 2.22%   |
-| AMD High Definition Audio Controller                                         | 1         | 2.22%   |
-| AMD Family 17h/19h HD Audio Controller                                       | 1         | 2.22%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                             | 1         | 2.22%   |
+| Model                                                                      | Notebooks | Percent |
+|----------------------------------------------------------------------------|-----------|---------|
+| Intel Wildcat Point-LP High Definition Audio Controller                    | 4         | 8.89%   |
+| Intel Broadwell-U Audio Controller                                         | 4         | 8.89%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 4         | 8.89%   |
+| AMD FCH Azalia Controller                                                  | 4         | 8.89%   |
+| AMD Trinity HDMI Audio Controller                                          | 3         | 6.67%   |
+| Intel Sunrise Point-LP HD Audio                                            | 2         | 4.44%   |
+| Intel 8 Series HD Audio Controller                                         | 2         | 4.44%   |
+| Roland QUAD-CAPTURE                                                        | 1         | 2.22%   |
+| Plantronics Blackwire 5220 Series                                          | 1         | 2.22%   |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 2.22%   |
+| Nvidia GP107GL High Definition Audio Controller                            | 1         | 2.22%   |
+| Nvidia GK107 HDMI Audio Controller                                         | 1         | 2.22%   |
+| Nvidia GF119 HDMI Audio Controller                                         | 1         | 2.22%   |
+| Nvidia GA104 High Definition Audio Controller                              | 1         | 2.22%   |
+| Lenovo ThinkPad USB-C Dock Gen2 USB Audio                                  | 1         | 2.22%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 1         | 2.22%   |
+| Intel Ice Lake-LP Smart Sound Technology Audio Controller                  | 1         | 2.22%   |
+| Intel Haswell-ULT HD Audio Controller                                      | 1         | 2.22%   |
+| Intel Comet Lake PCH cAVS                                                  | 1         | 2.22%   |
+| Intel CM238 HD Audio Controller                                            | 1         | 2.22%   |
+| Intel Cannon Lake PCH cAVS                                                 | 1         | 2.22%   |
+| Intel Alder Lake PCH-P High Definition Audio Controller                    | 1         | 2.22%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1         | 2.22%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1         | 2.22%   |
+| AMD Renoir Radeon High Definition Audio Controller                         | 1         | 2.22%   |
+| AMD Kabini HDMI/DP Audio                                                   | 1         | 2.22%   |
+| AMD High Definition Audio Controller                                       | 1         | 2.22%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 1         | 2.22%   |
+| AMD Family 15h (Models 60h-6fh) Audio Controller                           | 1         | 2.22%   |
 
 Memory
 ------
@@ -1930,11 +1930,11 @@ Memory module models
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s      | 1         | 2.78%   |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 2.78%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 2.78%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 2.78%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 1         | 2.78%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 2.78%   |
 | Samsung RAM M471B5173BH0-YK0 4GB Chip DDR3 1600MT/s          | 1         | 2.78%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 2.78%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 2.78%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s     | 1         | 2.78%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s     | 1         | 2.78%   |
 | Samsung RAM 456789ABCDEFGHIJKL 8GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
 | Ramaxel RAM RMSA3260MD78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 2.78%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 2.78%   |
@@ -1949,7 +1949,7 @@ Memory module models
 | Apacer RAM 78.A2GC8.CY00C 2GB SODIMM DDR3 800MT/s            | 1         | 2.78%   |
 | Apacer RAM 78.A2GC8.9L00C 2GB SODIMM DDR3 800MT/s            | 1         | 2.78%   |
 | A-DATA RAM Module 8GB SODIMM DDR4 2133MT/s                   | 1         | 2.78%   |
-| A-DATA RAM AM1U16BC4P2-B19H 4GB SODIMM DDR3 1600MT/s         | 1         | 2.78%   |
+| A-DATA RAM AM1U16BC4P2-B19H 4096MB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
 | 8A020000802C RAM DDR4 16GB 2400MHz 16GB SODIMM DDR4 2400MT/s | 1         | 2.78%   |
 
 Memory Kind
@@ -2068,17 +2068,17 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 6         | 24%     |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 12%     |
-| Bison Electronics                      | 3         | 12%     |
 | Sunplus Innovation Technology          | 2         | 8%      |
 | Realtek Semiconductor                  | 2         | 8%      |
 | Microdia                               | 2         | 8%      |
+| Bison Electronics                      | 2         | 8%      |
+| Acer                                   | 2         | 8%      |
 | Suyin                                  | 1         | 4%      |
 | Silicon Motion                         | 1         | 4%      |
 | Quanta                                 | 1         | 4%      |
 | Lite-On Technology                     | 1         | 4%      |
 | IMC Networks                           | 1         | 4%      |
 | Apple                                  | 1         | 4%      |
-| Acer                                   | 1         | 4%      |
 
 Camera Model
 ------------
@@ -2092,10 +2092,10 @@ Camera device models
 |---------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                               | 2         | 8%      |
 | Chicony HP HD Webcam                                    | 2         | 8%      |
-| Bison Integrated Camera                                 | 2         | 8%      |
+| Acer Integrated Camera                                  | 2         | 8%      |
 | Suyin Acer/Lenovo Webcam [CN0316]                       | 1         | 4%      |
 | Sunplus Integrated Webcam                               | 1         | 4%      |
-| Sunplus Asus Webcam                                     | 1         | 4%      |
+| Sunplus ASUS USB2.0 Webcam                              | 1         | 4%      |
 | Silicon Motion ATIV VGA Camera                          | 1         | 4%      |
 | Realtek Integrated_Webcam_HD                            | 1         | 4%      |
 | Realtek Integrated Camera                               | 1         | 4%      |
@@ -2109,9 +2109,9 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Webcam           | 1         | 4%      |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD | 1         | 4%      |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam     | 1         | 4%      |
+| Bison Integrated Camera                                 | 1         | 4%      |
 | Bison HD Webcam                                         | 1         | 4%      |
 | Apple FaceTime HD Camera                                | 1         | 4%      |
-| Acer Integrated Camera                                  | 1         | 4%      |
 
 Security
 --------

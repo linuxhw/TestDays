@@ -654,8 +654,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 41        | 77.36%  |
-| Yes       | 12        | 22.64%  |
+| No        | 41        | 78.85%  |
+| Yes       | 11        | 21.15%  |
 
 Has Ethernet
 ------------
@@ -843,7 +843,7 @@ Hard drive models
 | WDC PC SN530 SDBPMPZ-512G-1001 512GB               | 1         | 1.54%   |
 | WDC PC SN530 SDBPMPZ-256G-1001 256GB               | 1         | 1.54%   |
 | Unknown SD2GB                                      | 1         | 1.54%   |
-| Unknown SD/MMC/MS PRO 128GB                        | 1         | 1.54%   |
+| Unknown SD/MMC/MS PRO 512GB                        | 1         | 1.54%   |
 | Unknown MMC Card  8GB                              | 1         | 1.54%   |
 | Unknown MMC Card  64GB                             | 1         | 1.54%   |
 | Toshiba MQ01ABD100 1TB                             | 1         | 1.54%   |
@@ -948,8 +948,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 17        | 19     | 73.91%  |
-| 0.51-1.0   | 6         | 6      | 26.09%  |
+| 0.01-0.5   | 17        | 18     | 70.83%  |
+| 0.51-1.0   | 7         | 7      | 29.17%  |
 
 Space Total
 -----------
@@ -1539,7 +1539,7 @@ Monitor models
 | ___ LCDTV16 ___9000 1360x768                                             | 1         | 1.59%   |
 | ViewSonic VA2718-FHD VSCD839 1920x1080 598x336mm 27.0-inch               | 1         | 1.59%   |
 | Unknown LCD TV 9000 1360x768 1600x900mm 72.3-inch                        | 1         | 1.59%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                        | 1         | 1.59%   |
+| STD HDMI TV STD00C7 1440x900 698x392mm 31.5-inch                         | 1         | 1.59%   |
 | Sharp LCD Monitor SHP1542 1920x1080 309x174mm 14.0-inch                  | 1         | 1.59%   |
 | Samsung Electronics S27B350 SAM08DC 1920x1080 598x336mm 27.0-inch        | 1         | 1.59%   |
 | Samsung Electronics LF27T35 SAM707F 1920x1080 598x337mm 27.0-inch        | 1         | 1.59%   |
@@ -1992,7 +1992,7 @@ Controller models
 
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                          | 11        | 26.83%  |
+| Intel Bluetooth Device                         | 13        | 31.71%  |
 | Realtek Bluetooth Radio                        | 3         | 7.32%   |
 | Intel Bluetooth wireless interface             | 3         | 7.32%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 3         | 7.32%   |
@@ -2000,9 +2000,8 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                 | 2         | 4.88%   |
 | Qualcomm Atheros Bluetooth                     | 2         | 4.88%   |
 | Intel Wireless-AC 3168 Bluetooth               | 2         | 4.88%   |
-| Intel Bluetooth Device                         | 2         | 4.88%   |
 | Intel AX200 Bluetooth                          | 2         | 4.88%   |
-| TP-Link TP-Cdj+ UB5A Adapter                   | 1         | 2.44%   |
+| TP-Link UB500 Adapter                          | 1         | 2.44%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0          | 1         | 2.44%   |
 | Lite-On Wireless_Device                        | 1         | 2.44%   |
 | IMC Networks Bluetooth Radio                   | 1         | 2.44%   |
@@ -2114,7 +2113,7 @@ Memory module models
 |------------------------------------------------------------------|-----------|---------|
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 4.26%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 2         | 4.26%   |
-| Samsung RAM M471A1K43BB1-CRC 8192MB SODIMM DDR4 2667MT/s         | 2         | 4.26%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 2         | 4.26%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s             | 2         | 4.26%   |
 | Transcend RAM JM1333KSN-4G 4GB SODIMM DDR3 1334MT/s              | 1         | 2.13%   |
 | Timetec RAM SD3-1333 8GB SODIMM DDR3 1333MT/s                    | 1         | 2.13%   |
@@ -2126,15 +2125,15 @@ Memory module models
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 2.13%   |
 | SK hynix RAM H9JCNNNCP3MLYR-N6E 2GB Row Of Chips LPDDR5 6400MT/s | 1         | 2.13%   |
 | Samsung RAM Module 4GB Row Of Chips DDR4 2400MT/s                | 1         | 2.13%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 2.13%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s         | 1         | 2.13%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 2.13%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.13%   |
-| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM 4800MT/s               | 1         | 2.13%   |
+| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s          | 1         | 2.13%   |
 | Samsung RAM K4A8G165WC-BCTD 4GB SODIMM DDR4 2667MT/s             | 1         | 2.13%   |
-| Samsung RAM K3LKBKB@BM-MGCP 2GB Row Of Chips LPDDR5 6400MT/s     | 1         | 2.13%   |
+| Samsung RAM K3LKBKB@BM-MGCP 8GB Row Of Chips LPDDR5 6400MT/s     | 1         | 2.13%   |
 | Ramaxel RAM RMSA3260NA78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 1         | 2.13%   |
 | PNY RAM Module 8GB SODIMM DDR3 1600MT/s                          | 1         | 2.13%   |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s             | 1         | 2.13%   |
@@ -2332,7 +2331,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 2.22%   |
 | Bison Integrated Camera                                        | 1         | 2.22%   |
 | Bison HD Webcam                                                | 1         | 2.22%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                             | 1         | 2.22%   |
+| Apple iPhone 5/5C/5S/6/SE                                      | 1         | 2.22%   |
 | Apple FaceTime HD Camera                                       | 1         | 2.22%   |
 
 Security

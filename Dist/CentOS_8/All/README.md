@@ -1242,8 +1242,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 206       | 62.8%   |
-| Yes       | 122       | 37.2%   |
+| No        | 208       | 63.41%  |
+| Yes       | 120       | 36.59%  |
 
 Has Ethernet
 ------------
@@ -1488,7 +1488,7 @@ Hard drive models
 | WDC WDS240G2G0A-00JH30 240GB SSD   | 3         | 0.44%   |
 | WDC WD40EFRX-68N32N0 4TB           | 3         | 0.44%   |
 | WDC WD20EZRX-00D8PB0 2TB           | 3         | 0.44%   |
-| Unknown SD/MMC/MS PRO 128GB        | 3         | 0.44%   |
+| Unknown SD/MMC/MS PRO 512GB        | 3         | 0.44%   |
 | Unknown MMC Card  32GB             | 3         | 0.44%   |
 | Seagate ST500LT012-1DG142 500GB    | 3         | 0.44%   |
 | Seagate ST1000DM003-1ER162 1TB     | 3         | 0.44%   |
@@ -1608,12 +1608,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 191       | 326    | 47.63%  |
-| 0.51-1.0   | 107       | 174    | 26.68%  |
-| 1.01-2.0   | 49        | 108    | 12.22%  |
-| 4.01-10.0  | 20        | 203    | 4.99%   |
-| 3.01-4.0   | 19        | 158    | 4.74%   |
-| 10.01-20.0 | 8         | 84     | 2%      |
+| 0.01-0.5   | 188       | 323    | 47.12%  |
+| 0.51-1.0   | 108       | 177    | 27.07%  |
+| 1.01-2.0   | 49        | 108    | 12.28%  |
+| 3.01-4.0   | 20        | 159    | 5.01%   |
+| 4.01-10.0  | 19        | 202    | 4.76%   |
+| 10.01-20.0 | 8         | 84     | 2.01%   |
 | 2.01-3.0   | 7         | 54     | 1.75%   |
 
 Space Total
@@ -2363,14 +2363,14 @@ Monitor models
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch    | 3         | 0.79%   |
-| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch          | 3         | 0.79%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch             | 3         | 0.79%   |
+| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch             | 3         | 0.79%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch             | 3         | 0.79%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 3         | 0.79%   |
 | Xiaomi Woieyeks-4K XMD009A 2880x1800 480x270mm 21.7-inch             | 2         | 0.53%   |
 | Samsung Electronics SyncMaster SAM0372 1680x1050 459x296mm 21.5-inch | 2         | 0.53%   |
 | Samsung Electronics SyncMaster SAM0094 1280x1024 338x270mm 17.0-inch | 2         | 0.53%   |
 | Samsung Electronics SMT22A550 SAM07AF 1920x1080 477x268mm 21.5-inch  | 2         | 0.53%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                     | 2         | 0.53%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                       | 2         | 0.53%   |
 | LG Display LCD Monitor LGD02DC 1366x768 344x194mm 15.5-inch          | 2         | 0.53%   |
 | LG Display LCD Monitor LGD021D 1600x900 382x215mm 17.3-inch          | 2         | 0.53%   |
 | Hewlett-Packard ZR2440w HWP2955 1920x1200 520x320mm 24.0-inch        | 2         | 0.53%   |
@@ -2379,7 +2379,7 @@ Monitor models
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch           | 2         | 0.53%   |
 | Goldstar FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch               | 2         | 0.53%   |
 | Dell U2414H DELA0A4 1920x1080 527x296mm 23.8-inch                    | 2         | 0.53%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 2         | 0.53%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                    | 2         | 0.53%   |
 | Dell SE2416H DELD082 1920x1080 530x300mm 24.0-inch                   | 2         | 0.53%   |
 | Chimei Innolux LCD Monitor CMN15E7 1920x1080 344x193mm 15.5-inch     | 2         | 0.53%   |
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch     | 2         | 0.53%   |
@@ -2392,7 +2392,7 @@ Monitor models
 | Xerox XM7-22w XER08E8 1680x1050 474x296mm 22.0-inch                  | 1         | 0.26%   |
 | Westinghouse SK-26H520S WDE139C 1366x768 575x323mm 26.0-inch         | 1         | 0.26%   |
 | VOXICON D32QO DUS3200 2560x1440 708x398mm 32.0-inch                  | 1         | 0.26%   |
-| Vizio E221VA VIZ0070 1920x1080 476x268mm 21.5-inch                   | 1         | 0.26%   |
+| Vizio M220VA VIZ0070 1920x1080 476x268mm 21.5-inch                   | 1         | 0.26%   |
 | ViewSonic VX3209-2K VSC328E 2560x1440 698x393mm 31.5-inch            | 1         | 0.26%   |
 | ViewSonic VX2450 SERIES VSCE226 1920x1080 525x297mm 23.7-inch        | 1         | 0.26%   |
 | ViewSonic VA503 SERIES VSCEF1D 1024x768 304x228mm 15.0-inch          | 1         | 0.26%   |
@@ -2934,9 +2934,9 @@ Controller models
 | Intel Bluetooth wireless interface                  | 41        | 24.55%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 15        | 8.98%   |
 | Intel AX200 Bluetooth                               | 13        | 7.78%   |
-| Realtek Bluetooth Radio                             | 10        | 5.99%   |
+| Realtek Bluetooth Radio                             | 11        | 6.59%   |
+| Intel Bluetooth Device                              | 10        | 5.99%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 9         | 5.39%   |
-| Intel AX201 Bluetooth                               | 9         | 5.39%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 8         | 4.79%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 6         | 3.59%   |
 | Qualcomm Atheros  Bluetooth Device                  | 4         | 2.4%    |
@@ -2945,21 +2945,20 @@ Controller models
 | Realtek  Bluetooth 4.2 Adapter                      | 3         | 1.8%    |
 | Qualcomm Atheros AR3011 Bluetooth                   | 3         | 1.8%    |
 | Intel Centrino Bluetooth Wireless Transceiver       | 3         | 1.8%    |
-| Realtek 802.11ac WLAN Adapter                       | 2         | 1.2%    |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 2         | 1.2%    |
 | Qualcomm Atheros AR9462 Bluetooth                   | 2         | 1.2%    |
 | IMC Networks Bluetooth Device                       | 2         | 1.2%    |
 | HP Broadcom 2070 Bluetooth Combo                    | 2         | 1.2%    |
-| Apple Bluetooth Host Controller                     | 2         | 1.2%    |
+| Apple Bluetooth USB Host Controller                 | 2         | 1.2%    |
 | Toshiba Bluetooth Radio                             | 1         | 0.6%    |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 0.6%    |
+| Realtek RTL8821A Bluetooth                          | 1         | 0.6%    |
 | Realtek RTL8723A Bluetooth                          | 1         | 0.6%    |
 | Ralink RT3290 Bluetooth                             | 1         | 0.6%    |
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 0.6%    |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 0.6%    |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device        | 1         | 0.6%    |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 0.6%    |
-| Intel Bluetooth Device                              | 1         | 0.6%    |
 | Intel AX210 Bluetooth                               | 1         | 0.6%    |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1         | 0.6%    |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 0.6%    |
@@ -2971,6 +2970,7 @@ Controller models
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 0.6%    |
 | Broadcom BCM2045 Bluetooth                          | 1         | 0.6%    |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1         | 0.6%    |
+| ASUS Bluetooth Radio                                | 1         | 0.6%    |
 
 Sound
 -----
@@ -3099,48 +3099,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Computers | Percent |
-|---------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMAA8GR7AJR4N-XN 64GB DIMM DDR4 3200MT/s   | 4         | 2%      |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 3         | 1.5%    |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s             | 2         | 1%      |
-| Unknown RAM Module 8GB DIMM 1600MT/s                    | 2         | 1%      |
-| Unknown RAM Module 4GB DIMM 1333MT/s                    | 2         | 1%      |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                 | 2         | 1%      |
-| Unknown RAM Module 2GB DIMM SDRAM                       | 2         | 1%      |
-| SK hynix RAM Module 64GB DIMM 4800MT/s                  | 2         | 1%      |
-| SK hynix RAM HMA82GR7CJR8N-XN 16GB DIMM DDR4 3200MT/s   | 2         | 1%      |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 2         | 1%      |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s   | 2         | 1%      |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s  | 2         | 1%      |
-| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s   | 2         | 1%      |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1         | 0.5%    |
-| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s            | 1         | 0.5%    |
-| Unknown RAM Module 4GB SODIMM DDR2 667MT/s              | 1         | 0.5%    |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                | 1         | 0.5%    |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s            | 1         | 0.5%    |
-| Unknown RAM Module 4096MB DIMM 400MT/s                  | 1         | 0.5%    |
-| Unknown RAM Module 2GB SODIMM DDR3 800MT/s              | 1         | 0.5%    |
-| Unknown RAM Module 2GB DIMM DDR 667MT/s                 | 1         | 0.5%    |
-| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s          | 1         | 0.5%    |
-| Unknown RAM Module 2048MB DIMM DDR2                     | 1         | 0.5%    |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                 | 1         | 0.5%    |
-| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s     | 1         | 0.5%    |
-| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s        | 1         | 0.5%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s      | 1         | 0.5%    |
-| Team RAM TEAMGROUP-UD4-2400 8192MB DIMM DDR4 2400MT/s   | 1         | 0.5%    |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s              | 1         | 0.5%    |
-| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s            | 1         | 0.5%    |
-| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s              | 1         | 0.5%    |
-| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s         | 1         | 0.5%    |
-| SK hynix RAM Module 8192MB SODIMM DDR4 2133MT/s         | 1         | 0.5%    |
-| SK hynix RAM Module 4GB DIMM DDR3 800MT/s               | 1         | 0.5%    |
-| SK hynix RAM Module 16GB SODIMM DDR4 2667MT/s           | 1         | 0.5%    |
-| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s             | 1         | 0.5%    |
-| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR 667MT/s    | 1         | 0.5%    |
-| SK hynix RAM HMT851S6AMR6R-PB N0 4GB Chip DDR3 1600MT/s | 1         | 0.5%    |
-| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1         | 0.5%    |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 1         | 0.5%    |
+| Model                                                     | Computers | Percent |
+|-----------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMAA8GR7AJR4N-XN 64GB DIMM DDR4 3200MT/s     | 4         | 2%      |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 3         | 1.5%    |
+| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s               | 2         | 1%      |
+| Unknown RAM Module 8GB DIMM 1600MT/s                      | 2         | 1%      |
+| Unknown RAM Module 4GB DIMM 1333MT/s                      | 2         | 1%      |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                   | 2         | 1%      |
+| Unknown RAM Module 2GB DIMM SDRAM                         | 2         | 1%      |
+| SK hynix RAM Module 64GB DIMM 4800MT/s                    | 2         | 1%      |
+| SK hynix RAM HMA82GR7CJR8N-XN 16GB DIMM DDR4 3200MT/s     | 2         | 1%      |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 2         | 1%      |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s     | 2         | 1%      |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s    | 2         | 1%      |
+| Corsair RAM CMZ16GX3M2A1600C10 8GB DIMM DDR3 1600MT/s     | 2         | 1%      |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1         | 0.5%    |
+| Unknown RAM Module 8192MB DIMM DDR3 1333MT/s              | 1         | 0.5%    |
+| Unknown RAM Module 4GB SODIMM DDR2 667MT/s                | 1         | 0.5%    |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                  | 1         | 0.5%    |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s              | 1         | 0.5%    |
+| Unknown RAM Module 4096MB DIMM 400MT/s                    | 1         | 0.5%    |
+| Unknown RAM Module 2GB SODIMM DDR3 800MT/s                | 1         | 0.5%    |
+| Unknown RAM Module 2GB DIMM DDR 667MT/s                   | 1         | 0.5%    |
+| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s            | 1         | 0.5%    |
+| Unknown RAM Module 2048MB DIMM DDR2                       | 1         | 0.5%    |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                   | 1         | 0.5%    |
+| TwinMOS RAM 9DEPBMZ8-TATP 2048MB DIMM DDR3 1333MT/s       | 1         | 0.5%    |
+| Transcend RAM JM800QLU-2G 2GB DIMM DDR2 2048MT/s          | 1         | 0.5%    |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3733MT/s        | 1         | 0.5%    |
+| Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s       | 1         | 0.5%    |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                | 1         | 0.5%    |
+| SK hynix RAM Module 8GB SODIMM DDR4 2133MT/s              | 1         | 0.5%    |
+| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                | 1         | 0.5%    |
+| SK hynix RAM Module 8192MB SODIMM DDR4 2400MT/s           | 1         | 0.5%    |
+| SK hynix RAM Module 8192MB SODIMM DDR4 2133MT/s           | 1         | 0.5%    |
+| SK hynix RAM Module 4GB DIMM DDR3 800MT/s                 | 1         | 0.5%    |
+| SK hynix RAM Module 16GB SODIMM DDR4 2667MT/s             | 1         | 0.5%    |
+| SK hynix RAM Module 16GB DIMM DDR4 3200MT/s               | 1         | 0.5%    |
+| SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR 667MT/s      | 1         | 0.5%    |
+| SK hynix RAM HMT851S6AMR6R-PB N0 4GB Chip DDR3 1600MT/s   | 1         | 0.5%    |
+| SK hynix RAM HMT451U7AFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1         | 0.5%    |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s | 1         | 0.5%    |
 
 Memory Kind
 -----------
@@ -3312,20 +3312,20 @@ Camera device vendors
 | Chicony Electronics                    | 36        | 25.53%  |
 | Microdia                               | 19        | 13.48%  |
 | Logitech                               | 12        | 8.51%   |
-| Bison Electronics                      | 11        | 7.8%    |
 | Realtek Semiconductor                  | 10        | 7.09%   |
+| Bison Electronics                      | 10        | 7.09%   |
 | Lite-On Technology                     | 9         | 6.38%   |
 | IMC Networks                           | 7         | 4.96%   |
 | Sunplus Innovation Technology          | 6         | 4.26%   |
 | Quanta                                 | 4         | 2.84%   |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 2.84%   |
+| Acer                                   | 3         | 2.13%   |
 | Syntek                                 | 2         | 1.42%   |
 | Suyin                                  | 2         | 1.42%   |
 | Silicon Motion                         | 2         | 1.42%   |
 | Samsung Electronics                    | 2         | 1.42%   |
 | Microsoft                              | 2         | 1.42%   |
 | Lenovo                                 | 2         | 1.42%   |
-| Acer                                   | 2         | 1.42%   |
 | Sunplus Technology                     | 1         | 0.71%   |
 | Shenzhen Kingcome Optoelectronic       | 1         | 0.71%   |
 | Intel                                  | 1         | 0.71%   |
@@ -3371,7 +3371,7 @@ Camera device models
 | Lenovo FHD Webcam                               | 2         | 1.42%   |
 | Chicony HP Webcam [2 MP Macro]                  | 2         | 1.42%   |
 | Chicony HP HD Webcam                            | 2         | 1.42%   |
-| Bison Integrated Camera                         | 2         | 1.42%   |
+| Acer Integrated Camera                          | 2         | 1.42%   |
 | Syntek USB2.0 UVC PC Camera                     | 1         | 0.71%   |
 | Syntek Lenovo EasyCamera                        | 1         | 0.71%   |
 | Suyin Sony Visual Communication Camera          | 1         | 0.71%   |
@@ -3380,7 +3380,7 @@ Camera device models
 | Sunplus USB Video Device                        | 1         | 0.71%   |
 | Sunplus Integrated_Webcam_FHD                   | 1         | 0.71%   |
 | Sunplus HD WebCam                               | 1         | 0.71%   |
-| Sunplus Asus Webcam                             | 1         | 0.71%   |
+| Sunplus ASUS USB2.0 Webcam                      | 1         | 0.71%   |
 | Silicon Motion WebCam SC-13HDL11431N            | 1         | 0.71%   |
 | Silicon Motion ATIV VGA Camera                  | 1         | 0.71%   |
 | Shenzhen Kingcome Optoelectronic 720p HD Camera | 1         | 0.71%   |

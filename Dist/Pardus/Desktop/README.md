@@ -607,8 +607,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 10       | 52.63%  |
-| No        | 9        | 47.37%  |
+| No        | 10       | 52.63%  |
+| Yes       | 9        | 47.37%  |
 
 Has Ethernet
 ------------
@@ -1297,7 +1297,7 @@ Monitor models
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 4.55%   |
 | Dell SE2416H DELD082 1920x1080 530x300mm 24.0-inch                    | 1        | 4.55%   |
 | Dell P2717H DEL40F6 1920x1080 598x336mm 27.0-inch                     | 1        | 4.55%   |
-| Dell E2421HN DELF129 1920x1080 530x300mm 24.0-inch                    | 1        | 4.55%   |
+| Dell E2421HN DELF129 1920x1080 527x296mm 23.8-inch                    | 1        | 4.55%   |
 | Beko BK WUXGA BEK4448 1920x1080 1210x680mm 54.6-inch                  | 1        | 4.55%   |
 | Ancor Communications ASUS VP228 ACI22C3 1920x1080 476x268mm 21.5-inch | 1        | 4.55%   |
 | AGO LCD Monitor AGO0001 1920x1080 256x192mm 12.6-inch                 | 1        | 4.55%   |
@@ -1703,7 +1703,7 @@ Memory module models
 | Samsung RAM M378A2K43DB1-CTD 16384MB DIMM DDR4 2667MT/s | 1        | 10%     |
 | Micron RAM 4ATF1G64HZ-3G2F1 8GB SODIMM DDR4 3200MT/s    | 1        | 10%     |
 | Kingston RAM KHX3000C15D4/8GX 8GB DIMM DDR4 3400MT/s    | 1        | 10%     |
-| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2666MT/s       | 1        | 10%     |
+| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2666MT/s    | 1        | 10%     |
 | Kingston RAM 99U5471-057.A00LF 8GB DIMM DDR3 1333MT/s   | 1        | 10%     |
 | G.Skill RAM F4-3200C16-32GTZN 32GB DIMM DDR4 3200MT/s   | 1        | 10%     |
 | G.Skill RAM F4-2133C15-4GIS 4GB DIMM DDR4 2133MT/s      | 1        | 10%     |
@@ -1845,7 +1845,7 @@ Camera device models
 |-----------------------------------------|----------|---------|
 | Realtek HP 2.0MP High Definition Webcam | 1        | 16.67%  |
 | Microdia Integrated Camera              | 1        | 16.67%  |
-| MacroSilicon USB Video                  | 1        | 16.67%  |
+| MacroSilicon USB3. 0 capture            | 1        | 16.67%  |
 | Arkmicro USB2.0 PC CAMERA               | 1        | 16.67%  |
 | Allwinner TP1005                        | 1        | 16.67%  |
 | Alcor Micro USB 2.0 PC Camera           | 1        | 16.67%  |

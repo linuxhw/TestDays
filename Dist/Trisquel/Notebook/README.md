@@ -649,8 +649,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 14        | 50%     |
-| No        | 14        | 50%     |
+| No        | 15        | 53.57%  |
+| Yes       | 13        | 46.43%  |
 
 Has Ethernet
 ------------
@@ -1407,7 +1407,7 @@ Monitor models
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch                  | 2         | 7.69%   |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch                  | 1         | 3.85%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 3.85%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 1         | 3.85%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 3.85%   |
 | Samsung Electronics LCD Monitor SEC374E 1366x768 344x193mm 15.5-inch     | 1         | 3.85%   |
 | Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 1         | 3.85%   |
 | LG Display LCD Monitor LGD05D0 1920x1080 344x194mm 15.5-inch             | 1         | 3.85%   |
@@ -1786,7 +1786,7 @@ Controller models
 
 | Model                                              | Notebooks | Percent |
 |----------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                              | 4         | 22.22%  |
+| Intel Bluetooth Device                             | 4         | 22.22%  |
 | Realtek Bluetooth Radio                            | 2         | 11.11%  |
 | Qualcomm Atheros  Bluetooth Device                 | 2         | 11.11%  |
 | Intel Bluetooth wireless interface                 | 2         | 11.11%  |
@@ -1885,9 +1885,9 @@ Memory module models
 | SK hynix RAM HMA851S6CJR6N-UH 4GB SODIMM DDR4 2400MT/s         | 1         | 4.55%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s         | 1         | 4.55%   |
 | Samsung RAM Module 2GB Row Of Chips DDR3 1600MT/s              | 1         | 4.55%   |
-| Samsung RAM M471B5773CHS-CK0 2048MB SODIMM DDR3 1600MT/s       | 1         | 4.55%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s          | 1         | 4.55%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s        | 1         | 4.55%   |
+| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s          | 1         | 4.55%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s       | 1         | 4.55%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s     | 1         | 4.55%   |
 | Qimonda RAM 64T512022EDL2.5A 4096MB SODIMM DDR 800MT/s         | 1         | 4.55%   |
 | Micron RAM MT52L512M32D2PF-10 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 4.55%   |
 | Micron RAM H6451U64F7066G 4096MB SODIMM DDR3 1067MT/s          | 1         | 4.55%   |
@@ -2032,7 +2032,7 @@ Camera device models
 | Z-Star Webcam                                                | 1         | 4.35%   |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 4.35%   |
 | Sunplus HD WebCam                                            | 1         | 4.35%   |
-| Sunplus Asus Webcam                                          | 1         | 4.35%   |
+| Sunplus ASUS USB2.0 Webcam                                   | 1         | 4.35%   |
 | Realtek Lenovo EasyCamera                                    | 1         | 4.35%   |
 | Quanta HD User Facing                                        | 1         | 4.35%   |
 | Microdia Integrated_Webcam_HD                                | 1         | 4.35%   |

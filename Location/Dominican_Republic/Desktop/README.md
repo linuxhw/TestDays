@@ -1655,45 +1655,45 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                   | Desktops | Percent |
-|-------------------------------------------------------------------------|----------|---------|
-| Sony TV SNYDD02 1920x1080 708x398mm 32.0-inch                           | 2        | 5%      |
-| Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                         | 2        | 5%      |
-| AOC 2269WM AOC2269 1920x1080 477x268mm 21.5-inch                        | 2        | 5%      |
-| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                  | 1        | 2.5%    |
-| Unknown (XXX) MS82P XXX001A 1360x768 330x210mm 15.4-inch                | 1        | 2.5%    |
-| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 1872x1053mm 84.6-inch | 1        | 2.5%    |
-| Samsung Electronics LCD Monitor SAM0664 1360x768 410x256mm 19.0-inch    | 1        | 2.5%    |
-| Panasonic TV MEI0206 1920x1080                                          | 1        | 2.5%    |
-| NEC Computers EA274WMi NEC695F 2560x1440 597x336mm 27.0-inch            | 1        | 2.5%    |
-| LG Electronics LCD Monitor W1943 1984x768                               | 1        | 2.5%    |
-| LG Electronics LCD Monitor LG TV                                        | 1        | 2.5%    |
-| KTC 32'TV KTC3200 1360x768 708x398mm 32.0-inch                          | 1        | 2.5%    |
-| Hewlett-Packard w1858 HWP281A 1366x768 413x234mm 18.7-inch              | 1        | 2.5%    |
-| Hewlett-Packard V244h HPN3358 1920x1080 531x299mm 24.0-inch             | 1        | 2.5%    |
-| Hewlett-Packard LE2201w HWP2843 1680x1050 473x296mm 22.0-inch           | 1        | 2.5%    |
-| Hewlett-Packard LA2205 HWP2849 1680x1050 473x296mm 22.0-inch            | 1        | 2.5%    |
-| Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch            | 1        | 2.5%    |
-| Hewlett-Packard L1730 HWP260E 1280x1024 338x270mm 17.0-inch             | 1        | 2.5%    |
-| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                     | 1        | 2.5%    |
-| Goldstar TV GSM75E3 1024x768 920x518mm 41.6-inch                        | 1        | 2.5%    |
-| Dell SP2208WFP DEL403A 1680x1050 473x296mm 22.0-inch                    | 1        | 2.5%    |
-| Dell SE2717H/HX DELD0A0 1920x1080 598x336mm 27.0-inch                   | 1        | 2.5%    |
-| Dell P2213 DELF041 1680x1050 473x296mm 22.0-inch                        | 1        | 2.5%    |
-| Dell P2017H DELD094 1600x900 434x236mm 19.4-inch                        | 1        | 2.5%    |
-| Dell E2020H DELA159 1600x900 434x236mm 19.4-inch                        | 1        | 2.5%    |
-| Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                        | 1        | 2.5%    |
-| Dell E177FP DELA023 1280x1024 338x270mm 17.0-inch                       | 1        | 2.5%    |
-| Dell DEL 1708FPBLK DEL4045 1280x1024 338x270mm 17.0-inch                | 1        | 2.5%    |
-| Dell 1707FP DEL4012 1280x1024 338x270mm 17.0-inch                       | 1        | 2.5%    |
-| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                       | 1        | 2.5%    |
-| AOC LCD Monitor 2243W 1920x1080                                         | 1        | 2.5%    |
-| AOC 2060W3 AOC2060 1920x1080 435x239mm 19.5-inch                        | 1        | 2.5%    |
-| AOC 172S AOC1780 1280x1024 376x301mm 19.0-inch                          | 1        | 2.5%    |
-| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch   | 1        | 2.5%    |
-| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                         | 1        | 2.5%    |
-| Acer V223W ACR0027 1680x1050 473x296mm 22.0-inch                        | 1        | 2.5%    |
-| Acer P225HQL ACR014E 1920x1080 476x268mm 21.5-inch                      | 1        | 2.5%    |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Sony TV SNYDD02 1920x1080 708x398mm 32.0-inch                         | 2        | 5%      |
+| Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                       | 2        | 5%      |
+| AOC 2269WM AOC2269 1920x1080 477x268mm 21.5-inch                      | 2        | 5%      |
+| ViewSonic VX2757 VSCF931 1920x1080 598x336mm 27.0-inch                | 1        | 2.5%    |
+| Unknown (XXX) MS82P XXX001A 1360x768 330x210mm 15.4-inch              | 1        | 2.5%    |
+| Samsung Electronics LCD Monitor SAM0FEE 3840x2160 950x540mm 43.0-inch | 1        | 2.5%    |
+| Samsung Electronics LCD Monitor SAM0664 1360x768 410x256mm 19.0-inch  | 1        | 2.5%    |
+| Panasonic TV MEI0206 1920x1080                                        | 1        | 2.5%    |
+| NEC Computers EA274WMi NEC695F 2560x1440 597x336mm 27.0-inch          | 1        | 2.5%    |
+| LG Electronics LCD Monitor W1943 1984x768                             | 1        | 2.5%    |
+| LG Electronics LCD Monitor LG TV                                      | 1        | 2.5%    |
+| KTC 32'TV KTC3200 1360x768 708x398mm 32.0-inch                        | 1        | 2.5%    |
+| Hewlett-Packard w1858 HWP281A 1366x768 413x234mm 18.7-inch            | 1        | 2.5%    |
+| Hewlett-Packard V244h HPN3358 1920x1080 531x299mm 24.0-inch           | 1        | 2.5%    |
+| Hewlett-Packard LE2201w HWP2843 1680x1050 473x296mm 22.0-inch         | 1        | 2.5%    |
+| Hewlett-Packard LA2205 HWP2849 1680x1050 473x296mm 22.0-inch          | 1        | 2.5%    |
+| Hewlett-Packard LA2205 HWP2848 1680x1050 473x296mm 22.0-inch          | 1        | 2.5%    |
+| Hewlett-Packard L1730 HWP260E 1280x1024 338x270mm 17.0-inch           | 1        | 2.5%    |
+| Goldstar W1943 GSM4BAD 1360x768 406x229mm 18.4-inch                   | 1        | 2.5%    |
+| Goldstar TV GSM75E3 1024x768 920x518mm 41.6-inch                      | 1        | 2.5%    |
+| Dell SP2208WFP DEL403A 1680x1050 473x296mm 22.0-inch                  | 1        | 2.5%    |
+| Dell SE2717H/HX DELD0A0 1920x1080 598x336mm 27.0-inch                 | 1        | 2.5%    |
+| Dell P2213 DELF041 1680x1050 473x296mm 22.0-inch                      | 1        | 2.5%    |
+| Dell P2017H DELD094 1600x900 434x236mm 19.4-inch                      | 1        | 2.5%    |
+| Dell E2020H DELA159 1600x900 434x236mm 19.4-inch                      | 1        | 2.5%    |
+| Dell E1916H DELF064 1366x768 410x230mm 18.5-inch                      | 1        | 2.5%    |
+| Dell E177FP DELA023 1280x1024 338x270mm 17.0-inch                     | 1        | 2.5%    |
+| Dell DEL 1708FPBLK DEL4045 1280x1024 338x270mm 17.0-inch              | 1        | 2.5%    |
+| Dell 1707FP DEL4012 1280x1024 338x270mm 17.0-inch                     | 1        | 2.5%    |
+| BenQ GW2480 BNQ78E7 1920x1080 527x296mm 23.8-inch                     | 1        | 2.5%    |
+| AOC LCD Monitor 2243W 1920x1080                                       | 1        | 2.5%    |
+| AOC 2060W3 AOC2060 1920x1080 435x239mm 19.5-inch                      | 1        | 2.5%    |
+| AOC 172S AOC1780 1280x1024 376x301mm 19.0-inch                        | 1        | 2.5%    |
+| Ancor Communications ASUS VE278 ACI27F6 1920x1080 598x336mm 27.0-inch | 1        | 2.5%    |
+| Acer X193W ACR000C 1440x900 410x256mm 19.0-inch                       | 1        | 2.5%    |
+| Acer V223W ACR0027 1680x1050 473x296mm 22.0-inch                      | 1        | 2.5%    |
+| Acer P225HQL ACR014E 1920x1080 476x268mm 21.5-inch                    | 1        | 2.5%    |
 
 Monitor Resolution
 ------------------
@@ -2217,10 +2217,10 @@ Memory module models
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s   | 1        | 2.44%   |
 | SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s   | 1        | 2.44%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s | 1        | 2.44%   |
-| Samsung RAM M378B5773CH0-CH9 2048MB DIMM DDR3 1867MT/s | 1        | 2.44%   |
+| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s    | 1        | 2.44%   |
 | Samsung RAM M378B5673FH0-CF8 2GB DIMM DDR3 1067MT/s    | 1        | 2.44%   |
 | Samsung RAM M378B5673EH1-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 2.44%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 2133MT/s    | 1        | 2.44%   |
+| Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR2 2133MT/s | 1        | 2.44%   |
 | Samsung RAM M378B5173EB0-YK0 4GB DIMM DDR3 1600MT/s    | 1        | 2.44%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s  | 1        | 2.44%   |
 | Qimonda RAM 64T128020HU3SB 1GB DIMM DDR2 667MT/s       | 1        | 2.44%   |
@@ -2386,7 +2386,7 @@ Camera device models
 | Microdia Integrated Camera              | 1        | 10%     |
 | Logitech Webcam Pro 9000                | 1        | 10%     |
 | Jieli USB PHY 2.0                       | 1        | 10%     |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 1        | 10%     |
+| Apple iPhone 5/5C/5S/6/SE               | 1        | 10%     |
 
 Security
 --------
@@ -2432,8 +2432,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 39       | 79.59%  |
-| 1     | 10       | 20.41%  |
+| 0     | 40       | 81.63%  |
+| 1     | 9        | 18.37%  |
 
 Unsupported Device Types
 ------------------------
@@ -2445,8 +2445,8 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Graphics card | 7        | 70%     |
-| Network       | 1        | 10%     |
-| Net/wireless  | 1        | 10%     |
-| Camera        | 1        | 10%     |
+| Graphics card | 6        | 66.67%  |
+| Network       | 1        | 11.11%  |
+| Net/wireless  | 1        | 11.11%  |
+| Camera        | 1        | 11.11%  |
 

@@ -740,7 +740,7 @@ Hard drive models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2         | 6.06%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2         | 6.06%   |
 | Samsung MZNLH512HALU-00000 512GB SSD                | 2         | 6.06%   |
 | Micron 2450_MTFDKBA512TFK 512GB                     | 2         | 6.06%   |
 | WDC WD6400BEVT-22A0RT0 640GB                        | 1         | 3.03%   |
@@ -796,12 +796,12 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Kingston            | 3         | 4      | 33.33%  |
-| Samsung Electronics | 2         | 2      | 22.22%  |
-| SPCC                | 1         | 1      | 11.11%  |
-| LITEON              | 1         | 1      | 11.11%  |
-| Intel               | 1         | 1      | 11.11%  |
-| Hewlett-Packard     | 1         | 1      | 11.11%  |
+| Samsung Electronics | 3         | 4      | 30%     |
+| Kingston            | 3         | 4      | 30%     |
+| SPCC                | 1         | 1      | 10%     |
+| LITEON              | 1         | 1      | 10%     |
+| Intel               | 1         | 1      | 10%     |
+| Hewlett-Packard     | 1         | 1      | 10%     |
 
 Drive Kind
 ----------
@@ -813,11 +813,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 11        | 14     | 35.48%  |
-| SSD     | 9         | 10     | 29.03%  |
-| HDD     | 9         | 10     | 29.03%  |
-| MMC     | 1         | 1      | 3.23%   |
-| Unknown | 1         | 1      | 3.23%   |
+| NVMe    | 10        | 12     | 33.33%  |
+| SSD     | 9         | 12     | 30%     |
+| HDD     | 9         | 10     | 30%     |
+| MMC     | 1         | 1      | 3.33%   |
+| Unknown | 1         | 1      | 3.33%   |
 
 Drive Connector
 ---------------
@@ -845,7 +845,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 10        | 11     | 55.56%  |
-| 0.51-1.0   | 8         | 9      | 44.44%  |
+| 0.51-1.0   | 8         | 11     | 44.44%  |
 
 Space Total
 -----------
@@ -1351,7 +1351,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN15BF 1366x768 344x194mm 15.5-inch          | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN1515 1920x1080 344x193mm 15.5-inch         | 1         | 3.7%    |
 | Chimei Innolux LCD Monitor CMN14A3 1600x900 309x174mm 14.0-inch          | 1         | 3.7%    |
-| Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x194mm 15.5-inch | 1         | 3.7%    |
+| Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 344x193mm 15.5-inch | 1         | 3.7%    |
 | CHD 24VCF CHD0240 1920x1080 368x207mm 16.6-inch                          | 1         | 3.7%    |
 | BOE LCD Monitor BOE08D5 1920x1080 344x194mm 15.5-inch                    | 1         | 3.7%    |
 | BOE LCD Monitor BOE0697 1366x768 309x173mm 13.9-inch                     | 1         | 3.7%    |
@@ -1700,12 +1700,10 @@ Controller models
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface             | 6         | 28.57%  |
-| Intel Bluetooth Device                         | 2         | 9.52%   |
+| Intel Bluetooth Device                         | 4         | 19.05%  |
+| Realtek Bluetooth Radio                        | 2         | 9.52%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2         | 9.52%   |
-| Intel AX201 Bluetooth                          | 2         | 9.52%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]     | 2         | 9.52%   |
-| Realtek Bluetooth Radio                        | 1         | 4.76%   |
-| Realtek 802.11ac WLAN Adapter                  | 1         | 4.76%   |
 | Qualcomm Atheros  Bluetooth Device             | 1         | 4.76%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0          | 1         | 4.76%   |
 | Qualcomm Atheros AR3011 Bluetooth              | 1         | 4.76%   |
@@ -1802,12 +1800,12 @@ Memory module models
 | SHARETRONIC RAM Module 4GB SODIMM DDR3 800MT/s               | 1         | 6.25%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                  | 1         | 6.25%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s        | 1         | 6.25%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 1         | 6.25%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s     | 1         | 6.25%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 6.25%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 6.25%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 1         | 6.25%   |
 | Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 6.25%   |
-| Samsung RAM K4UBE3D4AA-MGCR 8GB Row Of Chips LPDDR4 4267MT/s | 1         | 6.25%   |
+| Samsung RAM K4UBE3D4AA-MGCR 2GB Row Of Chips LPDDR4 4267MT/s | 1         | 6.25%   |
 | Kingston RAM 9905417-083.A00G 4GB SODIMM DDR3 1600MT/s       | 1         | 6.25%   |
 | G.Skill RAM F3-1600C9-8GRSL 8GB SODIMM DDR3 1600MT/s         | 1         | 6.25%   |
 | Corsair RAM CMSO8GX3M1C1600C11 8GB SODIMM DDR3 1600MT/s      | 1         | 6.25%   |
@@ -1958,7 +1956,7 @@ Camera device models
 | Bison Lenovo Integrated Webcam                      | 1         | 4.76%   |
 | Bison Integrated Camera                             | 1         | 4.76%   |
 | Bison HD Webcam                                     | 1         | 4.76%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                  | 1         | 4.76%   |
+| Apple iPhone 5/5C/5S/6/SE                           | 1         | 4.76%   |
 | Acer Integrated Camera                              | 1         | 4.76%   |
 
 Security

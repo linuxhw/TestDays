@@ -939,8 +939,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 141       | 87.58%  |
-| Yes       | 20        | 12.42%  |
+| No        | 139       | 86.34%  |
+| Yes       | 22        | 13.66%  |
 
 Has Ethernet
 ------------
@@ -1150,10 +1150,10 @@ Hard drive models
 | Samsung NVMe SSD Drive 512GB                        | 6         | 2.63%   |
 | Samsung NVMe SSD Drive 1024GB                       | 5         | 2.19%   |
 | Toshiba NVMe SSD Drive 256GB                        | 4         | 1.75%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 4         | 1.75%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 4         | 1.75%   |
 | Intel NVMe SSD Drive 512GB                          | 4         | 1.75%   |
 | Toshiba NVMe SSD Drive 512GB                        | 3         | 1.32%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB    | 3         | 1.32%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 2TB      | 3         | 1.32%   |
 | Samsung NVMe SSD Drive 2TB                          | 3         | 1.32%   |
 | Samsung NVMe SSD Drive 1TB                          | 3         | 1.32%   |
 | Micron NVMe SSD Drive 256GB                         | 3         | 1.32%   |
@@ -1167,8 +1167,8 @@ Hard drive models
 | Toshiba KXG6AZNV256G 256GB                          | 2         | 0.88%   |
 | SK hynix NVMe SSD Drive 1024GB                      | 2         | 0.88%   |
 | Seagate ST1000LM049-2GH172 1TB                      | 2         | 0.88%   |
-| Seagate Expansion 1TB                               | 2         | 0.88%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 500GB     | 2         | 0.88%   |
+| Seagate Expansion 2TB                               | 2         | 0.88%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 128GB     | 2         | 0.88%   |
 | SanDisk NVMe SSD Drive 512GB                        | 2         | 0.88%   |
 | Samsung SSD PM830 2.5 7mm 128GB                     | 2         | 0.88%   |
 | Samsung SSD 860 QVO 1TB                             | 2         | 0.88%   |
@@ -1195,10 +1195,11 @@ Hard disk drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Seagate | 14        | 20     | 38.89%  |
-| WDC     | 10        | 12     | 27.78%  |
-| Toshiba | 8         | 10     | 22.22%  |
-| HGST    | 4         | 4      | 11.11%  |
+| Seagate | 14        | 20     | 37.84%  |
+| WDC     | 10        | 12     | 27.03%  |
+| Toshiba | 8         | 10     | 21.62%  |
+| HGST    | 4         | 4      | 10.81%  |
+| SABRENT | 1         | 1      | 2.7%    |
 
 SSD Vendor
 ----------
@@ -1239,11 +1240,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 113       | 161    | 55.67%  |
-| SSD     | 44        | 54     | 21.67%  |
-| HDD     | 36        | 46     | 17.73%  |
-| MMC     | 8         | 9      | 3.94%   |
-| Unknown | 2         | 3      | 0.99%   |
+| NVMe    | 113       | 160    | 55.39%  |
+| SSD     | 44        | 54     | 21.57%  |
+| HDD     | 37        | 47     | 18.14%  |
+| MMC     | 8         | 9      | 3.92%   |
+| Unknown | 2         | 3      | 0.98%   |
 
 Drive Connector
 ---------------
@@ -1270,11 +1271,11 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 46     | 48.72%  |
-| 0.51-1.0   | 31        | 40     | 39.74%  |
-| 1.01-2.0   | 5         | 6      | 6.41%   |
-| 3.01-4.0   | 2         | 2      | 2.56%   |
-| 4.01-10.0  | 2         | 6      | 2.56%   |
+| 0.01-0.5   | 38        | 46     | 49.35%  |
+| 0.51-1.0   | 29        | 38     | 37.66%  |
+| 1.01-2.0   | 6         | 9      | 7.79%   |
+| 3.01-4.0   | 3         | 3      | 3.9%    |
+| 4.01-10.0  | 1         | 5      | 1.3%    |
 
 Space Total
 -----------
@@ -1700,7 +1701,7 @@ Microarchitecture
 | Skylake          | 16        | 9.94%   |
 | CometLake        | 12        | 7.45%   |
 | IvyBridge        | 8         | 4.97%   |
-| Icelake          | 8         | 4.97%   |
+| IceLake          | 8         | 4.97%   |
 | SandyBridge      | 7         | 4.35%   |
 | TigerLake        | 6         | 3.73%   |
 | Alderlake Hybrid | 6         | 3.73%   |
@@ -1888,11 +1889,11 @@ Monitor models
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch              | 5         | 2.18%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 5         | 2.18%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 309x173mm 13.9-inch      | 5         | 2.18%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 309x174mm 14.0-inch        | 5         | 2.18%   |
+| AU Optronics LCD Monitor AUO403D 1920x1080 309x173mm 13.9-inch        | 5         | 2.18%   |
 | BOE LCD Monitor BOE07C9 1920x1080 309x173mm 13.9-inch                 | 4         | 1.75%   |
 | LG Display LCD Monitor LGD0676 1920x1080 309x174mm 14.0-inch          | 3         | 1.31%   |
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                     | 3         | 1.31%   |
-| Dell P2419H DELD0D9 1920x1080 530x300mm 24.0-inch                     | 3         | 1.31%   |
+| Dell P2419H DELD0D9 1920x1080 527x296mm 23.8-inch                     | 3         | 1.31%   |
 | BOE LCD Monitor BOE086E 1920x1080 344x194mm 15.5-inch                 | 3         | 1.31%   |
 | AU Optronics LCD Monitor AUO323D 1920x1080 309x174mm 14.0-inch        | 3         | 1.31%   |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 2         | 0.87%   |
@@ -1906,12 +1907,12 @@ Monitor models
 | Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch            | 2         | 0.87%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 344x193mm 15.5-inch              | 2         | 0.87%   |
 | Hewlett-Packard 27yh HPN351C 1920x1080 598x336mm 27.0-inch            | 2         | 0.87%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 2         | 0.87%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 2         | 0.87%   |
 | Chimei Innolux LCD Monitor CMN14F5 1920x1080 309x173mm 13.9-inch      | 2         | 0.87%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch       | 2         | 0.87%   |
 | AU Optronics LCD Monitor AUO562D 1920x1080 293x165mm 13.2-inch        | 2         | 0.87%   |
 | AU Optronics LCD Monitor AUO313E 1600x900 309x174mm 14.0-inch         | 2         | 0.87%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 2         | 0.87%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 2         | 0.87%   |
 | Sun LCD Monitor SUN059A 1920x1080 518x324mm 24.1-inch                 | 1         | 0.44%   |
 | Sharp LCD Monitor SHP1518 1920x1200 366x229mm 17.0-inch               | 1         | 0.44%   |
 | Sharp LCD Monitor SHP14D1 1920x1200 336x210mm 15.6-inch               | 1         | 0.44%   |
@@ -2311,7 +2312,7 @@ Ethernet models
 | Realtek Killer E2600 Gigabit Ethernet Controller                               | 1         | 0.6%    |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                      | 1         | 0.6%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                      | 1         | 0.6%    |
-| OPPO RMX3623                                                                   | 1         | 0.6%    |
+| OPPO SM8350-IDP _SN:27BAACC8                                                   | 1         | 0.6%    |
 | Lenovo USB-C Dock Ethernet                                                     | 1         | 0.6%    |
 | Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                               | 1         | 0.6%    |
 | Intel Ethernet Controller I225-V                                               | 1         | 0.6%    |
@@ -2411,7 +2412,7 @@ Controller models
 
 | Model                                                                               | Notebooks | Percent |
 |-------------------------------------------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                                                               | 37        | 28.24%  |
+| Intel Bluetooth Device                                                              | 39        | 29.77%  |
 | Intel Bluetooth wireless interface                                                  | 27        | 20.61%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 22        | 16.79%  |
 | Intel AX200 Bluetooth                                                               | 8         | 6.11%   |
@@ -2420,7 +2421,6 @@ Controller models
 | Intel AX210 Bluetooth                                                               | 3         | 2.29%   |
 | Realtek Bluetooth Radio                                                             | 2         | 1.53%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 2         | 1.53%   |
-| Intel Bluetooth Device                                                              | 2         | 1.53%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 2         | 1.53%   |
 | Broadcom HP Portable SoftSailing                                                    | 2         | 1.53%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 2         | 1.53%   |
@@ -2437,7 +2437,7 @@ Controller models
 | Dell DW375 Bluetooth Module                                                         | 1         | 0.76%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                                                   | 1         | 0.76%   |
 | Broadcom BCM20702A0 Bluetooth                                                       | 1         | 0.76%   |
-| ASUS ASUS USB-BT500                                                                 | 1         | 0.76%   |
+| ASUS Bluetooth Device                                                               | 1         | 0.76%   |
 
 Sound
 -----
@@ -2562,9 +2562,8 @@ Memory module models
 
 | Model                                                           | Notebooks | Percent |
 |-----------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 3         | 4.48%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 5         | 7.46%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2667MT/s          | 3         | 4.48%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 2         | 2.99%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 2         | 2.99%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s          | 2         | 2.99%   |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s          | 2         | 2.99%   |
@@ -2578,12 +2577,12 @@ Memory module models
 | Smart RAM SF564128CJ8NWMNSEG 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.49%   |
 | Smart RAM SF4642G8CK8IEHLSBG 16GB SODIMM DDR4 2667MT/s          | 1         | 1.49%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 1.49%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s       | 1         | 1.49%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 1.49%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.49%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s       | 1         | 1.49%   |
 | SK hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 1.49%   |
 | SK hynix RAM HMAA2GS6CJR8N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 1.49%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s          | 1         | 1.49%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s          | 1         | 1.49%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s       | 1         | 1.49%   |
 | SK hynix RAM HMA82GS7MFR8N-TF 16GB SODIMM DDR4 2133MT/s         | 1         | 1.49%   |
 | SK hynix RAM HMA82GS6MFR8N-TF 16GB SODIMM DDR4 2133MT/s         | 1         | 1.49%   |
 | SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s         | 1         | 1.49%   |
@@ -2592,16 +2591,17 @@ Memory module models
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s          | 1         | 1.49%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                     | 1         | 1.49%   |
 | Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                    | 1         | 1.49%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s           | 1         | 1.49%   |
+| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s        | 1         | 1.49%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 1.49%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 1.49%   |
-| Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 1.49%   |
+| Samsung RAM M471B5173CB0-YK0 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.49%   |
 | Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s        | 1         | 1.49%   |
 | Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s          | 1         | 1.49%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s           | 1         | 1.49%   |
 | Samsung RAM M471A1K43BB1-CTD 8GB SODIMM DDR4 2667MT/s           | 1         | 1.49%   |
 | Samsung RAM K4EBE304EB-EGCG 8GB Row Of Chips LPDDR3 2133MT/s    | 1         | 1.49%   |
 | Samsung RAM K4B8G1646B-MYK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.49%   |
+| Samsung RAM K3LK7K7@BM-BGCP 2GB Row Of Chips LPDDR5 6400MT/s    | 1         | 1.49%   |
 
 Memory Kind
 -----------
@@ -2735,10 +2735,10 @@ Camera device vendors
 | Suyin                                  | 4         | 2.44%   |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 2.44%   |
 | Samsung Electronics                    | 3         | 1.83%   |
-| Luxvisions Innotech Limited            | 3         | 1.83%   |
 | Syntek                                 | 2         | 1.22%   |
 | Quanta                                 | 2         | 1.22%   |
 | Microsoft                              | 2         | 1.22%   |
+| Luxvisions Innotech Limited            | 2         | 1.22%   |
 | Sonix Technology                       | 1         | 0.61%   |
 | Shenzhen Kingcome Optoelectronic       | 1         | 0.61%   |
 | Ruision                                | 1         | 0.61%   |
@@ -2749,6 +2749,7 @@ Camera device vendors
 | Hopewin Electronic Material            | 1         | 0.61%   |
 | Creative Technology                    | 1         | 0.61%   |
 | Acer                                   | 1         | 0.61%   |
+| 8SSC21D67422V1SR28902JL                | 1         | 0.61%   |
 
 Camera Model
 ------------
@@ -2758,48 +2759,48 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                             | Notebooks | Percent |
-|---------------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                         | 23        | 13.77%  |
-| IMC Networks Integrated Camera                    | 20        | 11.98%  |
-| Realtek Integrated_Webcam_HD                      | 9         | 5.39%   |
-| Bison Integrated Camera                           | 8         | 4.79%   |
-| Sunplus Integrated_Webcam_HD                      | 5         | 2.99%   |
-| Microdia Integrated_Webcam_HD                     | 5         | 2.99%   |
-| Chicony Integrated Camera (1280x720@30)           | 5         | 2.99%   |
-| Chicony HP HD Camera                              | 5         | 2.99%   |
-| Bison SunplusIT Integrated Camera                 | 5         | 2.99%   |
-| Logitech HD Pro Webcam C920                       | 4         | 2.4%    |
-| Lite-On Integrated Camera                         | 4         | 2.4%    |
-| Chicony ThinkPad T490 Webcam                      | 4         | 2.4%    |
-| Samsung Galaxy series, misc. (MTP mode)           | 3         | 1.8%    |
-| IMC Networks USB2.0 HD UVC WebCam                 | 3         | 1.8%    |
-| Suyin Integrated_Webcam_HD                        | 2         | 1.2%    |
-| Microdia Webcam                                   | 2         | 1.2%    |
-| Microdia Integrated Webcam                        | 2         | 1.2%    |
-| Luxvisions Innotech Limited Integrated RGB Camera | 2         | 1.2%    |
-| Chicony Integrated Camera [ThinkPad]              | 2         | 1.2%    |
-| Chicony HP HD Webcam [Fixed]                      | 2         | 1.2%    |
-| Bison Integrated IR Camera                        | 2         | 1.2%    |
-| Syntek Lenovo EasyCamera                          | 1         | 0.6%    |
-| Syntek Integrated Camera                          | 1         | 0.6%    |
-| Suyin RGBIR Camera                                | 1         | 0.6%    |
-| Suyin HP Truevision HD                            | 1         | 0.6%    |
-| Sunplus Laptop_Integrated_Webcam_FHD              | 1         | 0.6%    |
-| Sunplus Integrated Webcam                         | 1         | 0.6%    |
-| Sunplus HP HD Webcam [Fixed]                      | 1         | 0.6%    |
-| Sunplus FHD Camera Microphone                     | 1         | 0.6%    |
-| Sonix USB2.0 HD UVC WebCam                        | 1         | 0.6%    |
-| Shenzhen Kingcome Optoelectronic 720p HD Camera   | 1         | 0.6%    |
-| Ruision UVC Camera                                | 1         | 0.6%    |
-| Remo Tech OBSBOT Tiny 4K                          | 1         | 0.6%    |
-| Realtek USB2.0 VGA UVC WebCam                     | 1         | 0.6%    |
-| Realtek USB Camera                                | 1         | 0.6%    |
-| Realtek NexiGo N960E FHD Webcam                   | 1         | 0.6%    |
-| Realtek Integrated Webcam_HD                      | 1         | 0.6%    |
-| Realtek HP Webcam                                 | 1         | 0.6%    |
-| Quanta HP TrueVision HD Camera                    | 1         | 0.6%    |
-| Quanta HP HD Camera                               | 1         | 0.6%    |
+| Model                                           | Notebooks | Percent |
+|-------------------------------------------------|-----------|---------|
+| Chicony Integrated Camera                       | 23        | 13.77%  |
+| IMC Networks Integrated Camera                  | 20        | 11.98%  |
+| Realtek Integrated_Webcam_HD                    | 9         | 5.39%   |
+| Bison Integrated Camera                         | 8         | 4.79%   |
+| Sunplus Integrated_Webcam_HD                    | 6         | 3.59%   |
+| Microdia Integrated_Webcam_HD                   | 5         | 2.99%   |
+| Chicony Integrated Camera (1280x720@30)         | 5         | 2.99%   |
+| Chicony HP HD Camera                            | 5         | 2.99%   |
+| Bison SunplusIT Integrated Camera               | 5         | 2.99%   |
+| Logitech HD Pro Webcam C920                     | 4         | 2.4%    |
+| Lite-On Integrated Camera                       | 4         | 2.4%    |
+| Chicony ThinkPad T490 Webcam                    | 4         | 2.4%    |
+| Samsung Galaxy series, misc. (MTP mode)         | 3         | 1.8%    |
+| IMC Networks USB2.0 HD UVC WebCam               | 3         | 1.8%    |
+| Suyin Integrated_Webcam_HD                      | 2         | 1.2%    |
+| Microdia Webcam                                 | 2         | 1.2%    |
+| Microdia Integrated Webcam                      | 2         | 1.2%    |
+| Chicony Integrated Camera [ThinkPad]            | 2         | 1.2%    |
+| Chicony HP HD Webcam [Fixed]                    | 2         | 1.2%    |
+| Bison Integrated IR Camera                      | 2         | 1.2%    |
+| Syntek Lenovo EasyCamera                        | 1         | 0.6%    |
+| Syntek Integrated Camera                        | 1         | 0.6%    |
+| Suyin RGBIR Camera                              | 1         | 0.6%    |
+| Suyin HP Truevision HD                          | 1         | 0.6%    |
+| Sunplus Laptop_Integrated_Webcam_FHD            | 1         | 0.6%    |
+| Sunplus Integrated Webcam                       | 1         | 0.6%    |
+| Sunplus HP HD Webcam [Fixed]                    | 1         | 0.6%    |
+| Sonix USB2.0 HD UVC WebCam                      | 1         | 0.6%    |
+| Shenzhen Kingcome Optoelectronic 720p HD Camera | 1         | 0.6%    |
+| Ruision UVC Camera                              | 1         | 0.6%    |
+| Remo Tech OBSBOT Tiny 4K                        | 1         | 0.6%    |
+| Realtek USB2.0 VGA UVC WebCam                   | 1         | 0.6%    |
+| Realtek USB Camera                              | 1         | 0.6%    |
+| Realtek NexiGo N960E FHD Webcam                 | 1         | 0.6%    |
+| Realtek Integrated Webcam_HD                    | 1         | 0.6%    |
+| Realtek HP Webcam                               | 1         | 0.6%    |
+| Quanta HP TrueVision HD Camera                  | 1         | 0.6%    |
+| Quanta HP HD Camera                             | 1         | 0.6%    |
+| Microsoft LifeCam VX-2000                       | 1         | 0.6%    |
+| Microsoft LifeCam Cinema                        | 1         | 0.6%    |
 
 Security
 --------

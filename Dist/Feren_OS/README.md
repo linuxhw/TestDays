@@ -874,8 +874,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 56        | 60.22%  |
-| Yes       | 37        | 39.78%  |
+| No        | 57        | 61.29%  |
+| Yes       | 36        | 38.71%  |
 
 Has Ethernet
 ------------
@@ -1062,13 +1062,13 @@ Hard drive models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 128GB                         | 3         | 1.97%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 3         | 1.97%   |
 | Unknown MMC Card  32GB                              | 2         | 1.32%   |
 | Seagate ST500LT012-9WS142 500GB                     | 2         | 1.32%   |
 | Seagate ST4000LM016-1N2170 4TB                      | 2         | 1.32%   |
 | Seagate ST31000528AS 1TB                            | 2         | 1.32%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 2         | 1.32%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2         | 1.32%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2         | 1.32%   |
 | Samsung HD103SJ 1TB                                 | 2         | 1.32%   |
 | Realtek NVMe SSD Drive 512GB                        | 2         | 1.32%   |
 | Phison NVMe SSD Drive 1TB                           | 2         | 1.32%   |
@@ -1190,12 +1190,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 60        | 88     | 61.22%  |
-| 0.51-1.0   | 26        | 40     | 26.53%  |
-| 1.01-2.0   | 6         | 10     | 6.12%   |
-| 3.01-4.0   | 3         | 7      | 3.06%   |
-| 2.01-3.0   | 2         | 2      | 2.04%   |
-| 4.01-10.0  | 1         | 1      | 1.02%   |
+| 0.01-0.5   | 59        | 86     | 59.6%   |
+| 0.51-1.0   | 28        | 42     | 28.28%  |
+| 1.01-2.0   | 6         | 10     | 6.06%   |
+| 3.01-4.0   | 3         | 7      | 3.03%   |
+| 2.01-3.0   | 2         | 2      | 2.02%   |
+| 4.01-10.0  | 1         | 1      | 1.01%   |
 
 Space Total
 -----------
@@ -1866,7 +1866,7 @@ Monitor models
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor U28E590                               | 1         | 1.04%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 1.04%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SEC3542 2160x1440 254x169mm 12.0-inch | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SDC4161 1920x1080 344x194mm 15.5-inch | 1         | 1.04%   |
 | Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch  | 1         | 1.04%   |
@@ -2269,13 +2269,13 @@ Ethernet models
 | Research In Motion BlackBerry                                        | 1         | 1.11%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                             | 1         | 1.11%   |
 | Realtek Killer E3000 2.5GbE Controller                               | 1         | 1.11%   |
-| Qualcomm Redmi 9T                                                    | 1         | 1.11%   |
+| Qualcomm FP3                                                         | 1         | 1.11%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller            | 1         | 1.11%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                           | 1         | 1.11%   |
 | Nvidia MCP79 Ethernet                                                | 1         | 1.11%   |
 | Nvidia MCP55 Ethernet                                                | 1         | 1.11%   |
 | NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter | 1         | 1.11%   |
-| Motorola PCS moto g62 5G                                             | 1         | 1.11%   |
+| Motorola PCS motorola edge 40                                        | 1         | 1.11%   |
 | Microsoft RTL8153 GigE [Surface Ethernet Adapter]                    | 1         | 1.11%   |
 | Marvell Group 88E8039 PCI-E Fast Ethernet Controller                 | 1         | 1.11%   |
 | Intel WiMAX Connection 2400m                                         | 1         | 1.11%   |
@@ -2397,19 +2397,18 @@ Controller models
 | Intel AX200 Bluetooth                               | 3         | 5.77%   |
 | IMC Networks Wireless_Device                        | 3         | 5.77%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 2         | 3.85%   |
+| Realtek Bluetooth Radio                             | 2         | 3.85%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 3.85%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 2         | 3.85%   |
-| Apple Bluetooth Host Controller                     | 2         | 3.85%   |
+| Apple Bluetooth USB Host Controller                 | 2         | 3.85%   |
 | Realtek Bluetooth Radio                             | 1         | 1.92%   |
-| Realtek Bluetooth Radio                             | 1         | 1.92%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 1.92%   |
 | Ralink RT3290 Bluetooth                             | 1         | 1.92%   |
 | Marvell Bluetooth and Wireless LAN Composite Device | 1         | 1.92%   |
 | Lite-On Bluetooth Device                            | 1         | 1.92%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 1.92%   |
+| Intel Bluetooth Device                              | 1         | 1.92%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 1.92%   |
 | Intel AX210 Bluetooth                               | 1         | 1.92%   |
-| Intel AX201 Bluetooth                               | 1         | 1.92%   |
 | IMC Networks Bluetooth USB Host Controller          | 1         | 1.92%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 1.92%   |
 | Foxconn / Hon Hai BCM43142A0                        | 1         | 1.92%   |
@@ -2417,7 +2416,7 @@ Controller models
 | Broadcom BCM20702A0 Bluetooth 4.0                   | 1         | 1.92%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 1         | 1.92%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1         | 1.92%   |
-| Apple Bluetooth USB Host Controller                 | 1         | 1.92%   |
+| Apple Bluetooth Host Controller                     | 1         | 1.92%   |
 
 Sound
 -----
@@ -2529,16 +2528,15 @@ Memory module models
 
 | Model                                                          | Computers | Percent |
 |----------------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 6.25%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s           | 2         | 6.25%   |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s           | 2         | 6.25%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                    | 1         | 3.13%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1400MT/s                   | 1         | 3.13%   |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s                | 1         | 3.13%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 3.13%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 3.13%   |
 | SK hynix RAM HKNNNFBMAVAR-NEH 2GB Row Of Chips LPDDR4 3200MT/s | 1         | 3.13%   |
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1867MT/s               | 1         | 3.13%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 3.13%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s       | 1         | 3.13%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 3.13%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1         | 3.13%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
@@ -2547,14 +2545,14 @@ Memory module models
 | Micron RAM 8JTF5126 4HZ1G6D 1 4GB SODIMM DDR3 1600MT/s         | 1         | 3.13%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s          | 1         | 3.13%   |
 | Kingston RAM MSI24D4S7D8MH-16 16384MB SODIMM DDR4 2400MT/s     | 1         | 3.13%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s         | 1         | 3.13%   |
 | Kingston RAM ASU16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s         | 1         | 3.13%   |
 | HP RAM 7EH65AA# 16384MB DIMM DDR4 2666MT/s                     | 1         | 3.13%   |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s           | 1         | 3.13%   |
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1         | 3.13%   |
 | Crucial RAM Module 4096MB SODIMM DDR3 1600MT/s                 | 1         | 3.13%   |
 | Crucial RAM CT8G4DFD8213.C16FBR2 8GB DIMM DDR4 2133MT/s        | 1         | 3.13%   |
-| Crucial RAM CT51264BF160BJ.C8F 4096MB SODIMM DDR3 1600MT/s     | 1         | 3.13%   |
+| Crucial RAM CT51264BF160BJ.C8F 4GB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s      | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1         | 3.13%   |
 | A-DATA RAM DDR4 3000 16GB DIMM DDR4 3600MT/s                   | 1         | 3.13%   |
@@ -2743,14 +2741,14 @@ Camera device models
 | Z-Star Integrated Camera                                                   | 1         | 1.79%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 1.79%   |
 | Sunplus HP HD Webcam [Fixed]                                               | 1         | 1.79%   |
-| Sunplus Asus Webcam                                                        | 1         | 1.79%   |
+| Sunplus ASUS USB2.0 Webcam                                                 | 1         | 1.79%   |
 | Samsung Galaxy series, misc. (MTP mode)                                    | 1         | 1.79%   |
 | Realtek USB Camera                                                         | 1         | 1.79%   |
 | Realtek Integrated_Webcam_HD                                               | 1         | 1.79%   |
 | Realtek HP Wide Vision HD Camera                                           | 1         | 1.79%   |
 | Realtek HD WebCam                                                          | 1         | 1.79%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro                                       | 1         | 1.79%   |
-| Novatek J1455                                                              | 1         | 1.79%   |
+| Novatek DEMO1                                                              | 1         | 1.79%   |
 | Microsoft LifeCam VX-5000                                                  | 1         | 1.79%   |
 | Microsoft LifeCam VX-500 [1357]                                            | 1         | 1.79%   |
 | Microdia Integrated Webcam                                                 | 1         | 1.79%   |
@@ -2760,7 +2758,7 @@ Camera device models
 | Lite-On Integrated Camera                                                  | 1         | 1.79%   |
 | IMC Networks USB2.0 UVC HD Webcam                                          | 1         | 1.79%   |
 | IMC Networks ov9734_azurewave_camera                                       | 1         | 1.79%   |
-| Huawei UVC Camera                                                          | 1         | 1.79%   |
+| Huawei HiCamera                                                            | 1         | 1.79%   |
 | Generalplus 808 Camera #9 (web-cam mode)                                   | 1         | 1.79%   |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311]                          | 1         | 1.79%   |
 | Cubeternet GL-UPC822 UVC WebCam                                            | 1         | 1.79%   |
@@ -2852,8 +2850,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 69        | 72.63%  |
-| 1     | 22        | 23.16%  |
+| 0     | 70        | 73.68%  |
+| 1     | 21        | 22.11%  |
 | 2     | 3         | 3.16%   |
 | 3     | 1         | 1.05%   |
 
@@ -2867,12 +2865,12 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Graphics card         | 7         | 24.14%  |
-| Fingerprint reader    | 6         | 20.69%  |
-| Net/wireless          | 5         | 17.24%  |
-| Multimedia controller | 4         | 13.79%  |
-| Chipcard              | 3         | 10.34%  |
-| Net/ethernet          | 2         | 6.9%    |
-| Sound                 | 1         | 3.45%   |
-| Bluetooth             | 1         | 3.45%   |
+| Graphics card         | 6         | 21.43%  |
+| Fingerprint reader    | 6         | 21.43%  |
+| Net/wireless          | 5         | 17.86%  |
+| Multimedia controller | 4         | 14.29%  |
+| Chipcard              | 3         | 10.71%  |
+| Net/ethernet          | 2         | 7.14%   |
+| Sound                 | 1         | 3.57%   |
+| Bluetooth             | 1         | 3.57%   |
 

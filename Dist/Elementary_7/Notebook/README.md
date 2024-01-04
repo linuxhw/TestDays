@@ -866,8 +866,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 104       | 67.53%  |
-| Yes       | 50        | 32.47%  |
+| No        | 105       | 68.18%  |
+| Yes       | 49        | 31.82%  |
 
 Has Ethernet
 ------------
@@ -1077,16 +1077,16 @@ Hard drive models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Sandisk WD Blue SN550 NVMe SSD 512GB                | 3         | 1.58%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3         | 1.58%   |
+| Sandisk WD Blue SN550 NVMe SSD 1TB                  | 3         | 1.58%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3         | 1.58%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 3         | 1.58%   |
-| Phison E12 NVMe Controller 512GB                    | 3         | 1.58%   |
+| Phison E12 NVMe Controller 1TB                      | 3         | 1.58%   |
 | Apple SSD SD0128F 121GB                             | 3         | 1.58%   |
 | Unknown MMC Card  7GB                               | 2         | 1.05%   |
 | Unknown MMC Card  32GB                              | 2         | 1.05%   |
 | Toshiba MK5065GSXF 500GB                            | 2         | 1.05%   |
-| Seagate Expansion 1TB                               | 2         | 1.05%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB    | 2         | 1.05%   |
+| Seagate Expansion 2TB                               | 2         | 1.05%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 2TB      | 2         | 1.05%   |
 | SanDisk SDSSDA240G 240GB                            | 2         | 1.05%   |
 | Samsung MZNLH128HBHQ-000H1 128GB SSD                | 2         | 1.05%   |
 | Kingston Company SNV2S1000G 1TB                     | 2         | 1.05%   |
@@ -1147,32 +1147,32 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Crucial             | 11        | 12     | 14.1%   |
-| Apple               | 11        | 11     | 14.1%   |
-| Samsung Electronics | 10        | 11     | 12.82%  |
-| SanDisk             | 9         | 9      | 11.54%  |
-| Kingston            | 6         | 8      | 7.69%   |
-| WDC                 | 5         | 6      | 6.41%   |
-| Toshiba             | 4         | 6      | 5.13%   |
-| China               | 4         | 4      | 5.13%   |
-| VISIPRO             | 1         | 1      | 1.28%   |
-| USB30               | 1         | 1      | 1.28%   |
-| Transcend           | 1         | 1      | 1.28%   |
-| SPCC                | 1         | 1      | 1.28%   |
-| SK hynix            | 1         | 1      | 1.28%   |
-| PNY                 | 1         | 1      | 1.28%   |
-| Phison              | 1         | 1      | 1.28%   |
-| OWC                 | 1         | 1      | 1.28%   |
-| Micron Technology   | 1         | 1      | 1.28%   |
-| LITEON              | 1         | 1      | 1.28%   |
-| KUU                 | 1         | 1      | 1.28%   |
-| KingDian            | 1         | 1      | 1.28%   |
-| JMicron Technology  | 1         | 1      | 1.28%   |
-| Intenso             | 1         | 2      | 1.28%   |
-| Intel               | 1         | 1      | 1.28%   |
-| Inland              | 1         | 1      | 1.28%   |
-| BIWIN               | 1         | 1      | 1.28%   |
-| Apacer              | 1         | 1      | 1.28%   |
+| Crucial             | 11        | 12     | 14.29%  |
+| Apple               | 11        | 11     | 14.29%  |
+| SanDisk             | 9         | 9      | 11.69%  |
+| Samsung Electronics | 9         | 10     | 11.69%  |
+| Kingston            | 6         | 8      | 7.79%   |
+| WDC                 | 5         | 6      | 6.49%   |
+| Toshiba             | 4         | 6      | 5.19%   |
+| China               | 4         | 4      | 5.19%   |
+| VISIPRO             | 1         | 1      | 1.3%    |
+| USB30               | 1         | 1      | 1.3%    |
+| Transcend           | 1         | 1      | 1.3%    |
+| SPCC                | 1         | 1      | 1.3%    |
+| SK hynix            | 1         | 1      | 1.3%    |
+| PNY                 | 1         | 1      | 1.3%    |
+| Phison              | 1         | 1      | 1.3%    |
+| OWC                 | 1         | 1      | 1.3%    |
+| Micron Technology   | 1         | 1      | 1.3%    |
+| LITEON              | 1         | 1      | 1.3%    |
+| KUU                 | 1         | 1      | 1.3%    |
+| KingDian            | 1         | 1      | 1.3%    |
+| JMicron Technology  | 1         | 1      | 1.3%    |
+| Intenso             | 1         | 2      | 1.3%    |
+| Intel               | 1         | 1      | 1.3%    |
+| Inland              | 1         | 1      | 1.3%    |
+| BIWIN               | 1         | 1      | 1.3%    |
+| Apacer              | 1         | 1      | 1.3%    |
 
 Drive Kind
 ----------
@@ -1184,11 +1184,11 @@ HDD or SSD
 
 | Kind    | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| SSD     | 73        | 86     | 41.01%  |
-| NVMe    | 57        | 67     | 32.02%  |
-| HDD     | 31        | 36     | 17.42%  |
-| MMC     | 9         | 10     | 5.06%   |
-| Unknown | 8         | 8      | 4.49%   |
+| SSD     | 73        | 85     | 40.78%  |
+| NVMe    | 58        | 68     | 32.4%   |
+| HDD     | 31        | 36     | 17.32%  |
+| MMC     | 9         | 10     | 5.03%   |
+| Unknown | 8         | 8      | 4.47%   |
 
 Drive Connector
 ---------------
@@ -1215,9 +1215,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 80        | 89     | 74.07%  |
-| 0.51-1.0   | 23        | 28     | 21.3%   |
-| 1.01-2.0   | 5         | 5      | 4.63%   |
+| 0.01-0.5   | 79        | 88     | 74.53%  |
+| 0.51-1.0   | 22        | 26     | 20.75%  |
+| 1.01-2.0   | 5         | 7      | 4.72%   |
 
 Space Total
 -----------
@@ -1819,7 +1819,7 @@ Monitor models
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 0.6%    |
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch     | 1         | 0.6%    |
 | Samsung Electronics LCD Monitor SEC5641 1366x768 344x193mm 15.5-inch  | 1         | 0.6%    |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.6%    |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.6%    |
 | Samsung Electronics LCD Monitor SEC5341 1366x768 344x193mm 15.5-inch  | 1         | 0.6%    |
 | Samsung Electronics LCD Monitor SEC4249 1366x768 309x174mm 14.0-inch  | 1         | 0.6%    |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 0.6%    |
@@ -2320,12 +2320,12 @@ Controller models
 | Model                                              | Notebooks | Percent |
 |----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                 | 22        | 15.94%  |
+| Intel Bluetooth Device                             | 16        | 11.59%  |
 | Apple Bluetooth Host Controller                    | 15        | 10.87%  |
-| Intel AX201 Bluetooth                              | 14        | 10.14%  |
 | Realtek  Bluetooth 4.2 Adapter                     | 10        | 7.25%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)     | 10        | 7.25%   |
-| Realtek Bluetooth Radio                            | 9         | 6.52%   |
 | Apple Bluetooth USB Host Controller                | 9         | 6.52%   |
+| Realtek Bluetooth Radio                            | 8         | 5.8%    |
 | Qualcomm Atheros  Bluetooth Device                 | 4         | 2.9%    |
 | Lite-On Bluetooth Device                           | 3         | 2.17%   |
 | Intel AX200 Bluetooth                              | 3         | 2.17%   |
@@ -2335,11 +2335,11 @@ Controller models
 | Intel Wireless-AC 9260 Bluetooth Adapter           | 2         | 1.45%   |
 | Intel Centrino Bluetooth Wireless Transceiver      | 2         | 1.45%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter   | 2         | 1.45%   |
-| Intel Bluetooth Device                             | 2         | 1.45%   |
 | Intel AX210 Bluetooth                              | 2         | 1.45%   |
 | Broadcom BCM43142A0 Bluetooth Device               | 2         | 1.45%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]         | 2         | 1.45%   |
 | Toshiba Bluetooth Device                           | 1         | 0.72%   |
+| Realtek RTL8821A Bluetooth                         | 1         | 0.72%   |
 | Ralink RT3290 Bluetooth                            | 1         | 0.72%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0             | 1         | 0.72%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0              | 1         | 0.72%   |
@@ -2485,7 +2485,7 @@ Memory module models
 | Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s      | 1         | 2.78%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.78%   |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 2.78%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 1         | 2.78%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s         | 1         | 2.78%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.78%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s      | 1         | 2.78%   |
 | Samsung RAM K4E6E304EC-EGCG 4GB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.78%   |
@@ -2593,9 +2593,9 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                              | Notebooks | Percent |
-|------------------------------------|-----------|---------|
-| HP DeskJet 2620 All-in-One Printer | 1         | 100%    |
+| Model                  | Notebooks | Percent |
+|------------------------|-----------|---------|
+| HP DeskJet 2600 series | 1         | 100%    |
 
 Scanner Vendor
 --------------
@@ -2630,7 +2630,7 @@ Camera device vendors
 | IMC Networks                           | 13        | 9.35%   |
 | Realtek Semiconductor                  | 10        | 7.19%   |
 | Microdia                               | 10        | 7.19%   |
-| Bison Electronics                      | 9         | 6.47%   |
+| Bison Electronics                      | 8         | 5.76%   |
 | Cheng Uei Precision Industry (Foxlink) | 7         | 5.04%   |
 | Sunplus Innovation Technology          | 6         | 4.32%   |
 | Luxvisions Innotech Limited            | 3         | 2.16%   |
@@ -2639,6 +2639,7 @@ Camera device vendors
 | Lite-On Technology                     | 2         | 1.44%   |
 | Lenovo                                 | 2         | 1.44%   |
 | Alcor Micro                            | 2         | 1.44%   |
+| Acer                                   | 2         | 1.44%   |
 | Y Media                                | 1         | 0.72%   |
 | Suyin                                  | 1         | 0.72%   |
 | Sunplus Technology                     | 1         | 0.72%   |
@@ -2650,7 +2651,6 @@ Camera device vendors
 | Intel                                  | 1         | 0.72%   |
 | Cubeternet                             | 1         | 0.72%   |
 | Cisco Systems                          | 1         | 0.72%   |
-| Acer                                   | 1         | 0.72%   |
 
 Camera Model
 ------------
@@ -2665,12 +2665,12 @@ Camera device models
 | Chicony Integrated Camera                        | 7         | 5%      |
 | Apple FaceTime HD Camera                         | 7         | 5%      |
 | Microdia Integrated_Webcam_HD                    | 5         | 3.57%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR               | 5         | 3.57%   |
+| Apple iPhone 5/5C/5S/6/SE                        | 5         | 3.57%   |
 | Apple Built-in iSight                            | 5         | 3.57%   |
 | Realtek Integrated_Webcam_HD                     | 4         | 2.86%   |
 | IMC Networks Integrated Camera                   | 4         | 2.86%   |
 | IMC Networks USB2.0 HD UVC WebCam                | 3         | 2.14%   |
-| Bison Lenovo Integrated Webcam                   | 3         | 2.14%   |
+| Chicony HD WebCam                                | 3         | 2.14%   |
 | Sunplus Integrated_Webcam_HD                     | 2         | 1.43%   |
 | Sunplus Dell E5570 integrated webcam             | 2         | 1.43%   |
 | Realtek USB Camera                               | 2         | 1.43%   |
@@ -2686,8 +2686,8 @@ Camera device models
 | Chicony HP Webcam                                | 2         | 1.43%   |
 | Chicony HP TrueVision HD Camera                  | 2         | 1.43%   |
 | Chicony HP Truevision HD                         | 2         | 1.43%   |
-| Chicony HD WebCam                                | 2         | 1.43%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam | 2         | 1.43%   |
+| Bison Lenovo Integrated Webcam                   | 2         | 1.43%   |
 | Bison Integrated Camera                          | 2         | 1.43%   |
 | Apple FaceTime Camera                            | 2         | 1.43%   |
 | Y Media USB Camera                               | 1         | 0.71%   |
@@ -2799,8 +2799,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 91        | 59.09%  |
-| 1     | 50        | 32.47%  |
+| 0     | 92        | 59.74%  |
+| 1     | 49        | 31.82%  |
 | 2     | 12        | 7.79%   |
 | 3     | 1         | 0.65%   |
 
@@ -2814,12 +2814,12 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 29        | 38.16%  |
-| Multimedia controller | 14        | 18.42%  |
-| Net/wireless          | 13        | 17.11%  |
-| Graphics card         | 9         | 11.84%  |
-| Chipcard              | 8         | 10.53%  |
-| Storage               | 1         | 1.32%   |
-| Net/ethernet          | 1         | 1.32%   |
-| Bluetooth             | 1         | 1.32%   |
+| Fingerprint reader    | 29        | 38.67%  |
+| Multimedia controller | 14        | 18.67%  |
+| Net/wireless          | 13        | 17.33%  |
+| Graphics card         | 8         | 10.67%  |
+| Chipcard              | 8         | 10.67%  |
+| Storage               | 1         | 1.33%   |
+| Net/ethernet          | 1         | 1.33%   |
+| Bluetooth             | 1         | 1.33%   |
 

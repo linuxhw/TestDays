@@ -1174,7 +1174,7 @@ Hard drive models
 | A-DATA SU650 120GB SSD                              | 5        | 1.82%   |
 | WDC WD20EFRX-68EUZN0 2TB                            | 4        | 1.46%   |
 | Samsung SSD 860 EVO 250GB                           | 4        | 1.46%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 4        | 1.46%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 4        | 1.46%   |
 | Toshiba DT01ACA100 1TB                              | 3        | 1.09%   |
 | Samsung SSD 860 EVO 500GB                           | 3        | 1.09%   |
 | Samsung SSD 860 EVO 1TB                             | 3        | 1.09%   |
@@ -1204,8 +1204,8 @@ Hard drive models
 | Samsung SSD 850 EVO 120GB                           | 2        | 0.73%   |
 | Samsung NVMe SSD Drive 500GB                        | 2        | 0.73%   |
 | Patriot Burst 120GB SSD                             | 2        | 0.73%   |
-| Micron/Crucial P2 NVMe PCIe SSD 1TB                 | 2        | 0.73%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 1024GB | 2        | 0.73%   |
+| Micron/Crucial P2 NVMe PCIe SSD 4TB                 | 2        | 0.73%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 256GB  | 2        | 0.73%   |
 | Kingston SV300S37A120G 120GB SSD                    | 2        | 0.73%   |
 | Kingston SUV400S37240G 240GB SSD                    | 2        | 0.73%   |
 | Kingston SA400S37480G 480GB SSD                     | 2        | 0.73%   |
@@ -1305,12 +1305,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 101      | 196    | 59.06%  |
-| 0.51-1.0   | 45       | 60     | 26.32%  |
-| 1.01-2.0   | 17       | 23     | 9.94%   |
-| 3.01-4.0   | 4        | 5      | 2.34%   |
-| 2.01-3.0   | 2        | 3      | 1.17%   |
-| 4.01-10.0  | 2        | 2      | 1.17%   |
+| 0.01-0.5   | 101      | 195    | 58.72%  |
+| 0.51-1.0   | 45       | 60     | 26.16%  |
+| 1.01-2.0   | 18       | 24     | 10.47%  |
+| 3.01-4.0   | 4        | 5      | 2.33%   |
+| 2.01-3.0   | 2        | 3      | 1.16%   |
+| 4.01-10.0  | 2        | 2      | 1.16%   |
 
 Space Total
 -----------
@@ -1995,7 +1995,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch  | 3        | 1.86%   |
 | BenQ GW2765 BNQ78D6 2560x1440 597x336mm 27.0-inch                     | 3        | 1.86%   |
-| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 3        | 1.86%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                      | 3        | 1.86%   |
 | Samsung Electronics T24E390 SAM0C20 1920x1080 521x293mm 23.5-inch     | 2        | 1.24%   |
 | Samsung Electronics SyncMaster SAM02AD 1440x900 410x257mm 19.1-inch   | 2        | 1.24%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 2        | 1.24%   |
@@ -2003,12 +2003,12 @@ Monitor models
 | Lenovo LEN T2324pA LEN60C7 1920x1080 509x286mm 23.0-inch              | 2        | 1.24%   |
 | Dell U2419H DEL4148 1920x1080 527x296mm 23.8-inch                     | 2        | 1.24%   |
 | Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                      | 2        | 1.24%   |
-| AOC 24G2W1G4 AOC2402 1920x1080 527x296mm 23.8-inch                    | 2        | 1.24%   |
+| AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 2        | 1.24%   |
 | AOC 2343 AOC2343 1920x1080 509x286mm 23.0-inch                        | 2        | 1.24%   |
 | Ancor Communications ASUS VP228 ACI22C3 1920x1080 476x268mm 21.5-inch | 2        | 1.24%   |
 | ViewSonic VP2365WB VSC7123 1920x1080 509x286mm 23.0-inch              | 1        | 0.62%   |
 | ViewSonic VA721 VSC6E19 1280x1024 340x270mm 17.1-inch                 | 1        | 0.62%   |
-| Unknown (XXX) Beyond TV XXX2851 3840x2160 1209x680mm 54.6-inch        | 1        | 0.62%   |
+| Unknown (XXX) Beyond TV XXX2851 1920x1080 1209x680mm 54.6-inch        | 1        | 0.62%   |
 | Sony TV SNY2C02 1920x1080 708x398mm 32.0-inch                         | 1        | 0.62%   |
 | Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch     | 1        | 0.62%   |
 | Samsung Electronics T19B300 SAM0926 1366x768 410x230mm 18.5-inch      | 1        | 0.62%   |
@@ -2250,14 +2250,14 @@ Controller models
 | Ralink RT2561/RT61 rev B 802.11g                                  | 2        | 1.04%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 2        | 1.04%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2        | 1.04%   |
-| Microsoft XBOX ACC                                                | 2        | 1.04%   |
+| Microsoft Xbox Wireless Adapter for Windows                       | 2        | 1.04%   |
 | Intel Ethernet Connection I217-LM                                 | 2        | 1.04%   |
 | Intel Ethernet Connection (2) I219-V                              | 2        | 1.04%   |
 | Intel 82578DC Gigabit Network Connection                          | 2        | 1.04%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 2        | 1.04%   |
 | Broadcom Limited NetXtreme BCM5755 Gigabit Ethernet PCI Express   | 2        | 1.04%   |
 | U-Blox [u-blox 7]                                                 | 1        | 0.52%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 1        | 0.52%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 1        | 0.52%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 0.52%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 0.52%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1        | 0.52%   |
@@ -2314,8 +2314,8 @@ Wireless models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 2        | 4.65%   |
 | Ralink RT2561/RT61 rev B 802.11g                                              | 2        | 4.65%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                              | 2        | 4.65%   |
-| Microsoft XBOX ACC                                                            | 2        | 4.65%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                           | 1        | 2.33%   |
+| Microsoft Xbox Wireless Adapter for Windows                                   | 2        | 4.65%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                         | 1        | 2.33%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                  | 1        | 2.33%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                    | 1        | 2.33%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                               | 1        | 2.33%   |
@@ -2497,12 +2497,11 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 14       | 45.16%  |
 | Intel AX200 Bluetooth                               | 4        | 12.9%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 3        | 9.68%   |
-| Intel AX201 Bluetooth                               | 2        | 6.45%   |
-| Edimax Bluetooth Adapter                            | 2        | 6.45%   |
+| Intel Bluetooth Device                              | 3        | 9.68%   |
+| Edimax Edimax Bluetooth Adapter                     | 2        | 6.45%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1        | 3.23%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1        | 3.23%   |
 | Intel Bluetooth wireless interface                  | 1        | 3.23%   |
-| Intel Bluetooth Device                              | 1        | 3.23%   |
 | Intel AX210 Bluetooth                               | 1        | 3.23%   |
 | Broadcom Bluetooth Device                           | 1        | 3.23%   |
 
@@ -2572,6 +2571,7 @@ Sound card models
 | Nvidia GP107GL High Definition Audio Controller                            | 5        | 1.77%   |
 | Nvidia GP106 High Definition Audio Controller                              | 5        | 1.77%   |
 | Nvidia GF108 High Definition Audio Controller                              | 5        | 1.77%   |
+| JMTek USB PnP Audio Device                                                 | 5        | 1.77%   |
 | Intel Cannon Lake PCH cAVS                                                 | 5        | 1.77%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 5        | 1.77%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 5        | 1.77%   |
@@ -2584,7 +2584,6 @@ Sound card models
 | Nvidia GM204 High Definition Audio Controller                              | 3        | 1.06%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 3        | 1.06%   |
 | Nvidia GA102 High Definition Audio Controller                              | 3        | 1.06%   |
-| JMTek USB PnP Audio Device                                                 | 3        | 1.06%   |
 | Intel Comet Lake PCH-V cAVS                                                | 3        | 1.06%   |
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 3        | 1.06%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 3        | 1.06%   |
@@ -2596,7 +2595,7 @@ Sound card models
 | Nvidia GM206 High Definition Audio Controller                              | 2        | 0.71%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 2        | 0.71%   |
 | Nvidia GK104 HDMI Audio Controller                                         | 2        | 0.71%   |
-| JMTek Speedlink PnP Sound Device                                           | 2        | 0.71%   |
+| Intel Tiger Lake-H HD Audio Controller                                     | 2        | 0.71%   |
 
 Memory
 ------
@@ -2638,8 +2637,8 @@ Memory module models
 
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s    | 3        | 2.73%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s  | 3        | 2.73%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3600MT/s     | 3        | 2.73%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s     | 3        | 2.73%   |
 | Unknown RAM Module 2048MB DIMM SDRAM                   | 2        | 1.82%   |
 | Transcend RAM JM2666HLB-8G 8192MB DIMM DDR4 2667MT/s   | 2        | 1.82%   |
 | Patriot RAM PSD48G266681 8GB DIMM DDR4 2934MT/s        | 2        | 1.82%   |
@@ -2664,14 +2663,14 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM 800MT/s                 | 1        | 0.91%   |
 | Unknown RAM Module 1024MB DIMM DDR2 400MT/s            | 1        | 0.91%   |
 | Transcend RAM JM2400HLB-8G 8GB DIMM DDR4 2667MT/s      | 1        | 0.91%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s    | 1        | 0.91%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s    | 1        | 0.91%   |
 | Team RAM TEAMGROUP-UD4-3000 8192MB DIMM DDR4 3200MT/s  | 1        | 0.91%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s   | 1        | 0.91%   |
 | SK hynix RAM HMT112U6TFR8C-H9 1GB DIMM DDR3 1333MT/s   | 1        | 0.91%   |
 | SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s   | 1        | 0.91%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s  | 1        | 0.91%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 0.91%   |
-| Samsung RAM M378B5773CH0-CH9 2048MB DIMM DDR3 1867MT/s | 1        | 0.91%   |
+| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s    | 1        | 0.91%   |
 | Samsung RAM M378A5143EB1-CPB 4GB DIMM DDR4 2400MT/s    | 1        | 0.91%   |
 | Samsung RAM M378A1K43BB2-CRC 8GB DIMM DDR4 3400MT/s    | 1        | 0.91%   |
 | Ramaxel RAM RMUA5090KB78HAF2133 8GB DIMM DDR4 2400MT/s | 1        | 0.91%   |
@@ -2872,17 +2871,17 @@ Camera device models
 | Pixart Imaging Webcam Genius iLook 300                              | 1        | 3.23%   |
 | Microdia Camera                                                     | 1        | 3.23%   |
 | Logitech Webcam C930e                                               | 1        | 3.23%   |
+| Logitech Webcam C925e                                               | 1        | 3.23%   |
 | Logitech Webcam C170                                                | 1        | 3.23%   |
-| Logitech Logitech Webcam C925e                                      | 1        | 3.23%   |
 | Logitech Logitech Webcam C160                                       | 1        | 3.23%   |
 | Logitech HD Webcam C525                                             | 1        | 3.23%   |
 | Logitech C922 Pro Stream Webcam                                     | 1        | 3.23%   |
 | Logitech BRIO Ultra HD Webcam                                       | 1        | 3.23%   |
 | Lenovo FHD Webcam                                                   | 1        | 3.23%   |
-| Huawei UVC Camera                                                   | 1        | 3.23%   |
+| Huawei HiCamera                                                     | 1        | 3.23%   |
 | Genesys Logic USB 2.0 Camera                                        | 1        | 3.23%   |
 | Cubeternet EtronTech CMOS based eSP570 WebCam [Onyx Titanium TC101] | 1        | 3.23%   |
-| Arkmicro Acme CA04                                                  | 1        | 3.23%   |
+| Arkmicro USB2.0 PC CAMERA                                           | 1        | 3.23%   |
 
 Security
 --------

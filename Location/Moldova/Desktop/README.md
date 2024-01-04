@@ -872,8 +872,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 43       | 55.84%  |
-| Yes       | 34       | 44.16%  |
+| No        | 44       | 57.14%  |
+| Yes       | 33       | 42.86%  |
 
 Has Ethernet
 ------------
@@ -1023,7 +1023,7 @@ Hard drive models
 | Seagate ST3160023A 160GB                            | 2        | 1.43%   |
 | Seagate ST1000DL002-9TT153 1TB                      | 2        | 1.43%   |
 | Samsung SSD 860 EVO 500GB                           | 2        | 1.43%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2        | 1.43%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2        | 1.43%   |
 | Samsung HD251HJ 250GB                               | 2        | 1.43%   |
 | Samsung HD082GJ 80GB                                | 2        | 1.43%   |
 | XPG NVMe SSD Drive 512GB                            | 1        | 0.71%   |
@@ -1812,7 +1812,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0108 1280x1024 312x234mm 15.4-inch   | 2        | 2.44%   |
 | Hewlett-Packard E243 HPN3468 1920x1080 527x296mm 23.8-inch             | 2        | 2.44%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch               | 2        | 2.44%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch               | 2        | 2.44%   |
 | ViewSonic VA521-1 VSCF318 1024x768 304x228mm 15.0-inch                 | 1        | 1.22%   |
 | Toshiba TV TSB0108 1280x1024 708x398mm 32.0-inch                       | 1        | 1.22%   |
 | Samsung Electronics SyncMaster SAM03D1 1680x1050 433x271mm 20.1-inch   | 1        | 1.22%   |
@@ -1843,7 +1843,7 @@ Monitor models
 | Philips PHL 240V5A PHLC10C 1920x1080 527x296mm 23.8-inch               | 1        | 1.22%   |
 | Philips PHL 240V5 PHLC10A 1920x1080 527x296mm 23.8-inch                | 1        | 1.22%   |
 | Philips PHL 234E5 PHLC0C7 1920x1080 509x286mm 23.0-inch                | 1        | 1.22%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch                | 1        | 1.22%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch                | 1        | 1.22%   |
 | Philips LCD Monitor PHL 243V5                                          | 1        | 1.22%   |
 | Philips 201E PHLC033 1600x900 443x249mm 20.0-inch                      | 1        | 1.22%   |
 | Philips 196VL PHLC07F 1366x768 409x230mm 18.5-inch                     | 1        | 1.22%   |
@@ -2048,7 +2048,7 @@ Controller models
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter               | 1        | 0.98%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 0.98%   |
 | Ralink RT3060 Wireless 802.11n 1T/1R                                   | 1        | 0.98%   |
-| Qualcomm Fairphone 4 5G                                                | 1        | 0.98%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                         | 1        | 0.98%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 0.98%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 0.98%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                       | 1        | 0.98%   |
@@ -2062,7 +2062,7 @@ Controller models
 | Nvidia MCP67 Ethernet                                                  | 1        | 0.98%   |
 | Nvidia MCP55 Ethernet                                                  | 1        | 0.98%   |
 | Mercucys 802.11n NIC                                                   | 1        | 0.98%   |
-| MediaTek X55                                                           | 1        | 0.98%   |
+| MediaTek M40Air_EEA                                                    | 1        | 0.98%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 0.98%   |
 | Intel NM10/ICH7 Family LAN Controller                                  | 1        | 0.98%   |
 | Intel Ethernet Connection I217-V                                       | 1        | 0.98%   |
@@ -2158,7 +2158,7 @@ Ethernet models
 | Intel Ethernet Connection (11) I219-V                             | 2        | 2.44%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 1.22%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.22%   |
-| Qualcomm Fairphone 4 5G                                           | 1        | 1.22%   |
+| Qualcomm CAPE-MTP _SN:14677F87                                    | 1        | 1.22%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.22%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                     | 1        | 1.22%   |
@@ -2167,7 +2167,7 @@ Ethernet models
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1        | 1.22%   |
 | Nvidia MCP67 Ethernet                                             | 1        | 1.22%   |
 | Nvidia MCP55 Ethernet                                             | 1        | 1.22%   |
-| MediaTek X55                                                      | 1        | 1.22%   |
+| MediaTek M40Air_EEA                                               | 1        | 1.22%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.22%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 1.22%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 1.22%   |
@@ -2243,11 +2243,10 @@ Controller vendors
 |----------------------------|----------|---------|
 | Cambridge Silicon Radio    | 4        | 33.33%  |
 | Intel                      | 3        | 25%     |
+| Broadcom                   | 2        | 16.67%  |
 | Realtek Semiconductor      | 1        | 8.33%   |
 | Integrated System Solution | 1        | 8.33%   |
 | IMC Networks               | 1        | 8.33%   |
-| Broadcom                   | 1        | 8.33%   |
-| ASUSTek Computer           | 1        | 8.33%   |
 
 Bluetooth Model
 ---------------
@@ -2265,7 +2264,7 @@ Controller models
 | Integrated System Solution Bluetooth Device         | 1        | 8.33%   |
 | IMC Networks Bluetooth Radio                        | 1        | 8.33%   |
 | Broadcom BCM92045B3 ROM                             | 1        | 8.33%   |
-| ASUS BCM20702A0                                     | 1        | 8.33%   |
+| Broadcom BCM20702A0                                 | 1        | 8.33%   |
 
 Sound
 -----
@@ -2391,48 +2390,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                       | 3        | 3.57%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                           | 3        | 3.57%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                           | 2        | 2.38%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                           | 2        | 2.38%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                      | 2        | 2.38%   |
-| Unknown RAM Module 2048MB DIMM 800MT/s                            | 2        | 2.38%   |
-| Unknown RAM Module 1024MB DIMM DDR2 333MT/s                       | 2        | 2.38%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s               | 2        | 2.38%   |
-| Unknown RAM Module 8192MB DIMM 1333MT/s                           | 1        | 1.19%   |
-| Unknown RAM Module 512MB DIMM SDRAM                               | 1        | 1.19%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                         | 1        | 1.19%   |
-| Unknown RAM Module 4GB DIMM 667MT/s                               | 1        | 1.19%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                              | 1        | 1.19%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                      | 1        | 1.19%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                          | 1        | 1.19%   |
-| Unknown RAM Module 2GB DIMM 667MT/s                               | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                      | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM SDRAM                              | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM DDR 667MT/s                        | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM DDR 1333MT/s                       | 1        | 1.19%   |
-| Unknown RAM Module 2048MB DIMM                                    | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                              | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                       | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM DDR2 400MT/s                       | 1        | 1.19%   |
-| Unknown RAM Module 1024MB DIMM DDR 667MT/s                        | 1        | 1.19%   |
-| Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s         | 1        | 1.19%   |
-| Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s              | 1        | 1.19%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
-| Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s                 | 1        | 1.19%   |
-| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                        | 1        | 1.19%   |
-| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s               | 1        | 1.19%   |
-| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s               | 1        | 1.19%   |
-| SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s            | 1        | 1.19%   |
-| Silicon Power RAM DCLT2GN568S 2048MB DIMM DDR3 1600MT/s           | 1        | 1.19%   |
-| SGS/Thomson RAM GR800S264L5/2G 2048MB DIMM SDRAM 2048MT/s         | 1        | 1.19%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s               | 1        | 1.19%   |
-| Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s              | 1        | 1.19%   |
-| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s                   | 1        | 1.19%   |
-| Patriot RAM 3200 C16 Series 16GB DIMM DDR4 3600MT/s               | 1        | 1.19%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 333MT/s                    | 3        | 3.57%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 3        | 3.57%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 2.38%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 2        | 2.38%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                   | 2        | 2.38%   |
+| Unknown RAM Module 2048MB DIMM 800MT/s                         | 2        | 2.38%   |
+| Unknown RAM Module 1024MB DIMM DDR2 333MT/s                    | 2        | 2.38%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 2133MT/s            | 2        | 2.38%   |
+| Unknown RAM Module 8192MB DIMM 1333MT/s                        | 1        | 1.19%   |
+| Unknown RAM Module 512MB DIMM SDRAM                            | 1        | 1.19%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 1        | 1.19%   |
+| Unknown RAM Module 4GB DIMM 667MT/s                            | 1        | 1.19%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                           | 1        | 1.19%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                   | 1        | 1.19%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                       | 1        | 1.19%   |
+| Unknown RAM Module 2GB DIMM 667MT/s                            | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                   | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM DDR 667MT/s                     | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM DDR 1333MT/s                    | 1        | 1.19%   |
+| Unknown RAM Module 2048MB DIMM                                 | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                           | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM DDR2 667MT/s                    | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM DDR2 400MT/s                    | 1        | 1.19%   |
+| Unknown RAM Module 1024MB DIMM DDR 667MT/s                     | 1        | 1.19%   |
+| Unknown RAM CL17-17-17 D4-2400 16384MB DIMM DDR4 2400MT/s      | 1        | 1.19%   |
+| Unknown RAM ..E-D3U1600M/4G 4096MB DIMM DDR3 800MT/s           | 1        | 1.19%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 1.19%   |
+| Transcend RAM JM1333KLH-4G 4GB DIMM DDR3 1333MT/s              | 1        | 1.19%   |
+| Team RAM Elite-1333 4GB DIMM DDR3 1333MT/s                     | 1        | 1.19%   |
+| SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 400MT/s            | 1        | 1.19%   |
+| SK hynix RAM HYMP112U64CP8-S6 1GB DIMM DDR2 800MT/s            | 1        | 1.19%   |
+| SK hynix RAM HYMP112U64CP8-S6 1024MB DIMM DDR2 400MT/s         | 1        | 1.19%   |
+| Silicon Power RAM DCLT2GN568S 2048MB DIMM DDR3 1600MT/s        | 1        | 1.19%   |
+| SGS/Thomson RAM GR800S264L5/2G 2048MB DIMM SDRAM 2048MT/s      | 1        | 1.19%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s            | 1        | 1.19%   |
+| Samsung RAM M3 78T6553CZ3-CD5 512MB DIMM DDR 533MT/s           | 1        | 1.19%   |
+| Patriot RAM PSD34G160081 4GB DIMM DDR3 1600MT/s                | 1        | 1.19%   |
+| Patriot RAM 3200 C16 Series 8GB DIMM DDR4 3600MT/s             | 1        | 1.19%   |
 
 Memory Kind
 -----------

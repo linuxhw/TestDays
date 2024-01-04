@@ -157,10 +157,18 @@ Contents
 Test Cases
 ----------
 
-Total: 316
+Total: 324
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Supermicro    | H12SSL-i                    | Server      | [454b403b53](https://linux-hardware.org/?probe=454b403b53) | Jan 02, 2024 |
+| ASRockRack    | B650D4U-2L2T/BCM            | Server      | [a1095fd614](https://linux-hardware.org/?probe=a1095fd614) | Jan 02, 2024 |
+| Supermicro    | H12SSL-i                    | Server      | [0003baf54d](https://linux-hardware.org/?probe=0003baf54d) | Jan 01, 2024 |
+| ASRockRack    | B650D4U-2L2T/BCM            | Server      | [cc645ac529](https://linux-hardware.org/?probe=cc645ac529) | Jan 01, 2024 |
+| Supermicro    | H12SSL-i                    | Server      | [ae544239b5](https://linux-hardware.org/?probe=ae544239b5) | Dec 31, 2023 |
+| ASRockRack    | B650D4U-2L2T/BCM            | Server      | [b9db9c256b](https://linux-hardware.org/?probe=b9db9c256b) | Dec 31, 2023 |
+| Supermicro    | H12SSL-i                    | Server      | [a5f60699ce](https://linux-hardware.org/?probe=a5f60699ce) | Dec 25, 2023 |
+| ASRockRack    | B650D4U-2L2T/BCM            | Server      | [b19b947d42](https://linux-hardware.org/?probe=b19b947d42) | Dec 25, 2023 |
 | Supermicro    | H12SSL-i                    | Server      | [df01343f10](https://linux-hardware.org/?probe=df01343f10) | Dec 24, 2023 |
 | ASRockRack    | B650D4U-2L2T/BCM            | Server      | [346c422237](https://linux-hardware.org/?probe=346c422237) | Dec 24, 2023 |
 | ASUSTek       | Pro WS WRX80E-SAGE SE WI... | Desktop     | [aa11af3235](https://linux-hardware.org/?probe=aa11af3235) | Dec 20, 2023 |
@@ -1202,7 +1210,7 @@ Hard drive vendors
 | Kingston                    | 8         | 11     | 5.37%   |
 | SK hynix                    | 6         | 6      | 4.03%   |
 | Intel                       | 6         | 7      | 4.03%   |
-| Kingston Technology Company | 5         | 29     | 3.36%   |
+| Kingston Technology Company | 5         | 31     | 3.36%   |
 | Unknown                     | 4         | 6      | 2.68%   |
 | Toshiba                     | 4         | 5      | 2.68%   |
 | Micron Technology           | 4         | 5      | 2.68%   |
@@ -1233,7 +1241,7 @@ Hard drive vendors
 | ASMT                        | 1         | 2      | 0.67%   |
 | AMD                         | 1         | 15     | 0.67%   |
 | A-DATA Technology           | 1         | 1      | 0.67%   |
-| Unknown                     | 1         | 12     | 0.67%   |
+| Unknown                     | 1         | 14     | 0.67%   |
 
 Drive Model
 -----------
@@ -1245,7 +1253,7 @@ Hard drive models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 4         | 2.27%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 4         | 2.27%   |
 | Kingston SA400S37480G 480GB SSD                     | 3         | 1.7%    |
 | WDC WD10SPZX-24Z10 1TB                              | 2         | 1.14%   |
 | WDC WD10EZEX-08WN4A0 1TB                            | 2         | 1.14%   |
@@ -1254,7 +1262,7 @@ Hard drive models
 | Seagate ST1000LM024 HN-M101MBB 1TB                  | 2         | 1.14%   |
 | Samsung MZVL22T0HBLB-00BL7 2TB                      | 2         | 1.14%   |
 | Kingston Company KC2000 NVMe SSD 1TB                | 2         | 1.14%   |
-| Kingston Company A2000 NVMe SSD 250GB               | 2         | 1.14%   |
+| Kingston Company A2000 NVMe SSD 1TB                 | 2         | 1.14%   |
 | Crucial CT240BX500SSD1 240GB                        | 2         | 1.14%   |
 | WDC WDS100T2B0B-00YS70 1TB SSD                      | 1         | 0.57%   |
 | WDC WDS100T2B0A-00SM50 1TB SSD                      | 1         | 0.57%   |
@@ -1284,7 +1292,7 @@ Hard drive models
 | WDC PC SN730 SDBQNTY-256G-1001 256GB                | 1         | 0.57%   |
 | WDC PC SN530 SDBPMPZ-512G-1101 512GB                | 1         | 0.57%   |
 | Unknown SD64G  64GB                                 | 1         | 0.57%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 1         | 0.57%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 1         | 0.57%   |
 
 HDD Vendor
 ----------
@@ -1347,7 +1355,7 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 50        | 130    | 36.23%  |
+| NVMe    | 50        | 134    | 36.23%  |
 | HDD     | 43        | 84     | 31.16%  |
 | SSD     | 41        | 61     | 29.71%  |
 | MMC     | 3         | 4      | 2.17%   |
@@ -1364,7 +1372,7 @@ SATA, SAS, NVMe, etc.
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 67        | 138    | 53.6%   |
-| NVMe | 50        | 130    | 40%     |
+| NVMe | 50        | 134    | 40%     |
 | SAS  | 5         | 9      | 4%      |
 | MMC  | 3         | 4      | 2.4%    |
 
@@ -1378,10 +1386,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 51     | 45.05%  |
-| 0.51-1.0   | 29        | 45     | 31.87%  |
+| 0.01-0.5   | 41        | 49     | 45.05%  |
+| 0.51-1.0   | 28        | 45     | 30.77%  |
+| 1.01-2.0   | 9         | 15     | 9.89%   |
 | 3.01-4.0   | 8         | 23     | 8.79%   |
-| 1.01-2.0   | 8         | 13     | 8.79%   |
 | 4.01-10.0  | 4         | 12     | 4.4%    |
 | 2.01-3.0   | 1         | 1      | 1.1%    |
 
@@ -1517,8 +1525,8 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 56        | 158    | 50.45%  |
-| Detected | 47        | 111    | 42.34%  |
+| Works    | 56        | 160    | 50.45%  |
+| Detected | 47        | 113    | 42.34%  |
 | Malfunc  | 8         | 12     | 7.21%   |
 
 Storage controller
@@ -2063,7 +2071,7 @@ Monitor models
 | ViewSonic VX2233wm-1 VSC1D22 1920x1080 477x268mm 21.5-inch            | 1         | 1.14%   |
 | ViewSonic VA2232 Series VSC8224 1680x1050 474x296mm 22.0-inch         | 1         | 1.14%   |
 | TopView HD TV TOPC37E 1920x1080 700x390mm 31.5-inch                   | 1         | 1.14%   |
-| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                     | 1         | 1.14%   |
+| STD HDMI TV STD00C7 1440x900 698x392mm 31.5-inch                      | 1         | 1.14%   |
 | Sharp LCD Monitor SHP146B 3200x1800 294x165mm 13.3-inch               | 1         | 1.14%   |
 | Sharp LCD Monitor SHP144A 3200x1800 294x165mm 13.3-inch               | 1         | 1.14%   |
 | Sharp LC-32LB480U SHP3263 1920x1080 698x392mm 31.5-inch               | 1         | 1.14%   |
@@ -2469,7 +2477,7 @@ Ethernet models
 | Mellanox MT28800 Family [ConnectX-5 Ex]                               | 1         | 0.88%   |
 | Mellanox MT27800 Family [ConnectX-5]                                  | 1         | 0.88%   |
 | Mellanox MT26448 [ConnectX EN 10GigE, PCIe 2.0 5GT/s]                 | 1         | 0.88%   |
-| MediaTek P8                                                           | 1         | 0.88%   |
+| MediaTek moto e22                                                     | 1         | 0.88%   |
 | Intel Ethernet Controller 10-Gigabit X540-AT2                         | 1         | 0.88%   |
 | Intel Ethernet Connection I219-V                                      | 1         | 0.88%   |
 | Intel Ethernet Connection I219-LM                                     | 1         | 0.88%   |
@@ -2573,21 +2581,19 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 13        | 22.81%  |
-| Intel AX201 Bluetooth                               | 7         | 12.28%  |
+| Intel Bluetooth Device                              | 8         | 14.04%  |
+| Realtek Bluetooth Radio                             | 6         | 10.53%  |
 | Qualcomm Atheros  Bluetooth Device                  | 6         | 10.53%  |
-| Realtek Bluetooth Radio                             | 5         | 8.77%   |
 | Intel AX200 Bluetooth                               | 5         | 8.77%   |
 | Intel AX210 Bluetooth                               | 2         | 3.51%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 2         | 3.51%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 2         | 3.51%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 1.75%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 1         | 1.75%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 1.75%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 1.75%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 1.75%   |
 | Lite-On Bluetooth Device                            | 1         | 1.75%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 1.75%   |
-| Intel Bluetooth Device                              | 1         | 1.75%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1         | 1.75%   |
 | IMC Networks Bluetooth Device                       | 1         | 1.75%   |
 | Foxconn / Hon Hai Broadcom BCM20702 Bluetooth       | 1         | 1.75%   |
@@ -2713,7 +2719,7 @@ Memory module models
 
 | Model                                                            | Computers | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 2.38%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s         | 2         | 2.38%   |
 | Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 2         | 2.38%   |
 | Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s            | 2         | 2.38%   |
 | Unknown RAM Module 8GB DIMM 1600MT/s                             | 1         | 1.19%   |
@@ -2722,8 +2728,8 @@ Memory module models
 | Timetec RAM SD3-1600 8GB SODIMM DDR3 1600MT/s                    | 1         | 1.19%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.19%   |
 | SK hynix RAM HMT351U6AFR8C-H9 4GB DIMM DDR3 1333MT/s             | 1         | 1.19%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 1.19%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 1.19%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 1.19%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4096MB SODIMM DDR3 1333MT/s        | 1         | 1.19%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s        | 1         | 1.19%   |
 | SK hynix RAM HMAA8GR7CJR4N-XN 64GB DIMM DDR4 3200MT/s            | 1         | 1.19%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 1866MT/s     | 1         | 1.19%   |
@@ -2887,8 +2893,8 @@ Camera device vendors
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 13        | 24.07%  |
 | Microdia                               | 6         | 11.11%  |
-| Bison Electronics                      | 6         | 11.11%  |
 | IMC Networks                           | 5         | 9.26%   |
+| Bison Electronics                      | 5         | 9.26%   |
 | Realtek Semiconductor                  | 4         | 7.41%   |
 | Cheng Uei Precision Industry (Foxlink) | 4         | 7.41%   |
 | Luxvisions Innotech Limited            | 3         | 5.56%   |
@@ -2901,6 +2907,7 @@ Camera device vendors
 | icSpring                               | 1         | 1.85%   |
 | Creative Technology                    | 1         | 1.85%   |
 | Apple                                  | 1         | 1.85%   |
+| Acer                                   | 1         | 1.85%   |
 
 Camera Model
 ------------
@@ -2914,10 +2921,10 @@ Camera device models
 |-----------------------------------------------------------------|-----------|---------|
 | IMC Networks Integrated Camera                                  | 4         | 7.14%   |
 | Chicony HP Truevision HD                                        | 3         | 5.36%   |
-| Bison Integrated Camera                                         | 3         | 5.36%   |
 | Realtek Integrated Webcam HD                                    | 2         | 3.57%   |
 | Microdia Integrated Webcam HD                                   | 2         | 3.57%   |
 | Chicony Integrated HP HD Webcam                                 | 2         | 3.57%   |
+| Bison Integrated Camera                                         | 2         | 3.57%   |
 | Syntek Integrated Camera                                        | 1         | 1.79%   |
 | Suyin HD WebCam                                                 | 1         | 1.79%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)     | 1         | 1.79%   |
@@ -3035,8 +3042,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 54        | 54%     |
-| 1     | 36        | 36%     |
+| 0     | 53        | 53%     |
+| 1     | 37        | 37%     |
 | 2     | 6         | 6%      |
 | 3     | 2         | 2%      |
 | 7     | 1         | 1%      |
@@ -3052,19 +3059,19 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 17        | 28.81%  |
-| Fingerprint reader       | 11        | 18.64%  |
-| Net/wireless             | 7         | 11.86%  |
-| Multimedia controller    | 5         | 8.47%   |
-| Unassigned class         | 3         | 5.08%   |
-| Sound                    | 3         | 5.08%   |
-| Net/ethernet             | 3         | 5.08%   |
-| Communication controller | 2         | 3.39%   |
-| Bluetooth                | 2         | 3.39%   |
-| Storage/raid             | 1         | 1.69%   |
-| Storage/ide              | 1         | 1.69%   |
-| Storage                  | 1         | 1.69%   |
-| Firewire controller      | 1         | 1.69%   |
-| Chipcard                 | 1         | 1.69%   |
-| Camera                   | 1         | 1.69%   |
+| Graphics card            | 18        | 30%     |
+| Fingerprint reader       | 11        | 18.33%  |
+| Net/wireless             | 7         | 11.67%  |
+| Multimedia controller    | 5         | 8.33%   |
+| Unassigned class         | 3         | 5%      |
+| Sound                    | 3         | 5%      |
+| Net/ethernet             | 3         | 5%      |
+| Communication controller | 2         | 3.33%   |
+| Bluetooth                | 2         | 3.33%   |
+| Storage/raid             | 1         | 1.67%   |
+| Storage/ide              | 1         | 1.67%   |
+| Storage                  | 1         | 1.67%   |
+| Firewire controller      | 1         | 1.67%   |
+| Chipcard                 | 1         | 1.67%   |
+| Camera                   | 1         | 1.67%   |
 

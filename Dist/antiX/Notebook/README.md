@@ -2173,7 +2173,7 @@ Controller models
 | Broadcom HP Portable SoftSailing                    | 2         | 6.9%    |
 | Broadcom BCM2045 Bluetooth                          | 2         | 6.9%    |
 | Taiyo Yuden Bluetooth Device (V2.0+EDR)             | 1         | 3.45%   |
-| Realtek Bluetooth Radio                             | 1         | 3.45%   |
+| Realtek RTL8821A Bluetooth                          | 1         | 3.45%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 3.45%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 3.45%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 3.45%   |
@@ -2298,8 +2298,8 @@ Memory module models
 | Unknown RAM Module 256MB SODIMM DRAM                           | 2         | 2.6%    |
 | Unknown RAM Module 1GB SODIMM DDR2 533MT/s                     | 2         | 2.6%    |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 2.6%    |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s          | 2         | 2.6%    |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s          | 2         | 2.6%    |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s       | 2         | 2.6%    |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s               | 2         | 2.6%    |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 4199MT/s          | 2         | 2.6%    |
 | Unknown RAM Module 512MB SODIMM SDRAM                          | 1         | 1.3%    |
 | Unknown RAM Module 512MB SODIMM DRAM                           | 1         | 1.3%    |
@@ -2328,7 +2328,7 @@ Memory module models
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s          | 1         | 1.3%    |
 | SK hynix RAM HMT451S6MFR8C-H9 4GB SODIMM DDR3 1333MT/s         | 1         | 1.3%    |
 | SK hynix RAM HMT451S6MFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.3%    |
-| SK hynix RAM HMT425S6AFR6A-PB 2048MB SODIMM DDR3 3200MT/s      | 1         | 1.3%    |
+| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s         | 1         | 1.3%    |
 | SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s         | 1         | 1.3%    |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1334MT/s         | 1         | 1.3%    |
 

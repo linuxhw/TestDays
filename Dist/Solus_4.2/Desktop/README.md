@@ -1722,11 +1722,11 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Microsoft LifeCam HD-3000          | 1        | 33.33%  |
-| Logitech Logitech Webcam C160      | 1        | 33.33%  |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR | 1        | 33.33%  |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Microsoft LifeCam HD-3000     | 1        | 33.33%  |
+| Logitech Logitech Webcam C160 | 1        | 33.33%  |
+| Apple iPhone 5/5C/5S/6/SE     | 1        | 33.33%  |
 
 Security
 --------

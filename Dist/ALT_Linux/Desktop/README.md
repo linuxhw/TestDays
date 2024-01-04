@@ -1200,8 +1200,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 193      | 66.55%  |
-| Yes       | 97       | 33.45%  |
+| No        | 194      | 66.9%   |
+| Yes       | 96       | 33.1%   |
 
 Has Ethernet
 ------------
@@ -1391,7 +1391,7 @@ Hard drive models
 | Toshiba DT01ACA100 1TB                                | 4        | 0.86%   |
 | Toshiba DT01ACA050 500GB                              | 4        | 0.86%   |
 | Seagate ST500DM002-1BD142 500GB                       | 4        | 0.86%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB   | 4        | 0.86%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB   | 4        | 0.86%   |
 | Kingston SV300S37A120G 120GB SSD                      | 4        | 0.86%   |
 | Kingston SA400S37240G 240GB SSD                       | 4        | 0.86%   |
 | Kingston RBUSC180S37256GJ 256GB SSD                   | 4        | 0.86%   |
@@ -1401,7 +1401,7 @@ Hard drive models
 | WDC WDS240G1G0A-00SS50 240GB SSD                      | 3        | 0.65%   |
 | WDC WD20EZBX-00AYRA0 2TB                              | 3        | 0.65%   |
 | WDC WD10EZEX-00BN5A0 1TB                              | 3        | 0.65%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 3        | 0.65%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 500GB | 3        | 0.65%   |
 | Seagate ST380815AS 80GB                               | 3        | 0.65%   |
 | Seagate ST1000LM049-2GH172 1TB                        | 3        | 0.65%   |
 | Samsung SSD 860 EVO 250GB                             | 3        | 0.65%   |
@@ -1431,13 +1431,14 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 70       | 113    | 37.04%  |
-| Seagate             | 64       | 95     | 33.86%  |
-| Toshiba             | 37       | 54     | 19.58%  |
-| Hitachi             | 7        | 8      | 3.7%    |
-| Samsung Electronics | 6        | 7      | 3.17%   |
-| HGST                | 3        | 3      | 1.59%   |
+| WDC                 | 70       | 113    | 36.84%  |
+| Seagate             | 64       | 95     | 33.68%  |
+| Toshiba             | 37       | 54     | 19.47%  |
+| Hitachi             | 7        | 8      | 3.68%   |
+| Samsung Electronics | 6        | 7      | 3.16%   |
+| HGST                | 3        | 3      | 1.58%   |
 | SINTECHI            | 1        | 1      | 0.53%   |
+| SABRENT             | 1        | 1      | 0.53%   |
 | Maxtor              | 1        | 1      | 0.53%   |
 
 SSD Vendor
@@ -1501,9 +1502,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 160      | 282    | 42.11%  |
-| SSD     | 152      | 202    | 40%     |
-| NVMe    | 64       | 86     | 16.84%  |
+| HDD     | 161      | 283    | 42.26%  |
+| SSD     | 152      | 202    | 39.9%   |
+| NVMe    | 64       | 85     | 16.8%   |
 | Unknown | 4        | 7      | 1.05%   |
 
 Drive Connector
@@ -1530,10 +1531,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 201      | 276    | 61.66%  |
-| 0.51-1.0   | 76       | 120    | 23.31%  |
-| 1.01-2.0   | 35       | 73     | 10.74%  |
-| 3.01-4.0   | 6        | 6      | 1.84%   |
+| 0.01-0.5   | 200      | 274    | 61.16%  |
+| 0.51-1.0   | 76       | 119    | 23.24%  |
+| 1.01-2.0   | 37       | 77     | 11.31%  |
+| 3.01-4.0   | 6        | 6      | 1.83%   |
 | 2.01-3.0   | 5        | 6      | 1.53%   |
 | 4.01-10.0  | 2        | 2      | 0.61%   |
 | 0          | 1        | 1      | 0.31%   |
@@ -1816,11 +1817,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 237      | 63.03%  |
-| IDE  | 65       | 17.29%  |
-| NVMe | 64       | 17.02%  |
-| RAID | 5        | 1.33%   |
+| SATA | 237      | 63.2%   |
+| IDE  | 65       | 17.33%  |
+| NVMe | 64       | 17.07%  |
 | SAS  | 5        | 1.33%   |
+| RAID | 4        | 1.07%   |
 
 Processor
 ---------
@@ -2307,7 +2308,7 @@ Monitor models
 | Dell P2419H DELD0DA 1920x1080 527x296mm 23.8-inch                     | 2        | 0.65%   |
 | BenQ G2420HD BNQ7840 1920x1080 531x299mm 24.0-inch                    | 2        | 0.65%   |
 | BenQ EW3270U BNQ7950 3840x2160 698x393mm 31.5-inch                    | 2        | 0.65%   |
-| AOC 24G2W1G4 AOC2402 1920x1080 527x296mm 23.8-inch                    | 2        | 0.65%   |
+| AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 2        | 0.65%   |
 | AOC 2490W1 AOC2490 1920x1080 527x296mm 23.8-inch                      | 2        | 0.65%   |
 | AOC 2475W AOC2475 1920x1080 527x296mm 23.8-inch                       | 2        | 0.65%   |
 | AOC 2269WM AOC2269 1920x1080 477x268mm 21.5-inch                      | 2        | 0.65%   |
@@ -2557,7 +2558,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 3        | 0.71%   |
 | Intel 82574L Gigabit Network Connection                           | 3        | 0.71%   |
 | U-Blox [u-blox 7]                                                 | 2        | 0.47%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                               | 2        | 0.47%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                             | 2        | 0.47%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 2        | 0.47%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 2        | 0.47%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 2        | 0.47%   |
@@ -2605,7 +2606,7 @@ Wireless models
 | Realtek 802.11ac NIC                                       | 3        | 5.17%   |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                     | 3        | 5.17%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth            | 3        | 5.17%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                        | 2        | 3.45%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                      | 2        | 3.45%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter   | 2        | 3.45%   |
 | Realtek RTL8188EE Wireless Network Adapter                 | 2        | 3.45%   |
 | Ralink MT7601U Wireless Adapter                            | 2        | 3.45%   |
@@ -2813,7 +2814,7 @@ Controller models
 | MediaTek Wireless_Device                                             | 1        | 2.04%   |
 | Logitech BT Mini-Receiver (HCI mode)                                 | 1        | 2.04%   |
 | Intel Centrino Bluetooth Wireless Transceiver                        | 1        | 2.04%   |
-| Intel AX201 Bluetooth                                                | 1        | 2.04%   |
+| Intel Bluetooth Device                                               | 1        | 2.04%   |
 | Intel AX200 Bluetooth                                                | 1        | 2.04%   |
 | IMC Networks Bluetooth Device                                        | 1        | 2.04%   |
 | HTC (High Tech Computer) Vive Hub Bluetooth 4.1 (Broadcom BCM920703) | 1        | 2.04%   |
@@ -3239,8 +3240,8 @@ Camera device models
 | HP Webcam HD 2300                                 | 1        | 2.17%   |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311] | 1        | 2.17%   |
 | Apple iSight in LED Cinema Display                | 1        | 2.17%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                | 1        | 2.17%   |
-| A4Tech FHD 1080P PC Camera                        | 1        | 2.17%   |
+| Apple iPhone 5/5C/5S/6/SE                         | 1        | 2.17%   |
+| A4Tech A4tech FHD 1080P PC Camera                 | 1        | 2.17%   |
 | Unknown                                           | 1        | 2.17%   |
 
 Security

@@ -1266,16 +1266,16 @@ Monitor models
 | Model                                                               | Desktops | Percent |
 |---------------------------------------------------------------------|----------|---------|
 | Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch   | 2        | 10.53%  |
-| Viotek GN34CW VTK3400 3440x1440 795x334mm 33.9-inch                 | 1        | 5.26%   |
+| Viotek GNV34DBE VTK3400 3440x1440 797x334mm 34.0-inch               | 1        | 5.26%   |
 | Sony TV SNY4803 1920x1080 930x523mm 42.0-inch                       | 1        | 5.26%   |
 | Samsung Electronics SyncMaster SAM02E3 1440x900 367x229mm 17.0-inch | 1        | 5.26%   |
 | Samsung Electronics SMB2230N SAM0635 1920x1080 477x268mm 21.5-inch  | 1        | 5.26%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 5.26%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch   | 1        | 5.26%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 5.26%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 5.26%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch             | 1        | 5.26%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 5.26%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                              | 1        | 5.26%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 5.26%   |
 | Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch            | 1        | 5.26%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 5.26%   |
 | AOC 2490W1 AOC2490 1920x1080 527x296mm 23.8-inch                    | 1        | 5.26%   |
@@ -1752,10 +1752,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor     | Desktops | Percent |
-|------------|----------|---------|
-| Logitech   | 1        | 50%     |
-| HDR webcam | 1        | 50%     |
+| Vendor                 | Desktops | Percent |
+|------------------------|----------|---------|
+| Logitech               | 1        | 50%     |
+| Creality 3D Technology | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1768,7 +1768,7 @@ Camera device models
 | Model                       | Desktops | Percent |
 |-----------------------------|----------|---------|
 | Logitech HD Pro Webcam C920 | 1        | 50%     |
-| HDR webcam HDR webcam       | 1        | 50%     |
+| Creality 3D CREALITY CAM    | 1        | 50%     |
 
 Security
 --------

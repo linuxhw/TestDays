@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 164
+Total: 165
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | IdeaPad 5 15ALC05 82LN      | [e832f6b336](https://linux-hardware.org/?probe=e832f6b336) | Dec 26, 2023 |
 | Lenovo        | IdeaPad 5 15ALC05 82LN      | [b3e3c041d7](https://linux-hardware.org/?probe=b3e3c041d7) | Dec 23, 2023 |
 | Lenovo        | IdeaPad 3 15ALC6 82KU       | [cf6dd1eb40](https://linux-hardware.org/?probe=cf6dd1eb40) | Dec 01, 2023 |
 | Acer          | Swift SF314-52              | [ed93047829](https://linux-hardware.org/?probe=ed93047829) | Dec 01, 2023 |
@@ -1134,7 +1135,7 @@ Hard drive models
 | WDC WD10SPZX-60Z10T0 1TB                | 1         | 0.83%   |
 | WDC PC SN520 SDAPMUW-512G-1101 512GB    | 1         | 0.83%   |
 | Vaseky V800/128G 120GB SSD              | 1         | 0.83%   |
-| Unknown SD/MMC/MS PRO 128GB             | 1         | 0.83%   |
+| Unknown SD/MMC/MS PRO 512GB             | 1         | 0.83%   |
 | Union Memory UMIS RPJTJ512MEE1OWX 512GB | 1         | 0.83%   |
 | Toshiba THNSNS256GMCP 256GB SSD         | 1         | 0.83%   |
 | Toshiba MQ04ABF100 1TB                  | 1         | 0.83%   |
@@ -1148,7 +1149,7 @@ Hard drive models
 | SK hynix SC311 SATA 256GB SSD           | 1         | 0.83%   |
 | SK hynix SC300 M.2 2280 256GB SSD       | 1         | 0.83%   |
 | SK hynix PC801 NVMe 1TB                 | 1         | 0.83%   |
-| SK hynix HFM001TD3JX013N 1TB            | 1         | 0.83%   |
+| SK hynix HFM001TD3JX013N 1024GB         | 1         | 0.83%   |
 | SK hynix BC711 NVMe 256GB               | 1         | 0.83%   |
 | SK hynix BC501 NVMe 512GB               | 1         | 0.83%   |
 | Seagate ST9120817AS 120GB               | 1         | 0.83%   |
@@ -1240,9 +1241,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 62        | 76     | 79.49%  |
-| 0.51-1.0   | 15        | 15     | 19.23%  |
-| 1.01-2.0   | 1         | 2      | 1.28%   |
+| 0.01-0.5   | 62        | 75     | 78.48%  |
+| 0.51-1.0   | 16        | 16     | 20.25%  |
+| 1.01-2.0   | 1         | 2      | 1.27%   |
 
 Space Total
 -----------
@@ -1294,7 +1295,7 @@ Drive models with a malfunction
 
 | Model                                                           | Notebooks | Drives | Percent |
 |-----------------------------------------------------------------|-----------|--------|---------|
-| Samsung Electronics NVMe SSD Controller SM961/PM961/SM963 256GB | 1         | 1      | 16.67%  |
+| Samsung Electronics NVMe SSD Controller SM961/PM961/SM963 250GB | 1         | 1      | 16.67%  |
 | Samsung Electronics MZVKW512HMJP-000H1 512GB                    | 1         | 1      | 16.67%  |
 | Samsung Electronics MMCRE64G8MPP-0VA 64GB SSD                   | 1         | 1      | 16.67%  |
 | Hitachi HTS542525K9SA00 250GB                                   | 1         | 2      | 16.67%  |
@@ -2260,7 +2261,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.16%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.16%   |
 | Nvidia MCP51 Ethernet Controller                                  | 1         | 1.16%   |
-| MediaTek X55                                                      | 1         | 1.16%   |
+| MediaTek M40Air_EEA                                               | 1         | 1.16%   |
 | Marvell Group 88E8072 PCI-E Gigabit Ethernet Controller           | 1         | 1.16%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 1.16%   |
 | Intel Ethernet Connection I218-V                                  | 1         | 1.16%   |
@@ -2369,10 +2370,9 @@ Controller models
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 9         | 12.33%  |
+| Intel Bluetooth Device                              | 9         | 12.33%  |
 | Qualcomm Atheros  Bluetooth Device                  | 7         | 9.59%   |
 | Realtek Bluetooth Radio                             | 6         | 8.22%   |
-| Intel AX201 Bluetooth                               | 5         | 6.85%   |
-| Intel Bluetooth Device                              | 4         | 5.48%   |
 | IMC Networks Bluetooth Radio                        | 4         | 5.48%   |
 | Ralink RT3290 Bluetooth                             | 3         | 4.11%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 3         | 4.11%   |
@@ -2383,7 +2383,7 @@ Controller models
 | HP Bluetooth 2.0 Interface [Broadcom BCM2045]       | 2         | 2.74%   |
 | Toshiba RT Bluetooth Radio                          | 1         | 1.37%   |
 | Toshiba Bluetooth USB Host Controller               | 1         | 1.37%   |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 1.37%   |
+| Realtek Bluetooth Radio                             | 1         | 1.37%   |
 | Qualcomm Atheros Bluetooth USB Host Controller      | 1         | 1.37%   |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 1.37%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 1.37%   |
@@ -2515,15 +2515,15 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                     | 1         | 1.75%   |
 | SK hynix RAM Module 16GB SODIMM DDR4 2133MT/s                  | 1         | 1.75%   |
 | SK hynix RAM Module 16384MB SODIMM DDR4 2133MT/s               | 1         | 1.75%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.75%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.75%   |
 | SK hynix RAM HMT41GS6AFR8C-PB 8GB SODIMM DDR3 1600MT/s         | 1         | 1.75%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.75%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.75%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 1.75%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.75%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s         | 1         | 1.75%   |
 | SK hynix RAM HMCG66MEBSA092N 8GB SODIMM DDR5 4800MT/s          | 1         | 1.75%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s   | 1         | 1.75%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s         | 1         | 1.75%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s      | 1         | 1.75%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s         | 1         | 1.75%   |
 | SK hynix RAM HMA81GS6CJR8N-XN 8GB SODIMM DDR4 3200MT/s         | 1         | 1.75%   |
 | SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s         | 1         | 1.75%   |
@@ -2532,7 +2532,7 @@ Memory module models
 | Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s                | 1         | 1.75%   |
 | Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s       | 1         | 1.75%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s          | 1         | 1.75%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s          | 1         | 1.75%   |
+| Samsung RAM M471B5273CH0-CH9 4096MB SODIMM DDR3 1334MT/s       | 1         | 1.75%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s          | 1         | 1.75%   |
 | Samsung RAM M471B5173BH0-CK0 4096MB DDR3 1600MT/s              | 1         | 1.75%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s          | 1         | 1.75%   |
@@ -2540,14 +2540,14 @@ Memory module models
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 1.75%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 1.75%   |
 | Samsung RAM M425R4GA3BB0-CQKOL 32GB SODIMM DDR5 4800MT/s       | 1         | 1.75%   |
-| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM 4800MT/s             | 1         | 1.75%   |
+| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s        | 1         | 1.75%   |
 | Samsung RAM K3LKCKC0BM-MGCP 4GB Row Of Chips LPDDR5 6400MT/s   | 1         | 1.75%   |
 | Micron RAM MTC8C1084S1SC48BA1 16GB SODIMM DDR5 4800MT/s        | 1         | 1.75%   |
 | Micron RAM MT52L512M32D2PF-09 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.75%   |
 | Micron RAM Module 8GB SODIMM DDR4 3200MT/s                     | 1         | 1.75%   |
-| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s          | 1         | 1.75%   |
+| Micron RAM 8KTF51264HZ-1G6E1 4096MB SODIMM DDR3 1600MT/s       | 1         | 1.75%   |
 | Micron RAM 8JTF51264HZ-1G6D 1 4GB SODIMM DDR3 1600MT/s         | 1         | 1.75%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4096MB SODIMM DDR4 3200MT/s       | 1         | 1.75%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 3200MT/s          | 1         | 1.75%   |
 
 Memory Kind
 -----------
@@ -2715,11 +2715,11 @@ Camera device models
 | Syntek Integrated Camera                                    | 2         | 2.3%    |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 2         | 2.3%    |
 | Sunplus HP Universal Camera                                 | 2         | 2.3%    |
-| Realtek Laptop_Integrated_Webcam_HD                         | 2         | 2.3%    |
 | Realtek HD WebCam                                           | 2         | 2.3%    |
 | Lite-On HP HD Webcam                                        | 2         | 2.3%    |
 | Chicony TOSHIBA Web Camera - HD                             | 2         | 2.3%    |
 | Chicony HP Truevision HD                                    | 2         | 2.3%    |
+| Chicony HD WebCam                                           | 2         | 2.3%    |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera         | 2         | 2.3%    |
 | Bison Integrated Camera                                     | 2         | 2.3%    |
 | Syntek Lenovo EasyCamera                                    | 1         | 1.15%   |
@@ -2734,7 +2734,9 @@ Camera device models
 | Ricoh Laptop_Integrated_Webcam_3M                           | 1         | 1.15%   |
 | Realtek VGA WebCam                                          | 1         | 1.15%   |
 | Realtek USB Camera                                          | 1         | 1.15%   |
+| Realtek Laptop_Integrated_Webcam_HD                         | 1         | 1.15%   |
 | Realtek Integrated_Webcam_HD                                | 1         | 1.15%   |
+| Realtek Integrated Webcam HD                                | 1         | 1.15%   |
 | Realtek HP Wide Vision FHD Camera                           | 1         | 1.15%   |
 | Realtek FJ Camera                                           | 1         | 1.15%   |
 | Quanta USB Webcam                                           | 1         | 1.15%   |
@@ -2746,8 +2748,6 @@ Camera device models
 | Luxvisions Innotech Limited HP HD Camera                    | 1         | 1.15%   |
 | Lite-On HP Webcam                                           | 1         | 1.15%   |
 | Lenovo UVC Camera                                           | 1         | 1.15%   |
-| Importek TOSHIBA Web Camera - HD                            | 1         | 1.15%   |
-| IMC Networks USB2.0 HD UVC WebCam                           | 1         | 1.15%   |
 
 Security
 --------

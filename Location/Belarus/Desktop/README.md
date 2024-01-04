@@ -1451,8 +1451,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 189      | 53.24%  |
-| Yes       | 166      | 46.76%  |
+| No        | 191      | 53.8%   |
+| Yes       | 164      | 46.2%   |
 
 Has Ethernet
 ------------
@@ -1594,7 +1594,7 @@ Hard drive vendors
 | KingSpec                    | 4        | 6      | 0.64%   |
 | Unknown                     | 3        | 3      | 0.48%   |
 | SPCC                        | 3        | 6      | 0.48%   |
-| Sandisk                     | 3        | 4      | 0.48%   |
+| SanDisk                     | 3        | 4      | 0.48%   |
 | Netac                       | 3        | 3      | 0.48%   |
 | XPG                         | 2        | 2      | 0.32%   |
 | WD MediaMax                 | 2        | 2      | 0.32%   |
@@ -1621,48 +1621,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                | Desktops | Percent |
-|--------------------------------------|----------|---------|
-| Toshiba DT01ACA050 500GB             | 22       | 3.09%   |
-| Toshiba DT01ACA100 1TB               | 17       | 2.38%   |
-| Toshiba DT01ACA200 2TB               | 12       | 1.68%   |
-| Samsung SSD 860 EVO 500GB            | 11       | 1.54%   |
-| Seagate ST500DM002-1BD142 500GB      | 10       | 1.4%    |
-| Kingston SA400S37120G 120GB SSD      | 10       | 1.4%    |
-| Samsung SSD 860 EVO 250GB            | 8        | 1.12%   |
-| Seagate ST2000DM008-2FR102 2TB       | 7        | 0.98%   |
-| Kingston SA400S37240G 240GB SSD      | 6        | 0.84%   |
-| Hitachi HDS721010CLA330 1TB          | 6        | 0.84%   |
-| WDC WD10EZRZ-00HTKB0 1TB             | 5        | 0.7%    |
-| Toshiba HDWD110 1TB                  | 5        | 0.7%    |
-| Toshiba DT01ACA300 3TB               | 5        | 0.7%    |
-| Seagate ST1000DM003-1CH162 1TB       | 5        | 0.7%    |
-| Samsung HD160JJ/ 160GB               | 5        | 0.7%    |
-| OCZ VERTEX4 128GB SSD                | 5        | 0.7%    |
-| Hitachi HDS721050CLA360 500GB        | 5        | 0.7%    |
-| Hitachi HDP725050GLA360 500GB        | 5        | 0.7%    |
-| WDC WD5000AZRX-00A8LB0 500GB         | 4        | 0.56%   |
-| WDC WD5000AAKX-001CA0 500GB          | 4        | 0.56%   |
-| WDC WD20EZRX-00D8PB0 2TB             | 4        | 0.56%   |
-| WDC WD20EARS-00MVWB0 2TB             | 4        | 0.56%   |
-| Seagate ST380817AS 80GB              | 4        | 0.56%   |
-| Seagate ST3500413AS 500GB            | 4        | 0.56%   |
-| Seagate ST3160815AS 160GB            | 4        | 0.56%   |
-| Seagate ST1000DM010-2EP102 1TB       | 4        | 0.56%   |
-| Seagate ST1000DM003-1ER162 1TB       | 4        | 0.56%   |
-| Samsung SSD 850 EVO 250GB            | 4        | 0.56%   |
-| Samsung SP0802N 80GB                 | 4        | 0.56%   |
-| Samsung NVMe SSD Drive 500GB         | 4        | 0.56%   |
-| Patriot Burst 120GB SSD              | 4        | 0.56%   |
-| Kingston SUV400S37120G 120GB SSD     | 4        | 0.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD | 4        | 0.56%   |
-| WDC WD5000AADS-00M2B0 500GB          | 3        | 0.42%   |
-| WDC WD1003FZEX-00MK2A0 1TB           | 3        | 0.42%   |
-| Seagate ST500DM005 HD502HJ 500GB     | 3        | 0.42%   |
-| Seagate ST380011A 80GB               | 3        | 0.42%   |
-| Seagate ST340016A 40GB               | 3        | 0.42%   |
-| Seagate ST340014A 40GB               | 3        | 0.42%   |
-| Seagate ST3250820AS 250GB            | 3        | 0.42%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Toshiba DT01ACA050 500GB         | 22       | 3.09%   |
+| Toshiba DT01ACA100 1TB           | 17       | 2.38%   |
+| Toshiba DT01ACA200 2TB           | 12       | 1.68%   |
+| Samsung SSD 860 EVO 500GB        | 11       | 1.54%   |
+| Seagate ST500DM002-1BD142 500GB  | 10       | 1.4%    |
+| Kingston SA400S37120G 120GB SSD  | 10       | 1.4%    |
+| Samsung SSD 860 EVO 250GB        | 8        | 1.12%   |
+| Seagate ST2000DM008-2FR102 2TB   | 7        | 0.98%   |
+| Kingston SA400S37240G 240GB SSD  | 6        | 0.84%   |
+| Hitachi HDS721010CLA330 1TB      | 6        | 0.84%   |
+| WDC WD10EZRZ-00HTKB0 1TB         | 5        | 0.7%    |
+| Toshiba HDWD110 1TB              | 5        | 0.7%    |
+| Toshiba DT01ACA300 3TB           | 5        | 0.7%    |
+| Seagate ST1000DM003-1CH162 1TB   | 5        | 0.7%    |
+| Samsung HD160JJ 160GB            | 5        | 0.7%    |
+| OCZ VERTEX4 128GB SSD            | 5        | 0.7%    |
+| Hitachi HDS721050CLA360 500GB    | 5        | 0.7%    |
+| Hitachi HDP725050GLA360 500GB    | 5        | 0.7%    |
+| WDC WD5000AZRX-00A8LB0 500GB     | 4        | 0.56%   |
+| WDC WD5000AAKX-001CA0 500GB      | 4        | 0.56%   |
+| WDC WD20EZRX-00D8PB0 2TB         | 4        | 0.56%   |
+| WDC WD20EARS-00MVWB0 2TB         | 4        | 0.56%   |
+| Seagate ST380817AS 80GB          | 4        | 0.56%   |
+| Seagate ST3500413AS 500GB        | 4        | 0.56%   |
+| Seagate ST3160815AS 160GB        | 4        | 0.56%   |
+| Seagate ST1000DM010-2EP102 1TB   | 4        | 0.56%   |
+| Seagate ST1000DM003-1ER162 1TB   | 4        | 0.56%   |
+| Samsung SSD 850 EVO 250GB        | 4        | 0.56%   |
+| Samsung SP0802N 80GB             | 4        | 0.56%   |
+| Samsung NVMe SSD Drive 500GB     | 4        | 0.56%   |
+| Patriot Burst 120GB SSD          | 4        | 0.56%   |
+| Kingston SUV400S37120G 120GB SSD | 4        | 0.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB | 4        | 0.56%   |
+| WDC WD5000AADS-00M2B0 500GB      | 3        | 0.42%   |
+| WDC WD1003FZEX-00MK2A0 1TB       | 3        | 0.42%   |
+| Seagate ST500DM005 HD502HJ 500GB | 3        | 0.42%   |
+| Seagate ST380011A 80GB           | 3        | 0.42%   |
+| Seagate ST340016A 40GB           | 3        | 0.42%   |
+| Seagate ST340014A 40GB           | 3        | 0.42%   |
+| Seagate ST3250820AS 250GB        | 3        | 0.42%   |
 
 HDD Vendor
 ----------
@@ -1773,11 +1773,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 294      | 586    | 60.12%  |
-| 0.51-1.0   | 117      | 209    | 23.93%  |
-| 1.01-2.0   | 46       | 99     | 9.41%   |
+| 0.01-0.5   | 293      | 583    | 60.04%  |
+| 0.51-1.0   | 116      | 209    | 23.77%  |
+| 1.01-2.0   | 47       | 102    | 9.63%   |
 | 2.01-3.0   | 11       | 21     | 2.25%   |
-| 3.01-4.0   | 10       | 12     | 2.04%   |
+| 3.01-4.0   | 10       | 12     | 2.05%   |
 | 4.01-10.0  | 8        | 25     | 1.64%   |
 | 10.01-20.0 | 3        | 4      | 0.61%   |
 
@@ -1831,48 +1831,48 @@ Drive models with a malfunction
 ![Malfunc. Drives](./images/pie_chart/drive_malfunc.svg)
 
 
-| Model                              | Desktops | Drives | Percent |
-|------------------------------------|----------|--------|---------|
-| Toshiba DT01ACA100 1TB             | 4        | 5      | 2.63%   |
-| Seagate ST500DM002-1BD142 500GB    | 4        | 11     | 2.63%   |
-| Hitachi HDS721010CLA330 1TB        | 4        | 5      | 2.63%   |
-| Hitachi HDP725050GLA360 500GB      | 4        | 8      | 2.63%   |
-| WDC WD20EARS-00MVWB0 2TB           | 3        | 6      | 1.97%   |
-| Toshiba DT01ACA200 2TB             | 3        | 5      | 1.97%   |
-| Samsung Electronics HD160JJ/ 160GB | 3        | 3      | 1.97%   |
-| WDC WD5000AAKS-00A7B0 500GB        | 2        | 2      | 1.32%   |
-| WDC WD30EFRX-68EUZN0 3TB           | 2        | 3      | 1.32%   |
-| Seagate STM3500418AS 500GB         | 2        | 2      | 1.32%   |
-| Seagate ST9500325AS 500GB          | 2        | 3      | 1.32%   |
-| Seagate ST3500320AS 500GB          | 2        | 3      | 1.32%   |
-| Seagate ST340016A 40GB             | 2        | 3      | 1.32%   |
-| Seagate ST3250820AS 250GB          | 2        | 2      | 1.32%   |
-| Seagate ST3160812A 160GB           | 2        | 4      | 1.32%   |
-| Seagate ST2000DM001-1CH164 2TB     | 2        | 2      | 1.32%   |
-| Samsung Electronics SP0802N 80GB   | 2        | 2      | 1.32%   |
-| Samsung Electronics HD161HJ 160GB  | 2        | 3      | 1.32%   |
-| Samsung Electronics HD103SJ 1TB    | 2        | 2      | 1.32%   |
-| OCZ VERTEX460A 120GB SSD           | 2        | 2      | 1.32%   |
-| OCZ VERTEX4 128GB SSD              | 2        | 2      | 1.32%   |
-| Hitachi HDS721010DLE630 1TB        | 2        | 2      | 1.32%   |
-| Fujitsu MHZ2160BH G2 160GB         | 2        | 2      | 1.32%   |
-| WDC WD800BB-56JKC0 80GB            | 1        | 1      | 0.66%   |
-| WDC WD6000HLHX-01JJPV0 600GB       | 1        | 1      | 0.66%   |
-| WDC WD5000BEVT-22A0RT0 500GB       | 1        | 2      | 0.66%   |
-| WDC WD5000AAKX-083CA1 500GB        | 1        | 1      | 0.66%   |
-| WDC WD5000AAKX-00U6AA0 500GB       | 1        | 1      | 0.66%   |
-| WDC WD5000AAKX-001CA0 500GB        | 1        | 1      | 0.66%   |
-| WDC WD5000AAKS-08WWPA0 500GB       | 1        | 1      | 0.66%   |
-| WDC WD5000AAKS-00UU3A0 500GB       | 1        | 1      | 0.66%   |
-| WDC WD5000AAKB-00H8A0 500GB        | 1        | 1      | 0.66%   |
-| WDC WD5000AADS-56S9B0 499GB        | 1        | 1      | 0.66%   |
-| WDC WD400EB-00CPF0 40GB            | 1        | 1      | 0.66%   |
-| WDC WD4003FZEX-00Z4SA0 4TB         | 1        | 1      | 0.66%   |
-| WDC WD3200BEVT-22A23T0 320GB       | 1        | 2      | 0.66%   |
-| WDC WD3200BEKT-60F3T1 320GB        | 1        | 1      | 0.66%   |
-| WDC WD3200AVVS-63L2B0 320GB        | 1        | 1      | 0.66%   |
-| WDC WD3200AAKS-00SBA0 320GB        | 1        | 1      | 0.66%   |
-| WDC WD3200AAJS-00L7A0 320GB        | 1        | 1      | 0.66%   |
+| Model                             | Desktops | Drives | Percent |
+|-----------------------------------|----------|--------|---------|
+| Toshiba DT01ACA100 1TB            | 4        | 5      | 2.63%   |
+| Seagate ST500DM002-1BD142 500GB   | 4        | 11     | 2.63%   |
+| Hitachi HDS721010CLA330 1TB       | 4        | 5      | 2.63%   |
+| Hitachi HDP725050GLA360 500GB     | 4        | 8      | 2.63%   |
+| WDC WD20EARS-00MVWB0 2TB          | 3        | 6      | 1.97%   |
+| Toshiba DT01ACA200 2TB            | 3        | 5      | 1.97%   |
+| Samsung Electronics HD160JJ 160GB | 3        | 3      | 1.97%   |
+| WDC WD5000AAKS-00A7B0 500GB       | 2        | 2      | 1.32%   |
+| WDC WD30EFRX-68EUZN0 3TB          | 2        | 3      | 1.32%   |
+| Seagate STM3500418AS 500GB        | 2        | 2      | 1.32%   |
+| Seagate ST9500325AS 500GB         | 2        | 3      | 1.32%   |
+| Seagate ST3500320AS 500GB         | 2        | 3      | 1.32%   |
+| Seagate ST340016A 40GB            | 2        | 3      | 1.32%   |
+| Seagate ST3250820AS 250GB         | 2        | 2      | 1.32%   |
+| Seagate ST3160812A 160GB          | 2        | 4      | 1.32%   |
+| Seagate ST2000DM001-1CH164 2TB    | 2        | 2      | 1.32%   |
+| Samsung Electronics SP0802N 80GB  | 2        | 2      | 1.32%   |
+| Samsung Electronics HD161HJ 160GB | 2        | 3      | 1.32%   |
+| Samsung Electronics HD103SJ 1TB   | 2        | 2      | 1.32%   |
+| OCZ VERTEX460A 120GB SSD          | 2        | 2      | 1.32%   |
+| OCZ VERTEX4 128GB SSD             | 2        | 2      | 1.32%   |
+| Hitachi HDS721010DLE630 1TB       | 2        | 2      | 1.32%   |
+| Fujitsu MHZ2160BH G2 160GB        | 2        | 2      | 1.32%   |
+| WDC WD800BB-56JKC0 80GB           | 1        | 1      | 0.66%   |
+| WDC WD6000HLHX-01JJPV0 600GB      | 1        | 1      | 0.66%   |
+| WDC WD5000BEVT-22A0RT0 500GB      | 1        | 2      | 0.66%   |
+| WDC WD5000AAKX-083CA1 500GB       | 1        | 1      | 0.66%   |
+| WDC WD5000AAKX-00U6AA0 500GB      | 1        | 1      | 0.66%   |
+| WDC WD5000AAKX-001CA0 500GB       | 1        | 1      | 0.66%   |
+| WDC WD5000AAKS-08WWPA0 500GB      | 1        | 1      | 0.66%   |
+| WDC WD5000AAKS-00UU3A0 500GB      | 1        | 1      | 0.66%   |
+| WDC WD5000AAKB-00H8A0 500GB       | 1        | 1      | 0.66%   |
+| WDC WD5000AADS-56S9B0 499GB       | 1        | 1      | 0.66%   |
+| WDC WD400EB-00CPF0 40GB           | 1        | 1      | 0.66%   |
+| WDC WD4003FZEX-00Z4SA0 4TB        | 1        | 1      | 0.66%   |
+| WDC WD3200BEVT-22A23T0 320GB      | 1        | 2      | 0.66%   |
+| WDC WD3200BEKT-60F3T1 320GB       | 1        | 1      | 0.66%   |
+| WDC WD3200AVVS-63L2B0 320GB       | 1        | 1      | 0.66%   |
+| WDC WD3200AAKS-00SBA0 320GB       | 1        | 1      | 0.66%   |
+| WDC WD3200AAJS-00L7A0 320GB       | 1        | 1      | 0.66%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -2534,21 +2534,21 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch  | 4        | 1.08%   |
 | Goldstar MP59G GSM5B34 1920x1080 480x270mm 21.7-inch                  | 4        | 1.08%   |
 | Goldstar L1919S GSM4AF2 1280x1024 380x300mm 19.1-inch                 | 4        | 1.08%   |
-| AOC 24G2W1G4 AOC2402 1920x1080 527x296mm 23.8-inch                    | 4        | 1.08%   |
+| AOC 24B2W1G5 AOC2402 1920x1080 527x296mm 23.8-inch                    | 4        | 1.08%   |
 | XYK DVI XYK2360 1920x1080 477x268mm 21.5-inch                         | 3        | 0.81%   |
 | Samsung Electronics SyncMaster SAM01E1 1280x1024 380x300mm 19.1-inch  | 3        | 0.81%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 3        | 0.81%   |
 | Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch | 3        | 0.81%   |
 | Goldstar W1942 GSM4B6F 1440x900 408x255mm 18.9-inch                   | 3        | 0.81%   |
-| Goldstar ULTRAWIDE GSM59F1 2560x1080 798x334mm 34.1-inch              | 3        | 0.81%   |
+| Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 3        | 0.81%   |
 | Goldstar L1953S GSM4B3E 1280x1024 376x301mm 19.0-inch                 | 3        | 0.81%   |
 | Goldstar IPS FULLHD GSM5AB6 1920x1080 480x270mm 21.7-inch             | 3        | 0.81%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 3        | 0.81%   |
-| BenQ G2220HD BNQ7820 1920x1080 477x268mm 21.5-inch                    | 3        | 0.81%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                     | 3        | 0.81%   |
+| BenQ G2220HD BNQ7820 1920x1080 480x270mm 21.7-inch                    | 3        | 0.81%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 2        | 0.54%   |
 | Samsung Electronics T24D390 SAM0B6E 1920x1080 521x293mm 23.5-inch     | 2        | 0.54%   |
 | Samsung Electronics SyncMaster SAM0589 1920x1080 521x293mm 23.5-inch  | 2        | 0.54%   |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch  | 2        | 0.54%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 470x300mm 22.0-inch  | 2        | 0.54%   |
 | Samsung Electronics SyncMaster SAM03D2 1680x1050 474x296mm 22.0-inch  | 2        | 0.54%   |
 | Samsung Electronics SyncMaster SAM03D0 1440x900 410x257mm 19.1-inch   | 2        | 0.54%   |
 | Samsung Electronics SyncMaster SAM022B 1280x1024 338x270mm 17.0-inch  | 2        | 0.54%   |
@@ -2564,9 +2564,9 @@ Monitor models
 | Philips 19S PHL0878 1280x1024 376x301mm 19.0-inch                     | 2        | 0.54%   |
 | NEC Computers LCD2090UXi NEC66B0 1600x1200 408x306mm 20.1-inch        | 2        | 0.54%   |
 | Goldstar W2442 GSM56D9 1920x1080 531x299mm 24.0-inch                  | 2        | 0.54%   |
-| Goldstar ULTRAWIDE GSM76FA 2560x1080 798x334mm 34.1-inch              | 2        | 0.54%   |
+| Goldstar ULTRAWIDE GSM76FA 2560x1080 531x298mm 24.0-inch              | 2        | 0.54%   |
+| Goldstar LG IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch          | 2        | 0.54%   |
 | Goldstar L1918S GSM4B31 1280x1024 376x301mm 19.0-inch                 | 2        | 0.54%   |
-| Goldstar IPS FULLHD GSM5AB7 1920x1080 480x270mm 21.7-inch             | 2        | 0.54%   |
 | Goldstar HDR WFHD GSM7714 2560x1080 798x334mm 34.1-inch               | 2        | 0.54%   |
 | Dell U2415 DELA0BA 1920x1200 518x324mm 24.1-inch                      | 2        | 0.54%   |
 
@@ -2889,7 +2889,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                     | 2        | 1.83%   |
 | IMC Networks RTL8191S WLAN Adapter                                                   | 2        | 1.83%   |
 | D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU]                 | 2        | 1.83%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                  | 1        | 0.92%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                | 1        | 0.92%   |
 | TP-Link Archer T4UH v2 [Realtek RTL8812AU]                                           | 1        | 0.92%   |
 | Texas Instruments ACX 111 54Mbps Wireless Interface                                  | 1        | 0.92%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                                      | 1        | 0.92%   |
@@ -3084,10 +3084,10 @@ Controller models
 | ASUS Qualcomm Bluetooth 4.1                         | 2        | 3.7%    |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 2        | 3.7%    |
 | ASUS Bluetooth Radio                                | 2        | 3.7%    |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 1        | 1.85%   |
+| TP-Link UB500 Adapter                               | 1        | 1.85%   |
 | Lite-On Bluetooth Device                            | 1        | 1.85%   |
+| Intel Bluetooth Device                              | 1        | 1.85%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 1.85%   |
-| Intel AX201 Bluetooth                               | 1        | 1.85%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter   | 1        | 1.85%   |
 | Broadcom Bluetooth 2.0+eDR dongle                   | 1        | 1.85%   |
 | Broadcom BCM2035B3 Bluetooth Adapter                | 1        | 1.85%   |
@@ -3135,7 +3135,7 @@ Sound card vendors
 | Edifier Technology               | 1        | 0.17%   |
 | Creative Technology              | 1        | 0.17%   |
 | Conexant Systems                 | 1        | 0.17%   |
-| BR25                             | 1        | 0.17%   |
+| BR23                             | 1        | 0.17%   |
 | BEHRINGER International          | 1        | 0.17%   |
 | ATI Technologies                 | 1        | 0.17%   |
 | ASUSTek Computer                 | 1        | 0.17%   |
@@ -3263,7 +3263,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM                         | 3        | 0.81%   |
 | Kingston RAM KHX3200C16D4/16GX 16GB DIMM DDR4 3600MT/s | 3        | 0.81%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 3466MT/s      | 3        | 0.81%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s    | 3        | 0.81%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s | 3        | 0.81%   |
 | Kingston RAM 99U5595-003.A00LF 2GB DIMM DDR3 1600MT/s  | 3        | 0.81%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 3        | 0.81%   |
 | Unknown                                                | 3        | 0.81%   |
@@ -3517,7 +3517,6 @@ Camera device models
 | Logitech Webcam C210                               | 3        | 3.8%    |
 | lihappe8 USB 2.0 Camera                            | 3        | 3.8%    |
 | Z-Star A4 TECH USB2.0 PC Camera E                  | 2        | 2.53%   |
-| Realtek FULL HD 1080P Webcam                       | 2        | 2.53%   |
 | Logitech HD Pro Webcam C920                        | 2        | 2.53%   |
 | Cubeternet USB2.0 Camera                           | 2        | 2.53%   |
 | Aveo USB2.0 Camera                                 | 2        | 2.53%   |
@@ -3526,6 +3525,8 @@ Camera device models
 | Samsung Galaxy series, misc. (MTP mode)            | 1        | 1.27%   |
 | Realtek USB Camera                                 | 1        | 1.27%   |
 | Realtek Integrated_Webcam_HD                       | 1        | 1.27%   |
+| Realtek Full HD webcam                             | 1        | 1.27%   |
+| Realtek FULL HD 1080P Webcam                       | 1        | 1.27%   |
 | Razer USA Gaming Webcam [Kiyo]                     | 1        | 1.27%   |
 | Nokia Mobile Phones Lumia 620/920                  | 1        | 1.27%   |
 | Microsoft LifeCam Studio                           | 1        | 1.27%   |
@@ -3545,7 +3546,7 @@ Camera device models
 | eMPIA YW MS2300D                                   | 1        | 1.27%   |
 | Cubeternet GL-UPC822 UVC WebCam                    | 1        | 1.27%   |
 | Aveo Camera                                        | 1        | 1.27%   |
-| Arkmicro Acme CA04                                 | 1        | 1.27%   |
+| Arkmicro USB2.0 PC CAMERA                          | 1        | 1.27%   |
 | Alcor Micro USB 2.0 Camera                         | 1        | 1.27%   |
 
 Security

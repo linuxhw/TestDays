@@ -1000,8 +1000,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 63       | 55.75%  |
-| Yes       | 50       | 44.25%  |
+| No        | 62       | 54.87%  |
+| Yes       | 51       | 45.13%  |
 
 Has Ethernet
 ------------
@@ -1183,7 +1183,7 @@ Hard drive models
 | Samsung SSD 850 EVO 250GB                           | 2        | 0.84%   |
 | Samsung SSD 650 120GB                               | 2        | 0.84%   |
 | Samsung SP2504C 250GB                               | 2        | 0.84%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2        | 0.84%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2        | 0.84%   |
 | Samsung HD501LJ 500GB                               | 2        | 0.84%   |
 | Samsung HD103UJ 1TB                                 | 2        | 0.84%   |
 | Phison PS5013 E13 NVMe Controller 512GB             | 2        | 0.84%   |
@@ -1281,12 +1281,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 85       | 180    | 59.03%  |
-| 0.51-1.0   | 40       | 71     | 27.78%  |
-| 1.01-2.0   | 11       | 23     | 7.64%   |
-| 2.01-3.0   | 3        | 5      | 2.08%   |
-| 4.01-10.0  | 3        | 3      | 2.08%   |
-| 3.01-4.0   | 2        | 2      | 1.39%   |
+| 0.01-0.5   | 84       | 178    | 57.93%  |
+| 0.51-1.0   | 40       | 70     | 27.59%  |
+| 1.01-2.0   | 13       | 26     | 8.97%   |
+| 2.01-3.0   | 3        | 5      | 2.07%   |
+| 4.01-10.0  | 3        | 3      | 2.07%   |
+| 3.01-4.0   | 2        | 2      | 1.38%   |
 
 Space Total
 -----------
@@ -1979,7 +1979,7 @@ Monitor models
 | Unknown LCD Monitor Sharp LL-S201A 1920x1080                          | 1        | 0.83%   |
 | Unknown LCD Monitor HYO DUAL-DVI 2560x1440                            | 1        | 0.83%   |
 | Unknown LCD Monitor FFFF 2288x1287 2550x2550mm 142.0-inch             | 1        | 0.83%   |
-| Samsung Electronics SyncMaster SAM03E5 1680x1050 474x296mm 22.0-inch  | 1        | 0.83%   |
+| Samsung Electronics SyncMaster SAM03E5 1680x1050 470x300mm 22.0-inch  | 1        | 0.83%   |
 | Samsung Electronics SyncMaster SAM036C 1920x1200 550x340mm 25.5-inch  | 1        | 0.83%   |
 | Samsung Electronics SyncMaster SAM02F6 1280x1024 340x270mm 17.1-inch  | 1        | 0.83%   |
 | Samsung Electronics SyncMaster SAM0273 1440x900 410x257mm 19.1-inch   | 1        | 0.83%   |
@@ -2001,8 +2001,8 @@ Monitor models
 | Samsung Electronics LCD Monitor S24D330 1920x1080                     | 1        | 0.83%   |
 | Plain Tree Systems 782 PTS1017 1280x1024 337x270mm 17.0-inch          | 1        | 0.83%   |
 | Philips PHL 246V5 PHLC0C5 1920x1080 531x299mm 24.0-inch               | 1        | 0.83%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch               | 1        | 0.83%   |
-| Philips 227E4Q PHLC0A9 1920x1080 477x268mm 21.5-inch                  | 1        | 0.83%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch               | 1        | 0.83%   |
+| Philips 227E4Q PHLC0A9 1920x1080 480x270mm 21.7-inch                  | 1        | 0.83%   |
 | Philips 220VW PHL0853 1680x1050 474x296mm 22.0-inch                   | 1        | 0.83%   |
 | Philips 220S4L PHL08BE 1680x1050 474x296mm 22.0-inch                  | 1        | 0.83%   |
 
@@ -2230,7 +2230,7 @@ Controller models
 | Wilocity Wil6200 802.11ad Wireless Network Adapter                         | 1        | 0.6%    |
 | vivo 1820                                                                  | 1        | 0.6%    |
 | U-Blox [u-blox 7]                                                          | 1        | 0.6%    |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                        | 1        | 0.6%    |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                      | 1        | 0.6%    |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                               | 1        | 0.6%    |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                        | 1        | 0.6%    |
 | Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY | 1        | 0.6%    |
@@ -2282,7 +2282,7 @@ Wireless models
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                              | 2        | 4.88%   |
 | Intel Wireless 8260                                                  | 2        | 4.88%   |
 | Wilocity Wil6200 802.11ad Wireless Network Adapter                   | 1        | 2.44%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                  | 1        | 2.44%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                | 1        | 2.44%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                         | 1        | 2.44%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                  | 1        | 2.44%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter             | 1        | 2.44%   |
@@ -2478,7 +2478,7 @@ Controller models
 | Intel AX210 Bluetooth                               | 1        | 4.55%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 4.55%   |
 | ASUS Bluetooth Device                               | 1        | 4.55%   |
-| Apple Bluetooth Host Controller                     | 1        | 4.55%   |
+| Apple Bluetooth USB Host Controller                 | 1        | 4.55%   |
 
 Sound
 -----
@@ -2627,7 +2627,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM DDR 667MT/s              | 1        | 1.18%   |
 | Unknown RAM Module 1024MB DIMM DDR 533MT/s              | 1        | 1.18%   |
 | Unknown RAM Module 1024MB DIMM 667MT/s                  | 1        | 1.18%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s     | 1        | 1.18%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s     | 1        | 1.18%   |
 | SK hynix RAM HYMP564U64CP8-Y5 512MB DIMM DDR 667MT/s    | 1        | 1.18%   |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s    | 1        | 1.18%   |
 | Samsung RAM M3 78T2863QZS-CE6 1GB DIMM DDR2 1639MT/s    | 1        | 1.18%   |
@@ -2638,8 +2638,8 @@ Memory module models
 | Kingston RAM KHX2666C15S4/16G 16GB SODIMM DDR4 2667MT/s | 1        | 1.18%   |
 | Kingston RAM KHX2133C11D3/4GX 4GB DIMM DDR3 2134MT/s    | 1        | 1.18%   |
 | Kingston RAM KHX1600C9D3/8GX 8192MB DIMM DDR3 2133MT/s  | 1        | 1.18%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s     | 1        | 1.18%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1648MT/s     | 1        | 1.18%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s  | 1        | 1.18%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1648MT/s     | 1        | 1.18%   |
 | Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s     | 1        | 1.18%   |
 | Kingston RAM KF3600C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 1        | 1.18%   |
 | Kingston RAM HX316C10F/4 4GB DIMM DDR3 1600MT/s         | 1        | 1.18%   |
@@ -2830,7 +2830,7 @@ Camera device models
 | Model                                       | Desktops | Percent |
 |---------------------------------------------|----------|---------|
 | Logitech Webcam C270                        | 3        | 10%     |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR          | 3        | 10%     |
+| Apple iPhone 5/5C/5S/6/SE                   | 3        | 10%     |
 | Z-Star A4 TECH HD PC Camera                 | 2        | 6.67%   |
 | Logitech Webcam C170                        | 2        | 6.67%   |
 | Z-Star Vega USB 2.0 Camera                  | 1        | 3.33%   |
@@ -2852,7 +2852,7 @@ Camera device models
 | GEMBIRD USB2.0 PC CAMERA                    | 1        | 3.33%   |
 | Cubeternet USB2.0 Camera                    | 1        | 3.33%   |
 | Chicony HP High Definition Webcam           | 1        | 3.33%   |
-| A4Tech FHD 1080P PC Camera                  | 1        | 3.33%   |
+| A4Tech A4tech FHD 1080P PC Camera           | 1        | 3.33%   |
 
 Security
 --------

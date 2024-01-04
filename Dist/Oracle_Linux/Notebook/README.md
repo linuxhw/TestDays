@@ -927,9 +927,9 @@ Hard drive models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 128GB                         | 2         | 3.13%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 2         | 3.13%   |
 | SanDisk SSD PLUS 1000GB                             | 2         | 3.13%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2         | 3.13%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2         | 3.13%   |
 | Samsung MZVLB512HAJQ-000L7 512GB                    | 2         | 3.13%   |
 | Samsung MZ7LN512HMJP-000L7 512GB SSD                | 2         | 3.13%   |
 | WDC WDS250G2B0A-00SM50 250GB SSD                    | 1         | 1.56%   |
@@ -1042,9 +1042,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 15        | 22     | 51.72%  |
-| 0.01-0.5   | 13        | 19     | 44.83%  |
-| 1.01-2.0   | 1         | 1      | 3.45%   |
+| 0.51-1.0   | 17        | 26     | 56.67%  |
+| 0.01-0.5   | 12        | 15     | 40%     |
+| 1.01-2.0   | 1         | 1      | 3.33%   |
 
 Space Total
 -----------
@@ -1182,7 +1182,7 @@ Storage controller vendors
 | Samsung Electronics         | 11        | 19.3%   |
 | AMD                         | 4         | 7.02%   |
 | SK hynix                    | 2         | 3.51%   |
-| SanDisk                     | 2         | 3.51%   |
+| Sandisk                     | 2         | 3.51%   |
 | Phison Electronics          | 2         | 3.51%   |
 | Micron/Crucial Technology   | 2         | 3.51%   |
 | Micron Technology           | 2         | 3.51%   |
@@ -1653,7 +1653,7 @@ Monitor models
 | Lenovo LEN T2424pA LEN60C8 1920x1080 527x296mm 23.8-inch              | 1         | 1.3%    |
 | Lenovo LEN T2254pC LEN60CC 1680x1050 474x296mm 22.0-inch              | 1         | 1.3%    |
 | Lenovo LEN P27u-10 LEN61B0 3840x2160 597x336mm 27.0-inch              | 1         | 1.3%    |
-| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.3%    |
+| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch               | 1         | 1.3%    |
 | InfoVision LCD Monitor IVO048E 1366x768 256x144mm 11.6-inch           | 1         | 1.3%    |
 | Dell U2718Q DELA0EA 3840x2160 609x349mm 27.6-inch                     | 1         | 1.3%    |
 | Dell S3221QS DELD105 3840x2160 697x392mm 31.5-inch                    | 1         | 1.3%    |
@@ -2079,9 +2079,8 @@ Controller models
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface             | 11        | 29.73%  |
-| Intel AX201 Bluetooth                          | 6         | 16.22%  |
+| Intel Bluetooth Device                         | 9         | 24.32%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 4         | 10.81%  |
-| Intel Bluetooth Device                         | 3         | 8.11%   |
 | Realtek  Bluetooth 4.2 Adapter                 | 2         | 5.41%   |
 | Qualcomm Atheros  Bluetooth Device             | 2         | 5.41%   |
 | Realtek Bluetooth Radio                        | 1         | 2.7%    |
@@ -2148,7 +2147,7 @@ Sound card models
 | AMD Family 17h/19h HD Audio Controller                                                            | 2         | 2.22%   |
 | Unknown Definitive Sym1                                                                           | 1         | 1.11%   |
 | TEAC US-2x2                                                                                       | 1         | 1.11%   |
-| RME ADI-2 DAC (58830529)                                                                          | 1         | 1.11%   |
+| RME ADI-2 DAC (51060020)                                                                          | 1         | 1.11%   |
 | Realtek Semiconductor USB Audio                                                                   | 1         | 1.11%   |
 | Plantronics BT600                                                                                 | 1         | 1.11%   |
 | Nvidia TU106 High Definition Audio Controller                                                     | 1         | 1.11%   |
@@ -2160,7 +2159,7 @@ Sound card models
 | Nvidia Audio device                                                                               | 1         | 1.11%   |
 | Lenovo ThinkPad Thunderbolt 3 Dock Audio                                                          | 1         | 1.11%   |
 | Lenovo ThinkPad Dock USB Audio                                                                    | 1         | 1.11%   |
-| JMTek Speedlink PnP Sound Device                                                                  | 1         | 1.11%   |
+| JMTek USB PnP Audio Device                                                                        | 1         | 1.11%   |
 | Intel Tiger Lake-H HD Audio Controller                                                            | 1         | 1.11%   |
 | Intel Raptor Lake-P/U/H cAVS                                                                      | 1         | 1.11%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 1         | 1.11%   |
@@ -2404,8 +2403,8 @@ Camera device models
 | Microdia Webcam Vitade AF                                       | 1         | 2.17%   |
 | Luxvisions Innotech Limited HP 5MP Camera                       | 1         | 2.17%   |
 | Luxvisions Innotech Limited EasyCamera 1M                       | 1         | 2.17%   |
+| Logitech Webcam C925e                                           | 1         | 2.17%   |
 | Logitech Webcam C920-C                                          | 1         | 2.17%   |
-| Logitech Logitech Webcam C925e                                  | 1         | 2.17%   |
 | Logitech HD Webcam C615                                         | 1         | 2.17%   |
 | Logitech HD Webcam C510                                         | 1         | 2.17%   |
 | Logitech BRIO Ultra HD Webcam                                   | 1         | 2.17%   |
@@ -2418,7 +2417,7 @@ Camera device models
 | Chicony Integrated IR Camera                                    | 1         | 2.17%   |
 | Cheng Uei Precision Industry (Foxlink) HP True Vision HD Camera | 1         | 2.17%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera             | 1         | 2.17%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                              | 1         | 2.17%   |
+| Apple iPhone 5/5C/5S/6/SE                                       | 1         | 2.17%   |
 
 Security
 --------

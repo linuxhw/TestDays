@@ -1094,7 +1094,7 @@ Hard drive vendors
 | Samsung Electronics            | 19        | 22     | 10.8%   |
 | Unknown                        | 13        | 13     | 7.39%   |
 | Toshiba                        | 13        | 14     | 7.39%   |
-| Sandisk                        | 10        | 10     | 5.68%   |
+| SanDisk                        | 10        | 10     | 5.68%   |
 | SK hynix                       | 9         | 10     | 5.11%   |
 | Kingston                       | 9         | 10     | 5.11%   |
 | Micron Technology              | 6         | 8      | 3.41%   |
@@ -1269,9 +1269,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 64        | 81     | 62.75%  |
-| 0.51-1.0   | 35        | 40     | 34.31%  |
-| 1.01-2.0   | 2         | 2      | 1.96%   |
+| 0.01-0.5   | 64        | 80     | 62.75%  |
+| 0.51-1.0   | 34        | 38     | 33.33%  |
+| 1.01-2.0   | 3         | 5      | 2.94%   |
 | 4.01-10.0  | 1         | 1      | 0.98%   |
 
 Space Total
@@ -1942,7 +1942,7 @@ Monitor models
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | AU Optronics LCD Monitor AUO26EC 1366x768 344x193mm 15.5-inch         | 3         | 2.01%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 3         | 2.01%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 3         | 2.01%   |
 | LG Display LCD Monitor LGD0468 1366x768 344x194mm 15.5-inch           | 2         | 1.34%   |
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 309x173mm 13.9-inch      | 2         | 1.34%   |
 | Chimei Innolux LCD Monitor CMN14C4 1366x768 309x173mm 13.9-inch       | 2         | 1.34%   |
@@ -1955,8 +1955,8 @@ Monitor models
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch               | 1         | 0.67%   |
 | Samsung Electronics SyncMaster SAM0167 1280x1024 338x270mm 17.0-inch  | 1         | 0.67%   |
 | Samsung Electronics S32B80P SAM71F1 3840x2160 700x400mm 31.7-inch     | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SEC5448 1920x1080 353x198mm 15.9-inch | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch  | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SEC5448 1920x1080 344x194mm 15.5-inch | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 344x194mm 15.5-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 344x194mm 15.5-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 0.67%   |
@@ -2324,7 +2324,7 @@ Ethernet models
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 0.98%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 0.98%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 0.98%   |
-| OPPO RMX3623                                                      | 1         | 0.98%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 0.98%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 0.98%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 0.98%   |
 | Intel Ethernet Connection I218-V                                  | 1         | 0.98%   |
@@ -2426,25 +2426,24 @@ Controller models
 |-------------------------------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                                                  | 21        | 18.1%   |
 | Qualcomm Atheros  Bluetooth Device                                                  | 15        | 12.93%  |
+| Intel Bluetooth Device                                                              | 11        | 9.48%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                                      | 10        | 8.62%   |
-| Intel AX201 Bluetooth                                                               | 9         | 7.76%   |
 | Realtek Bluetooth Radio                                                             | 7         | 6.03%   |
 | Intel AX200 Bluetooth                                                               | 6         | 5.17%   |
 | Realtek  Bluetooth 4.2 Adapter                                                      | 5         | 4.31%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 5         | 4.31%   |
+| Realtek Bluetooth Radio                                                             | 5         | 4.31%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 4         | 3.45%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                                              | 2         | 1.72%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                               | 2         | 1.72%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 2         | 1.72%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 1.72%   |
-| Intel Bluetooth Device                                                              | 2         | 1.72%   |
 | Foxconn / Hon Hai Bluetooth Device                                                  | 2         | 1.72%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)                                 | 2         | 1.72%   |
 | Broadcom HP Portable SoftSailing                                                    | 2         | 1.72%   |
 | Toshiba Bluetooth Radio                                                             | 1         | 0.86%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter                                             | 1         | 0.86%   |
+| Realtek RTL8821A Bluetooth                                                          | 1         | 0.86%   |
 | Realtek RTL8723B Bluetooth                                                          | 1         | 0.86%   |
-| Realtek 802.11ac WLAN Adapter                                                       | 1         | 0.86%   |
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter                                        | 1         | 0.86%   |
 | Qualcomm Atheros Bluetooth USB Host Controller                                      | 1         | 0.86%   |
 | Lite-On Bluetooth Device                                                            | 1         | 0.86%   |
@@ -2525,7 +2524,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                                                | 1         | 0.5%    |
 | Nvidia GF108 High Definition Audio Controller                                                     | 1         | 0.5%    |
 | Nvidia GA106 High Definition Audio Controller                                                     | 1         | 0.5%    |
-| JMTek Speedlink PnP Sound Device                                                                  | 1         | 0.5%    |
+| JMTek USB PnP Audio Device                                                                        | 1         | 0.5%    |
 | Intel Tiger Lake-H HD Audio Controller                                                            | 1         | 0.5%    |
 | Intel Comet Lake PCH cAVS                                                                         | 1         | 0.5%    |
 | Creative Technology SB X-Fi Surround 5.1 Pro                                                      | 1         | 0.5%    |
@@ -2773,23 +2772,22 @@ Camera device models
 |------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                | 8         | 6.45%   |
 | IMC Networks Integrated Camera           | 5         | 4.03%   |
+| IMC Networks HD Camera                   | 5         | 4.03%   |
 | Quanta HD User Facing                    | 4         | 3.23%   |
 | Chicony EasyCamera                       | 4         | 3.23%   |
 | Syntek EasyCamera                        | 3         | 2.42%   |
 | Silicon Motion Web Camera                | 3         | 2.42%   |
 | Quanta HP TrueVision HD Camera           | 3         | 2.42%   |
-| IMC Networks ov9734_azurewave_camera     | 3         | 2.42%   |
 | Chicony TOSHIBA Web Camera - HD          | 3         | 2.42%   |
 | Syntek Integrated Camera                 | 2         | 1.61%   |
 | Sunplus Integrated_Webcam_HD             | 2         | 1.61%   |
 | Sunplus HD WebCam                        | 2         | 1.61%   |
-| Realtek USB Camera                       | 2         | 1.61%   |
+| Realtek USB camera                       | 2         | 1.61%   |
 | Realtek Integrated_Webcam_HD             | 2         | 1.61%   |
 | Realtek HP "Truevision HD" laptop camera | 2         | 1.61%   |
 | Primax HP HD Webcam [Fixed]              | 2         | 1.61%   |
 | Microdia Integrated_Webcam_HD            | 2         | 1.61%   |
 | Lite-On Integrated Camera                | 2         | 1.61%   |
-| IMC Networks HD Camera                   | 2         | 1.61%   |
 | Chicony HP Webcam                        | 2         | 1.61%   |
 | Chicony HP HD Webcam                     | 2         | 1.61%   |
 | Bison Integrated Camera                  | 2         | 1.61%   |
@@ -2802,7 +2800,7 @@ Camera device models
 | Suyin 1.3M HD WebCam                     | 1         | 0.81%   |
 | Sunplus XiaoMi USB 2.0 Webcam            | 1         | 0.81%   |
 | Sunplus HP Wide Vision HD                | 1         | 0.81%   |
-| Sunplus Asus Webcam                      | 1         | 0.81%   |
+| Sunplus ASUS USB2.0 Webcam               | 1         | 0.81%   |
 | Silicon Motion WebCam SC-13HDL11939N     | 1         | 0.81%   |
 | Silicon Motion WebCam SC-0311139N        | 1         | 0.81%   |
 | Silicon Motion ATIV VGA Camera           | 1         | 0.81%   |
@@ -2811,6 +2809,7 @@ Camera device models
 | Realtek Laptop_Integrated_Webcam_HD      | 1         | 0.81%   |
 | Realtek HP Wide Vision HD Camera         | 1         | 0.81%   |
 | Realtek HP Truevision HD                 | 1         | 0.81%   |
+| Realtek HD WebCam                        | 1         | 0.81%   |
 
 Security
 --------

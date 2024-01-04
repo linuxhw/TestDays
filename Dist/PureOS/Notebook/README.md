@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 57
+Total: 58
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Purism        | Librem 14                   | [215d922345](https://linux-hardware.org/?probe=215d922345) | Dec 28, 2023 |
 | Purism        | Librem 13 v4                | [0fdc9f6ef8](https://linux-hardware.org/?probe=0fdc9f6ef8) | Nov 23, 2023 |
 | Purism        | Librem 13 v4                | [83c0da5aab](https://linux-hardware.org/?probe=83c0da5aab) | Nov 23, 2023 |
 | Lenovo        | ThinkPad P50 20ENCTO1WW     | [80851b7836](https://linux-hardware.org/?probe=80851b7836) | Aug 27, 2023 |
@@ -230,12 +231,12 @@ Installed operating systems
 
 | Name        | Notebooks | Percent |
 |-------------|-----------|---------|
-| PureOS 10.0 | 15        | 34.09%  |
-| PureOS 10   | 13        | 29.55%  |
-| PureOS 9.0  | 9         | 20.45%  |
-| PureOS 10.x | 3         | 6.82%   |
-| PureOS 9    | 2         | 4.55%   |
-| PureOS 8    | 2         | 4.55%   |
+| PureOS 10.0 | 15        | 33.33%  |
+| PureOS 10   | 14        | 31.11%  |
+| PureOS 9.0  | 9         | 20%     |
+| PureOS 10.x | 3         | 6.67%   |
+| PureOS 9    | 2         | 4.44%   |
+| PureOS 8    | 2         | 4.44%   |
 
 OS Family
 ---------
@@ -259,28 +260,28 @@ Version of the Linux kernel
 
 | Version                          | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| 4.19.0-5-amd64                   | 9         | 20%     |
-| 5.10.0-13-amd64                  | 5         | 11.11%  |
-| 5.10.0-14-amd64                  | 4         | 8.89%   |
-| 5.10.0-8-amd64                   | 3         | 6.67%   |
-| 5.10.0-23-amd64                  | 3         | 6.67%   |
-| 5.10.0-21-amd64                  | 3         | 6.67%   |
-| 5.10.0-7-amd64                   | 2         | 4.44%   |
-| 5.10.0-11-amd64                  | 2         | 4.44%   |
-| 6.1.0-1-librem5                  | 1         | 2.22%   |
-| 5.7.0-1-librem5                  | 1         | 2.22%   |
-| 5.7.0-0.38-1-pinebookpro-hwaccel | 1         | 2.22%   |
-| 5.15.0-2-amd64                   | 1         | 2.22%   |
-| 5.10.0-9-amd64                   | 1         | 2.22%   |
-| 5.10.0-6-amd64                   | 1         | 2.22%   |
-| 5.10.0-26-amd64                  | 1         | 2.22%   |
-| 5.10.0-25-amd64                  | 1         | 2.22%   |
-| 5.10.0-19-amd64                  | 1         | 2.22%   |
-| 5.10.0-18-amd64                  | 1         | 2.22%   |
-| 5.10.0-17-amd64                  | 1         | 2.22%   |
-| 5.10.0-12-amd64                  | 1         | 2.22%   |
-| 4.19.0-14-amd64                  | 1         | 2.22%   |
-| 4.16.0-1-amd64                   | 1         | 2.22%   |
+| 4.19.0-5-amd64                   | 9         | 19.57%  |
+| 5.10.0-13-amd64                  | 5         | 10.87%  |
+| 5.10.0-14-amd64                  | 4         | 8.7%    |
+| 5.10.0-8-amd64                   | 3         | 6.52%   |
+| 5.10.0-23-amd64                  | 3         | 6.52%   |
+| 5.10.0-21-amd64                  | 3         | 6.52%   |
+| 5.10.0-7-amd64                   | 2         | 4.35%   |
+| 5.10.0-26-amd64                  | 2         | 4.35%   |
+| 5.10.0-11-amd64                  | 2         | 4.35%   |
+| 6.1.0-1-librem5                  | 1         | 2.17%   |
+| 5.7.0-1-librem5                  | 1         | 2.17%   |
+| 5.7.0-0.38-1-pinebookpro-hwaccel | 1         | 2.17%   |
+| 5.15.0-2-amd64                   | 1         | 2.17%   |
+| 5.10.0-9-amd64                   | 1         | 2.17%   |
+| 5.10.0-6-amd64                   | 1         | 2.17%   |
+| 5.10.0-25-amd64                  | 1         | 2.17%   |
+| 5.10.0-19-amd64                  | 1         | 2.17%   |
+| 5.10.0-18-amd64                  | 1         | 2.17%   |
+| 5.10.0-17-amd64                  | 1         | 2.17%   |
+| 5.10.0-12-amd64                  | 1         | 2.17%   |
+| 4.19.0-14-amd64                  | 1         | 2.17%   |
+| 4.16.0-1-amd64                   | 1         | 2.17%   |
 
 Kernel Family
 -------------
@@ -669,11 +670,11 @@ Used RAM memory
 
 | Used GB   | Notebooks | Percent |
 |-----------|-----------|---------|
-| 2.01-3.0  | 13        | 28.89%  |
-| 3.01-4.0  | 12        | 26.67%  |
-| 1.01-2.0  | 11        | 24.44%  |
-| 4.01-8.0  | 7         | 15.56%  |
-| 8.01-16.0 | 2         | 4.44%   |
+| 2.01-3.0  | 13        | 28.26%  |
+| 3.01-4.0  | 12        | 26.09%  |
+| 1.01-2.0  | 11        | 23.91%  |
+| 4.01-8.0  | 7         | 15.22%  |
+| 8.01-16.0 | 3         | 6.52%   |
 
 Total Drives
 ------------
@@ -787,46 +788,46 @@ Geographic location (city)
 
 | City               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| London             | 2         | 4.44%   |
-| Windsor            | 1         | 2.22%   |
-| Warsaw             | 1         | 2.22%   |
-| Vancouver          | 1         | 2.22%   |
-| Thorpe Hamlet      | 1         | 2.22%   |
-| Tel Aviv           | 1         | 2.22%   |
-| Stuttgart          | 1         | 2.22%   |
-| Stargard           | 1         | 2.22%   |
-| Spencer            | 1         | 2.22%   |
-| Seattle            | 1         | 2.22%   |
-| Sao Paulo          | 1         | 2.22%   |
-| San Jose           | 1         | 2.22%   |
-| Plano              | 1         | 2.22%   |
-| Paris              | 1         | 2.22%   |
-| New York           | 1         | 2.22%   |
-| Montreal           | 1         | 2.22%   |
-| Milwaukee          | 1         | 2.22%   |
-| Milpitas           | 1         | 2.22%   |
-| Melbourne          | 1         | 2.22%   |
-| Mankato            | 1         | 2.22%   |
-| Lambeth            | 1         | 2.22%   |
-| Krasnogorsk        | 1         | 2.22%   |
-| Ituzaingo          | 1         | 2.22%   |
-| Istanbul           | 1         | 2.22%   |
-| Hernandarias       | 1         | 2.22%   |
-| Guimaraes          | 1         | 2.22%   |
-| Grasse             | 1         | 2.22%   |
-| Genoa              | 1         | 2.22%   |
-| Eberswalde         | 1         | 2.22%   |
-| Cape Town          | 1         | 2.22%   |
-| Camden             | 1         | 2.22%   |
-| Bowdoin Center     | 1         | 2.22%   |
-| Blumenau           | 1         | 2.22%   |
-| Big Sky            | 1         | 2.22%   |
-| Berlin             | 1         | 2.22%   |
-| Belgrade           | 1         | 2.22%   |
-| Banja Luka         | 1         | 2.22%   |
-| Bandar-e Asalūyeh | 1         | 2.22%   |
-| Araçatuba         | 1         | 2.22%   |
-| Antioch            | 1         | 2.22%   |
+| London             | 2         | 4.35%   |
+| Windsor            | 1         | 2.17%   |
+| Warsaw             | 1         | 2.17%   |
+| Vancouver          | 1         | 2.17%   |
+| Thorpe Hamlet      | 1         | 2.17%   |
+| Tel Aviv           | 1         | 2.17%   |
+| Stuttgart          | 1         | 2.17%   |
+| Stargard           | 1         | 2.17%   |
+| Spencer            | 1         | 2.17%   |
+| Seattle            | 1         | 2.17%   |
+| Sao Paulo          | 1         | 2.17%   |
+| San Jose           | 1         | 2.17%   |
+| Plano              | 1         | 2.17%   |
+| Paris              | 1         | 2.17%   |
+| New York           | 1         | 2.17%   |
+| Montreal           | 1         | 2.17%   |
+| Milwaukee          | 1         | 2.17%   |
+| Milpitas           | 1         | 2.17%   |
+| Melbourne          | 1         | 2.17%   |
+| Mankato            | 1         | 2.17%   |
+| Lambeth            | 1         | 2.17%   |
+| Krasnogorsk        | 1         | 2.17%   |
+| Ituzaingo          | 1         | 2.17%   |
+| Istanbul           | 1         | 2.17%   |
+| Hernandarias       | 1         | 2.17%   |
+| Guimaraes          | 1         | 2.17%   |
+| Grasse             | 1         | 2.17%   |
+| Genoa              | 1         | 2.17%   |
+| Eberswalde         | 1         | 2.17%   |
+| Cape Town          | 1         | 2.17%   |
+| Camden             | 1         | 2.17%   |
+| Braganca Paulista  | 1         | 2.17%   |
+| Bowdoin Center     | 1         | 2.17%   |
+| Blumenau           | 1         | 2.17%   |
+| Big Sky            | 1         | 2.17%   |
+| Berlin             | 1         | 2.17%   |
+| Belgrade           | 1         | 2.17%   |
+| Banja Luka         | 1         | 2.17%   |
+| Bandar-e Asalūyeh | 1         | 2.17%   |
+| Araçatuba         | 1         | 2.17%   |
 
 Drives
 ------
@@ -841,7 +842,7 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 17        | 22     | 34%     |
+| Samsung Electronics | 17        | 23     | 34%     |
 | Unknown             | 4         | 4      | 8%      |
 | Seagate             | 3         | 3      | 6%      |
 | SanDisk             | 3         | 3      | 6%      |
@@ -875,7 +876,7 @@ Hard drive models
 | Unknown MMC Card  64GB                              | 2         | 3.85%   |
 | Seagate ST1000LM048-2E7172 1TB                      | 2         | 3.85%   |
 | Samsung SSD 970 PRO 1TB                             | 2         | 3.85%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2         | 3.85%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2         | 3.85%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 1.92%   |
 | WDC WDS100T2B0C-00PXH0 1TB                          | 1         | 1.92%   |
 | Unknown MMC Card  32GB                              | 1         | 1.92%   |
@@ -904,7 +905,7 @@ Hard drive models
 | Plextor PX-1TM6Pro 1024GB SSD                       | 1         | 1.92%   |
 | Phison PM8512GPTCB4B8TF-E13T4 512GB                 | 1         | 1.92%   |
 | Mushkin MKNSSDRE250GB-LT                            | 1         | 1.92%   |
-| JMicron Generic 250GB                               | 1         | 1.92%   |
+| JMicron Generic 2TB                                 | 1         | 1.92%   |
 | Intel SSDSC2BF180A4H 180GB                          | 1         | 1.92%   |
 | Hitachi HTS545050A7E380 500GB                       | 1         | 1.92%   |
 | HGST HTS721010A9E630 1TB                            | 1         | 1.92%   |
@@ -963,7 +964,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SSD  | 18        | 26     | 38.3%   |
-| NVMe | 17        | 21     | 36.17%  |
+| NVMe | 17        | 22     | 36.17%  |
 | HDD  | 8         | 8      | 17.02%  |
 | MMC  | 4         | 4      | 8.51%   |
 
@@ -978,7 +979,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 23        | 32     | 50%     |
-| NVMe | 17        | 21     | 36.96%  |
+| NVMe | 17        | 22     | 36.96%  |
 | MMC  | 4         | 4      | 8.7%    |
 | SAS  | 2         | 2      | 4.35%   |
 
@@ -992,9 +993,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 18        | 26     | 72%     |
-| 0.51-1.0   | 5         | 5      | 20%     |
-| 1.01-2.0   | 2         | 3      | 8%      |
+| 0.01-0.5   | 18        | 25     | 69.23%  |
+| 0.51-1.0   | 5         | 5      | 19.23%  |
+| 1.01-2.0   | 3         | 4      | 11.54%  |
 
 Space Total
 -----------
@@ -1100,7 +1101,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 27        | 39     | 64.29%  |
+| Detected | 27        | 40     | 64.29%  |
 | Works    | 14        | 19     | 33.33%  |
 | Malfunc  | 1         | 1      | 2.38%   |
 
@@ -1523,12 +1524,12 @@ Monitor models
 | LG Display LCD Monitor LGD02F2 1366x768 344x194mm 15.5-inch               | 1         | 2.04%   |
 | Lenovo LEN Y44w-10 LEN65EA 3840x1200 1052x329mm 43.4-inch                 | 1         | 2.04%   |
 | Iiyama PL2792H IVM664F 1920x1080 598x336mm 27.0-inch                      | 1         | 2.04%   |
-| Grundig WXGA GRU4448 1600x1200                                            | 1         | 2.04%   |
+| Grundig WUXGA GRU4448 1920x1080                                           | 1         | 2.04%   |
 | Goldstar IPS231 GSM5817 1920x1080 510x290mm 23.1-inch                     | 1         | 2.04%   |
 | Chimei Innolux LCD Monitor CMN15C3 1920x1080 344x193mm 15.5-inch          | 1         | 2.04%   |
 | Chimei Innolux LCD Monitor CMN15BD 1366x768 344x194mm 15.5-inch           | 1         | 2.04%   |
 | Chimei Innolux LCD Monitor CMN1482 1600x900 309x174mm 14.0-inch           | 1         | 2.04%   |
-| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 382x215mm 17.3-inch | 1         | 2.04%   |
+| Chi Mei Optoelectronics LCD Monitor CMO1720 1920x1080 380x210mm 17.1-inch | 1         | 2.04%   |
 | BOE LCD Monitor BOE0877 1920x1080 309x173mm 13.9-inch                     | 1         | 2.04%   |
 | BOE LCD Monitor BOE07DB 1920x1080 309x174mm 14.0-inch                     | 1         | 2.04%   |
 | BOE LCD Monitor BOE079A 1920x1080 309x173mm 13.9-inch                     | 1         | 2.04%   |
@@ -1732,7 +1733,7 @@ Controller models
 | Qualcomm Atheros QCA8172 Fast Ethernet                                        | 1         | 1.23%   |
 | Qualcomm Atheros AR9271 802.11n                                               | 1         | 1.23%   |
 | Qualcomm Atheros AR2413/AR2414 Wireless Network Adapter [AR5005G(S) 802.11bg] | 1         | 1.23%   |
-| OPPO RMX3623                                                                  | 1         | 1.23%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                                  | 1         | 1.23%   |
 | MediaTek WiFi                                                                 | 1         | 1.23%   |
 | Intel Wireless 8265 / 8275                                                    | 1         | 1.23%   |
 | Intel Wireless 8260                                                           | 1         | 1.23%   |
@@ -1742,7 +1743,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-LM                                         | 1         | 1.23%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                                             | 1         | 1.23%   |
 | Intel Centrino Advanced-N 6235                                                | 1         | 1.23%   |
-| DisplayLink UG69PD10 Docking                                                  | 1         | 1.23%   |
+| DisplayLink USB3.0 5K Graphic Docking                                         | 1         | 1.23%   |
 | D-Link 802.11ac NIC                                                           | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                             | 1         | 1.23%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express                       | 1         | 1.23%   |
@@ -1845,11 +1846,11 @@ Ethernet models
 | ASIX AX88179 Gigabit Ethernet                                     | 2         | 5.71%   |
 | Realtek USB 10/100/1G/2.5G LAN                                    | 1         | 2.86%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 2.86%   |
-| OPPO RMX3623                                                      | 1         | 2.86%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 2.86%   |
 | Intel Ethernet Connection I218-V                                  | 1         | 2.86%   |
 | Intel Ethernet Connection (4) I219-V                              | 1         | 2.86%   |
 | Intel Ethernet Connection (2) I219-LM                             | 1         | 2.86%   |
-| DisplayLink UG69PD10 Docking                                      | 1         | 2.86%   |
+| DisplayLink USB3.0 5K Graphic Docking                             | 1         | 2.86%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1         | 2.86%   |
 | Broadcom NetXtreme BCM5752 Gigabit Ethernet PCI Express           | 1         | 2.86%   |
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 1         | 2.86%   |
@@ -1905,8 +1906,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 32        | 74.42%  |
-| Yes  | 11        | 25.58%  |
+| No   | 33        | 75%     |
+| Yes  | 11        | 25%     |
 
 Bluetooth
 ---------
@@ -1947,7 +1948,7 @@ Controller models
 | Qualcomm Atheros  Bluetooth Device                   | 2         | 6.06%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                | 2         | 6.06%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)       | 2         | 6.06%   |
-| Apple Bluetooth Host Controller                      | 2         | 6.06%   |
+| Apple Bluetooth USB Host Controller                  | 2         | 6.06%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter              | 1         | 3.03%   |
 | Realtek RTL8723B Bluetooth                           | 1         | 3.03%   |
 | Qualcomm Atheros Dell Wireless 1802 Bluetooth 4.0 LE | 1         | 3.03%   |
@@ -1955,7 +1956,7 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)  | 1         | 3.03%   |
 | Broadcom HP Portable Valentine                       | 1         | 3.03%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                   | 1         | 3.03%   |
-| Apple Bluetooth USB Host Controller                  | 1         | 3.03%   |
+| Apple Bluetooth Host Controller                      | 1         | 3.03%   |
 
 Sound
 -----
@@ -2063,7 +2064,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s     | 1         | 5.26%   |
 | Samsung RAM Module 4GB SODIMM LPDDR3 1867MT/s              | 1         | 5.26%   |
 | Samsung RAM K4A8G165WC-BCTD 4GB SODIMM DDR4 2667MT/s       | 1         | 5.26%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s    | 1         | 5.26%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s | 1         | 5.26%   |
 | Elpida RAM EBJ21UE8BDS0-AE-F 2048MB SODIMM DDR3 1067MT/s   | 1         | 5.26%   |
 | Crucial RAM CT4G4SFS8213.C8FBD1 4GB SODIMM DDR4 2133MT/s   | 1         | 5.26%   |
 | Crucial RAM CT16G4S24AM.M16FE 16GB SODIMM DDR4 2400MT/s    | 1         | 5.26%   |
@@ -2200,37 +2201,37 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                    | Notebooks | Percent |
-|----------------------------------------------------------|-----------|---------|
-| Alcor Micro HD WebCam                                    | 3         | 8.57%   |
-| Realtek USB Camera                                       | 2         | 5.71%   |
-| Chicony HD User Facing                                   | 2         | 5.71%   |
-| Bison SunplusIT INC. Integrated Camera                   | 2         | 5.71%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR                       | 2         | 5.71%   |
-| Suyin HP Integrated Webcam                               | 1         | 2.86%   |
-| Sunplus Integrated_Webcam_HD                             | 1         | 2.86%   |
-| Sunplus Integrated Camera                                | 1         | 2.86%   |
-| Sunplus HD WebCam                                        | 1         | 2.86%   |
-| Silicon Motion WebCam SC-13HDL12131N                     | 1         | 2.86%   |
-| Realtek Lenovo EasyCamera                                | 1         | 2.86%   |
-| Realtek Integrated_Webcam_HD                             | 1         | 2.86%   |
-| Realtek Integrated Webcam                                | 1         | 2.86%   |
-| Realtek HP Truevision HD                                 | 1         | 2.86%   |
-| Quanta HD Camera                                         | 1         | 2.86%   |
-| Microdia HP Integrated Webcam                            | 1         | 2.86%   |
-| Lite-On Integrated Camera                                | 1         | 2.86%   |
-| IMC Networks Lenovo EasyCamera                           | 1         | 2.86%   |
-| Genesys Logic Camera                                     | 1         | 2.86%   |
-| Chicony USB2.0 UVC WebCam                                | 1         | 2.86%   |
-| Chicony Integrated Camera                                | 1         | 2.86%   |
-| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD | 1         | 2.86%   |
-| Bison SunplusIT Integrated Camera                        | 1         | 2.86%   |
-| Bison Lenovo EasyCamera                                  | 1         | 2.86%   |
-| Apple iBridge                                            | 1         | 2.86%   |
-| Apple Built-in iSight                                    | 1         | 2.86%   |
-| Alcor Micro HP Webcam-101                                | 1         | 2.86%   |
-| Acer BisonCam, NB Pro                                    | 1         | 2.86%   |
-| Unknown                                                  | 1         | 2.86%   |
+| Model                                                                      | Notebooks | Percent |
+|----------------------------------------------------------------------------|-----------|---------|
+| Alcor Micro HD WebCam                                                      | 3         | 8.57%   |
+| Realtek USB camera                                                         | 2         | 5.71%   |
+| Chicony HD User Facing                                                     | 2         | 5.71%   |
+| Bison SunplusIT INC. Integrated Camera                                     | 2         | 5.71%   |
+| Apple iPhone 5/5C/5S/6/SE                                                  | 2         | 5.71%   |
+| Suyin HP Integrated Webcam                                                 | 1         | 2.86%   |
+| Sunplus Integrated_Webcam_HD                                               | 1         | 2.86%   |
+| Sunplus Integrated Camera                                                  | 1         | 2.86%   |
+| Sunplus HD WebCam                                                          | 1         | 2.86%   |
+| Silicon Motion WebCam SC-13HDL12131N                                       | 1         | 2.86%   |
+| Realtek Lenovo EasyCamera                                                  | 1         | 2.86%   |
+| Realtek Integrated_Webcam_HD                                               | 1         | 2.86%   |
+| Realtek Integrated Webcam                                                  | 1         | 2.86%   |
+| Realtek HP Truevision HD                                                   | 1         | 2.86%   |
+| Quanta HD Camera                                                           | 1         | 2.86%   |
+| Microdia HP Integrated Webcam                                              | 1         | 2.86%   |
+| Lite-On Integrated Camera                                                  | 1         | 2.86%   |
+| IMC Networks Lenovo EasyCamera                                             | 1         | 2.86%   |
+| Genesys Logic Camera                                                       | 1         | 2.86%   |
+| Chicony USB2.0 UVC WebCam                                                  | 1         | 2.86%   |
+| Chicony Integrated Camera                                                  | 1         | 2.86%   |
+| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD integrated webcam | 1         | 2.86%   |
+| Bison SunplusIT Integrated Camera                                          | 1         | 2.86%   |
+| Bison Lenovo EasyCamera                                                    | 1         | 2.86%   |
+| Apple iBridge                                                              | 1         | 2.86%   |
+| Apple Built-in iSight                                                      | 1         | 2.86%   |
+| Alcor Micro HP Webcam-101                                                  | 1         | 2.86%   |
+| Acer BisonCam, NB Pro                                                      | 1         | 2.86%   |
+| Unknown                                                                    | 1         | 2.86%   |
 
 Security
 --------

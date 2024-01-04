@@ -859,8 +859,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 40       | 54.05%  |
-| Yes       | 34       | 45.95%  |
+| No        | 42       | 57.53%  |
+| Yes       | 31       | 42.47%  |
 
 Has Ethernet
 ------------
@@ -1067,8 +1067,8 @@ Hard drive models
 | Seagate ST2000DX001-1NS164 2TB                      | 2        | 1.08%   |
 | SanDisk SDSSDA240G 240GB                            | 2        | 1.08%   |
 | Samsung NVMe SSD Drive 1TB                          | 2        | 1.08%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 2        | 1.08%   |
-| Kingston Company A2000 NVMe SSD 250GB               | 2        | 1.08%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 2        | 1.08%   |
+| Kingston Company A2000 NVMe SSD 1TB                 | 2        | 1.08%   |
 | Kingston SA400S37480G 480GB SSD                     | 2        | 1.08%   |
 | Intel NVMe SSD Drive 1024GB                         | 2        | 1.08%   |
 | Hitachi HTS545032B9A300 320GB                       | 2        | 1.08%   |
@@ -1171,9 +1171,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 56       | 110    | 52.34%  |
-| 0.51-1.0   | 26       | 44     | 24.3%   |
-| 1.01-2.0   | 17       | 37     | 15.89%  |
+| 0.01-0.5   | 56       | 108    | 52.34%  |
+| 0.51-1.0   | 26       | 43     | 24.3%   |
+| 1.01-2.0   | 17       | 40     | 15.89%  |
 | 3.01-4.0   | 5        | 9      | 4.67%   |
 | 4.01-10.0  | 2        | 2      | 1.87%   |
 | 10.01-20.0 | 1        | 1      | 0.93%   |
@@ -1819,7 +1819,7 @@ Monitor models
 | Philips 223E PHLC049 1920x1080 476x268mm 21.5-inch                   | 1        | 1.12%   |
 | NEC Computers LCD Monitor LCD92VM 1280x1024                          | 1        | 1.12%   |
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 1.12%   |
-| MStar Demo MST0030 1920x1080 708x398mm 32.0-inch                     | 1        | 1.12%   |
+| MStar TV MST0030 1920x1080 708x398mm 32.0-inch                       | 1        | 1.12%   |
 | MSI G27C4 MSI3CA9 1920x1080 598x336mm 27.0-inch                      | 1        | 1.12%   |
 | Microstep LCD Monitor MSI G241                                       | 1        | 1.12%   |
 | Mi Monitor XMI2701 2560x1440 597x336mm 27.0-inch                     | 1        | 1.12%   |
@@ -2414,7 +2414,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s           | 1        | 4%      |
 | Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 4%      |
 | Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 4%      |
-| Transcend RAM JM1333KLN-4G 4096MB DIMM SDRAM 1600MT/s  | 1        | 4%      |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s      | 1        | 4%      |
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 4%      |
 | Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 4%      |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 4%      |
@@ -2595,7 +2595,7 @@ Camera device models
 | LG Optimus (Various Models) MTP Mode    | 1        | 5.26%   |
 | HP Webcam HD 2300                       | 1        | 5.26%   |
 | Bison LENOVO LBG 720P CAM               | 1        | 5.26%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 1        | 5.26%   |
+| Apple iPhone 5/5C/5S/6/SE               | 1        | 5.26%   |
 | A4Tech FHD 1080P PC Camera              | 1        | 5.26%   |
 
 Security

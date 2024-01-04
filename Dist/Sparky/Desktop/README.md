@@ -709,8 +709,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 19       | 61.29%  |
-| Yes       | 12       | 38.71%  |
+| No        | 19       | 63.33%  |
+| Yes       | 11       | 36.67%  |
 
 Has Ethernet
 ------------
@@ -1552,7 +1552,7 @@ Monitor models
 | Hewlett-Packard w2207 HWP26A8 1680x1050 473x296mm 22.0-inch           | 1        | 3.57%   |
 | Goldstar W2043 GSM4E9D 1600x900 443x249mm 20.0-inch                   | 1        | 3.57%   |
 | Goldstar W2042 GSM4E7E 1680x1050 434x270mm 20.1-inch                  | 1        | 3.57%   |
-| Goldstar TV GSM9CF6 1360x768 708x398mm 32.0-inch                      | 1        | 3.57%   |
+| Goldstar TV GSM9CF6 1360x768 700x392mm 31.6-inch                      | 1        | 3.57%   |
 | Goldstar T710SH GSM436B 1280x960 310x230mm 15.2-inch                  | 1        | 3.57%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
 | Goldstar L1953H GSM4B3C 1280x1024 338x270mm 17.0-inch                 | 1        | 3.57%   |
@@ -1566,7 +1566,7 @@ Monitor models
 | AOC LM729 AOCA784 1280x1024 340x270mm 17.1-inch                       | 1        | 3.57%   |
 | AOC 2475W AOC2475 1920x1080 527x296mm 23.8-inch                       | 1        | 3.57%   |
 | AOC 2450W AOC2450 1920x1080 521x293mm 23.5-inch                       | 1        | 3.57%   |
-| Acer S271HL ACR02CA 1920x1080 600x340mm 27.2-inch                     | 1        | 3.57%   |
+| Acer S271HL ACR02CA 1920x1080 598x336mm 27.0-inch                     | 1        | 3.57%   |
 
 Monitor Resolution
 ------------------
@@ -1740,7 +1740,7 @@ Controller models
 | Nvidia MCP61 Ethernet                                                                       | 2        | 4.65%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                       | 2        | 4.65%   |
 | VIA VT6102/VT6103 [Rhine-II]                                                                | 1        | 2.33%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                         | 1        | 2.33%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                       | 1        | 2.33%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                          | 1        | 2.33%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                    | 1        | 2.33%   |
 | Ralink RT5370 Wireless Adapter                                                              | 1        | 2.33%   |
@@ -1794,7 +1794,7 @@ Wireless models
 
 | Model                                                                                       | Desktops | Percent |
 |---------------------------------------------------------------------------------------------|----------|---------|
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                         | 1        | 8.33%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                       | 1        | 8.33%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                          | 1        | 8.33%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                    | 1        | 8.33%   |
 | Ralink RT5370 Wireless Adapter                                                              | 1        | 8.33%   |
@@ -2040,33 +2040,33 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Desktops | Percent |
-|-------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 800MT/s                | 2        | 7.69%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                  | 1        | 3.85%   |
-| Unknown RAM Module 2GB DIMM DDR3 1333MT/s             | 1        | 3.85%   |
-| Unknown RAM Module 2GB DIMM DDR 1333MT/s              | 1        | 3.85%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s           | 1        | 3.85%   |
-| Unknown RAM Module 1024MB DIMM SDRAM                  | 1        | 3.85%   |
-| Unifosa RAM GU512303EP0202 2048MB DIMM DDR3 1333MT/s  | 1        | 3.85%   |
-| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s  | 1        | 3.85%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s | 1        | 3.85%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s | 1        | 3.85%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s   | 1        | 3.85%   |
-| Samsung RAM M3 78T2863RZS-CE6 1GB DIMM DDR2 667MT/s   | 1        | 3.85%   |
-| Samsung RAM M3 78T2863QZS-CE6 1GB DIMM DDR2 1639MT/s  | 1        | 3.85%   |
-| Ramaxel RAM RMR5030MM58E8F1600 2GB DIMM DDR3 1600MT/s | 1        | 3.85%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s   | 1        | 3.85%   |
-| Kingston RAM Module 8GB DIMM DDR3 1600MT/s            | 1        | 3.85%   |
-| Kingston RAM Module 16GB SODIMM DDR4 2133MT/s         | 1        | 3.85%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s   | 1        | 3.85%   |
-| Kingston RAM 99U5471-030.A00LF 8GB DIMM DDR3 1333MT/s | 1        | 3.85%   |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s | 1        | 3.85%   |
-| G.Skill RAM F2-6400CL4-1GBPK 1GB DIMM DDR2 800MT/s    | 1        | 3.85%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1800MT/s | 1        | 3.85%   |
-| Corsair RAM CMZ4GX3M1A1600C9 4GB DIMM DDR3 1600MT/s   | 1        | 3.85%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s | 1        | 3.85%   |
-| Avant RAM W641GU49J2320N6 8GB DIMM DDR4 2666MT/s      | 1        | 3.85%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 800MT/s                   | 2        | 7.69%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                     | 1        | 3.85%   |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                | 1        | 3.85%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                 | 1        | 3.85%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 3.85%   |
+| Unknown RAM Module 1024MB DIMM SDRAM                     | 1        | 3.85%   |
+| Unifosa RAM GU512303EP0202 2048MB DIMM DDR3 1333MT/s     | 1        | 3.85%   |
+| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s     | 1        | 3.85%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s | 1        | 3.85%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s    | 1        | 3.85%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s      | 1        | 3.85%   |
+| Samsung RAM M3 78T2863RZS-CE6 1GB DIMM DDR2 667MT/s      | 1        | 3.85%   |
+| Samsung RAM M3 78T2863QZS-CE6 1GB DIMM DDR2 1639MT/s     | 1        | 3.85%   |
+| Ramaxel RAM RMR5030MM58E8F1600 2GB DIMM DDR3 1600MT/s    | 1        | 3.85%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s      | 1        | 3.85%   |
+| Kingston RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 3.85%   |
+| Kingston RAM Module 16GB SODIMM DDR4 2133MT/s            | 1        | 3.85%   |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s   | 1        | 3.85%   |
+| Kingston RAM 99U5471-030.A00LF 8GB DIMM DDR3 1333MT/s    | 1        | 3.85%   |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s       | 1        | 3.85%   |
+| G.Skill RAM F2-6400CL4-1GBPK 1GB DIMM DDR2 800MT/s       | 1        | 3.85%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1800MT/s    | 1        | 3.85%   |
+| Corsair RAM CMZ4GX3M1A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 3.85%   |
+| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s    | 1        | 3.85%   |
+| Avant RAM W641GU49J2320N6 8GB DIMM DDR4 2666MT/s         | 1        | 3.85%   |
 
 Memory Kind
 -----------

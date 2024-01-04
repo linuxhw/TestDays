@@ -850,8 +850,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 92        | 93.88%  |
-| Yes       | 6         | 6.12%   |
+| No        | 96        | 98.97%  |
+| Yes       | 1         | 1.03%   |
 
 Has Ethernet
 ------------
@@ -1029,7 +1029,7 @@ Hard drive models
 | Unknown MMC Card  256GB        | 3         | 2.34%   |
 | ASMT 2115 1TB                  | 3         | 2.34%   |
 | Unknown MMC Card  16GB         | 2         | 1.56%   |
-| Seagate Expansion 1TB          | 2         | 1.56%   |
+| Seagate Expansion 2TB          | 2         | 1.56%   |
 | Argon Forty 64GB               | 2         | 1.56%   |
 | USB3.0 Disk 1TB                | 1         | 0.78%   |
 | Unknown SN64G  64GB            | 1         | 0.78%   |
@@ -1044,14 +1044,14 @@ Hard drive models
 | Toshiba HDWD240 4TB            | 1         | 0.78%   |
 | SK hynix HBG4e  32GB           | 1         | 0.78%   |
 | Seagate ST925031 5AS 250GB     | 1         | 0.78%   |
-| Seagate Expansion Desk 6TB     | 1         | 0.78%   |
+| Seagate Expansion Desk 8TB     | 1         | 0.78%   |
 | SanDisk SSD PLUS 240GB         | 1         | 0.78%   |
 | SanDisk SL32G  32GB            | 1         | 0.78%   |
-| SanDisk Portable SSD 480GB     | 1         | 0.78%   |
+| SanDisk Portable SSD 2TB       | 1         | 0.78%   |
 | SanDisk Extreme 55AE 1TB SSD   | 1         | 0.78%   |
 | Samsung PSSD T7 500GB          | 1         | 0.78%   |
 | Samsung Portable SSD T5 500GB  | 1         | 0.78%   |
-| PNY USB 3.0 to SATA 500GB SSD  | 1         | 0.78%   |
+| PNY USB 3.0 to SATA- 1TB SSD   | 1         | 0.78%   |
 | Phison NVMe SSD Drive 256GB    | 1         | 0.78%   |
 | LaCie Rugged USB-C 5TB         | 1         | 0.78%   |
 | Kingston SHFS37A120G 120GB SSD | 1         | 0.78%   |
@@ -1129,8 +1129,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 8         | 15     | 47.06%  |
-| 0.51-1.0   | 7         | 9      | 41.18%  |
+| 0.51-1.0   | 6         | 6      | 35.29%  |
+| 0.01-0.5   | 6         | 13     | 35.29%  |
+| 1.01-2.0   | 3         | 5      | 17.65%  |
 | 3.01-4.0   | 1         | 1      | 5.88%   |
 | 4.01-10.0  | 1         | 1      | 5.88%   |
 
@@ -1495,11 +1496,11 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch       | 2         | 3.92%   |
 | Ancor Communications ASUS VH242 ACI24FA 1920x1080 521x293mm 23.5-inch   | 2         | 3.92%   |
 | ViewSonic VX2776 Series VSC3E32 1920x1080 598x336mm 27.0-inch           | 1         | 1.96%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch      | 1         | 1.96%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch  | 1         | 1.96%   |
 | Unknown (XXX) HDMI     XXX0029 1920x1080 1150x650mm 52.0-inch           | 1         | 1.96%   |
 | Unknown (ADA) MPI4008 ADA0004 480x800 150x100mm 7.1-inch                | 1         | 1.96%   |
 | TXD Display TXD7825 1024x600 410x230mm 18.5-inch                        | 1         | 1.96%   |
-| Sceptre Tech Sceptre F24 SPT09AB 1920x1080 520x320mm 24.0-inch          | 1         | 1.96%   |
+| Sceptre Tech Sceptre C24 SPT09AB 1920x1080 530x300mm 24.0-inch          | 1         | 1.96%   |
 | Sceptre Tech E205W-1600 SPT080D 1600x900 477x268mm 21.5-inch            | 1         | 1.96%   |
 | Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch       | 1         | 1.96%   |
 | Samsung Electronics SyncMaster SAM02FD 1680x1050 433x271mm 20.1-inch    | 1         | 1.96%   |
@@ -1521,7 +1522,7 @@ Monitor models
 | Hewlett-Packard LP2475w HWP26F8 1920x1200 546x352mm 25.6-inch           | 1         | 1.96%   |
 | Hewlett-Packard f1523 HWP2607 1024x768 304x228mm 15.0-inch              | 1         | 1.96%   |
 | Hewlett-Packard 22cwa HWP3183 1920x1080 476x268mm 21.5-inch             | 1         | 1.96%   |
-| Grundig WXGA GRU4448 1600x1200                                          | 1         | 1.96%   |
+| Grundig WUXGA GRU4448 1920x1080                                         | 1         | 1.96%   |
 | Goldstar M228WA GSM563D 1680x1050 434x270mm 20.1-inch                   | 1         | 1.96%   |
 | GKK MONITOR GKK3034 1920x1080                                           | 1         | 1.96%   |
 | Eizo S1921 ENC1831 1280x1024 376x301mm 19.0-inch                        | 1         | 1.96%   |
@@ -2032,7 +2033,7 @@ Camera device models
 |-------------------------------------------------------|-----------|---------|
 | Microdia HP Integrated Webcam                         | 14        | 77.78%  |
 | OnePlus (Shenzhen) SM8150-MTP _SN:A05FE1A2            | 1         | 5.56%   |
-| MacroSilicon USB Video                                | 1         | 5.56%   |
+| MacroSilicon USB3. 0 capture                          | 1         | 5.56%   |
 | LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode) | 1         | 5.56%   |
 | Bison Integrated Camera                               | 1         | 5.56%   |
 

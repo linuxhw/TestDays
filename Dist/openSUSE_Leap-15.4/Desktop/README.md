@@ -911,7 +911,7 @@ Hard drive models
 | Samsung SSD 840 EVO 120GB                           | 5        | 3.21%   |
 | Seagate ST2000DM001-1ER164 2TB                      | 3        | 1.92%   |
 | Samsung SSD 860 EVO 500GB                           | 3        | 1.92%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 3        | 1.92%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3        | 1.92%   |
 | Kingston SA400S37480G 480GB SSD                     | 3        | 1.92%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                    | 2        | 1.28%   |
 | WDC WD10EZEX-08M2NA0 1TB                            | 2        | 1.28%   |
@@ -921,11 +921,11 @@ Hard drive models
 | Seagate ST3000NM0053 3TB                            | 2        | 1.28%   |
 | Seagate ST1000VX000-1CU162 1TB                      | 2        | 1.28%   |
 | Seagate ST1000DM003-1CH162 1TB                      | 2        | 1.28%   |
-| Seagate Expansion 1TB                               | 2        | 1.28%   |
+| Seagate Expansion 2TB                               | 2        | 1.28%   |
 | SanDisk NVMe SSD Drive 240GB                        | 2        | 1.28%   |
 | Samsung SSD 870 QVO 2TB                             | 2        | 1.28%   |
 | Samsung SSD 860 EVO 250GB                           | 2        | 1.28%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 256GB | 2        | 1.28%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 250GB | 2        | 1.28%   |
 | Kingston SA400S37960G 960GB SSD                     | 2        | 1.28%   |
 | Kingston SA400S37240G 240GB SSD                     | 2        | 1.28%   |
 | Crucial CT1000MX500SSD1 1TB                         | 2        | 1.28%   |
@@ -1034,13 +1034,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 45       | 67     | 45.45%  |
-| 0.51-1.0   | 25       | 49     | 25.25%  |
-| 1.01-2.0   | 14       | 21     | 14.14%  |
-| 2.01-3.0   | 6        | 8      | 6.06%   |
-| 3.01-4.0   | 5        | 9      | 5.05%   |
-| 4.01-10.0  | 3        | 6      | 3.03%   |
-| 10.01-20.0 | 1        | 1      | 1.01%   |
+| 0.01-0.5   | 45       | 67     | 45%     |
+| 0.51-1.0   | 24       | 47     | 24%     |
+| 1.01-2.0   | 16       | 23     | 16%     |
+| 2.01-3.0   | 6        | 8      | 6%      |
+| 3.01-4.0   | 5        | 9      | 5%      |
+| 4.01-10.0  | 3        | 6      | 3%      |
+| 10.01-20.0 | 1        | 1      | 1%      |
 
 Space Total
 -----------
@@ -1100,7 +1100,7 @@ Drive models with a malfunction
 | Samsung Electronics SSD 850 PRO 256GB | 1        | 1      | 8.33%   |
 | Maxtor 6L250S0 256GB                  | 1        | 1      | 8.33%   |
 | Kingston SV300S37A120G 120GB SSD      | 1        | 1      | 8.33%   |
-| Intel SSD 600P Series 256GB           | 1        | 1      | 8.33%   |
+| Intel SSD 600P Series 128GB           | 1        | 1      | 8.33%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1701,8 +1701,8 @@ Monitor models
 | HannStar HH251 HSD2211 1920x1080 543x305mm 24.5-inch                  | 1        | 1.35%   |
 | Goldstar W2242 GSM5677 1680x1050 474x296mm 22.0-inch                  | 1        | 1.35%   |
 | Goldstar ULTRAWIDE GSM76FC 3840x1600 874x366mm 37.3-inch              | 1        | 1.35%   |
+| Goldstar ULTRAGEAR GSM7766 2560x1440 697x392mm 31.5-inch              | 1        | 1.35%   |
 | Goldstar M2380D GSM57BC 1920x1080 598x336mm 27.0-inch                 | 1        | 1.35%   |
-| Goldstar LG ULTRAGEAR GSM7766 2560x1440 700x390mm 31.5-inch           | 1        | 1.35%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                  | 1        | 1.35%   |
 | Goldstar FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch                | 1        | 1.35%   |
 | Goldstar 27MB85R GSM5A8B 2560x1440 597x336mm 27.0-inch                | 1        | 1.35%   |
@@ -1905,7 +1905,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-V                                   | 2        | 2.02%   |
 | Intel 82583V Gigabit Network Connection                                | 2        | 2.02%   |
 | Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                      | 2        | 2.02%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                    | 1        | 1.01%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                  | 1        | 1.01%   |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                       | 1        | 1.01%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                     | 1        | 1.01%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter               | 1        | 1.01%   |
@@ -1966,7 +1966,7 @@ Wireless models
 |------------------------------------------------------------------------|----------|---------|
 | Intel Wi-Fi 6 AX200                                                    | 3        | 12%     |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                 | 2        | 8%      |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                    | 1        | 4%      |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                  | 1        | 4%      |
 | Samsung WIS09ABGN LinkStick Wireless LAN Adapter                       | 1        | 4%      |
 | Realtek RTL88x2bu [AC1200 Techkey]                                     | 1        | 4%      |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter               | 1        | 4%      |
@@ -2134,13 +2134,13 @@ Controller models
 | Intel AX200 Bluetooth                                 | 3        | 12%     |
 | Realtek Bluetooth Radio                               | 2        | 8%      |
 | Intel AX210 Bluetooth                                 | 2        | 8%      |
-| Realtek 802.11ac WLAN Adapter                         | 1        | 4%      |
+| Realtek RTL8821A Bluetooth                            | 1        | 4%      |
 | Qualcomm Atheros  Bluetooth Device                    | 1        | 4%      |
 | MediaTek Wireless_Device                              | 1        | 4%      |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 1        | 4%      |
 | Intel Wireless-AC 3168 Bluetooth                      | 1        | 4%      |
 | Intel Bluetooth wireless interface                    | 1        | 4%      |
-| Intel AX201 Bluetooth                                 | 1        | 4%      |
+| Intel Bluetooth Device                                | 1        | 4%      |
 | IMC Networks Wireless_Device                          | 1        | 4%      |
 | Broadcom Bluetooth Controller                         | 1        | 4%      |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 1        | 4%      |
@@ -2450,8 +2450,8 @@ Camera device vendors
 | Generalplus Technology | 2        | 15.38%  |
 | Microsoft              | 1        | 7.69%   |
 | Huawei Technologies    | 1        | 7.69%   |
-| HDR webcam             | 1        | 7.69%   |
 | eMeet                  | 1        | 7.69%   |
+| Creality 3D Technology | 1        | 7.69%   |
 | ARC International      | 1        | 7.69%   |
 
 Camera Model
@@ -2471,11 +2471,11 @@ Camera device models
 | Logitech Webcam C170          | 1        | 7.69%   |
 | Logitech HD Pro Webcam C920   | 1        | 7.69%   |
 | Logitech BRIO Ultra HD Webcam | 1        | 7.69%   |
-| Huawei UVC Camera             | 1        | 7.69%   |
-| HDR webcam HDR webcam         | 1        | 7.69%   |
+| Huawei HiCamera               | 1        | 7.69%   |
 | Generalplus WEB CAM           | 1        | 7.69%   |
 | Generalplus GENERAL WEBCAM    | 1        | 7.69%   |
 | eMeet HD Webcam C950          | 1        | 7.69%   |
+| Creality 3D CREALITY CAM      | 1        | 7.69%   |
 | ARC International Camera      | 1        | 7.69%   |
 
 Security

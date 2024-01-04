@@ -813,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -2082,7 +2082,7 @@ Camera device models
 | Chicony Integrated Camera                 | 1         | 7.14%   |
 | Chicony HD WebCam                         | 1         | 7.14%   |
 | Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR        | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE                 | 1         | 7.14%   |
 | Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security

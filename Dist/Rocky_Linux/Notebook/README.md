@@ -776,8 +776,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 65        | 81.25%  |
-| Yes       | 15        | 18.75%  |
+| No        | 67        | 84.81%  |
+| Yes       | 12        | 15.19%  |
 
 Has Ethernet
 ------------
@@ -973,12 +973,12 @@ Hard drive models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 4         | 3.77%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD 500GB    | 3         | 2.83%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 4         | 3.77%   |
+| Sandisk WD Black SN750 / PC SN730 NVMe SSD 2TB      | 3         | 2.83%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 3         | 2.83%   |
 | Unknown MMC Card  64GB                              | 2         | 1.89%   |
 | Samsung SSD 870 EVO 1TB                             | 2         | 1.89%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963 256GB | 2         | 1.89%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963 250GB | 2         | 1.89%   |
 | Lexar 512GB SSD                                     | 2         | 1.89%   |
 | WDC WDS480G2G0A-00JH30 480GB SSD                    | 1         | 0.94%   |
 | WDC WDBNCE0010PNC 1TB SSD                           | 1         | 0.94%   |
@@ -988,7 +988,7 @@ Hard drive models
 | WDC WD10SPCX-24HWST1 1TB                            | 1         | 0.94%   |
 | WDC WD10JPVX-22JC3T0 1TB                            | 1         | 0.94%   |
 | WDC WD Blue SA510 M.2 2280 1000GB                   | 1         | 0.94%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 1         | 0.94%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 1         | 0.94%   |
 | Unknown S0J38Y  64GB                                | 1         | 0.94%   |
 | Union Memory UMIS RPJTJ128MEE1MWX 128GB             | 1         | 0.94%   |
 | Union Memory (Shenzhen) NVMe SSD Drive 128GB        | 1         | 0.94%   |
@@ -1100,8 +1100,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 21        | 25     | 52.5%   |
-| 0.51-1.0   | 13        | 17     | 32.5%   |
+| 0.01-0.5   | 20        | 24     | 50%     |
+| 0.51-1.0   | 14        | 18     | 35%     |
 | 1.01-2.0   | 3         | 3      | 7.5%    |
 | 3.01-4.0   | 2         | 3      | 5%      |
 | 4.01-10.0  | 1         | 1      | 2.5%    |
@@ -1708,8 +1708,8 @@ Monitor models
 | Model                                                                 | Notebooks | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | PANDA LCD Monitor NCP004D 1920x1080 344x194mm 15.5-inch               | 2         | 1.77%   |
-| AU Optronics LCD Monitor AUO23ED 1920x1080 344x194mm 15.5-inch        | 2         | 1.77%   |
-| AU Optronics LCD Monitor AUO21ED 1920x1080 344x194mm 15.5-inch        | 2         | 1.77%   |
+| AU Optronics LCD Monitor AUO23ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.77%   |
+| AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch        | 2         | 1.77%   |
 | AU Optronics LCD Monitor AUO203D 1920x1080 309x174mm 14.0-inch        | 2         | 1.77%   |
 | Sony LCD Monitor MS_003C 1366x768 309x173mm 13.9-inch                 | 1         | 0.88%   |
 | Sharp LCD Monitor SHP1517 3840x2400 366x229mm 17.0-inch               | 1         | 0.88%   |
@@ -1730,7 +1730,7 @@ Monitor models
 | Philips PHL 272S4L PHL08E4 2560x1440 597x336mm 27.0-inch              | 1         | 0.88%   |
 | Philips PHL 271S7Q PHL090A 1920x1080 598x336mm 27.0-inch              | 1         | 0.88%   |
 | Philips 226V4 PHLC0B1 1920x1080 477x268mm 21.5-inch                   | 1         | 0.88%   |
-| Panasonic LCD Monitor MEI96A2 2880x1620 344x193mm 15.5-inch           | 1         | 0.88%   |
+| Panasonic TDM13O56 MEI96A2 3000x2000 285x190mm 13.5-inch              | 1         | 0.88%   |
 | LG Display LCD Monitor LGD06F9 1920x1200 302x189mm 14.0-inch          | 1         | 0.88%   |
 | LG Display LCD Monitor LGD06AA 3840x2400 344x215mm 16.0-inch          | 1         | 0.88%   |
 | LG Display LCD Monitor LGD068D 1920x1080 309x174mm 14.0-inch          | 1         | 0.88%   |
@@ -2190,16 +2190,14 @@ Controller models
 | Model                                              | Notebooks | Percent |
 |----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                 | 18        | 26.47%  |
-| Intel AX201 Bluetooth                              | 13        | 19.12%  |
-| Realtek Bluetooth Radio                            | 6         | 8.82%   |
+| Intel Bluetooth Device                             | 17        | 25%     |
+| Realtek Bluetooth Radio                            | 7         | 10.29%  |
 | Qualcomm Atheros  Bluetooth Device                 | 4         | 5.88%   |
-| Intel Bluetooth Device                             | 4         | 5.88%   |
 | Intel Centrino Bluetooth Wireless Transceiver      | 3         | 4.41%   |
 | Intel AX200 Bluetooth                              | 3         | 4.41%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)     | 2         | 2.94%   |
 | Foxconn / Hon Hai MediaTek Bluetooth Adapter       | 2         | 2.94%   |
 | Realtek  Bluetooth 4.2 Adapter                     | 1         | 1.47%   |
-| Realtek 802.11ac WLAN Adapter                      | 1         | 1.47%   |
 | Ralink RT3290 Bluetooth                            | 1         | 1.47%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0              | 1         | 1.47%   |
 | Intel AX210 Bluetooth                              | 1         | 1.47%   |
@@ -2352,7 +2350,7 @@ Memory module models
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                      | 1         | 1.96%   |
 | Samsung RAM Module 16GB SODIMM DDR5 4800MT/s                     | 1         | 1.96%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s            | 1         | 1.96%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s         | 1         | 1.96%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 1.96%   |
 | Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s      | 1         | 1.96%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 1.96%   |
@@ -2488,14 +2486,13 @@ Camera device vendors
 | IMC Networks                           | 12        | 16.67%  |
 | Realtek Semiconductor                  | 7         | 9.72%   |
 | Microdia                               | 6         | 8.33%   |
+| Bison Electronics                      | 4         | 5.56%   |
 | Syntek                                 | 3         | 4.17%   |
 | Sunplus Innovation Technology          | 3         | 4.17%   |
 | Luxvisions Innotech Limited            | 3         | 4.17%   |
 | Logitech                               | 3         | 4.17%   |
 | Cheng Uei Precision Industry (Foxlink) | 3         | 4.17%   |
 | Quanta                                 | 2         | 2.78%   |
-| Bison Electronics                      | 2         | 2.78%   |
-| Acer                                   | 2         | 2.78%   |
 | Suyin                                  | 1         | 1.39%   |
 | Sonix Technology                       | 1         | 1.39%   |
 | Silicon Motion                         | 1         | 1.39%   |
@@ -2523,12 +2520,12 @@ Camera device models
 | Chicony HP HD Camera                                | 3         | 4.11%   |
 | Syntek Lenovo EasyCamera                            | 2         | 2.74%   |
 | Chicony HD WebCam                                   | 2         | 2.74%   |
-| Acer Integrated RGB Camera                          | 2         | 2.74%   |
+| Bison Integrated RGB Camera                         | 2         | 2.74%   |
 | Syntek Integrated Camera                            | 1         | 1.37%   |
 | Suyin HP TrueVision HD Integrated Webcam            | 1         | 1.37%   |
 | Sunplus Laptop_Integrated_Webcam_HD                 | 1         | 1.37%   |
+| Sunplus Integrated_Webcam_HD                        | 1         | 1.37%   |
 | Sunplus Integrated_Webcam_FHD                       | 1         | 1.37%   |
-| Sunplus FHD Camera Microphone                       | 1         | 1.37%   |
 | Sonix USB2.0 HD UVC WebCam                          | 1         | 1.37%   |
 | Silicon Motion Lenovo EasyCamera                    | 1         | 1.37%   |
 | Realtek USB2.0 HD UVC WebCam                        | 1         | 1.37%   |

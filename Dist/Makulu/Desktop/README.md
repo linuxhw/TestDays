@@ -856,7 +856,7 @@ Hard drive models
 | Samsung SSD 860 EVO mSATA 500GB                     | 1        | 1.72%   |
 | Samsung SM963 2.5" NVMe PCIe SSD 250GB              | 1        | 1.72%   |
 | Samsung NVMe SSD Drive 1TB                          | 1        | 1.72%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 1        | 1.72%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 1        | 1.72%   |
 | Samsung MZVLB256HAHQ-000L7 256GB                    | 1        | 1.72%   |
 | Samsung MZMPC064HBDR-000L1 64GB SSD                 | 1        | 1.72%   |
 | PNY CS900 500GB SSD                                 | 1        | 1.72%   |
@@ -950,11 +950,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 21       | 33     | 60%     |
-| 0.51-1.0   | 11       | 13     | 31.43%  |
-| 3.01-4.0   | 1        | 1      | 2.86%   |
-| 2.01-3.0   | 1        | 1      | 2.86%   |
-| 1.01-2.0   | 1        | 1      | 2.86%   |
+| 0.01-0.5   | 21       | 31     | 56.76%  |
+| 0.51-1.0   | 12       | 14     | 32.43%  |
+| 1.01-2.0   | 2        | 2      | 5.41%   |
+| 3.01-4.0   | 1        | 1      | 2.7%    |
+| 2.01-3.0   | 1        | 1      | 2.7%    |
 
 Space Total
 -----------

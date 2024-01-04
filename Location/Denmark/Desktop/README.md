@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 549
+Total: 550
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | 1046 SBB1C50523 WIN 3556... | [080172526c](https://linux-hardware.org/?probe=080172526c) | Dec 31, 2023 |
 | ASUSTek       | TUF Gaming Z490-PLUS        | [a80537094f](https://linux-hardware.org/?probe=a80537094f) | Dec 15, 2023 |
 | HP            | 1497                        | [f2951d81c8](https://linux-hardware.org/?probe=f2951d81c8) | Dec 12, 2023 |
 | MSI           | B350 TOMAHAWK ARCTIC        | [f47146cdb9](https://linux-hardware.org/?probe=f47146cdb9) | Dec 07, 2023 |
@@ -726,11 +727,11 @@ Installed operating systems
 
 | Name                         | Desktops | Percent |
 |------------------------------|----------|---------|
-| Ubuntu 20.04                 | 43       | 11%     |
-| Ubuntu 18.04                 | 30       | 7.67%   |
-| Arch Rolling                 | 19       | 4.86%   |
-| Zorin 16                     | 15       | 3.84%   |
-| Ubuntu 22.04                 | 15       | 3.84%   |
+| Ubuntu 20.04                 | 43       | 10.97%  |
+| Ubuntu 18.04                 | 30       | 7.65%   |
+| Arch Rolling                 | 19       | 4.85%   |
+| Zorin 16                     | 15       | 3.83%   |
+| Ubuntu 22.04                 | 15       | 3.83%   |
 | OpenMandriva 4.2             | 13       | 3.32%   |
 | Pop!_OS 22.04                | 11       | 2.81%   |
 | Manjaro                      | 9        | 2.3%    |
@@ -819,9 +820,9 @@ Version of the Linux kernel
 | Version                  | Desktops | Percent |
 |--------------------------|----------|---------|
 | 5.10.14-desktop-1omv4002 | 11       | 2.59%   |
-| 6.2.6-desktop-1omv2390   | 6        | 1.42%   |
-| 5.4.0-52-generic         | 6        | 1.42%   |
-| 5.16.7-desktop-1omv4003  | 6        | 1.42%   |
+| 6.2.6-desktop-1omv2390   | 6        | 1.41%   |
+| 5.4.0-52-generic         | 6        | 1.41%   |
+| 5.16.7-desktop-1omv4003  | 6        | 1.41%   |
 | 5.15.0-58-generic        | 5        | 1.18%   |
 | 5.15.0-56-generic        | 5        | 1.18%   |
 | 5.8.0-43-generic         | 4        | 0.94%   |
@@ -869,46 +870,46 @@ Linux kernel without a distro release
 
 | Version | Desktops | Percent |
 |---------|----------|---------|
-| 5.4.0   | 52       | 12.87%  |
-| 5.15.0  | 32       | 7.92%   |
-| 4.15.0  | 28       | 6.93%   |
-| 5.8.0   | 21       | 5.2%    |
-| 5.13.0  | 19       | 4.7%    |
-| 5.11.0  | 19       | 4.7%    |
-| 5.19.0  | 16       | 3.96%   |
+| 5.4.0   | 52       | 12.84%  |
+| 5.15.0  | 32       | 7.9%    |
+| 4.15.0  | 28       | 6.91%   |
+| 5.8.0   | 21       | 5.19%   |
+| 5.13.0  | 19       | 4.69%   |
+| 5.11.0  | 19       | 4.69%   |
+| 5.19.0  | 16       | 3.95%   |
 | 6.2.6   | 11       | 2.72%   |
 | 5.3.0   | 11       | 2.72%   |
 | 5.10.14 | 11       | 2.72%   |
-| 5.10.0  | 10       | 2.48%   |
+| 5.10.0  | 10       | 2.47%   |
 | 5.0.0   | 8        | 1.98%   |
-| 6.2.0   | 6        | 1.49%   |
-| 5.16.7  | 6        | 1.49%   |
-| 6.1.0   | 5        | 1.24%   |
-| 4.18.0  | 5        | 1.24%   |
+| 6.2.0   | 6        | 1.48%   |
+| 5.16.7  | 6        | 1.48%   |
+| 6.1.0   | 5        | 1.23%   |
+| 4.18.0  | 5        | 1.23%   |
 | 5.11.12 | 4        | 0.99%   |
 | 4.19.0  | 4        | 0.99%   |
 | 6.5.5   | 3        | 0.74%   |
 | 5.8.5   | 3        | 0.74%   |
 | 5.6.15  | 3        | 0.74%   |
-| 6.6.0   | 2        | 0.5%    |
-| 6.5.3   | 2        | 0.5%    |
-| 6.4.8   | 2        | 0.5%    |
-| 6.4.4   | 2        | 0.5%    |
-| 6.4.11  | 2        | 0.5%    |
-| 6.3.9   | 2        | 0.5%    |
-| 6.3.5   | 2        | 0.5%    |
-| 6.3.4   | 2        | 0.5%    |
-| 6.2.8   | 2        | 0.5%    |
-| 6.1.9   | 2        | 0.5%    |
-| 6.1.12  | 2        | 0.5%    |
-| 6.1.1   | 2        | 0.5%    |
-| 5.9.1   | 2        | 0.5%    |
-| 5.8.18  | 2        | 0.5%    |
-| 5.6.12  | 2        | 0.5%    |
-| 5.4.18  | 2        | 0.5%    |
-| 5.19.5  | 2        | 0.5%    |
-| 5.16.0  | 2        | 0.5%    |
-| 5.13.12 | 2        | 0.5%    |
+| 6.6.0   | 2        | 0.49%   |
+| 6.5.3   | 2        | 0.49%   |
+| 6.4.8   | 2        | 0.49%   |
+| 6.4.4   | 2        | 0.49%   |
+| 6.4.11  | 2        | 0.49%   |
+| 6.3.9   | 2        | 0.49%   |
+| 6.3.5   | 2        | 0.49%   |
+| 6.3.4   | 2        | 0.49%   |
+| 6.2.8   | 2        | 0.49%   |
+| 6.1.9   | 2        | 0.49%   |
+| 6.1.12  | 2        | 0.49%   |
+| 6.1.1   | 2        | 0.49%   |
+| 5.9.1   | 2        | 0.49%   |
+| 5.8.18  | 2        | 0.49%   |
+| 5.6.12  | 2        | 0.49%   |
+| 5.4.18  | 2        | 0.49%   |
+| 5.19.5  | 2        | 0.49%   |
+| 5.16.0  | 2        | 0.49%   |
+| 5.13.12 | 2        | 0.49%   |
 
 Kernel Major Ver.
 -----------------
@@ -1004,10 +1005,10 @@ X11 or Wayland
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| X11     | 284      | 77.17%  |
-| Wayland | 47       | 12.77%  |
-| Unknown | 26       | 7.07%   |
-| Tty     | 11       | 2.99%   |
+| X11     | 284      | 76.96%  |
+| Wayland | 48       | 13.01%  |
+| Unknown | 26       | 7.05%   |
+| Tty     | 11       | 2.98%   |
 
 Display Manager
 ---------------
@@ -1079,11 +1080,11 @@ Type of filesystem
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Ext4    | 275      | 74.12%  |
-| Btrfs   | 41       | 11.05%  |
-| Overlay | 30       | 8.09%   |
-| Unknown | 13       | 3.5%    |
-| Tmpfs   | 5        | 1.35%   |
+| Ext4    | 276      | 74.19%  |
+| Btrfs   | 41       | 11.02%  |
+| Overlay | 30       | 8.06%   |
+| Unknown | 13       | 3.49%   |
+| Tmpfs   | 5        | 1.34%   |
 | Zfs     | 4        | 1.08%   |
 | Xfs     | 2        | 0.54%   |
 | F2fs    | 1        | 0.27%   |
@@ -1389,12 +1390,12 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 131      | 35.5%   |
-| 2      | 88       | 23.85%  |
-| 3      | 75       | 20.33%  |
-| 4      | 37       | 10.03%  |
-| 5      | 22       | 5.96%   |
-| 6      | 7        | 1.9%    |
+| 1      | 131      | 35.41%  |
+| 2      | 88       | 23.78%  |
+| 3      | 75       | 20.27%  |
+| 4      | 37       | 10%     |
+| 5      | 23       | 6.22%   |
+| 6      | 7        | 1.89%   |
 | 8      | 3        | 0.81%   |
 | 0      | 3        | 0.81%   |
 | 7      | 2        | 0.54%   |
@@ -1410,8 +1411,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 210      | 58.99%  |
-| Yes       | 146      | 41.01%  |
+| No        | 213      | 59.66%  |
+| Yes       | 144      | 40.34%  |
 
 Has Ethernet
 ------------
@@ -1531,7 +1532,7 @@ Hard drive vendors
 
 | Vendor                      | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
-| Samsung Electronics         | 143      | 260    | 20.97%  |
+| Samsung Electronics         | 143      | 265    | 20.97%  |
 | Seagate                     | 116      | 177    | 17.01%  |
 | WDC                         | 103      | 167    | 15.1%   |
 | Kingston                    | 67       | 100    | 9.82%   |
@@ -1583,7 +1584,7 @@ Hard drive models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO 2TB  | 12       | 1.48%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 250GB | 11       | 1.36%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 11       | 1.36%   |
 | Seagate ST2000DM001-1ER164 2TB                      | 9        | 1.11%   |
 | Samsung SSD 860 QVO 1TB                             | 9        | 1.11%   |
 | Kingston SV300S37A120G 120GB SSD                    | 9        | 1.11%   |
@@ -1598,11 +1599,11 @@ Hard drive models
 | Samsung NVMe SSD Drive 1TB                          | 7        | 0.86%   |
 | Seagate ST500DM002-1BD142 500GB                     | 6        | 0.74%   |
 | Seagate ST1000DM010-2EP102 1TB                      | 6        | 0.74%   |
-| Phison E12 NVMe Controller 512GB                    | 6        | 0.74%   |
+| Phison E12 NVMe Controller 1TB                      | 6        | 0.74%   |
 | Seagate ST1000DM003-1SB102 1TB                      | 5        | 0.62%   |
 | Kingston SA400S37120G 120GB SSD                     | 5        | 0.62%   |
 | Crucial CT1000MX500SSD1 1TB                         | 5        | 0.62%   |
-| Unknown SD/MMC/MS PRO 128GB                         | 4        | 0.49%   |
+| Unknown SD/MMC/MS PRO 512GB                         | 4        | 0.49%   |
 | Seagate ST4000VN008-2DR166 4TB                      | 4        | 0.49%   |
 | Seagate ST2000DM001-1CH164 2TB                      | 4        | 0.49%   |
 | Seagate ST1000DM003-1SB10C 1TB                      | 4        | 0.49%   |
@@ -1610,7 +1611,7 @@ Hard drive models
 | Samsung SSD 970 EVO 1TB                             | 4        | 0.49%   |
 | Samsung SSD 850 EVO 120GB                           | 4        | 0.49%   |
 | Samsung HD103SJ 1TB                                 | 4        | 0.49%   |
-| Phison E16 PCIe4 NVMe Controller 500GB              | 4        | 0.49%   |
+| Phison E16 PCIe4 NVMe Controller 2TB                | 4        | 0.49%   |
 | Kingston SV300S37A240G 240GB SSD                    | 4        | 0.49%   |
 | Kingston SUV400S37120G 120GB SSD                    | 4        | 0.49%   |
 | WDC WDS500G2B0A-00SM50 500GB SSD                    | 3        | 0.37%   |
@@ -1659,21 +1660,21 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 85       | 144    | 33.33%  |
-| Kingston            | 54       | 75     | 21.18%  |
-| Crucial             | 24       | 34     | 9.41%   |
-| SanDisk             | 12       | 12     | 4.71%   |
-| WDC                 | 10       | 10     | 3.92%   |
-| Intel               | 9        | 11     | 3.53%   |
-| A-DATA Technology   | 6        | 6      | 2.35%   |
-| PNY                 | 5        | 6      | 1.96%   |
-| Intenso             | 5        | 5      | 1.96%   |
-| OCZ                 | 4        | 4      | 1.57%   |
-| Corsair             | 4        | 5      | 1.57%   |
-| Verbatim            | 3        | 6      | 1.18%   |
-| Micron Technology   | 3        | 4      | 1.18%   |
-| LITEON              | 3        | 3      | 1.18%   |
-| JMicron Technology  | 3        | 3      | 1.18%   |
+| Samsung Electronics | 86       | 147    | 33.59%  |
+| Kingston            | 54       | 75     | 21.09%  |
+| Crucial             | 24       | 34     | 9.38%   |
+| SanDisk             | 12       | 12     | 4.69%   |
+| WDC                 | 10       | 10     | 3.91%   |
+| Intel               | 9        | 11     | 3.52%   |
+| A-DATA Technology   | 6        | 6      | 2.34%   |
+| PNY                 | 5        | 6      | 1.95%   |
+| Intenso             | 5        | 5      | 1.95%   |
+| OCZ                 | 4        | 4      | 1.56%   |
+| Corsair             | 4        | 5      | 1.56%   |
+| Verbatim            | 3        | 6      | 1.17%   |
+| Micron Technology   | 3        | 4      | 1.17%   |
+| LITEON              | 3        | 3      | 1.17%   |
+| JMicron Technology  | 3        | 3      | 1.17%   |
 | Transcend           | 2        | 2      | 0.78%   |
 | Team                | 2        | 2      | 0.78%   |
 | Patriot             | 2        | 3      | 0.78%   |
@@ -1705,9 +1706,9 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 206      | 361    | 36.59%  |
-| HDD     | 203      | 435    | 36.06%  |
-| NVMe    | 142      | 233    | 25.22%  |
+| SSD     | 206      | 364    | 36.65%  |
+| HDD     | 203      | 435    | 36.12%  |
+| NVMe    | 141      | 235    | 25.09%  |
 | Unknown | 8        | 8      | 1.42%   |
 | MMC     | 4        | 4      | 0.71%   |
 
@@ -1721,9 +1722,9 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 299      | 765    | 62.82%  |
-| NVMe | 141      | 232    | 29.62%  |
-| SAS  | 32       | 40     | 6.72%   |
+| SATA | 299      | 767    | 62.68%  |
+| NVMe | 141      | 234    | 29.56%  |
+| SAS  | 33       | 41     | 6.92%   |
 | MMC  | 4        | 4      | 0.84%   |
 
 Drive Size
@@ -1736,13 +1737,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 217      | 397    | 47.28%  |
-| 0.51-1.0   | 120      | 185    | 26.14%  |
-| 1.01-2.0   | 57       | 99     | 12.42%  |
-| 2.01-3.0   | 21       | 34     | 4.58%   |
-| 4.01-10.0  | 20       | 43     | 4.36%   |
-| 3.01-4.0   | 17       | 25     | 3.7%    |
-| 10.01-20.0 | 7        | 13     | 1.53%   |
+| 0.01-0.5   | 214      | 388    | 46.12%  |
+| 0.51-1.0   | 124      | 193    | 26.72%  |
+| 1.01-2.0   | 61       | 103    | 13.15%  |
+| 2.01-3.0   | 21       | 34     | 4.53%   |
+| 4.01-10.0  | 20       | 43     | 4.31%   |
+| 3.01-4.0   | 17       | 25     | 3.66%   |
+| 10.01-20.0 | 7        | 13     | 1.51%   |
 
 Space Total
 -----------
@@ -1914,7 +1915,7 @@ Number of failed and malfunc. drives
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
 | Detected | 235      | 629    | 57.18%  |
-| Works    | 145      | 367    | 35.28%  |
+| Works    | 145      | 372    | 35.28%  |
 | Malfunc  | 31       | 45     | 7.54%   |
 
 Storage controller
@@ -2479,48 +2480,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| ASUSTek Computer VA326 AUS32FA 1920x1080 698x393mm 31.5-inch          | 6        | 1.35%   |
-| Acer KG241Q ACR0604 1920x1080 521x293mm 23.5-inch                     | 4        | 0.9%    |
-| Sony TV SNYEE01 1920x1080                                             | 3        | 0.67%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch     | 3        | 0.67%   |
-| Samsung Electronics LCD Monitor S24F350 1920x1080                     | 3        | 0.67%   |
-| Goldstar LG TV SSCR2 GSMC0C8 3840x2160                                | 3        | 0.67%   |
-| AOC Q32G1WG4 AOC3201 2560x1440 697x393mm 31.5-inch                    | 3        | 0.67%   |
-| AOC 27V2G5 AOC2702 1920x1080 598x336mm 27.0-inch                      | 3        | 0.67%   |
-| Ancor Communications ROG PG279Q ACI27EC 2560x1440 598x336mm 27.0-inch | 3        | 0.67%   |
-| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch      | 3        | 0.67%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch    | 2        | 0.45%   |
-| Tech Concepts LCD Monitor TCL SMART TV 3840x2160                      | 2        | 0.45%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 2        | 0.45%   |
-| Samsung Electronics SyncMaster SAM055E 1920x1080 510x290mm 23.1-inch  | 2        | 0.45%   |
-| Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch  | 2        | 0.45%   |
-| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch     | 2        | 0.45%   |
-| Samsung Electronics LCD Monitor LF27T35 1920x1080                     | 2        | 0.45%   |
-| Samsung Electronics LC27G5xT SAM707A 2560x1440 698x393mm 31.5-inch    | 2        | 0.45%   |
-| Samsung Electronics LC24RG50 SAM0F90 1920x1080 532x304mm 24.1-inch    | 2        | 0.45%   |
-| Philips PHL 278E8Q PHLC161 1920x1080 598x336mm 27.0-inch              | 2        | 0.45%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch              | 2        | 0.45%   |
-| Philips PHL 272B8Q PHL0918 2560x1440 597x336mm 27.0-inch              | 2        | 0.45%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 2        | 0.45%   |
-| Medion MD20444 MED3661 1920x1080 521x293mm 23.5-inch                  | 2        | 0.45%   |
-| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch            | 2        | 0.45%   |
-| Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch              | 2        | 0.45%   |
-| Lenovo G27q-20 LEN66C3 2560x1440 597x336mm 27.0-inch                  | 2        | 0.45%   |
-| Hewlett-Packard w1907 HWP26A2 1440x900 408x255mm 18.9-inch            | 2        | 0.45%   |
-| Goldstar 27GL850 GSM5B80 2560x1440 697x392mm 31.5-inch                | 2        | 0.45%   |
-| Gigabyte Technology G32QC GBT3200 2560x1440 697x392mm 31.5-inch       | 2        | 0.45%   |
-| Dell U2414H DELA0A4 1920x1080 527x296mm 23.8-inch                     | 2        | 0.45%   |
-| Dell P2312H DEL4077 1920x1080 510x287mm 23.0-inch                     | 2        | 0.45%   |
-| Dell P1913 DELA089 1440x900 408x255mm 18.9-inch                       | 2        | 0.45%   |
-| Dell 2407WFP DELA017 1920x1200 519x324mm 24.1-inch                    | 2        | 0.45%   |
-| BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                    | 2        | 0.45%   |
-| BenQ G2420HDB BNQ7842 1920x1080 477x268mm 21.5-inch                   | 2        | 0.45%   |
-| BenQ G2420HD BNQ7840 1920x1080 531x299mm 24.0-inch                    | 2        | 0.45%   |
-| BenQ EX3501R BNQ7F5E 3440x1440 819x346mm 35.0-inch                    | 2        | 0.45%   |
-| ASUSTek Computer VP249 AUS24AF 1920x1080 527x296mm 23.8-inch          | 2        | 0.45%   |
-| ASUSTek Computer VG27A AUS2722 2560x1440 597x336mm 27.0-inch          | 2        | 0.45%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| ASUSTek Computer VA326 AUS32FA 1920x1080 698x393mm 31.5-inch           | 6        | 1.35%   |
+| Acer KG241Q ACR0604 1920x1080 521x293mm 23.5-inch                      | 4        | 0.9%    |
+| Sony TV SNYEE01 1920x1080                                              | 3        | 0.67%   |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 521x293mm 23.5-inch      | 3        | 0.67%   |
+| Samsung Electronics LCD Monitor S24F350 1920x1080                      | 3        | 0.67%   |
+| Goldstar TV SSCR2 GSMC0C8 3840x2160                                    | 3        | 0.67%   |
+| AOC Q32G1WG4 AOC3201 2560x1440 697x393mm 31.5-inch                     | 3        | 0.67%   |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                       | 3        | 0.67%   |
+| Ancor Communications ROG PG279Q ACI27EC 2560x1440 598x336mm 27.0-inch  | 3        | 0.67%   |
+| Ancor Communications MX279 ACI27C3 1920x1080 598x336mm 27.0-inch       | 3        | 0.67%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 2        | 0.45%   |
+| Tech Concepts LCD Monitor TCL SMART TV 3840x2160                       | 2        | 0.45%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch      | 2        | 0.45%   |
+| Samsung Electronics SyncMaster SAM055E 1920x1080 510x290mm 23.1-inch   | 2        | 0.45%   |
+| Samsung Electronics SyncMaster SAM04D4 1920x1080 531x298mm 24.0-inch   | 2        | 0.45%   |
+| Samsung Electronics S24F350 SAM0D21 1920x1080 521x293mm 23.5-inch      | 2        | 0.45%   |
+| Samsung Electronics LCD Monitor LF27T35 1920x1080                      | 2        | 0.45%   |
+| Samsung Electronics LC27G5xT SAM707A 2560x1440 698x393mm 31.5-inch     | 2        | 0.45%   |
+| Samsung Electronics LC24RG50 SAM0F90 1920x1080 530x300mm 24.0-inch     | 2        | 0.45%   |
+| Philips PHL 278E8Q PHLC161 1920x1080 598x336mm 27.0-inch               | 2        | 0.45%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch               | 2        | 0.45%   |
+| Philips PHL 272B8Q PHL0918 2560x1440 597x336mm 27.0-inch               | 2        | 0.45%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                | 2        | 0.45%   |
+| Medion MD20444 MED3661 1920x1080 521x293mm 23.5-inch                   | 2        | 0.45%   |
+| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch             | 2        | 0.45%   |
+| Lenovo LEN L27i-28 LEN65E0 1920x1080 598x336mm 27.0-inch               | 2        | 0.45%   |
+| Lenovo G27q-20 LEN66C3 2560x1440 597x336mm 27.0-inch                   | 2        | 0.45%   |
+| Hewlett-Packard w1907 HWP26A2 1440x900 408x255mm 18.9-inch             | 2        | 0.45%   |
+| Goldstar ULTRAGEAR GSM5B80 2560x1440 597x336mm 27.0-inch               | 2        | 0.45%   |
+| Gigabyte Technology G32QC GBT3200 2560x1440 697x392mm 31.5-inch        | 2        | 0.45%   |
+| Dell U2414H DELA0A4 1920x1080 527x296mm 23.8-inch                      | 2        | 0.45%   |
+| Dell P2312H DEL4077 1920x1080 510x287mm 23.0-inch                      | 2        | 0.45%   |
+| Dell P1913 DELA089 1440x900 408x255mm 18.9-inch                        | 2        | 0.45%   |
+| Dell 2407WFP DELA017 1920x1200 519x324mm 24.1-inch                     | 2        | 0.45%   |
+| BenQ XL2411Z BNQ7F31 1920x1080 531x298mm 24.0-inch                     | 2        | 0.45%   |
+| BenQ G2420HDB BNQ7842 1920x1080 477x268mm 21.5-inch                    | 2        | 0.45%   |
+| BenQ G2420HD BNQ7840 1920x1080 531x299mm 24.0-inch                     | 2        | 0.45%   |
+| BenQ EX3501R BNQ7F5E 3440x1440 819x346mm 35.0-inch                     | 2        | 0.45%   |
+| ASUSTek Computer VP249 AUS24AF 1920x1080 527x296mm 23.8-inch           | 2        | 0.45%   |
+| ASUSTek Computer VG27A AUS2722 2560x1440 597x336mm 27.0-inch           | 2        | 0.45%   |
 
 Monitor Resolution
 ------------------
@@ -2871,14 +2872,14 @@ Wireless models
 | Qualcomm Atheros AR9271 802.11n                                                      | 2        | 1.08%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                                     | 2        | 1.08%   |
 | NetGear A6100 AC600 DB Wireless Adapter [Realtek RTL8811AU]                          | 2        | 1.08%   |
-| Microsoft XBOX ACC                                                                   | 2        | 1.08%   |
+| Microsoft Xbox Wireless Adapter for Windows                                          | 2        | 1.08%   |
 | Microsoft Xbox 360 Wireless Adapter                                                  | 2        | 1.08%   |
 | Intel Wireless 8265 / 8275                                                           | 2        | 1.08%   |
 | Intel Wireless 8260                                                                  | 2        | 1.08%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]                       | 2        | 1.08%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                          | 1        | 0.54%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                                | 1        | 0.54%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                                                  | 1        | 0.54%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                                                | 1        | 0.54%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                         | 1        | 0.54%   |
 
 Ethernet Vendor
@@ -3059,17 +3060,16 @@ Controller models
 | Intel Wireless-AC 9260 Bluetooth Adapter                             | 8        | 6.06%   |
 | Intel Bluetooth wireless interface                                   | 8        | 6.06%   |
 | MediaTek Wireless_Device                                             | 7        | 5.3%    |
+| Intel Bluetooth Device                                               | 6        | 4.55%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)                       | 5        | 3.79%   |
 | Intel AX210 Bluetooth                                                | 5        | 3.79%   |
-| ASUS ASUS USB-BT500                                                  | 5        | 3.79%   |
-| Intel AX201 Bluetooth                                                | 4        | 3.03%   |
+| ASUS Bluetooth Device                                                | 5        | 3.79%   |
 | IMC Networks Bluetooth Radio                                         | 4        | 3.03%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                                    | 3        | 2.27%   |
+| Realtek RTL8821A Bluetooth                                           | 2        | 1.52%   |
 | Realtek  Bluetooth 4.2 Adapter                                       | 2        | 1.52%   |
-| Realtek Bluetooth Radio                                              | 2        | 1.52%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0                               | 2        | 1.52%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                                | 2        | 1.52%   |
-| Intel Bluetooth Device                                               | 2        | 1.52%   |
 | Belkin Components F8T065BF Mini Bluetooth 4.0 Adapter                | 2        | 1.52%   |
 | ASUS Bluetooth Radio                                                 | 2        | 1.52%   |
 | Qualcomm Atheros AR9462 Bluetooth                                    | 1        | 0.76%   |
@@ -3136,7 +3136,7 @@ Sound card vendors
 | DSEA A/S                             | 1        | 0.15%   |
 | Dell                                 | 1        | 0.15%   |
 | Clavia DMI AB                        | 1        | 0.15%   |
-| BR25                                 | 1        | 0.15%   |
+| BR23                                 | 1        | 0.15%   |
 
 Sound Model
 -----------
@@ -3243,13 +3243,13 @@ Memory module models
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s    | 2        | 0.9%    |
 | Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s    | 2        | 0.9%    |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s    | 2        | 0.9%    |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s    | 2        | 0.9%    |
+| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s | 2        | 0.9%    |
 | Kingston RAM KF556C36-16 16GB DIMM DDR5 6400MT/s       | 2        | 0.9%    |
 | Kingston RAM KF552C40-16 16GB DIMM DDR5 5200MT/s       | 2        | 0.9%    |
 | Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s  | 2        | 0.9%    |
 | Kingston RAM HP24D4U7S8MBP-8 8GB DIMM DDR4 2400MT/s    | 2        | 0.9%    |
 | G.Skill RAM F4-3600C16-16GTZNC 16GB DIMM DDR4 3600MT/s | 2        | 0.9%    |
-| G.Skill RAM F4-3200C16-8GIS 8192MB DIMM DDR4 3200MT/s  | 2        | 0.9%    |
+| G.Skill RAM F4-3200C16-8GIS 8GB DIMM DDR4 3200MT/s     | 2        | 0.9%    |
 | G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s   | 2        | 0.9%    |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1800MT/s  | 2        | 0.9%    |
 | Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s    | 2        | 0.9%    |
@@ -3399,22 +3399,22 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                              | Desktops | Percent |
-|------------------------------------|----------|---------|
-| Brother DCP-J140W                  | 2        | 13.33%  |
-| Xerox Phaser 6125N                 | 1        | 6.67%   |
-| Prolific PL2305 Parallel Port      | 1        | 6.67%   |
-| HP LaserJet 1020                   | 1        | 6.67%   |
-| HP ENVY Photo 6200 series          | 1        | 6.67%   |
-| HP ENVY 4520 series                | 1        | 6.67%   |
-| HP Deskjet D4300 series            | 1        | 6.67%   |
-| HP DeskJet 5940                    | 1        | 6.67%   |
-| HP DeskJet 5550                    | 1        | 6.67%   |
-| HP DeskJet 2620 All-in-One Printer | 1        | 6.67%   |
-| Canon iP7200 series                | 1        | 6.67%   |
-| Brother HL-5250DN Printer          | 1        | 6.67%   |
-| Brother HL-2240D series            | 1        | 6.67%   |
-| Brother HL-2030 Laser Printer      | 1        | 6.67%   |
+| Model                         | Desktops | Percent |
+|-------------------------------|----------|---------|
+| Brother DCP-J140W             | 2        | 13.33%  |
+| Xerox Phaser 6125N            | 1        | 6.67%   |
+| Prolific PL2305 Parallel Port | 1        | 6.67%   |
+| HP LaserJet 1020              | 1        | 6.67%   |
+| HP ENVY Photo 6200 series     | 1        | 6.67%   |
+| HP ENVY 4520 series           | 1        | 6.67%   |
+| HP Deskjet D4300 series       | 1        | 6.67%   |
+| HP DeskJet 5940               | 1        | 6.67%   |
+| HP DeskJet 5550               | 1        | 6.67%   |
+| HP DeskJet 2600 series        | 1        | 6.67%   |
+| Canon iP7200 series           | 1        | 6.67%   |
+| Brother HL-5250DN Printer     | 1        | 6.67%   |
+| Brother HL-2240D series       | 1        | 6.67%   |
+| Brother HL-2030 Laser Printer | 1        | 6.67%   |
 
 Scanner Vendor
 --------------
@@ -3498,9 +3498,9 @@ Camera device models
 | Microsoft MicrosoftÂ LifeCam Studio                                 | 1        | 2.13%   |
 | Microsoft LifeCam HD-3000                                            | 1        | 2.13%   |
 | Logitech Webcam C930e                                                | 1        | 2.13%   |
+| Logitech Webcam C925e                                                | 1        | 2.13%   |
 | Logitech QuickCam Pro 5000                                           | 1        | 2.13%   |
 | Logitech QuickCam E 3500                                             | 1        | 2.13%   |
-| Logitech Logitech Webcam C925e                                       | 1        | 2.13%   |
 | Logitech HD Webcam C510                                              | 1        | 2.13%   |
 | Logitech C670i FHD Webcam                                            | 1        | 2.13%   |
 | Logitech BRIO Ultra HD Webcam                                        | 1        | 2.13%   |

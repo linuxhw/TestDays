@@ -157,10 +157,11 @@ Contents
 Test Cases
 ----------
 
-Total: 547
+Total: 548
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | TUF Gaming FX705DT_FX705... | Notebook    | [c71368b0eb](https://linux-hardware.org/?probe=c71368b0eb) | Jan 01, 2024 |
 | iRU           | 15ALC                       | Notebook    | [28f7177799](https://linux-hardware.org/?probe=28f7177799) | Dec 22, 2023 |
 | Dell          | Precision M4700             | Notebook    | [3048d06ee6](https://linux-hardware.org/?probe=3048d06ee6) | Dec 21, 2023 |
 | ASUSTek       | H97M-E                      | Desktop     | [090fcf5a52](https://linux-hardware.org/?probe=090fcf5a52) | Dec 21, 2023 |
@@ -726,11 +727,11 @@ Installed operating systems
 
 | Name         | Computers | Percent |
 |--------------|-----------|---------|
-| Red OS 7.3   | 170       | 43.26%  |
-| Red OS 7.3.2 | 109       | 27.74%  |
-| Red OS 7.3.1 | 103       | 26.21%  |
-| Red OS 7.2   | 9         | 2.29%   |
-| Red OS 8.0   | 2         | 0.51%   |
+| Red OS 7.3   | 170       | 43.15%  |
+| Red OS 7.3.2 | 109       | 27.66%  |
+| Red OS 7.3.1 | 103       | 26.14%  |
+| Red OS 7.2   | 9         | 2.28%   |
+| Red OS 8.0   | 3         | 0.76%   |
 
 OS Family
 ---------
@@ -754,31 +755,32 @@ Version of the Linux kernel
 
 | Version                 | Computers | Percent |
 |-------------------------|-----------|---------|
-| 5.15.10-1.el7.x86_64    | 55        | 13.29%  |
-| 5.15.87-1.el7.3.x86_64  | 53        | 12.8%   |
-| 5.15.72-1.el7.3.x86_64  | 49        | 11.84%  |
-| 6.1.52-1.el7.3.x86_64   | 37        | 8.94%   |
-| 5.10.29-1.el7.x86_64    | 37        | 8.94%   |
-| 5.15.35-5.el7.3.x86_64  | 25        | 6.04%   |
-| 5.15.78-2.el7.3.x86_64  | 19        | 4.59%   |
-| 5.15.35-4.el7.3.x86_64  | 19        | 4.59%   |
-| 5.10.29-3.el7.x86_64    | 18        | 4.35%   |
-| 5.15.35-1.el7.3.x86_64  | 17        | 4.11%   |
-| 6.1.20-2.el7.3.x86_64   | 12        | 2.9%    |
-| 6.1.44-1.el7.3.x86_64   | 10        | 2.42%   |
+| 5.15.10-1.el7.x86_64    | 55        | 13.25%  |
+| 5.15.87-1.el7.3.x86_64  | 53        | 12.77%  |
+| 5.15.72-1.el7.3.x86_64  | 49        | 11.81%  |
+| 6.1.52-1.el7.3.x86_64   | 37        | 8.92%   |
+| 5.10.29-1.el7.x86_64    | 37        | 8.92%   |
+| 5.15.35-5.el7.3.x86_64  | 25        | 6.02%   |
+| 5.15.78-2.el7.3.x86_64  | 19        | 4.58%   |
+| 5.15.35-4.el7.3.x86_64  | 19        | 4.58%   |
+| 5.10.29-3.el7.x86_64    | 18        | 4.34%   |
+| 5.15.35-1.el7.3.x86_64  | 17        | 4.1%    |
+| 6.1.20-2.el7.3.x86_64   | 12        | 2.89%   |
+| 6.1.44-1.el7.3.x86_64   | 10        | 2.41%   |
 | 5.15.131-1.el7.3.x86_64 | 9         | 2.17%   |
 | 5.14.9-1.el7.x86_64     | 8         | 1.93%   |
 | 4.19.79-1.el7.x86_64    | 7         | 1.69%   |
-| 6.1.38-2.el7.3.x86_64   | 5         | 1.21%   |
-| 5.15.10-2.el7.x86_64    | 5         | 1.21%   |
-| 5.15.10-3.el7.x86_64    | 4         | 0.97%   |
-| 5.10.1-1.el7.x86_64     | 4         | 0.97%   |
+| 6.1.38-2.el7.3.x86_64   | 5         | 1.2%    |
+| 5.15.10-2.el7.x86_64    | 5         | 1.2%    |
+| 5.15.10-3.el7.x86_64    | 4         | 0.96%   |
+| 5.10.1-1.el7.x86_64     | 4         | 0.96%   |
 | 5.15.125-1.el7.3.x86_64 | 3         | 0.72%   |
 | 5.10.24-2.el7.x86_64    | 3         | 0.72%   |
 | 6.1.52-1.red80.x86_64   | 2         | 0.48%   |
 | 6.1.11-1.el7.3.x86_64   | 2         | 0.48%   |
 | 5.18.1-1.el7.x86_64     | 2         | 0.48%   |
 | 5.15.10-4.el7.x86_64    | 2         | 0.48%   |
+| 6.6.6-1.red80.x86_64    | 1         | 0.24%   |
 | 5.4.197-1.el7.aarch64   | 1         | 0.24%   |
 | 5.15.120                | 1         | 0.24%   |
 | 5.13.15-1.el7.x86_64    | 1         | 0.24%   |
@@ -797,24 +799,25 @@ Linux kernel without a distro release
 
 | Version  | Computers | Percent |
 |----------|-----------|---------|
-| 5.15.10  | 66        | 16.1%   |
-| 5.15.35  | 57        | 13.9%   |
-| 5.10.29  | 55        | 13.41%  |
-| 5.15.87  | 53        | 12.93%  |
-| 5.15.72  | 49        | 11.95%  |
-| 6.1.52   | 39        | 9.51%   |
-| 5.15.78  | 19        | 4.63%   |
-| 6.1.20   | 12        | 2.93%   |
-| 6.1.44   | 10        | 2.44%   |
-| 5.15.131 | 9         | 2.2%    |
+| 5.15.10  | 66        | 16.06%  |
+| 5.15.35  | 57        | 13.87%  |
+| 5.10.29  | 55        | 13.38%  |
+| 5.15.87  | 53        | 12.9%   |
+| 5.15.72  | 49        | 11.92%  |
+| 6.1.52   | 39        | 9.49%   |
+| 5.15.78  | 19        | 4.62%   |
+| 6.1.20   | 12        | 2.92%   |
+| 6.1.44   | 10        | 2.43%   |
+| 5.15.131 | 9         | 2.19%   |
 | 5.14.9   | 8         | 1.95%   |
-| 4.19.79  | 7         | 1.71%   |
+| 4.19.79  | 7         | 1.7%    |
 | 6.1.38   | 5         | 1.22%   |
 | 5.10.24  | 5         | 1.22%   |
-| 5.10.1   | 4         | 0.98%   |
+| 5.10.1   | 4         | 0.97%   |
 | 5.15.125 | 3         | 0.73%   |
 | 6.1.11   | 2         | 0.49%   |
 | 5.18.1   | 2         | 0.49%   |
+| 6.6.6    | 1         | 0.24%   |
 | 5.4.197  | 1         | 0.24%   |
 | 5.15.120 | 1         | 0.24%   |
 | 5.13.15  | 1         | 0.24%   |
@@ -831,12 +834,13 @@ Linux kernel major version
 
 | Version | Computers | Percent |
 |---------|-----------|---------|
-| 5.15    | 239       | 61.28%  |
-| 6.1     | 67        | 17.18%  |
-| 5.10    | 63        | 16.15%  |
-| 4.19    | 9         | 2.31%   |
+| 5.15    | 239       | 61.13%  |
+| 6.1     | 67        | 17.14%  |
+| 5.10    | 63        | 16.11%  |
+| 4.19    | 9         | 2.3%    |
 | 5.14    | 8         | 2.05%   |
 | 5.18    | 2         | 0.51%   |
+| 6.6     | 1         | 0.26%   |
 | 5.4     | 1         | 0.26%   |
 | 5.13    | 1         | 0.26%   |
 
@@ -863,11 +867,11 @@ Desktop Environment
 
 | Name       | Computers | Percent |
 |------------|-----------|---------|
-| MATE       | 315       | 82.25%  |
-| Cinnamon   | 48        | 12.53%  |
+| MATE       | 315       | 82.03%  |
+| Cinnamon   | 48        | 12.5%   |
 | X-Cinnamon | 12        | 3.13%   |
-| Unknown    | 5         | 1.31%   |
-| GNOME      | 3         | 0.78%   |
+| Unknown    | 5         | 1.3%    |
+| GNOME      | 4         | 1.04%   |
 
 Display Server
 --------------
@@ -909,8 +913,8 @@ Language
 
 | Lang    | Computers | Percent |
 |---------|-----------|---------|
-| ru_RU   | 190       | 49.48%  |
-| Unknown | 190       | 49.48%  |
+| ru_RU   | 191       | 49.61%  |
+| Unknown | 190       | 49.35%  |
 | en_US   | 4         | 1.04%   |
 
 Boot Mode
@@ -1242,12 +1246,12 @@ Used RAM memory
 
 | Used GB     | Computers | Percent |
 |-------------|-----------|---------|
-| 1.01-2.0    | 196       | 49.62%  |
-| 2.01-3.0    | 81        | 20.51%  |
-| 4.01-8.0    | 38        | 9.62%   |
-| 0.51-1.0    | 34        | 8.61%   |
-| 3.01-4.0    | 32        | 8.1%    |
-| 8.01-16.0   | 8         | 2.03%   |
+| 1.01-2.0    | 196       | 49.49%  |
+| 2.01-3.0    | 81        | 20.45%  |
+| 4.01-8.0    | 38        | 9.6%    |
+| 0.51-1.0    | 34        | 8.59%   |
+| 3.01-4.0    | 33        | 8.33%   |
+| 8.01-16.0   | 8         | 2.02%   |
 | 0.01-0.5    | 3         | 0.76%   |
 | 64.01-256.0 | 1         | 0.25%   |
 | 16.01-24.0  | 1         | 0.25%   |
@@ -1284,8 +1288,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 279       | 74.01%  |
-| Yes       | 98        | 25.99%  |
+| No        | 280       | 74.47%  |
+| Yes       | 96        | 25.53%  |
 
 Has Ethernet
 ------------
@@ -1352,16 +1356,16 @@ Geographic location (city)
 
 | City              | Computers | Percent |
 |-------------------|-----------|---------|
-| Moscow            | 79        | 20.52%  |
-| Salekhard         | 50        | 12.99%  |
-| Murom             | 43        | 11.17%  |
-| Novy Urengoy      | 19        | 4.94%   |
-| Labytnangi        | 16        | 4.16%   |
-| Perm              | 14        | 3.64%   |
-| Yekaterinburg     | 13        | 3.38%   |
-| St Petersburg     | 11        | 2.86%   |
-| Krasnodar         | 8         | 2.08%   |
-| Yuzhno-Sakhalinsk | 7         | 1.82%   |
+| Moscow            | 79        | 20.47%  |
+| Salekhard         | 50        | 12.95%  |
+| Murom             | 43        | 11.14%  |
+| Novy Urengoy      | 19        | 4.92%   |
+| Labytnangi        | 16        | 4.15%   |
+| Perm              | 14        | 3.63%   |
+| Yekaterinburg     | 13        | 3.37%   |
+| St Petersburg     | 11        | 2.85%   |
+| Krasnodar         | 8         | 2.07%   |
+| Yuzhno-Sakhalinsk | 7         | 1.81%   |
 | Zima              | 5         | 1.3%    |
 | Ryazan            | 5         | 1.3%    |
 | Volgograd         | 4         | 1.04%   |
@@ -1406,7 +1410,7 @@ Hard drive vendors
 
 | Vendor                       | Computers | Drives | Percent |
 |------------------------------|-----------|--------|---------|
-| WDC                          | 66        | 82     | 13.78%  |
+| WDC                          | 66        | 83     | 13.78%  |
 | Seagate                      | 65        | 88     | 13.57%  |
 | Samsung Electronics          | 55        | 87     | 11.48%  |
 | Toshiba                      | 35        | 64     | 7.31%   |
@@ -1419,7 +1423,7 @@ Hard drive vendors
 | Crucial                      | 9         | 13     | 1.88%   |
 | SanDisk                      | 8         | 11     | 1.67%   |
 | Unknown                      | 7         | 7      | 1.46%   |
-| Micron Technology            | 7         | 12     | 1.46%   |
+| Micron Technology            | 7         | 13     | 1.46%   |
 | KingSpec                     | 7         | 7      | 1.46%   |
 | Patriot                      | 6         | 6      | 1.25%   |
 | Unknown                      | 6         | 7      | 1.25%   |
@@ -1509,7 +1513,7 @@ Hard disk drive vendors
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Seagate             | 64        | 87     | 40.25%  |
-| WDC                 | 44        | 57     | 27.67%  |
+| WDC                 | 44        | 58     | 27.67%  |
 | Toshiba             | 31        | 59     | 19.5%   |
 | Hitachi             | 5         | 5      | 3.14%   |
 | HGST                | 5         | 5      | 3.14%   |
@@ -1576,8 +1580,8 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| NVMe    | 163       | 198    | 35.75%  |
-| HDD     | 143       | 260    | 31.36%  |
+| NVMe    | 163       | 199    | 35.75%  |
+| HDD     | 143       | 261    | 31.36%  |
 | SSD     | 140       | 182    | 30.7%   |
 | MMC     | 7         | 9      | 1.54%   |
 | Unknown | 3         | 3      | 0.66%   |
@@ -1592,8 +1596,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 238       | 434    | 57.07%  |
-| NVMe | 163       | 198    | 39.09%  |
+| SATA | 238       | 435    | 57.07%  |
+| NVMe | 163       | 199    | 39.09%  |
 | SAS  | 9         | 11     | 2.16%   |
 | MMC  | 7         | 9      | 1.68%   |
 
@@ -1607,9 +1611,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 175       | 240    | 61.19%  |
-| 0.51-1.0   | 91        | 137    | 31.82%  |
-| 1.01-2.0   | 12        | 37     | 4.2%    |
+| 0.01-0.5   | 173       | 237    | 60.49%  |
+| 0.51-1.0   | 92        | 140    | 32.17%  |
+| 1.01-2.0   | 13        | 38     | 4.55%   |
 | 3.01-4.0   | 4         | 8      | 1.4%    |
 | 2.01-3.0   | 2         | 13     | 0.7%    |
 | 4.01-10.0  | 2         | 7      | 0.7%    |
@@ -1645,12 +1649,12 @@ Amount of used disk space
 
 | Used GB        | Computers | Percent |
 |----------------|-----------|---------|
-| 1-20           | 222       | 56.35%  |
-| 21-50          | 80        | 20.3%   |
-| 51-100         | 27        | 6.85%   |
-| 101-250        | 25        | 6.35%   |
-| 501-1000       | 16        | 4.06%   |
-| 251-500        | 14        | 3.55%   |
+| 1-20           | 222       | 56.2%   |
+| 21-50          | 80        | 20.25%  |
+| 51-100         | 27        | 6.84%   |
+| 101-250        | 26        | 6.58%   |
+| 501-1000       | 16        | 4.05%   |
+| 251-500        | 14        | 3.54%   |
 | 1001-2000      | 5         | 1.27%   |
 | More than 3000 | 3         | 0.76%   |
 | 2001-3000      | 1         | 0.25%   |
@@ -1780,7 +1784,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 335       | 545    | 83.96%  |
+| Works    | 335       | 547    | 83.96%  |
 | Malfunc  | 41        | 73     | 10.28%  |
 | Detected | 23        | 34     | 5.76%   |
 
@@ -2697,7 +2701,7 @@ Wireless models
 | Broadcom BCM43228 802.11a/b/g/n                                | 3         | 1.33%   |
 | Broadcom BCM43142 802.11b/g/n                                  | 3         | 1.33%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 3         | 1.33%   |
-| TP-Link TL-WN821N v5/v6 [RTL8192EU]                            | 2         | 0.89%   |
+| TP-Link TL-WN821N Version 5 RTL8192EU                          | 2         | 0.89%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 2         | 0.89%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 2         | 0.89%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                     | 2         | 0.89%   |
@@ -2770,7 +2774,7 @@ Ethernet models
 | Intel Ethernet Connection (10) I219-V                             | 3         | 0.82%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2         | 0.55%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 0.55%   |
-| MediaTek X55                                                      | 2         | 0.55%   |
+| MediaTek M40Air_EEA                                               | 2         | 0.55%   |
 | Intel I211 Gigabit Network Connection                             | 2         | 0.55%   |
 | Intel I210 Gigabit Network Connection                             | 2         | 0.55%   |
 | Intel Ethernet Controller I225-LM                                 | 2         | 0.55%   |
@@ -2786,7 +2790,7 @@ Ethernet models
 | Qualcomm Atheros Attansic L2 Fast Ethernet                        | 1         | 0.27%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 0.27%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 0.27%   |
-| OPPO RMX3623                                                      | 1         | 0.27%   |
+| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 0.27%   |
 | OKB SAPR Ethernet controller                                      | 1         | 0.27%   |
 | Mellanox MT27800 Family [ConnectX-5]                              | 1         | 0.27%   |
 
@@ -2888,23 +2892,22 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Realtek Bluetooth Radio                             | 42        | 22.83%  |
-| Intel AX201 Bluetooth                               | 32        | 17.39%  |
+| Intel Bluetooth Device                              | 39        | 21.2%   |
 | Intel Bluetooth wireless interface                  | 31        | 16.85%  |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 15        | 8.15%   |
-| Intel Bluetooth Device                              | 7         | 3.8%    |
 | Realtek  Bluetooth 4.2 Adapter                      | 6         | 3.26%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 6         | 3.26%   |
 | IMC Networks Bluetooth Radio                        | 5         | 2.72%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 3         | 1.63%   |
 | Intel AX200 Bluetooth                               | 3         | 1.63%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 1.63%   |
-| Realtek 802.11ac WLAN Adapter                       | 2         | 1.09%   |
+| Realtek Bluetooth Radio                             | 2         | 1.09%   |
 | Ralink RT3290 Bluetooth                             | 2         | 1.09%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 1.09%   |
 | IMC Networks Bluetooth Device                       | 2         | 1.09%   |
 | Foxconn / Hon Hai MediaTek Bluetooth Adapter        | 2         | 1.09%   |
 | Broadcom HP Portable Bumble Bee                     | 2         | 1.09%   |
-| TP-Link TP-Cdj+ UB5A Adapter                        | 1         | 0.54%   |
+| TP-Link UB500 Adapter                               | 1         | 0.54%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 0.54%   |
 | Qualcomm Atheros AR3011 Bluetooth                   | 1         | 0.54%   |
 | Opticis Bluetooth Radio                             | 1         | 0.54%   |
@@ -3065,48 +3068,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s             | 18        | 4.34%   |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s             | 8         | 1.93%   |
-| Foxline RAM FL2666D4S19-8G ]. 8GB SODIMM DDR4 2667MT/s            | 8         | 1.93%   |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s             | 6         | 1.45%   |
-| Foxline RAM FL2666D4U19-8G 8GB DIMM DDR4 2667MT/s                 | 6         | 1.45%   |
-| Unknown                                                           | 6         | 1.45%   |
-| Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s       | 4         | 0.96%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s             | 4         | 0.96%   |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s         | 4         | 0.96%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s              | 4         | 0.96%   |
-| Foxline RAM FL3200D4S22-8G 8GB SODIMM DDR4 3200MT/s               | 4         | 0.96%   |
-| Crucial RAM CT8G4SFS832A.M8FR 8GB SODIMM DDR4 3200MT/s            | 4         | 0.96%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s  | 3         | 0.72%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 3         | 0.72%   |
-| SK hynix RAM HMA851S6DJR6N-XN 4GB Row Of Chips DDR4 3200MT/s      | 3         | 0.72%   |
-| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s            | 3         | 0.72%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s            | 3         | 0.72%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s             | 3         | 0.72%   |
-| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s          | 3         | 0.72%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s             | 3         | 0.72%   |
-| Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s             | 3         | 0.72%   |
-| Samsung RAM M378A1K43EB2-CWE 8GB DIMM DDR4 3200MT/s               | 3         | 0.72%   |
-| Patriot RAM PSD44G266681 4GB DIMM DDR4 2667MT/s                   | 3         | 0.72%   |
-| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s             | 3         | 0.72%   |
-| Foxline RAM FL2400D4S17S-8G 8GB SODIMM DDR4 2400MT/s              | 3         | 0.72%   |
-| Crucial RAM CT8G4DFS824A.C8FDD1 8GB DIMM DDR4 3200MT/s            | 3         | 0.72%   |
-| AMD RAM R748G2606U2S 8GB DIMM DDR4 3200MT/s                       | 3         | 0.72%   |
-| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                         | 2         | 0.48%   |
-| Unknown RAM Module 2GB DIMM SDRAM 800MT/s                         | 2         | 0.48%   |
-| Unknown RAM Module 2GB DIMM SDRAM                                 | 2         | 0.48%   |
-| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                         | 2         | 0.48%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                              | 2         | 0.48%   |
-| SK hynix RAM HMT451U6MFR8C-PB 4GB DIMM DDR3 1800MT/s              | 2         | 0.48%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s            | 2         | 0.48%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB Row Of Chips DDR4 3200MT/s      | 2         | 0.48%   |
-| SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s            | 2         | 0.48%   |
-| SK hynix RAM HMA851S6CJR6N-XN 4GB SODIMM DDR4 3200MT/s            | 2         | 0.48%   |
-| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s            | 2         | 0.48%   |
-| SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s      | 2         | 0.48%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s            | 2         | 0.48%   |
+| Model                                                            | Computers | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s            | 18        | 4.34%   |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s            | 8         | 1.93%   |
+| Foxline RAM FL2666D4S19-8G ]. 8GB SODIMM DDR4 2667MT/s           | 8         | 1.93%   |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 6         | 1.45%   |
+| Foxline RAM FL2666D4U19-8G 8GB DIMM DDR4 2667MT/s                | 6         | 1.45%   |
+| Unknown                                                          | 6         | 1.45%   |
+| Samsung RAM M471A5244CB0-CWE 4GB Row Of Chips DDR4 3200MT/s      | 4         | 0.96%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 4         | 0.96%   |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s        | 4         | 0.96%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s             | 4         | 0.96%   |
+| Foxline RAM FL3200D4S22-8G 8GB SODIMM DDR4 3200MT/s              | 4         | 0.96%   |
+| Crucial RAM CT8G4SFS832A.M8FR 8GB SODIMM DDR4 3200MT/s           | 4         | 0.96%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 3         | 0.72%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 3         | 0.72%   |
+| SK hynix RAM HMA851S6DJR6N-XN 4GB Row Of Chips DDR4 3200MT/s     | 3         | 0.72%   |
+| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 3         | 0.72%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 3         | 0.72%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 3         | 0.72%   |
+| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 3         | 0.72%   |
+| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s         | 3         | 0.72%   |
+| Samsung RAM M471A1G44BB0-CWE 8GB SODIMM DDR4 3200MT/s            | 3         | 0.72%   |
+| Samsung RAM M378A1K43EB2-CWE 8GB DIMM DDR4 3200MT/s              | 3         | 0.72%   |
+| Patriot RAM PSD44G266681 4GB DIMM DDR4 2667MT/s                  | 3         | 0.72%   |
+| Micron RAM 4ATF51264HZ-3G2J1 4GB SODIMM DDR4 3200MT/s            | 3         | 0.72%   |
+| Foxline RAM FL2400D4S17S-8G 8GB SODIMM DDR4 2400MT/s             | 3         | 0.72%   |
+| Crucial RAM CT8G4DFS824A.C8FDD1 8GB DIMM DDR4 3200MT/s           | 3         | 0.72%   |
+| AMD RAM R748G2606U2S 8GB DIMM DDR4 3200MT/s                      | 3         | 0.72%   |
+| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                        | 2         | 0.48%   |
+| Unknown RAM Module 2GB DIMM SDRAM 800MT/s                        | 2         | 0.48%   |
+| Unknown RAM Module 2GB DIMM SDRAM                                | 2         | 0.48%   |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                        | 2         | 0.48%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                             | 2         | 0.48%   |
+| SK hynix RAM HMT451U6MFR8C-PB 4GB DIMM DDR3 1800MT/s             | 2         | 0.48%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 2         | 0.48%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB Row Of Chips DDR4 3200MT/s     | 2         | 0.48%   |
+| SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 2         | 0.48%   |
+| SK hynix RAM HMA851S6CJR6N-XN 4GB SODIMM DDR4 3200MT/s           | 2         | 0.48%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s           | 2         | 0.48%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s     | 2         | 0.48%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s        | 2         | 0.48%   |
 
 Memory Kind
 -----------
@@ -3345,13 +3348,13 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam                   | 4         | 2.07%   |
 | IMC Networks ov9734_azurewave_camera                | 4         | 2.07%   |
 | Chicony Integrated Camera                           | 4         | 2.07%   |
+| Sunplus Integrated_Webcam_HD                        | 3         | 1.55%   |
 | Realtek 1080p Camera                                | 3         | 1.55%   |
-| Microdia USB 2.0 Camera                             | 3         | 1.55%   |
+| Microdia Digital Microscope                         | 3         | 1.55%   |
 | Logitech HD Webcam C615                             | 3         | 1.55%   |
 | IMC Networks HD Camera                              | 3         | 1.55%   |
 | USB Camera CS USB Camera CS                         | 2         | 1.04%   |
 | SunplusIT MTD camera                                | 2         | 1.04%   |
-| Sunplus FHD Camera Microphone                       | 2         | 1.04%   |
 | Sonix USB 2.0 Camera                                | 2         | 1.04%   |
 | Realtek Integrated_Webcam_HD                        | 2         | 1.04%   |
 | Quanta USB2.0 HD UVC WebCam                         | 2         | 1.04%   |
@@ -3364,7 +3367,6 @@ Camera device models
 | Chicony USB2.0 Camera                               | 2         | 1.04%   |
 | Chicony HP High Definition 1MP Webcam               | 2         | 1.04%   |
 | Chicony HD User Facing                              | 2         | 1.04%   |
-| Bison Lenovo Integrated Webcam                      | 2         | 1.04%   |
 | Bison HD Webcam                                     | 2         | 1.04%   |
 | Bison BisonCam,NB Pro                               | 2         | 1.04%   |
 | AlcorMicroCorp SHUNCCM                              | 2         | 1.04%   |
@@ -3373,6 +3375,7 @@ Camera device models
 | Z-Star Lenovo USB2.0 UVC Camera                     | 1         | 0.52%   |
 | Z-Star Lenovo IdeaCentre Web Camera                 | 1         | 0.52%   |
 | Syntek LENOVO LBG 720P CAM                          | 1         | 0.52%   |
+| Syntek Lenovo EasyCamera                            | 1         | 0.52%   |
 
 Security
 --------

@@ -1678,32 +1678,32 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Computers | Percent |
-|----------------------------------------------------------|-----------|---------|
-| Samsung RAM M393A8G40BB4-CWE 64GB DIMM DDR4 3200MT/s     | 10        | 17.24%  |
-| Micron RAM 36ASF4G72PZ-2G9E2 32GB DIMM DDR4 2933MT/s     | 10        | 17.24%  |
-| Samsung RAM M393A2K40DB3-CWE 16GB DIMM DDR4 3200MT/s     | 8         | 13.79%  |
-| Nanya RAM NT32GA72D4NBX3P-IX 32GB DIMM DDR4 2933MT/s     | 4         | 6.9%    |
-| Samsung RAM M393A2K43FB3-CWE 16GB DIMM DDR4 3200MT/s     | 3         | 5.17%   |
-| HPE RAM P03052-091 32GB DIMM DDR4 3200MT/s               | 3         | 5.17%   |
-| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s     | 2         | 3.45%   |
-| Micron RAM 18ASF2G72AZ-2G3B1 16GB DIMM DDR4 2400MT/s     | 2         | 3.45%   |
-| SK hynix RAM HMT42GR7MFR4C-PB 16GB DIMM DDR3 1600MT/s    | 1         | 1.72%   |
-| SK hynix RAM HMA84GR7DJR4N-WM 32GB DIMM DDR4 2933MT/s    | 1         | 1.72%   |
-| SK hynix RAM HMA84GR7CJR4N-VK 32GB DIMM DDR4 2666MT/s    | 1         | 1.72%   |
-| SK hynix RAM HMA84GR7AFR4N-VK 32GB DIMM DDR4 2667MT/s    | 1         | 1.72%   |
-| SK hynix RAM HMA82GR7AFR8N-VK 16GB DIMM DDR4 2667MT/s    | 1         | 1.72%   |
-| Samsung RAM M393A8G40AB2-CWE 64GB DIMM DDR4 3200MT/s     | 1         | 1.72%   |
-| Samsung RAM M393A4K40EB3-CWE 32GB DIMM DDR4 3200MT/s     | 1         | 1.72%   |
-| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s     | 1         | 1.72%   |
-| Samsung RAM M393A4K40BB1-CRC 32GB DIMM DDR4 2400MT/s     | 1         | 1.72%   |
-| Samsung RAM M378A2G43MX3-CTD 16GB DIMM DDR4 3466MT/s     | 1         | 1.72%   |
-| Micron RAM 18ASF2G72PDZ-2G6E1 16384MB DIMM DDR4 2667MT/s | 1         | 1.72%   |
-| Micron RAM 18ASF2G72AZ-2G6D1 16GB DIMM DDR4 2667MT/s     | 1         | 1.72%   |
-| Kingston RAM 9965742-055.B00G 32GB DIMM DDR4 3200MT/s    | 1         | 1.72%   |
-| Kingston RAM 9965669-008.A03G 16GB DIMM DDR4 2134MT/s    | 1         | 1.72%   |
-| Kingston RAM 9965640-016.A00G 32GB DIMM DDR4 2133MT/s    | 1         | 1.72%   |
-| Kingston RAM 9965516-071.A00LF 16GB DIMM DDR3 1066MT/s   | 1         | 1.72%   |
+| Model                                                  | Computers | Percent |
+|--------------------------------------------------------|-----------|---------|
+| Samsung RAM M393A8G40BB4-CWE 64GB DIMM DDR4 3200MT/s   | 10        | 17.24%  |
+| Micron RAM 36ASF4G72PZ-2G9E2 32GB DIMM DDR4 2933MT/s   | 10        | 17.24%  |
+| Samsung RAM M393A2K40DB3-CWE 16GB DIMM DDR4 3200MT/s   | 8         | 13.79%  |
+| Nanya RAM NT32GA72D4NBX3P-IX 32GB DIMM DDR4 2933MT/s   | 4         | 6.9%    |
+| Samsung RAM M393A2K43FB3-CWE 16GB DIMM DDR4 3200MT/s   | 3         | 5.17%   |
+| HPE RAM P03052-091 32GB DIMM DDR4 3200MT/s             | 3         | 5.17%   |
+| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s   | 2         | 3.45%   |
+| Micron RAM 18ASF2G72AZ-2G3B1 16GB DIMM DDR4 2400MT/s   | 2         | 3.45%   |
+| SK hynix RAM HMT42GR7MFR4C-PB 16GB DIMM DDR3 1600MT/s  | 1         | 1.72%   |
+| SK hynix RAM HMA84GR7DJR4N-WM 32GB DIMM DDR4 2933MT/s  | 1         | 1.72%   |
+| SK hynix RAM HMA84GR7CJR4N-VK 32GB DIMM DDR4 2666MT/s  | 1         | 1.72%   |
+| SK hynix RAM HMA84GR7AFR4N-VK 32GB DIMM DDR4 2667MT/s  | 1         | 1.72%   |
+| SK hynix RAM HMA82GR7AFR8N-VK 16GB DIMM DDR4 2667MT/s  | 1         | 1.72%   |
+| Samsung RAM M393A8G40AB2-CWE 64GB DIMM DDR4 3200MT/s   | 1         | 1.72%   |
+| Samsung RAM M393A4K40EB3-CWE 32GB DIMM DDR4 3200MT/s   | 1         | 1.72%   |
+| Samsung RAM M393A4K40DB3-CWE 32GB DIMM DDR4 3200MT/s   | 1         | 1.72%   |
+| Samsung RAM M393A4K40BB1-CRC 32GB DIMM DDR4 2400MT/s   | 1         | 1.72%   |
+| Samsung RAM M378A2G43MX3-CTD 16GB DIMM DDR4 3466MT/s   | 1         | 1.72%   |
+| Micron RAM 18ASF2G72PDZ-2G6E1 16GB DIMM DDR4 2667MT/s  | 1         | 1.72%   |
+| Micron RAM 18ASF2G72AZ-2G6D1 16GB DIMM DDR4 2667MT/s   | 1         | 1.72%   |
+| Kingston RAM 9965742-055.B00G 32GB DIMM DDR4 3200MT/s  | 1         | 1.72%   |
+| Kingston RAM 9965669-008.A03G 16GB DIMM DDR4 2134MT/s  | 1         | 1.72%   |
+| Kingston RAM 9965640-016.A00G 32GB DIMM DDR4 2133MT/s  | 1         | 1.72%   |
+| Kingston RAM 9965516-071.A00LF 16GB DIMM DDR3 1066MT/s | 1         | 1.72%   |
 
 Memory Kind
 -----------

@@ -715,8 +715,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 16        | 64%     |
-| Yes       | 9         | 36%     |
+| No        | 17        | 68%     |
+| Yes       | 8         | 32%     |
 
 Has Ethernet
 ------------
@@ -1455,7 +1455,7 @@ Monitor models
 | LG Display LCD Monitor LGD03DE 1600x900 382x215mm 17.3-inch      | 1         | 3.45%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch      | 1         | 3.45%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
-| Lenovo LCD Monitor LEN4036 1440x900 303x189mm 14.1-inch          | 1         | 3.45%   |
+| Lenovo LCD Monitor LEN4036 1440x900 303x190mm 14.1-inch          | 1         | 3.45%   |
 | Hewlett-Packard E243i HPN3463 1920x1200 518x324mm 24.1-inch      | 1         | 3.45%   |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch          | 1         | 3.45%   |
 | Dell U2415 DELA0BC 1920x1200 518x324mm 24.1-inch                 | 1         | 3.45%   |
@@ -1834,9 +1834,9 @@ Controller models
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 4.17%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 4.17%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 4.17%   |
-| Intel AX201 Bluetooth                               | 1         | 4.17%   |
+| Intel Bluetooth Device                              | 1         | 4.17%   |
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 4.17%   |
-| Edimax Bluetooth Adapter                            | 1         | 4.17%   |
+| Edimax Edimax Bluetooth Adapter                     | 1         | 4.17%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 4.17%   |
 | Broadcom HP Portable Bumble Bee                     | 1         | 4.17%   |
 
@@ -1930,7 +1930,7 @@ Memory module models
 | SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2667MT/s          | 1         | 3.45%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s           | 1         | 3.45%   |
 | SK hynix RAM H9CCNNNCLGALAR-NUD 8GB Row Of Chips LPDDR3 1867MT/s | 1         | 3.45%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1600MT/s            | 1         | 3.45%   |
+| Samsung RAM M471B5773DH0-CH9 2048MB SODIMM DDR3 1600MT/s         | 1         | 3.45%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 4199MT/s            | 1         | 3.45%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 1         | 3.45%   |
 | Samsung RAM M471A2K43BB1-CRC 16GB SODIMM DDR4 2400MT/s           | 1         | 3.45%   |

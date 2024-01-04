@@ -1246,8 +1246,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 187       | 60.71%  |
-| No        | 121       | 39.29%  |
+| Yes       | 185       | 60.06%  |
+| No        | 123       | 39.94%  |
 
 Has Ethernet
 ------------
@@ -1481,7 +1481,7 @@ Hard drive models
 | WDC WD2500BEVT-22A23T0 250GB        | 2         | 0.52%   |
 | WDC WD1200BEVS-22UST0 120GB         | 2         | 0.52%   |
 | WDC WD10EZEX-08WN4A0 1TB            | 2         | 0.52%   |
-| Unknown SD/MMC/MS PRO 128GB         | 2         | 0.52%   |
+| Unknown SD/MMC/MS PRO 512GB         | 2         | 0.52%   |
 | Unknown MMC Card  2GB               | 2         | 0.52%   |
 | Toshiba MQ01ABD100 1TB              | 2         | 0.52%   |
 | Toshiba MK5055GSX 500GB             | 2         | 0.52%   |
@@ -1602,11 +1602,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 248       | 329    | 80.78%  |
-| 0.51-1.0   | 47        | 54     | 15.31%  |
-| 1.01-2.0   | 10        | 14     | 3.26%   |
-| 2.01-3.0   | 1         | 4      | 0.33%   |
-| 4.01-10.0  | 1         | 1      | 0.33%   |
+| 0.01-0.5   | 247       | 327    | 80.19%  |
+| 0.51-1.0   | 48        | 55     | 15.58%  |
+| 1.01-2.0   | 11        | 15     | 3.57%   |
+| 2.01-3.0   | 1         | 4      | 0.32%   |
+| 4.01-10.0  | 1         | 1      | 0.32%   |
 
 Space Total
 -----------
@@ -2302,12 +2302,12 @@ Monitor models
 | BOE LCD Monitor BOE0705 1366x768 309x173mm 13.9-inch                     | 3         | 0.99%   |
 | ___ LCD TV ___0101 1920x1080                                             | 2         | 0.66%   |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                      | 2         | 0.66%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 309x174mm 14.0-inch     | 2         | 0.66%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.66%   |
 | Samsung Electronics LCD Monitor SEC3445 1280x800 330x210mm 15.4-inch     | 2         | 0.66%   |
 | Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 2         | 0.66%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch     | 2         | 0.66%   |
 | Samsung Electronics LCD Monitor SAM0DF3 3840x2160 1872x1053mm 84.6-inch  | 2         | 0.66%   |
-| OEM 32W_LCD_TV OEM3700 1920x540                                          | 2         | 0.66%   |
+| OEM 26W_LCD_TV OEM3700 1920x540                                          | 2         | 0.66%   |
 | LG Philips LCD Monitor LPLE300 1280x800 331x207mm 15.4-inch              | 2         | 0.66%   |
 | LG Philips LCD Monitor LPL3B01 1280x800 331x207mm 15.4-inch              | 2         | 0.66%   |
 | LG Display LCD Monitor LGD033A 1366x768 344x194mm 15.5-inch              | 2         | 0.66%   |
@@ -2325,12 +2325,12 @@ Monitor models
 | AU Optronics LCD Monitor AUO11C2 1024x600 195x113mm 8.9-inch             | 2         | 0.66%   |
 | AOC 2590G4 AOC2590 1920x1080 544x303mm 24.5-inch                         | 2         | 0.66%   |
 | Acer G276HL ACR0300 1920x1080 600x340mm 27.2-inch                        | 2         | 0.66%   |
-| Vizio M190VA VIZ0067 1360x768 410x230mm 18.5-inch                        | 1         | 0.33%   |
+| Vizio E321ME VIZ0067 1920x1080 698x392mm 31.5-inch                       | 1         | 0.33%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                         | 1         | 0.33%   |
 | ViewSonic VG710s VSCA218 1280x1024 338x270mm 17.0-inch                   | 1         | 0.33%   |
 | ViewSonic VG2230wm-EU VSCA21E 1680x1050 474x296mm 22.0-inch              | 1         | 0.33%   |
 | ViewSonic VA2226w-11 VSC2051 1680x1050 495x291mm 22.6-inch               | 1         | 0.33%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 706x398mm 31.9-inch       | 1         | 0.33%   |
+| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch   | 1         | 0.33%   |
 | Toshiba TV TSB0206 1920x1080 890x500mm 40.2-inch                         | 1         | 0.33%   |
 | Toshiba LCD Monitor LCD58EF 1280x800 261x163mm 12.1-inch                 | 1         | 0.33%   |
 | Sony TV SNYB800 1280x768 690x390mm 31.2-inch                             | 1         | 0.33%   |
@@ -2904,7 +2904,7 @@ Controller models
 | Realtek Bluetooth Radio                             | 3         | 2.33%   |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 3         | 2.33%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 3         | 2.33%   |
-| Broadcom BCM2070 Bluetooth Device                   | 3         | 2.33%   |
+| Broadcom Broadcom BCM2070 Bluetooth Device          | 3         | 2.33%   |
 | Toshiba Bluetooth Device                            | 2         | 1.55%   |
 | Realtek  Bluetooth 4.2 Adapter                      | 2         | 1.55%   |
 | Ralink RT3290 Bluetooth                             | 2         | 1.55%   |
@@ -2912,7 +2912,7 @@ Controller models
 | Lite-On Atheros AR3012 Bluetooth                    | 2         | 1.55%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 1.55%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 2         | 1.55%   |
-| Intel AX201 Bluetooth                               | 2         | 1.55%   |
+| Intel Bluetooth Device                              | 2         | 1.55%   |
 | Intel AX200 Bluetooth                               | 2         | 1.55%   |
 | Dell DW375 Bluetooth Module                         | 2         | 1.55%   |
 | Dell BCM20702A0 Bluetooth Module                    | 2         | 1.55%   |
@@ -3271,13 +3271,13 @@ Camera device vendors
 | Suyin                                  | 12        | 7.32%   |
 | Realtek Semiconductor                  | 12        | 7.32%   |
 | Microdia                               | 12        | 7.32%   |
-| Bison Electronics                      | 12        | 7.32%   |
 | IMC Networks                           | 11        | 6.71%   |
+| Bison Electronics                      | 10        | 6.1%    |
 | Cheng Uei Precision Industry (Foxlink) | 8         | 4.88%   |
 | Ricoh                                  | 7         | 4.27%   |
+| Acer                                   | 7         | 4.27%   |
 | Z-Star Microelectronics                | 6         | 3.66%   |
 | Sunplus Innovation Technology          | 6         | 3.66%   |
-| Acer                                   | 5         | 3.05%   |
 | Silicon Motion                         | 4         | 2.44%   |
 | Syntek                                 | 3         | 1.83%   |
 | Logitech                               | 3         | 1.83%   |
@@ -3312,18 +3312,18 @@ Camera device models
 | Suyin Acer/HP Integrated Webcam [CN0314]                | 4         | 2.44%   |
 | Chicony TOSHIBA Web Camera - HD                         | 4         | 2.44%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 4         | 2.44%   |
-| Bison Lenovo Integrated Webcam                          | 4         | 2.44%   |
 | Microdia Sonix USB 2.0 Camera                           | 3         | 1.83%   |
 | IMC Networks UVC VGA Webcam                             | 3         | 1.83%   |
 | Chicony USB 2.0 Camera                                  | 3         | 1.83%   |
 | Chicony CNF9055 Toshiba Webcam                          | 3         | 1.83%   |
 | Bison Integrated Camera                                 | 3         | 1.83%   |
 | Bison EasyCamera                                        | 3         | 1.83%   |
+| Acer Lenovo EasyCamera                                  | 3         | 1.83%   |
 | Silicon Motion WebCam SC-0311139N                       | 2         | 1.22%   |
 | Samsung Galaxy series, misc. (MTP mode)                 | 2         | 1.22%   |
 | Ricoh Sony Vaio Integrated Webcam                       | 2         | 1.22%   |
 | Ricoh Laptop_Integrated_Webcam_FHD                      | 2         | 1.22%   |
-| Realtek USB Camera                                      | 2         | 1.22%   |
+| Realtek USB camera                                      | 2         | 1.22%   |
 | Realtek Lenovo EasyCamera                               | 2         | 1.22%   |
 | Realtek Integrated_Webcam_HD                            | 2         | 1.22%   |
 | Realtek Integrated Webcam                               | 2         | 1.22%   |
@@ -3338,6 +3338,7 @@ Camera device models
 | Chicony HD WebCam                                       | 2         | 1.22%   |
 | Chicony 2.0M UVC Webcam / CNF7129                       | 2         | 1.22%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam        | 2         | 1.22%   |
+| Bison Lenovo Integrated Webcam                          | 2         | 1.22%   |
 | Acer BisonCam, NB Pro                                   | 2         | 1.22%   |
 | Z-Star Vega USB 2.0 Camera                              | 1         | 0.61%   |
 | Z-Star Sirius USB2.0 Camera                             | 1         | 0.61%   |
@@ -3347,7 +3348,6 @@ Camera device models
 | Syntek Integrated Webcam                                | 1         | 0.61%   |
 | Suyin USB 2.0 Camera                                    | 1         | 0.61%   |
 | Suyin HP Webcam 101                                     | 1         | 0.61%   |
-| Suyin HP Webcam                                         | 1         | 0.61%   |
 
 Security
 --------
@@ -3443,8 +3443,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 202       | 64.95%  |
-| 1     | 84        | 27.01%  |
+| 0     | 204       | 65.59%  |
+| 1     | 82        | 26.37%  |
 | 2     | 23        | 7.4%    |
 | 4     | 1         | 0.32%   |
 | 3     | 1         | 0.32%   |
@@ -3459,20 +3459,20 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 43        | 31.85%  |
-| Net/wireless             | 21        | 15.56%  |
-| Fingerprint reader       | 18        | 13.33%  |
-| Chipcard                 | 12        | 8.89%   |
-| Communication controller | 11        | 8.15%   |
-| Storage                  | 6         | 4.44%   |
-| Modem                    | 5         | 3.7%    |
-| Camera                   | 5         | 3.7%    |
-| Multimedia controller    | 3         | 2.22%   |
-| Bluetooth                | 3         | 2.22%   |
-| Sound                    | 2         | 1.48%   |
-| Flash memory             | 2         | 1.48%   |
-| Unassigned class         | 1         | 0.74%   |
-| Storage/raid             | 1         | 0.74%   |
-| Storage/ide              | 1         | 0.74%   |
-| Net/ethernet             | 1         | 0.74%   |
+| Graphics card            | 41        | 30.83%  |
+| Net/wireless             | 21        | 15.79%  |
+| Fingerprint reader       | 18        | 13.53%  |
+| Chipcard                 | 12        | 9.02%   |
+| Communication controller | 11        | 8.27%   |
+| Storage                  | 6         | 4.51%   |
+| Modem                    | 5         | 3.76%   |
+| Camera                   | 5         | 3.76%   |
+| Multimedia controller    | 3         | 2.26%   |
+| Bluetooth                | 3         | 2.26%   |
+| Sound                    | 2         | 1.5%    |
+| Flash memory             | 2         | 1.5%    |
+| Unassigned class         | 1         | 0.75%   |
+| Storage/raid             | 1         | 0.75%   |
+| Storage/ide              | 1         | 0.75%   |
+| Net/ethernet             | 1         | 0.75%   |
 
