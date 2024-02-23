@@ -910,7 +910,7 @@ Hard drive models
 | WDC WD5000AAKS-402AA0 500GB          | 1        | 1.72%   |
 | WDC WD5000AACS-00ZUB0 500GB          | 1        | 1.72%   |
 | WDC WD3200AAJS-60M0A1 320GB          | 1        | 1.72%   |
-| WDC WD2500AAJS-75M0A0 250GB          | 1        | 1.72%   |
+| WDC WD2500AAJS-75M0A0 249GB          | 1        | 1.72%   |
 | WDC WD1600AVVS-63L2B0 160GB          | 1        | 1.72%   |
 | WDC WD10PURZ-85U8XY0 1TB             | 1        | 1.72%   |
 | WDC WD10EZEX-75WN4A1 1TB             | 1        | 1.72%   |
@@ -1581,7 +1581,7 @@ Monitor models
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch    | 1        | 2.44%   |
 | S2-Tek TV STK531A 1920x1080 930x530mm 42.1-inch                      | 1        | 2.44%   |
 | PKB LCD Monitor VIS220WS 1680x1050                                   | 1        | 2.44%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch              | 1        | 2.44%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch              | 1        | 2.44%   |
 | Philips 17S PHL0877 1280x1024 337x270mm 17.0-inch                    | 1        | 2.44%   |
 | Packard Bell PKB VIS220WS PKB5064 1680x1050 460x290mm 21.4-inch      | 1        | 2.44%   |
 | MSI MP271 MSI30A2 1920x1080 598x336mm 27.0-inch                      | 1        | 2.44%   |
@@ -1596,7 +1596,7 @@ Monitor models
 | Hewlett-Packard E241i HWP3123 1920x1200 518x324mm 24.1-inch          | 1        | 2.44%   |
 | Hewlett-Packard 2011 HWP2935 1600x900 443x249mm 20.0-inch            | 1        | 2.44%   |
 | Hewlett-Packard 2011 HWP2934 1600x900 443x249mm 20.0-inch            | 1        | 2.44%   |
-| GDH Smart TV GDH0030 1920x1080 708x398mm 32.0-inch                   | 1        | 2.44%   |
+| GDH Digital TV GDH0030 1920x540                                      | 1        | 2.44%   |
 | Dell S2721HGF DEL41E8 1920x1080 600x340mm 27.2-inch                  | 1        | 2.44%   |
 | Dell E193FP DEL700E 1280x1024 338x270mm 17.0-inch                    | 1        | 2.44%   |
 | BenQ T201W BNQ7719 1680x1050 433x271mm 20.1-inch                     | 1        | 2.44%   |
@@ -1760,7 +1760,7 @@ Controller models
 
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller      | 26       | 41.94%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 26       | 41.94%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                  | 6        | 9.68%   |
 | Ralink MT7601U Wireless Adapter                                        | 4        | 6.45%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                  | 2        | 3.23%   |
@@ -1774,9 +1774,9 @@ Controller models
 | Ralink RT5370 Wireless Adapter                                         | 1        | 1.61%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1        | 1.61%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 1.61%   |
-| Intel Wireless-AC 9260                                                 | 1        | 1.61%   |
 | Intel Wireless 7265                                                    | 1        | 1.61%   |
 | Intel Wireless 3165                                                    | 1        | 1.61%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 1        | 1.61%   |
 | Intel Tiger Lake PCH CNVi WiFi                                         | 1        | 1.61%   |
 | Intel Ethernet Connection (7) I219-V                                   | 1        | 1.61%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1        | 1.61%   |
@@ -1824,9 +1824,9 @@ Wireless models
 | Ralink RT5370 Wireless Adapter                                         | 1        | 4.76%   |
 | Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1        | 4.76%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 4.76%   |
-| Intel Wireless-AC 9260                                                 | 1        | 4.76%   |
 | Intel Wireless 7265                                                    | 1        | 4.76%   |
 | Intel Wireless 3165                                                    | 1        | 4.76%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 1        | 4.76%   |
 | Intel Tiger Lake PCH CNVi WiFi                                         | 1        | 4.76%   |
 | Intel Comet Lake PCH CNVi WiFi                                         | 1        | 4.76%   |
 | Intel Alder Lake-S PCH CNVi WiFi                                       | 1        | 4.76%   |
@@ -1855,19 +1855,19 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 26       | 63.41%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 6        | 14.63%  |
-| Samsung Galaxy series, misc. (tethering mode)                     | 1        | 2.44%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 2.44%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 2.44%   |
-| Intel Ethernet Connection (7) I219-V                              | 1        | 2.44%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1        | 2.44%   |
-| Intel Ethernet Connection (11) I219-LM                            | 1        | 2.44%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 2.44%   |
-| Intel 82562V-2 10/100 Network Connection                          | 1        | 2.44%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1        | 2.44%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 26       | 63.41%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 6        | 14.63%  |
+| Samsung Galaxy series, misc. (tethering mode)                          | 1        | 2.44%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 2.44%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 1        | 2.44%   |
+| Intel Ethernet Connection (7) I219-V                                   | 1        | 2.44%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1        | 2.44%   |
+| Intel Ethernet Connection (11) I219-LM                                 | 1        | 2.44%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 2.44%   |
+| Intel 82562V-2 10/100 Network Connection                               | 1        | 2.44%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                        | 1        | 2.44%   |
 
 Net Controller Kind
 -------------------
@@ -1948,7 +1948,7 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Intel Bluetooth Device                              | 3        | 27.27%  |
+| Intel AX201 Bluetooth                               | 3        | 27.27%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 27.27%  |
 | Intel Bluetooth wireless interface                  | 2        | 18.18%  |
 | Ralink RT3290 Bluetooth                             | 1        | 9.09%   |
@@ -2066,7 +2066,7 @@ Memory module models
 | TwinMOS RAM 9DSDBNZB-5AMP 4GB DIMM DDR3 1333MT/s               | 1        | 3.45%   |
 | TwinMOS RAM 9D7TBNZB-TATP 4096MB DIMM DDR3 1066MT/s            | 1        | 3.45%   |
 | Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s              | 1        | 3.45%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s            | 1        | 3.45%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s            | 1        | 3.45%   |
 | Team RAM TEAMGROUP-UD4-2400 16GB DIMM DDR4 2400MT/s            | 1        | 3.45%   |
 | SK hynix RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 3.45%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s          | 1        | 3.45%   |
@@ -2231,7 +2231,7 @@ Camera device models
 |------------------------------|----------|---------|
 | Syntek Integrated RGB Camera | 1        | 33.33%  |
 | Cubeternet WebCam            | 1        | 33.33%  |
-| A4Tech REDRAGON Live Camera  | 1        | 33.33%  |
+| A4Tech USB Live camera       | 1        | 33.33%  |
 
 Security
 --------

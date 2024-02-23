@@ -809,7 +809,7 @@ Hard drive models
 | Transcend TS64GMTS400 64GB SSD                      | 1         | 3.03%   |
 | Toshiba MQ04ABF100 1TB                              | 1         | 3.03%   |
 | Toshiba MQ01ABD032 320GB                            | 1         | 3.03%   |
-| SSSTC CVB-8D128-HP 128GB SSD                        | 1         | 3.03%   |
+| SSSTC CVB-8D128-HP 128GB                            | 1         | 3.03%   |
 | SK hynix SKHynix_HFS512GD9TNG-L3A0B 512GB           | 1         | 3.03%   |
 | SK hynix NVMe SSD Drive 512GB                       | 1         | 3.03%   |
 | Seagate ST9500325AS 500GB                           | 1         | 3.03%   |
@@ -1371,7 +1371,7 @@ Monitor models
 | LG Display LCD Monitor LGD045C 1366x768 345x194mm 15.6-inch          | 1         | 3.33%   |
 | LG Display LCD Monitor LGD039F 1366x768 345x194mm 15.6-inch          | 1         | 3.33%   |
 | LG Display LCD Monitor LGD0372 1600x900 382x215mm 17.3-inch          | 1         | 3.33%   |
-| LG Display LCD Monitor LGD02DA 1920x1080 380x220mm 17.3-inch         | 1         | 3.33%   |
+| LG Display LCD Monitor LGD02DA 1920x1080 382x215mm 17.3-inch         | 1         | 3.33%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch         | 1         | 3.33%   |
 | Dell P2421D DELD0FF 2560x1440 527x296mm 23.8-inch                    | 1         | 3.33%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 344x193mm 15.5-inch      | 1         | 3.33%   |
@@ -1392,7 +1392,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO162C 1366x768 293x164mm 13.2-inch        | 1         | 3.33%   |
 | AU Optronics LCD Monitor AUO159E 1600x900 382x214mm 17.2-inch        | 1         | 3.33%   |
 | Apple LCD Monitor APP9C5F 1280x800 286x179mm 13.3-inch               | 1         | 3.33%   |
-| Apple Color LCD APPA00E 2880x1800 330x210mm 15.4-inch                | 1         | 3.33%   |
+| Apple Color LCD APPA00E 2880x1800 331x207mm 15.4-inch                | 1         | 3.33%   |
 | Apple Color LCD APP9CC7 1280x800 286x179mm 13.3-inch                 | 1         | 3.33%   |
 
 Monitor Resolution
@@ -1533,44 +1533,44 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                                | Notebooks | Percent |
-|----------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller    | 9         | 15.52%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                | 7         | 12.07%  |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter           | 3         | 5.17%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 3         | 5.17%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                      | 2         | 3.45%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                     | 2         | 3.45%   |
-| Intel Ethernet Connection (4) I219-LM                                | 2         | 3.45%   |
-| Broadcom BCM43142 802.11b/g/n                                        | 2         | 3.45%   |
-| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]      | 1         | 1.72%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter             | 1         | 1.72%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 1         | 1.72%   |
-| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter             | 1         | 1.72%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                           | 1         | 1.72%   |
-| Realtek RTL8188EE Wireless Network Adapter                           | 1         | 1.72%   |
-| Realtek RTL8152 Fast Ethernet Adapter                                | 1         | 1.72%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                            | 1         | 1.72%   |
-| Qualcomm Atheros QCA8172 Fast Ethernet                               | 1         | 1.72%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter           | 1         | 1.72%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                        | 1         | 1.72%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller              | 1         | 1.72%   |
-| Intel Wireless 8265 / 8275                                           | 1         | 1.72%   |
-| Intel Wireless 7265                                                  | 1         | 1.72%   |
-| Intel Wireless 3165                                                  | 1         | 1.72%   |
-| Intel Wi-Fi 6 AX200                                                  | 1         | 1.72%   |
-| Intel Ethernet Connection I217-LM                                    | 1         | 1.72%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                      | 1         | 1.72%   |
-| Intel Centrino Wireless-N 105                                        | 1         | 1.72%   |
-| Google Pixel 7 Pro                                                   | 1         | 1.72%   |
-| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                    | 1         | 1.72%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                    | 1         | 1.72%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                    | 1         | 1.72%   |
-| Broadcom Limited BCM4352 802.11ac Dual Band Wireless Network Adapter | 1         | 1.72%   |
-| Broadcom Limited BCM4331 802.11a/b/g/n                               | 1         | 1.72%   |
-| Broadcom Limited BCM43142 802.11b/g/n                                | 1         | 1.72%   |
-| Broadcom BCM4331 802.11a/b/g/n                                       | 1         | 1.72%   |
-| Broadcom BCM4321 802.11a/b/g/n                                       | 1         | 1.72%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 9         | 15.52%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 7         | 12.07%  |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 3         | 5.17%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 3         | 5.17%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                        | 2         | 3.45%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                       | 2         | 3.45%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 2         | 3.45%   |
+| Broadcom BCM43142 802.11b/g/n                                          | 2         | 3.45%   |
+| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]        | 1         | 1.72%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter               | 1         | 1.72%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 1         | 1.72%   |
+| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter               | 1         | 1.72%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                             | 1         | 1.72%   |
+| Realtek RTL8188EE Wireless Network Adapter                             | 1         | 1.72%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1         | 1.72%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1         | 1.72%   |
+| Qualcomm Atheros QCA8172 Fast Ethernet                                 | 1         | 1.72%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 1         | 1.72%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1         | 1.72%   |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                | 1         | 1.72%   |
+| Intel Wireless 8265 / 8275                                             | 1         | 1.72%   |
+| Intel Wireless 7265                                                    | 1         | 1.72%   |
+| Intel Wireless 3165                                                    | 1         | 1.72%   |
+| Intel Wi-Fi 6 AX200                                                    | 1         | 1.72%   |
+| Intel Ethernet Connection I217-LM                                      | 1         | 1.72%   |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                        | 1         | 1.72%   |
+| Intel Centrino Wireless-N 105                                          | 1         | 1.72%   |
+| Google Pixel 8                                                         | 1         | 1.72%   |
+| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                      | 1         | 1.72%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                      | 1         | 1.72%   |
+| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                      | 1         | 1.72%   |
+| Broadcom Limited BCM4352 802.11ac Dual Band Wireless Network Adapter   | 1         | 1.72%   |
+| Broadcom Limited BCM4331 802.11a/b/g/n                                 | 1         | 1.72%   |
+| Broadcom Limited BCM43142 802.11b/g/n                                  | 1         | 1.72%   |
+| Broadcom BCM4331 802.11a/b/g/n                                         | 1         | 1.72%   |
+| Broadcom BCM4321 802.11a/b/g/n                                         | 1         | 1.72%   |
 
 Wireless Vendor
 ---------------
@@ -1649,21 +1649,21 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 9         | 32.14%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 7         | 25%     |
-| Intel Ethernet Connection (4) I219-LM                             | 2         | 7.14%   |
-| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1         | 3.57%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 3.57%   |
-| Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 3.57%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.57%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 3.57%   |
-| Google Pixel 7 Pro                                                | 1         | 3.57%   |
-| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 3.57%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 3.57%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 1         | 3.57%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 9         | 32.14%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 7         | 25%     |
+| Intel Ethernet Connection (4) I219-LM                                  | 2         | 7.14%   |
+| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]        | 1         | 3.57%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1         | 3.57%   |
+| Qualcomm Atheros QCA8172 Fast Ethernet                                 | 1         | 3.57%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1         | 3.57%   |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                | 1         | 3.57%   |
+| Intel Ethernet Connection I217-LM                                      | 1         | 3.57%   |
+| Google Pixel 8                                                         | 1         | 3.57%   |
+| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                      | 1         | 3.57%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                      | 1         | 3.57%   |
+| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                      | 1         | 3.57%   |
 
 Net Controller Kind
 -------------------
@@ -1752,13 +1752,12 @@ Controller models
 
 | Model                                        | Notebooks | Percent |
 |----------------------------------------------|-----------|---------|
+| Realtek Bluetooth Radio                      | 4         | 15.38%  |
 | Qualcomm Atheros  Bluetooth Device           | 4         | 15.38%  |
 | Intel Bluetooth wireless interface           | 4         | 15.38%  |
-| Realtek Bluetooth Radio                      | 3         | 11.54%  |
 | Lite-On Broadcom BCM43142A0 Bluetooth Device | 2         | 7.69%   |
 | Apple Bluetooth Host Controller              | 2         | 7.69%   |
 | Toshiba Bluetooth Device                     | 1         | 3.85%   |
-| Realtek RTL8821A Bluetooth                   | 1         | 3.85%   |
 | Realtek  Bluetooth 4.2 Adapter               | 1         | 3.85%   |
 | Ralink RT3290 Bluetooth                      | 1         | 3.85%   |
 | Qualcomm Atheros AR9462 Bluetooth            | 1         | 3.85%   |
@@ -2055,10 +2054,10 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 2     | 11        | 36.67%  |
-| 1     | 9         | 30%     |
+| 1     | 10        | 33.33%  |
 | 3     | 5         | 16.67%  |
 | 4     | 3         | 10%     |
-| 0     | 2         | 6.67%   |
+| 0     | 1         | 3.33%   |
 
 Unsupported Device Types
 ------------------------
@@ -2070,14 +2069,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 19        | 32.2%   |
-| Net/wireless             | 14        | 23.73%  |
-| Graphics card            | 5         | 8.47%   |
-| Card reader              | 5         | 8.47%   |
-| Bluetooth                | 5         | 8.47%   |
-| Multimedia controller    | 4         | 6.78%   |
-| Net/ethernet             | 3         | 5.08%   |
-| Fingerprint reader       | 2         | 3.39%   |
-| Storage/ide              | 1         | 1.69%   |
-| Chipcard                 | 1         | 1.69%   |
+| Communication controller | 19        | 31.67%  |
+| Net/wireless             | 14        | 23.33%  |
+| Graphics card            | 6         | 10%     |
+| Card reader              | 5         | 8.33%   |
+| Bluetooth                | 5         | 8.33%   |
+| Multimedia controller    | 4         | 6.67%   |
+| Net/ethernet             | 3         | 5%      |
+| Fingerprint reader       | 2         | 3.33%   |
+| Storage/ide              | 1         | 1.67%   |
+| Chipcard                 | 1         | 1.67%   |
 

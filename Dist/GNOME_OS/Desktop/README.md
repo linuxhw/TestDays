@@ -742,7 +742,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 512GB            | 1        | 2.94%   |
 | Samsung NVMe SSD Drive 1024GB           | 1        | 2.94%   |
 | PNY CS900 240GB SSD                     | 1        | 2.94%   |
-| Phison PS5013 E13 NVMe Controller 512GB | 1        | 2.94%   |
+| Phison PS5013 E13 NVMe Controller 256GB | 1        | 2.94%   |
 | Kingston SV300S37A240G 240GB SSD        | 1        | 2.94%   |
 | Kingston SV300S37A120G 120GB SSD        | 1        | 2.94%   |
 | Kingston SUV400S37120G 120GB SSD        | 1        | 2.94%   |
@@ -956,7 +956,7 @@ Storage controller models
 | Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 1        | 3.45%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                            | 1        | 3.45%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo                   | 1        | 3.45%   |
-| Kingston Company NV1 NVMe SSD E13T                                                      | 1        | 3.45%   |
+| Kingston Company NV1 NVMe SSD E13T (DRAM-less)                                          | 1        | 3.45%   |
 | Intel SATA Controller [RAID mode]                                                       | 1        | 3.45%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 3.45%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller                | 1        | 3.45%   |
@@ -965,7 +965,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 1        | 3.45%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 1        | 3.45%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 1        | 3.45%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 1        | 3.45%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 1        | 3.45%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 1        | 3.45%   |
 | AMD FCH SATA Controller D                                                               | 1        | 3.45%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 1        | 3.45%   |
@@ -1273,12 +1273,12 @@ Monitor models
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch   | 1        | 5.26%   |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch   | 1        | 5.26%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch   | 1        | 5.26%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch             | 1        | 5.26%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 477x268mm 21.5-inch             | 1        | 5.26%   |
 | Goldstar W1752 GSM4490 1440x900 370x232mm 17.2-inch                 | 1        | 5.26%   |
 | Goldstar TV SSCR2 GSMC0C8 3840x2160                                 | 1        | 5.26%   |
-| Goldstar 2D FHD TV GSM59C6 1920x1080 509x286mm 23.0-inch            | 1        | 5.26%   |
+| Goldstar MONITOR GSM59C6 1920x1080 509x286mm 23.0-inch              | 1        | 5.26%   |
 | Goldstar 24GL600F GSM5B73 1920x1080 531x298mm 24.0-inch             | 1        | 5.26%   |
-| AOC 2490W1 AOC2490 1920x1080 527x296mm 23.8-inch                    | 1        | 5.26%   |
+| AOC G2490W1G4 AOC2490 1920x1080 527x296mm 23.8-inch                 | 1        | 5.26%   |
 | AOC 2260WG5 AOC2260 1920x1080 477x268mm 21.5-inch                   | 1        | 5.26%   |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                      | 1        | 5.26%   |
 | Acer K222HQL ACR0512 1920x1080 477x268mm 21.5-inch                  | 1        | 5.26%   |
@@ -1429,25 +1429,25 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11       | 36.67%  |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 3        | 10%     |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 2        | 6.67%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 1        | 3.33%   |
-| Realtek RTL8192EE PCIe Wireless Network Adapter                   | 1        | 3.33%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.33%   |
-| Ralink RT2770 Wireless Adapter                                    | 1        | 3.33%   |
-| Qualcomm Atheros AR9271 802.11n                                   | 1        | 3.33%   |
-| Motorola PCS moto g stylus 5G - 2023                              | 1        | 3.33%   |
-| Intel Wireless-AC 9260                                            | 1        | 3.33%   |
-| Intel Wireless 8260                                               | 1        | 3.33%   |
-| Intel Wi-Fi 6 AX200                                               | 1        | 3.33%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 3.33%   |
-| Intel Ethernet Connection (17) I219-V                             | 1        | 3.33%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 1        | 3.33%   |
-| Intel 82579V Gigabit Network Connection                           | 1        | 3.33%   |
-| Google Nexus/Pixel Device (tether)                                | 1        | 3.33%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 11       | 36.67%  |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 3        | 10%     |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 2        | 6.67%   |
+| Samsung Galaxy series, misc. (tethering mode)                          | 1        | 3.33%   |
+| Realtek RTL8192EE PCIe Wireless Network Adapter                        | 1        | 3.33%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1        | 3.33%   |
+| Ralink RT2770 Wireless Adapter                                         | 1        | 3.33%   |
+| Qualcomm Atheros AR9271 802.11n                                        | 1        | 3.33%   |
+| Motorola PCS moto g 5G - 2023                                          | 1        | 3.33%   |
+| Intel Wireless 8260                                                    | 1        | 3.33%   |
+| Intel Wi-Fi 6 AX200                                                    | 1        | 3.33%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 1        | 3.33%   |
+| Intel Ethernet Controller I225-V                                       | 1        | 3.33%   |
+| Intel Ethernet Connection (17) I219-V                                  | 1        | 3.33%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                       | 1        | 3.33%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 3.33%   |
+| Google Nexus/Pixel Device (tether)                                     | 1        | 3.33%   |
 
 Wireless Vendor
 ---------------
@@ -1478,9 +1478,9 @@ Wireless models
 | Realtek RTL8192EE PCIe Wireless Network Adapter          | 1        | 10%     |
 | Ralink RT2770 Wireless Adapter                           | 1        | 10%     |
 | Qualcomm Atheros AR9271 802.11n                          | 1        | 10%     |
-| Intel Wireless-AC 9260                                   | 1        | 10%     |
 | Intel Wireless 8260                                      | 1        | 10%     |
 | Intel Wi-Fi 6 AX200                                      | 1        | 10%     |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]  | 1        | 10%     |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]         | 1        | 10%     |
 
 Ethernet Vendor
@@ -1507,16 +1507,16 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11       | 57.89%  |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 2        | 10.53%  |
-| Samsung Galaxy series, misc. (tethering mode)                     | 1        | 5.26%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 5.26%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 5.26%   |
-| Intel Ethernet Connection (17) I219-V                             | 1        | 5.26%   |
-| Intel 82579V Gigabit Network Connection                           | 1        | 5.26%   |
-| Google Nexus/Pixel Device (tether)                                | 1        | 5.26%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 11       | 57.89%  |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 2        | 10.53%  |
+| Samsung Galaxy series, misc. (tethering mode)                          | 1        | 5.26%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1        | 5.26%   |
+| Intel Ethernet Controller I225-V                                       | 1        | 5.26%   |
+| Intel Ethernet Connection (17) I219-V                                  | 1        | 5.26%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 5.26%   |
+| Google Nexus/Pixel Device (tether)                                     | 1        | 5.26%   |
 
 Net Controller Kind
 -------------------
@@ -1752,10 +1752,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart/camera_vendor.svg)
 
 
-| Vendor                 | Desktops | Percent |
-|------------------------|----------|---------|
-| Logitech               | 1        | 50%     |
-| Creality 3D Technology | 1        | 50%     |
+| Vendor       | Desktops | Percent |
+|--------------|----------|---------|
+| webcamvendor | 1        | 50%     |
+| Logitech     | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1767,8 +1767,8 @@ Camera device models
 
 | Model                       | Desktops | Percent |
 |-----------------------------|----------|---------|
+| webcamvendor webcamproduct  | 1        | 50%     |
 | Logitech HD Pro Webcam C920 | 1        | 50%     |
-| Creality 3D CREALITY CAM    | 1        | 50%     |
 
 Security
 --------

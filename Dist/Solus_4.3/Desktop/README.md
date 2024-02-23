@@ -866,48 +866,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                             | Desktops | Percent |
-|---------------------------------------------------|----------|---------|
-| Samsung SSD 850 EVO 250GB                         | 4        | 4%      |
-| Seagate ST4000DM004-2CV104 4TB                    | 3        | 3%      |
-| Seagate ST2000DM006-2DM164 2TB                    | 3        | 3%      |
-| Samsung NVMe SSD Drive 500GB                      | 3        | 3%      |
-| WDC WD10EZEX-08WN4A0 1TB                          | 2        | 2%      |
-| WDC WD10EZEX-08M2NA0 1TB                          | 2        | 2%      |
-| Toshiba DT01ACA050 500GB                          | 2        | 2%      |
-| Kingston Company A2000 NVMe SSD 1TB               | 2        | 2%      |
-| Kingston SA400S37480G 480GB SSD                   | 2        | 2%      |
-| Kingston SA400S37240G 240GB SSD                   | 2        | 2%      |
-| Crucial CT1000P1SSD8 1TB                          | 2        | 2%      |
-| Crucial CT1000MX500SSD1 1TB                       | 2        | 2%      |
-| WDC WDS480G2G0B-00EPW0 480GB SSD                  | 1        | 1%      |
-| WDC WD6400AAKS-75A7B2 640GB                       | 1        | 1%      |
-| WDC WD5000AVDS-63U7B1 500GB                       | 1        | 1%      |
-| WDC WD5000AVCS-632DY1 500GB                       | 1        | 1%      |
-| WDC WD5000AAKX-003CA0 500GB                       | 1        | 1%      |
-| WDC WD40EZRZ-00GXCB0 4TB                          | 1        | 1%      |
-| WDC WD3200AAJS-00YZCA0 320GB                      | 1        | 1%      |
-| WDC WD32 00AAJS-00L7A0 320GB                      | 1        | 1%      |
-| WDC WD3000GLFS-01F8U0 304GB                       | 1        | 1%      |
-| WDC WD2500HHTZ-04N21V1 250GB                      | 1        | 1%      |
-| WDC WD20EARX-00PASB0 2TB                          | 1        | 1%      |
-| WDC WD2003FZEX-00Z4SA0 2TB                        | 1        | 1%      |
-| WDC WD2003FZEX-00SRLA0 2TB                        | 1        | 1%      |
-| WDC WD1600AAJS-00PSA0 160GB                       | 1        | 1%      |
-| WDC WD1600AAJS-00M0A0 160GB                       | 1        | 1%      |
-| WDC WD140EFGX-68B0GN0 14TB                        | 1        | 1%      |
-| WDC WD10SPSX-00A6WT0 1TB                          | 1        | 1%      |
-| WDC WD10EZRX-00L4HB0 1TB                          | 1        | 1%      |
-| WDC WD10EZEX-21WN4A0 1TB                          | 1        | 1%      |
-| WDC WD10EADS-00P8B0 1TB                           | 1        | 1%      |
-| WDC WD10EADS-00M2B0 1TB                           | 1        | 1%      |
-| WDC WD1003FBYX-01Y7B0 1TB                         | 1        | 1%      |
-| WDC WD My Passport 25F3 512GB                     | 1        | 1%      |
-| Unknown SD/MMC/MS PRO 512GB                       | 1        | 1%      |
-| Toshiba DT01ACA100 1TB                            | 1        | 1%      |
-| SPCC Sol id State Disk 1024GB SSD                 | 1        | 1%      |
-| SK hynix HFS512GD9TNG-L2A0A 512GB                 | 1        | 1%      |
-| Silicon Motion SM2262/SM2262EN SSD Controller 1TB | 1        | 1%      |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Samsung SSD 850 EVO 250GB                           | 4        | 4%      |
+| Seagate ST4000DM004-2CV104 4TB                      | 3        | 3%      |
+| Seagate ST2000DM006-2DM164 2TB                      | 3        | 3%      |
+| Samsung NVMe SSD Drive 500GB                        | 3        | 3%      |
+| WDC WD10EZEX-08WN4A0 1TB                            | 2        | 2%      |
+| WDC WD10EZEX-08M2NA0 1TB                            | 2        | 2%      |
+| Toshiba DT01ACA050 500GB                            | 2        | 2%      |
+| Kingston Company A2000 NVMe SSD 500GB               | 2        | 2%      |
+| Kingston SA400S37480G 480GB SSD                     | 2        | 2%      |
+| Kingston SA400S37240G 240GB SSD                     | 2        | 2%      |
+| Crucial CT1000P1SSD8 1TB                            | 2        | 2%      |
+| Crucial CT1000MX500SSD1 1TB                         | 2        | 2%      |
+| WDC WDS480G2G0B-00EPW0 480GB SSD                    | 1        | 1%      |
+| WDC WD6400AAKS-75A7B2 640GB                         | 1        | 1%      |
+| WDC WD5000AVDS-63U7B1 500GB                         | 1        | 1%      |
+| WDC WD5000AVCS-632DY1 500GB                         | 1        | 1%      |
+| WDC WD5000AAKX-003CA0 500GB                         | 1        | 1%      |
+| WDC WD40EZRZ-00GXCB0 4TB                            | 1        | 1%      |
+| WDC WD3200AAJS-00YZCA0 320GB                        | 1        | 1%      |
+| WDC WD32 00AAJS-00L7A0 320GB                        | 1        | 1%      |
+| WDC WD3000GLFS-01F8U0 304GB                         | 1        | 1%      |
+| WDC WD2500HHTZ-04N21V1 250GB                        | 1        | 1%      |
+| WDC WD20EARX-00PASB0 2TB                            | 1        | 1%      |
+| WDC WD2003FZEX-00Z4SA0 2TB                          | 1        | 1%      |
+| WDC WD2003FZEX-00SRLA0 2TB                          | 1        | 1%      |
+| WDC WD1600AAJS-00PSA0 160GB                         | 1        | 1%      |
+| WDC WD1600AAJS-00M0A0 160GB                         | 1        | 1%      |
+| WDC WD140EFGX-68B0GN0 14TB                          | 1        | 1%      |
+| WDC WD10SPSX-00A6WT0 1TB                            | 1        | 1%      |
+| WDC WD10EZRX-00L4HB0 1TB                            | 1        | 1%      |
+| WDC WD10EZEX-21WN4A0 1TB                            | 1        | 1%      |
+| WDC WD10EADS-00P8B0 1TB                             | 1        | 1%      |
+| WDC WD10EADS-00M2B0 1TB                             | 1        | 1%      |
+| WDC WD1003FBYX-01Y7B0 1TB                           | 1        | 1%      |
+| WDC WD My Passport 25F3 512GB                       | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 256GB                         | 1        | 1%      |
+| Toshiba DT01ACA100 1TB                              | 1        | 1%      |
+| SPCC Sol id State Disk 1024GB SSD                   | 1        | 1%      |
+| SK hynix HFS512GD9TNG-L2A0A 512GB                   | 1        | 1%      |
+| Silicon Motion SM2262/SM2262EN SSD Controller 480GB | 1        | 1%      |
 
 HDD Vendor
 ----------
@@ -990,11 +990,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 53     | 48.28%  |
-| 0.51-1.0   | 16       | 22     | 27.59%  |
-| 1.01-2.0   | 8        | 11     | 13.79%  |
-| 3.01-4.0   | 5        | 7      | 8.62%   |
-| 10.01-20.0 | 1        | 1      | 1.72%   |
+| 0.01-0.5   | 28       | 54     | 49.12%  |
+| 0.51-1.0   | 15       | 21     | 26.32%  |
+| 1.01-2.0   | 8        | 11     | 14.04%  |
+| 3.01-4.0   | 4        | 5      | 7.02%   |
+| 2.01-3.0   | 1        | 2      | 1.75%   |
+| 10.01-20.0 | 1        | 1      | 1.75%   |
 
 Space Total
 -----------
@@ -1545,7 +1546,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                      | 3        | 6%      |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 6%      |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 4%      |
 | Unknown                                                              | 2        | 4%      |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1        | 2%      |
@@ -1553,7 +1554,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM029A 1920x1200 582x364mm 27.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 2%      |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch | 1        | 2%      |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1        | 2%      |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1        | 2%      |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1        | 2%      |
@@ -1580,10 +1581,10 @@ Monitor models
 | ASUSTek Computer VG245 AUS24A3 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2%      |
-| AOC G2460 AOC2460 1920x1080 531x299mm 24.0-inch                      | 1        | 2%      |
-| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
+| AOC 27G2G8 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2%      |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2%      |
+| AOC 2460 AOC2460 1920x1080 531x299mm 24.0-inch                       | 1        | 2%      |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2%      |
 
 Monitor Resolution
@@ -1755,7 +1756,7 @@ Controller models
 
 | Model                                                                                   | Desktops | Percent |
 |-----------------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                       | 25       | 35.21%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller                  | 24       | 33.8%   |
 | Intel Wi-Fi 6 AX200                                                                     | 4        | 5.63%   |
 | Intel I211 Gigabit Network Connection                                                   | 4        | 5.63%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                      | 2        | 2.82%   |
@@ -1769,8 +1770,9 @@ Controller models
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                         | 1        | 1.41%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                     | 1        | 1.41%   |
 | Realtek RTL8187 Wireless Adapter                                                        | 1        | 1.41%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                       | 1        | 1.41%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                                   | 1        | 1.41%   |
-| Realtek 802.11ac WLAN Adapter                                                           | 1        | 1.41%   |
+| Realtek 802.11ac NIC                                                                    | 1        | 1.41%   |
 | Ralink MT7601U Wireless Adapter                                                         | 1        | 1.41%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                               | 1        | 1.41%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                        | 1        | 1.41%   |
@@ -1781,12 +1783,12 @@ Controller models
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                                 | 1        | 1.41%   |
 | MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                                      | 1        | 1.41%   |
 | Linksys WUSB6100M 802.11a/b/g/n/ac Wireless Adapter                                     | 1        | 1.41%   |
-| Intel Wireless-AC 9260                                                                  | 1        | 1.41%   |
 | Intel Wireless 7265                                                                     | 1        | 1.41%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                                 | 1        | 1.41%   |
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 1.41%   |
 | Intel PRO/100 VE Network Connection                                                     | 1        | 1.41%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 1.41%   |
-| Huawei MAR-LX1M                                                                         | 1        | 1.41%   |
+| Huawei STG-LX1                                                                          | 1        | 1.41%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 1.41%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                            | 1        | 1.41%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 1.41%   |
@@ -1828,7 +1830,7 @@ Wireless models
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                         | 1        | 3.57%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                     | 1        | 3.57%   |
 | Realtek RTL8187 Wireless Adapter                                                        | 1        | 3.57%   |
-| Realtek 802.11ac WLAN Adapter                                                           | 1        | 3.57%   |
+| Realtek 802.11ac NIC                                                                    | 1        | 3.57%   |
 | Ralink MT7601U Wireless Adapter                                                         | 1        | 3.57%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                        | 1        | 3.57%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                                        | 1        | 3.57%   |
@@ -1836,8 +1838,8 @@ Wireless models
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                                 | 1        | 3.57%   |
 | MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                                      | 1        | 3.57%   |
 | Linksys WUSB6100M 802.11a/b/g/n/ac Wireless Adapter                                     | 1        | 3.57%   |
-| Intel Wireless-AC 9260                                                                  | 1        | 3.57%   |
 | Intel Wireless 7265                                                                     | 1        | 3.57%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                                 | 1        | 3.57%   |
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 3.57%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 3.57%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 3.57%   |
@@ -1869,21 +1871,22 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 25       | 58.14%  |
-| Intel I211 Gigabit Network Connection                             | 4        | 9.3%    |
-| Realtek RTL8125 2.5GbE Controller                                 | 2        | 4.65%   |
-| Intel Ethernet Controller I225-V                                  | 2        | 4.65%   |
-| Intel Ethernet Connection I217-LM                                 | 2        | 4.65%   |
-| ZTE WCDMA MSM Yota Router                                         | 1        | 2.33%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 2.33%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 2.33%   |
-| Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1        | 2.33%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 2.33%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 2.33%   |
-| Intel PRO/100 VE Network Connection                               | 1        | 2.33%   |
-| Huawei MAR-LX1M                                                   | 1        | 2.33%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 24       | 55.81%  |
+| Intel I211 Gigabit Network Connection                                  | 4        | 9.3%    |
+| Realtek RTL8125 2.5GbE Controller                                      | 2        | 4.65%   |
+| Intel Ethernet Controller I225-V                                       | 2        | 4.65%   |
+| Intel Ethernet Connection I217-LM                                      | 2        | 4.65%   |
+| ZTE WCDMA MSM Yota Router                                              | 1        | 2.33%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                         | 1        | 2.33%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller      | 1        | 2.33%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 1        | 2.33%   |
+| Qualcomm Atheros QCA8171 Gigabit Ethernet                              | 1        | 2.33%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 2.33%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 2.33%   |
+| Intel PRO/100 VE Network Connection                                    | 1        | 2.33%   |
+| Huawei STG-LX1                                                         | 1        | 2.33%   |
 
 Net Controller Kind
 -------------------
@@ -2094,7 +2097,7 @@ Memory module models
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
 | Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
 | Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 7.69%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
+| Kingston RAM KHX1600C10D3/4G 4096MB DIMM DDR3 1600MT/s | 1        | 7.69%   |
 | Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
 | Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
 | Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 7.69%   |
@@ -2267,9 +2270,9 @@ Fingerprint sensor models
 ![Fingerprint Model](./images/pie_chart/fingerprint_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| Focal-systems.Corp FT9201Fingerprint. | 1        | 100%    |
+| Model                                     | Desktops | Percent |
+|-------------------------------------------|----------|---------|
+| Focal-systems.Corp FT9201Fingerprint.Ì | 1        | 100%    |
 
 Chipcard Vendor
 ---------------

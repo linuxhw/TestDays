@@ -1232,11 +1232,11 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Iiyama PLE2283H IVM562E 1920x1080 477x268mm 21.5-inch                 | 3        | 23.08%  |
-| Samsung Electronics SyncMaster SAM0216 1280x1024 338x270mm 17.0-inch  | 1        | 7.69%   |
+| Samsung Electronics SyncMaster SAM0216 1280x1024 340x270mm 17.1-inch  | 1        | 7.69%   |
 | Samsung Electronics SMC27A550U SAM07F6 1920x1080 598x336mm 27.0-inch  | 1        | 7.69%   |
 | Plain Tree Systems Monitor PTS076D 1280x1024 376x301mm 19.0-inch      | 1        | 7.69%   |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch               | 1        | 7.69%   |
-| Dell E151FPp DEL7006 1024x768 300x230mm 14.9-inch                     | 1        | 7.69%   |
+| Dell E151FPp DEL7006 1024x768 304x228mm 15.0-inch                     | 1        | 7.69%   |
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                       | 1        | 7.69%   |
 | Ancor Communications ASUS VS229 ACI22D3 1920x1080 475x267mm 21.5-inch | 1        | 7.69%   |
 | Acer KG251Q ACR0591 1920x1080 544x303mm 24.5-inch                     | 1        | 7.69%   |
@@ -1379,21 +1379,22 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                               | Desktops | Percent |
-|---------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller   | 5        | 26.32%  |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter             | 2        | 10.53%  |
-| Nvidia MCP61 Ethernet                                               | 2        | 10.53%  |
-| Ralink RT2870/RT3070 Wireless Adapter                               | 1        | 5.26%   |
-| Ralink MT7601U Wireless Adapter                                     | 1        | 5.26%   |
-| Qualcomm CAPE-MTP _SN:14677F87                                      | 1        | 5.26%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller           | 1        | 5.26%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 1        | 5.26%   |
-| Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1        | 5.26%   |
-| Intel Ethernet Connection (5) I219-LM                               | 1        | 5.26%   |
-| Intel 82574L Gigabit Network Connection                             | 1        | 5.26%   |
-| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                     | 1        | 5.26%   |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller              | 1        | 5.26%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 4        | 21.05%  |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                | 2        | 10.53%  |
+| Nvidia MCP61 Ethernet                                                  | 2        | 10.53%  |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller      | 1        | 5.26%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                  | 1        | 5.26%   |
+| Ralink MT7601U Wireless Adapter                                        | 1        | 5.26%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1        | 5.26%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 5.26%   |
+| Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg]    | 1        | 5.26%   |
+| Qualcomm Android                                                       | 1        | 5.26%   |
+| Intel Ethernet Connection (5) I219-LM                                  | 1        | 5.26%   |
+| Intel 82574L Gigabit Network Connection                                | 1        | 5.26%   |
+| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                        | 1        | 5.26%   |
+| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                 | 1        | 5.26%   |
 
 Wireless Vendor
 ---------------
@@ -1451,16 +1452,17 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5        | 38.46%  |
-| Nvidia MCP61 Ethernet                                             | 2        | 15.38%  |
-| Qualcomm CAPE-MTP _SN:14677F87                                    | 1        | 7.69%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 7.69%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 7.69%   |
-| Intel Ethernet Connection (5) I219-LM                             | 1        | 7.69%   |
-| Intel 82574L Gigabit Network Connection                           | 1        | 7.69%   |
-| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1        | 7.69%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 4        | 30.77%  |
+| Nvidia MCP61 Ethernet                                                  | 2        | 15.38%  |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller      | 1        | 7.69%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1        | 7.69%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 7.69%   |
+| Qualcomm Android                                                       | 1        | 7.69%   |
+| Intel Ethernet Connection (5) I219-LM                                  | 1        | 7.69%   |
+| Intel 82574L Gigabit Network Connection                                | 1        | 7.69%   |
+| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                        | 1        | 7.69%   |
 
 Net Controller Kind
 -------------------

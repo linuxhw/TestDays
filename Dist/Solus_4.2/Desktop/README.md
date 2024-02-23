@@ -906,7 +906,7 @@ Storage controller models
 | Intel Atom Processor E3800 Series SATA IDE Controller                          | 1        | 5.56%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 1        | 5.56%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 1        | 5.56%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 1        | 5.56%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 1        | 5.56%   |
 | AMD FCH SATA Controller D                                                      | 1        | 5.56%   |
 | AMD 400 Series Chipset SATA Controller                                         | 1        | 5.56%   |
 
@@ -1207,7 +1207,7 @@ Monitor models
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24B1W AOC2401 1920x1080 521x293mm 23.5-inch                  | 1        | 7.69%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
@@ -1353,25 +1353,25 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6        | 26.09%  |
-| Intel I211 Gigabit Network Connection                             | 2        | 8.7%    |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1        | 4.35%   |
-| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1        | 4.35%   |
-| Realtek RTL8188EE Wireless Network Adapter                        | 1        | 4.35%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1        | 4.35%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 4.35%   |
-| Realtek 802.11ac NIC                                              | 1        | 4.35%   |
-| Ralink RT5372 Wireless Adapter                                    | 1        | 4.35%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1        | 4.35%   |
-| NetGear A6150                                                     | 1        | 4.35%   |
-| Intel Wireless-AC 9260                                            | 1        | 4.35%   |
-| Intel Ethernet Connection I217-LM                                 | 1        | 4.35%   |
-| Intel Ethernet Connection (7) I219-V                              | 1        | 4.35%   |
-| Intel 82579V Gigabit Network Connection                           | 1        | 4.35%   |
-| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1        | 4.35%   |
-| Broadcom Limited BCM4331 802.11a/b/g/n                            | 1        | 4.35%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 6        | 26.09%  |
+| Intel I211 Gigabit Network Connection                                  | 2        | 8.7%    |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                            | 1        | 4.35%   |
+| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                             | 1        | 4.35%   |
+| Realtek RTL8188EE Wireless Network Adapter                             | 1        | 4.35%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1        | 4.35%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 4.35%   |
+| Realtek 802.11ac NIC                                                   | 1        | 4.35%   |
+| Ralink RT5372 Wireless Adapter                                         | 1        | 4.35%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 4.35%   |
+| NetGear A6150                                                          | 1        | 4.35%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 1        | 4.35%   |
+| Intel Ethernet Connection I217-LM                                      | 1        | 4.35%   |
+| Intel Ethernet Connection (7) I219-V                                   | 1        | 4.35%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 4.35%   |
+| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express                | 1        | 4.35%   |
+| Broadcom Limited BCM4331 802.11a/b/g/n                                 | 1        | 4.35%   |
 
 Wireless Vendor
 ---------------
@@ -1408,7 +1408,7 @@ Wireless models
 | Ralink RT5372 Wireless Adapter                                 | 1        | 11.11%  |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 1        | 11.11%  |
 | NetGear A6150                                                  | 1        | 11.11%  |
-| Intel Wireless-AC 9260                                         | 1        | 11.11%  |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]        | 1        | 11.11%  |
 | Broadcom Limited BCM4331 802.11a/b/g/n                         | 1        | 11.11%  |
 
 Ethernet Vendor
@@ -1433,16 +1433,16 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6        | 42.86%  |
-| Intel I211 Gigabit Network Connection                             | 2        | 14.29%  |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1        | 7.14%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 7.14%   |
-| Intel Ethernet Connection I217-LM                                 | 1        | 7.14%   |
-| Intel Ethernet Connection (7) I219-V                              | 1        | 7.14%   |
-| Intel 82579V Gigabit Network Connection                           | 1        | 7.14%   |
-| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1        | 7.14%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 6        | 42.86%  |
+| Intel I211 Gigabit Network Connection                                  | 2        | 14.29%  |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1        | 7.14%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 7.14%   |
+| Intel Ethernet Connection I217-LM                                      | 1        | 7.14%   |
+| Intel Ethernet Connection (7) I219-V                                   | 1        | 7.14%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 7.14%   |
+| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express                | 1        | 7.14%   |
 
 Net Controller Kind
 -------------------
@@ -1722,11 +1722,11 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                         | Desktops | Percent |
-|-------------------------------|----------|---------|
-| Microsoft LifeCam HD-3000     | 1        | 33.33%  |
-| Logitech Logitech Webcam C160 | 1        | 33.33%  |
-| Apple iPhone 5/5C/5S/6/SE     | 1        | 33.33%  |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Microsoft LifeCam HD-3000          | 1        | 33.33%  |
+| Logitech Logitech Webcam C160      | 1        | 33.33%  |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR | 1        | 33.33%  |
 
 Security
 --------

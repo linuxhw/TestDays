@@ -1080,12 +1080,12 @@ Storage controller models
 | Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]              | 9         | 10.23%  |
 | Broadcom / LSI MegaRAID SAS-3 3108 [Invader]                                  | 9         | 10.23%  |
 | LSI Logic / Symbios Logic MegaRAID SAS-3 3008 [Fury]                          | 4         | 4.55%   |
+| Intel SATA Controller [RAID Mode]                                             | 4         | 4.55%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 4         | 4.55%   |
 | Intel C620 Series Chipset Family SSATA Controller [AHCI mode]                 | 4         | 4.55%   |
 | Intel C620 Series Chipset Family SATA Controller [AHCI mode]                  | 4         | 4.55%   |
 | Broadcom / LSI SAS3008 PCI-Express Fusion-MPT SAS-3                           | 4         | 4.55%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 3         | 3.41%   |
-| Intel SATA Controller [RAID mode]                                             | 3         | 3.41%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                           | 3         | 3.41%   |
 | Intel C600/X79 series chipset 6-Port SATA AHCI Controller                     | 3         | 3.41%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                             | 3         | 3.41%   |
@@ -1103,7 +1103,6 @@ Storage controller models
 | Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                              | 1         | 1.14%   |
 | Intel PCIe Data Center SSD                                                    | 1         | 1.14%   |
 | Intel Comet Lake SATA AHCI Controller                                         | 1         | 1.14%   |
-| Intel C600/X79 series chipset SATA RAID Controller                            | 1         | 1.14%   |
 | Intel C600/X79 series chipset 2-Port SATA IDE Controller                      | 1         | 1.14%   |
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                          | 1         | 1.14%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]              | 1         | 1.14%   |
@@ -1646,48 +1645,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                  | 7         | 8.75%   |
-| Intel I350 Gigabit Network Connection                             | 6         | 7.5%    |
-| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                | 5         | 6.25%   |
-| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                  | 5         | 6.25%   |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 3         | 3.75%   |
-| Intel Wireless 8265 / 8275                                        | 3         | 3.75%   |
-| Intel Wireless 8260                                               | 3         | 3.75%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 2.5%    |
-| Intel Ethernet Controller X550                                    | 2         | 2.5%    |
-| Intel Ethernet Connection I217-LM                                 | 2         | 2.5%    |
-| Intel Ethernet Connection (6) I219-V                              | 2         | 2.5%    |
-| Intel Ethernet Connection (5) I219-LM                             | 2         | 2.5%    |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection              | 2         | 2.5%    |
-| Intel 82599 10 Gigabit Network Connection                         | 2         | 2.5%    |
-| Intel 82599 10 Gigabit Dual Port Backplane Connection             | 2         | 2.5%    |
-| Intel 82576 Gigabit Network Connection                            | 2         | 2.5%    |
-| Dell iDRAC Virtual NIC                                            | 2         | 2.5%    |
-| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A               | 1         | 1.25%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 1.25%   |
-| Ralink RT5372 Wireless Adapter                                    | 1         | 1.25%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.25%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 1.25%   |
-| QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.25%   |
-| Prolific USB-Serial Controller                                    | 1         | 1.25%   |
-| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 1.25%   |
-| Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.25%   |
-| Intel Wi-Fi 6 AX200                                               | 1         | 1.25%   |
-| Intel Ethernet Controller I225-LM                                 | 1         | 1.25%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 1.25%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 1.25%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.25%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 1.25%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 1.25%   |
-| Intel Ethernet Connection (2) I219-V                              | 1         | 1.25%   |
-| Intel Ethernet Connection (2) I219-LM                             | 1         | 1.25%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 1         | 1.25%   |
-| Intel Cannon Lake PCH CNVi WiFi                                   | 1         | 1.25%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1         | 1.25%   |
-| Intel 82574L Gigabit Network Connection                           | 1         | 1.25%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)        | 1         | 1.25%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                       | 7         | 8.75%   |
+| Intel I350 Gigabit Network Connection                                  | 6         | 7.5%    |
+| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                     | 5         | 6.25%   |
+| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                       | 5         | 6.25%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 3         | 3.75%   |
+| Intel Wireless 8265 / 8275                                             | 3         | 3.75%   |
+| Intel Wireless 8260                                                    | 3         | 3.75%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 2         | 2.5%    |
+| Intel Ethernet Controller X550                                         | 2         | 2.5%    |
+| Intel Ethernet Connection I217-LM                                      | 2         | 2.5%    |
+| Intel Ethernet Connection (6) I219-V                                   | 2         | 2.5%    |
+| Intel Ethernet Connection (5) I219-LM                                  | 2         | 2.5%    |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                   | 2         | 2.5%    |
+| Intel 82599 10 Gigabit Network Connection                              | 2         | 2.5%    |
+| Intel 82599 10 Gigabit Dual Port Backplane Connection                  | 2         | 2.5%    |
+| Intel 82576 Gigabit Network Connection                                 | 2         | 2.5%    |
+| Dell iDRAC Virtual NIC                                                 | 2         | 2.5%    |
+| Sierra Wireless EM7455                                                 | 1         | 1.25%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                        | 1         | 1.25%   |
+| Ralink RT5372 Wireless Adapter                                         | 1         | 1.25%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 1         | 1.25%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 1.25%   |
+| QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.25%   |
+| Prolific USB-Serial Controller                                         | 1         | 1.25%   |
+| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 1.25%   |
+| Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.25%   |
+| Intel Wi-Fi 6 AX200                                                    | 1         | 1.25%   |
+| Intel Ethernet Controller I225-LM                                      | 1         | 1.25%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 1.25%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 1.25%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 1.25%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 1.25%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 1.25%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1         | 1.25%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1         | 1.25%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                               | 1         | 1.25%   |
+| Intel Cannon Lake PCH CNVi WiFi                                        | 1         | 1.25%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1         | 1.25%   |
+| Intel 82574L Gigabit Network Connection                                | 1         | 1.25%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)             | 1         | 1.25%   |
 
 Wireless Vendor
 ---------------
@@ -1718,7 +1717,7 @@ Wireless models
 |------------------------------------------------------------|-----------|---------|
 | Intel Wireless 8265 / 8275                                 | 3         | 20%     |
 | Intel Wireless 8260                                        | 3         | 20%     |
-| Sierra Wireless EM7455 Qualcomm Snapdragon X7 LTE-A        | 1         | 6.67%   |
+| Sierra Wireless EM7455                                     | 1         | 6.67%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter            | 1         | 6.67%   |
 | Ralink RT5372 Wireless Adapter                             | 1         | 6.67%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter | 1         | 6.67%   |
@@ -1756,40 +1755,40 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                  | 7         | 11.11%  |
-| Intel I350 Gigabit Network Connection                             | 6         | 9.52%   |
-| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                | 5         | 7.94%   |
-| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                  | 5         | 7.94%   |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 3         | 4.76%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 3.17%   |
-| Intel Ethernet Controller X550                                    | 2         | 3.17%   |
-| Intel Ethernet Connection I217-LM                                 | 2         | 3.17%   |
-| Intel Ethernet Connection (6) I219-V                              | 2         | 3.17%   |
-| Intel Ethernet Connection (5) I219-LM                             | 2         | 3.17%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection              | 2         | 3.17%   |
-| Intel 82599 10 Gigabit Network Connection                         | 2         | 3.17%   |
-| Intel 82599 10 Gigabit Dual Port Backplane Connection             | 2         | 3.17%   |
-| Intel 82576 Gigabit Network Connection                            | 2         | 3.17%   |
-| Dell iDRAC Virtual NIC                                            | 2         | 3.17%   |
-| QLogic cLOM8214 1/10GbE Controller                                | 1         | 1.59%   |
-| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 1.59%   |
-| Mellanox MT27710 Family [ConnectX-4 Lx]                           | 1         | 1.59%   |
-| Intel Ethernet Controller I225-LM                                 | 1         | 1.59%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 1.59%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 1.59%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.59%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 1.59%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 1.59%   |
-| Intel Ethernet Connection (2) I219-V                              | 1         | 1.59%   |
-| Intel Ethernet Connection (2) I219-LM                             | 1         | 1.59%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1         | 1.59%   |
-| Intel 82574L Gigabit Network Connection                           | 1         | 1.59%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)        | 1         | 1.59%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 1         | 1.59%   |
-| Emulex OneConnect NIC (Skyhawk)                                   | 1         | 1.59%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.59%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                       | 7         | 11.11%  |
+| Intel I350 Gigabit Network Connection                                  | 6         | 9.52%   |
+| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                     | 5         | 7.94%   |
+| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                       | 5         | 7.94%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 3         | 4.76%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 2         | 3.17%   |
+| Intel Ethernet Controller X550                                         | 2         | 3.17%   |
+| Intel Ethernet Connection I217-LM                                      | 2         | 3.17%   |
+| Intel Ethernet Connection (6) I219-V                                   | 2         | 3.17%   |
+| Intel Ethernet Connection (5) I219-LM                                  | 2         | 3.17%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                   | 2         | 3.17%   |
+| Intel 82599 10 Gigabit Network Connection                              | 2         | 3.17%   |
+| Intel 82599 10 Gigabit Dual Port Backplane Connection                  | 2         | 3.17%   |
+| Intel 82576 Gigabit Network Connection                                 | 2         | 3.17%   |
+| Dell iDRAC Virtual NIC                                                 | 2         | 3.17%   |
+| QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.59%   |
+| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 1.59%   |
+| Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.59%   |
+| Intel Ethernet Controller I225-LM                                      | 1         | 1.59%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 1.59%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 1.59%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1         | 1.59%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1         | 1.59%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1         | 1.59%   |
+| Intel 82574L Gigabit Network Connection                                | 1         | 1.59%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)             | 1         | 1.59%   |
+| Intel 82567LM-3 Gigabit Network Connection                             | 1         | 1.59%   |
+| Emulex OneConnect NIC (Skyhawk)                                        | 1         | 1.59%   |
+| ASIX AX88179 Gigabit Ethernet                                          | 1         | 1.59%   |
 
 Net Controller Kind
 -------------------
@@ -1975,7 +1974,7 @@ Memory module models
 | Unknown RAM Module 8192MB DIMM DDR3 1600MT/s            | 2         | 4.88%   |
 | SK hynix RAM HMA82GR7MFR8N-UH 16GB DIMM DDR4 2400MT/s   | 2         | 4.88%   |
 | Samsung RAM M393B2G70QH0-YK0 16GB DIMM DDR3 1600MT/s    | 2         | 4.88%   |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s    | 2         | 4.88%   |
+| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2400MT/s    | 2         | 4.88%   |
 | Transcend RAM JM3200HSE-32G 32GB SODIMM DDR4 3200MT/s   | 1         | 2.44%   |
 | SK hynix RAM HMA84GR7CJR4N-WM 32GB DIMM DDR4 2933MT/s   | 1         | 2.44%   |
 | SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s    | 1         | 2.44%   |
@@ -2060,10 +2059,10 @@ Memory module speed
 
 | Speed | Computers | Percent |
 |-------|-----------|---------|
-| 2400  | 9         | 24.32%  |
-| 2133  | 6         | 16.22%  |
+| 2400  | 11        | 29.73%  |
 | 1600  | 5         | 13.51%  |
 | 2666  | 4         | 10.81%  |
+| 2133  | 4         | 10.81%  |
 | 3200  | 3         | 8.11%   |
 | 2667  | 2         | 5.41%   |
 | 3600  | 1         | 2.7%    |
@@ -2219,9 +2218,9 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 17        | 37.78%  |
-| 2     | 11        | 24.44%  |
+| 2     | 12        | 26.67%  |
 | 3     | 7         | 15.56%  |
-| 1     | 7         | 15.56%  |
+| 1     | 6         | 13.33%  |
 | 5     | 3         | 6.67%   |
 
 Unsupported Device Types

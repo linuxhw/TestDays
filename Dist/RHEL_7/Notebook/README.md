@@ -1271,27 +1271,27 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                              | Notebooks | Percent |
-|--------------------------------------------------------------------|-----------|---------|
-| Intel Wireless 8265 / 8275                                         | 3         | 13.04%  |
-| Intel Wireless 8260                                                | 2         | 8.7%    |
-| Intel Ethernet Connection (6) I219-V                               | 2         | 8.7%    |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                    | 1         | 4.35%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                           | 1         | 4.35%   |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller  | 1         | 4.35%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                   | 1         | 4.35%   |
-| OPPO SM8350-IDP _SN:27BAACC8                                       | 1         | 4.35%   |
-| Intel Wi-Fi 6 AX200                                                | 1         | 4.35%   |
-| Intel Ethernet Connection (7) I219-LM                              | 1         | 4.35%   |
-| Intel Ethernet Connection (6) I219-LM                              | 1         | 4.35%   |
-| Intel Ethernet Connection (5) I219-LM                              | 1         | 4.35%   |
-| Intel Ethernet Connection (4) I219-V                               | 1         | 4.35%   |
-| Intel Ethernet Connection (4) I219-LM                              | 1         | 4.35%   |
-| Intel Ethernet Connection (2) I219-LM                              | 1         | 4.35%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                           | 1         | 4.35%   |
-| Intel Cannon Lake PCH CNVi WiFi                                    | 1         | 4.35%   |
-| Ericsson Business Mobile Networks H5321 gw Mobile Broadband Module | 1         | 4.35%   |
-| Dell DW5811e Snapdragonâ¢ X7 LTE                               | 1         | 4.35%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Intel Wireless 8265 / 8275                                             | 3         | 13.04%  |
+| Intel Wireless 8260                                                    | 2         | 8.7%    |
+| Intel Ethernet Connection (6) I219-V                                   | 2         | 8.7%    |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                        | 1         | 4.35%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 4.35%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 4.35%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 4.35%   |
+| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 4.35%   |
+| Intel Wi-Fi 6 AX200                                                    | 1         | 4.35%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 4.35%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 4.35%   |
+| Intel Ethernet Connection (5) I219-LM                                  | 1         | 4.35%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 4.35%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 4.35%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1         | 4.35%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                               | 1         | 4.35%   |
+| Intel Cannon Lake PCH CNVi WiFi                                        | 1         | 4.35%   |
+| Ericsson Business Mobile Networks H5321 gw Mobile Broadband Module     | 1         | 4.35%   |
+| Dell DW5811e Snapdragonâ¢ X7 LTE                                   | 1         | 4.35%   |
 
 Wireless Vendor
 ---------------
@@ -1349,18 +1349,18 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Intel Ethernet Connection (6) I219-V                              | 2         | 18.18%  |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1         | 9.09%   |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
-| OPPO SM8350-IDP _SN:27BAACC8                                      | 1         | 9.09%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 9.09%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 9.09%   |
-| Intel Ethernet Connection (5) I219-LM                             | 1         | 9.09%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 9.09%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 9.09%   |
-| Intel Ethernet Connection (2) I219-LM                             | 1         | 9.09%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Intel Ethernet Connection (6) I219-V                                   | 2         | 18.18%  |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 9.09%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
+| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 9.09%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 9.09%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 9.09%   |
+| Intel Ethernet Connection (5) I219-LM                                  | 1         | 9.09%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 9.09%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 9.09%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1         | 9.09%   |
 
 Net Controller Kind
 -------------------

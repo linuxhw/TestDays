@@ -760,7 +760,7 @@ Hard drive models
 | WDC WD1600AAJS-75M0A0 160GB       | 1        | 3.23%   |
 | WDC WD1600AAJS-00L7A0 160GB       | 1        | 3.23%   |
 | WDC WD10EFRX-68JCSN0 1TB          | 1        | 3.23%   |
-| Unknown (CF) Card 32GB            | 1        | 3.23%   |
+| Unknown (CF) CARD 16GB            | 1        | 3.23%   |
 | Transcend TS32GHSD370 32GB SSD    | 1        | 3.23%   |
 | Seagate ST8000DM004-2CX188 8TB    | 1        | 3.23%   |
 | Seagate ST3500413AS 500GB         | 1        | 3.23%   |
@@ -796,11 +796,12 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 6        | 8      | 46.15%  |
-| WDC                 | 4        | 4      | 30.77%  |
-| Samsung Electronics | 1        | 1      | 7.69%   |
-| Maxtor              | 1        | 1      | 7.69%   |
-| IBM/Hitachi         | 1        | 2      | 7.69%   |
+| Seagate             | 6        | 8      | 42.86%  |
+| WDC                 | 4        | 4      | 28.57%  |
+| Unknown (CF)        | 1        | 1      | 7.14%   |
+| Samsung Electronics | 1        | 1      | 7.14%   |
+| Maxtor              | 1        | 1      | 7.14%   |
+| IBM/Hitachi         | 1        | 2      | 7.14%   |
 
 SSD Vendor
 ----------
@@ -812,14 +813,13 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 2        | 2      | 18.18%  |
-| SanDisk             | 2        | 4      | 18.18%  |
-| Samsung Electronics | 2        | 2      | 18.18%  |
-| Unknown (CF)        | 1        | 1      | 9.09%   |
-| Transcend           | 1        | 1      | 9.09%   |
-| Kingston            | 1        | 1      | 9.09%   |
-| Crucial             | 1        | 1      | 9.09%   |
-| China               | 1        | 2      | 9.09%   |
+| WDC                 | 2        | 2      | 20%     |
+| SanDisk             | 2        | 4      | 20%     |
+| Samsung Electronics | 2        | 2      | 20%     |
+| Transcend           | 1        | 1      | 10%     |
+| Kingston            | 1        | 1      | 10%     |
+| Crucial             | 1        | 1      | 10%     |
+| China               | 1        | 2      | 10%     |
 
 Drive Kind
 ----------
@@ -831,8 +831,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 10       | 14     | 43.48%  |
-| HDD  | 10       | 16     | 43.48%  |
+| HDD  | 11       | 17     | 47.83%  |
+| SSD  | 9        | 13     | 39.13%  |
 | NVMe | 3        | 4      | 13.04%  |
 
 Drive Connector
@@ -1040,7 +1040,7 @@ Storage controller models
 | Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                            | 1        | 3.13%   |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                 | 1        | 3.13%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                | 1        | 3.13%   |
-| ASMedia ASM1062 Serial ATA Controller                                         | 1        | 3.13%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                 | 1        | 3.13%   |
 | AMD 500 Series Chipset SATA Controller                                        | 1        | 3.13%   |
 | AMD 400 Series Chipset SATA Controller                                        | 1        | 3.13%   |
 | AMD 300 Series Chipset SATA Controller                                        | 1        | 3.13%   |
@@ -1367,7 +1367,7 @@ Monitor models
 | Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch                 | 3        | 18.75%  |
 | ViewSonic VX3211-4K VSCC336 3840x2160 698x393mm 31.5-inch               | 1        | 6.25%   |
 | VIE S20W VIE2080 1600x900 440x250mm 19.9-inch                           | 1        | 6.25%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch       | 1        | 6.25%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch       | 1        | 6.25%   |
 | Samsung Electronics SMB1630N SAM0630 1366x768 344x194mm 15.5-inch       | 1        | 6.25%   |
 | Samsung Electronics S24B20/S24B30 SAM09ED 1920x1080 521x293mm 23.5-inch | 1        | 6.25%   |
 | Orion ORION ORN120A 1920x540                                            | 1        | 6.25%   |
@@ -1376,7 +1376,7 @@ Monitor models
 | Goldstar W2234 GSM56B8 1680x1050 474x296mm 22.0-inch                    | 1        | 6.25%   |
 | Dell DELL2407WFPHC DELA025 1920x1200 520x330mm 24.2-inch                | 1        | 6.25%   |
 | Dell 1704FPV DEL3015 1280x1024 338x270mm 17.0-inch                      | 1        | 6.25%   |
-| AOC 2460G5 AOC246A 1920x1080 531x299mm 24.0-inch                        | 1        | 6.25%   |
+| AOC G2460 AOC246A 1920x1080 531x299mm 24.0-inch                         | 1        | 6.25%   |
 | Acer K222HQL ACR03E1 1920x1080 477x268mm 21.5-inch                      | 1        | 6.25%   |
 
 Monitor Resolution
@@ -1531,7 +1531,7 @@ Controller models
 
 | Model                                                                     | Desktops | Percent |
 |---------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller         | 10       | 35.71%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller    | 10       | 35.71%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                     | 2        | 7.14%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                 | 1        | 3.57%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                    | 1        | 3.57%   |
@@ -1542,7 +1542,7 @@ Controller models
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                 | 1        | 3.57%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                | 1        | 3.57%   |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg]       | 1        | 3.57%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                    | 1        | 3.57%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                 | 1        | 3.57%   |
 | Intel Wi-Fi 6 AX200                                                       | 1        | 3.57%   |
 | Intel 82801DB PRO/100 VM (LOM) Ethernet Controller                        | 1        | 3.57%   |
 | Intel 82801DB PRO/100 VE (LOM) Ethernet Controller                        | 1        | 3.57%   |
@@ -1580,7 +1580,7 @@ Wireless models
 | Realtek RTL8188EE Wireless Network Adapter                                | 1        | 14.29%  |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                 | 1        | 14.29%  |
 | Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg]       | 1        | 14.29%  |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                    | 1        | 14.29%  |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                 | 1        | 14.29%  |
 | Intel Wi-Fi 6 AX200                                                       | 1        | 14.29%  |
 | Guillemot Hercules HWNUp-150 802.11n Wireless N Pico [Realtek RTL8188CUS] | 1        | 14.29%  |
 
@@ -1608,18 +1608,18 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 10       | 50%     |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 10%     |
-| Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet         | 1        | 5%      |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 5%      |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 5%      |
-| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1        | 5%      |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 5%      |
-| Intel 82801DB PRO/100 VM (LOM) Ethernet Controller                | 1        | 5%      |
-| Intel 82801DB PRO/100 VE (LOM) Ethernet Controller                | 1        | 5%      |
-| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe          | 1        | 5%      |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 10       | 50%     |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2        | 10%     |
+| Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet              | 1        | 5%      |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 1        | 5%      |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 5%      |
+| Realtek RTL-8110SC/8169SC Gigabit Ethernet                             | 1        | 5%      |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 5%      |
+| Intel 82801DB PRO/100 VM (LOM) Ethernet Controller                     | 1        | 5%      |
+| Intel 82801DB PRO/100 VE (LOM) Ethernet Controller                     | 1        | 5%      |
+| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe               | 1        | 5%      |
 
 Net Controller Kind
 -------------------
@@ -1751,7 +1751,7 @@ Sound card models
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 1        | 3.45%   |
 | Nvidia GK107 HDMI Audio Controller                                         | 1        | 3.45%   |
 | Nvidia Audio device                                                        | 1        | 3.45%   |
-| Logitech Logitech G PRO X Gaming Headset                                   | 1        | 3.45%   |
+| Logitech PRO X                                                             | 1        | 3.45%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1        | 3.45%   |
 | Intel Alder Lake-S HD Audio Controller                                     | 1        | 3.45%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 3.45%   |
@@ -1794,28 +1794,28 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM 400MT/s                    | 1        | 5%      |
-| Unknown RAM Module 512MB DIMM                            | 1        | 5%      |
-| Unknown RAM Module 4GB DIMM 1333MT/s                     | 1        | 5%      |
-| Unknown RAM Module 2GB DIMM SDRAM 800MT/s                | 1        | 5%      |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s            | 1        | 5%      |
-| Unknown RAM Module 2048MB DIMM SDRAM                     | 1        | 5%      |
-| Unknown RAM Module 1GB DIMM DDR2 533MT/s                 | 1        | 5%      |
-| Transcend RAM Module 1GB DIMM SDRAM 266MT/s              | 1        | 5%      |
-| Teikon RAM TMT41GU6AFR8C-PBHJ 8GB DIMM DDR3 1333MT/s     | 1        | 5%      |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s       | 1        | 5%      |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM 1600MT/s          | 1        | 5%      |
-| SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s   | 1        | 5%      |
-| S RAM Module 2GB DIMM DDR3 1333MT/s                      | 1        | 5%      |
-| M RAM Module 1GB DIMM DDR3 1333MT/s                      | 1        | 5%      |
-| Kingston RAM CBD26D4S9S8K1C-8 8GB SODIMM DDR4 2667MT/s   | 1        | 5%      |
-| Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s  | 1        | 5%      |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s     | 1        | 5%      |
-| Crucial RAM CT16G4DFD8266.C16FD1 16GB DIMM DDR4 2667MT/s | 1        | 5%      |
-| A-DATA RAM Module 4GB DIMM DDR4 2666MT/s                 | 1        | 5%      |
-| Unknown                                                  | 1        | 5%      |
+| Model                                                      | Desktops | Percent |
+|------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 512MB DIMM 400MT/s                      | 1        | 5%      |
+| Unknown RAM Module 512MB DIMM                              | 1        | 5%      |
+| Unknown RAM Module 4GB DIMM 1333MT/s                       | 1        | 5%      |
+| Unknown RAM Module 2GB DIMM SDRAM 800MT/s                  | 1        | 5%      |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s              | 1        | 5%      |
+| Unknown RAM Module 2048MB DIMM SDRAM                       | 1        | 5%      |
+| Unknown RAM Module 1GB DIMM DDR2 533MT/s                   | 1        | 5%      |
+| Transcend RAM Module 1GB DIMM SDRAM 266MT/s                | 1        | 5%      |
+| Teikon RAM TMT41GU6AFR8C-PBHJ 8GB DIMM DDR3 1333MT/s       | 1        | 5%      |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s         | 1        | 5%      |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM 1600MT/s            | 1        | 5%      |
+| SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1334MT/s     | 1        | 5%      |
+| S RAM Module 2GB DIMM DDR3 1333MT/s                        | 1        | 5%      |
+| M RAM Module 1GB DIMM DDR3 1333MT/s                        | 1        | 5%      |
+| Kingston RAM CBD26D4S9S8K1C-8 8GB SODIMM DDR4 2667MT/s     | 1        | 5%      |
+| Kingston RAM 99U5428-018.A00LF 8192MB SODIMM DDR3 1600MT/s | 1        | 5%      |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3600MT/s       | 1        | 5%      |
+| Crucial RAM CT16G4DFD8266.C16FD1 16GB DIMM DDR4 2667MT/s   | 1        | 5%      |
+| A-DATA RAM Module 4GB DIMM DDR4 2666MT/s                   | 1        | 5%      |
+| Unknown                                                    | 1        | 5%      |
 
 Memory Kind
 -----------

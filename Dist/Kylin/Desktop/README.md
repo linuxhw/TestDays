@@ -618,8 +618,9 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| WDC     | 1        | 1      | 50%     |
-| Seagate | 1        | 1      | 50%     |
+| WDC     | 1        | 1      | 33.33%  |
+| Seagate | 1        | 1      | 33.33%  |
+| FC-1307 | 1        | 1      | 33.33%  |
 
 SSD Vendor
 ----------
@@ -641,12 +642,11 @@ HDD or SSD
 ![Drive Kind](./images/pie_chart/drive_kind.svg)
 
 
-| Kind    | Desktops | Drives | Percent |
-|---------|----------|--------|---------|
-| HDD     | 2        | 2      | 40%     |
-| NVMe    | 1        | 1      | 20%     |
-| SSD     | 1        | 1      | 20%     |
-| Unknown | 1        | 1      | 20%     |
+| Kind | Desktops | Drives | Percent |
+|------|----------|--------|---------|
+| HDD  | 3        | 3      | 60%     |
+| NVMe | 1        | 1      | 20%     |
+| SSD  | 1        | 1      | 20%     |
 
 Drive Connector
 ---------------
@@ -671,8 +671,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 2        | 2      | 66.67%  |
-| 0.01-0.5   | 1        | 1      | 33.33%  |
+| 0.51-1.0   | 2        | 2      | 50%     |
+| 0.01-0.5   | 2        | 2      | 50%     |
 
 Space Total
 -----------
@@ -1147,13 +1147,13 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8723DE Wireless Network Adapter                        | 1        | 20%     |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1        | 20%     |
-| Intel Wi-Fi 6 AX200                                               | 1        | 20%     |
-| Intel Ethernet Connection I217-V                                  | 1        | 20%     |
-| Intel Ethernet Connection (11) I219-V                             | 1        | 20%     |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8723DE Wireless Network Adapter                             | 1        | 20%     |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1        | 20%     |
+| Intel Wi-Fi 6 AX200                                                    | 1        | 20%     |
+| Intel Ethernet Connection I217-V                                       | 1        | 20%     |
+| Intel Ethernet Connection (11) I219-V                                  | 1        | 20%     |
 
 Wireless Vendor
 ---------------
@@ -1202,11 +1202,11 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1        | 33.33%  |
-| Intel Ethernet Connection I217-V                                  | 1        | 33.33%  |
-| Intel Ethernet Connection (11) I219-V                             | 1        | 33.33%  |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1        | 33.33%  |
+| Intel Ethernet Connection I217-V                                       | 1        | 33.33%  |
+| Intel Ethernet Connection (11) I219-V                                  | 1        | 33.33%  |
 
 Net Controller Kind
 -------------------

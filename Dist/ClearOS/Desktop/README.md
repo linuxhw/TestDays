@@ -1048,9 +1048,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 20       | 58.82%  |
-| IDE  | 10       | 29.41%  |
-| RAID | 4        | 11.76%  |
+| SATA | 19       | 57.58%  |
+| IDE  | 10       | 30.3%   |
+| RAID | 4        | 12.12%  |
 
 Processor
 ---------
@@ -1327,7 +1327,7 @@ Monitor models
 | ___ LCD TV ___0101 1920x1080                                            | 9        | 19.57%  |
 | Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5        | 10.87%  |
 | Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5        | 10.87%  |
-| ViewSonic VA2226w-11 VSC2051 1680x1050 495x291mm 22.6-inch              | 4        | 8.7%    |
+| ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch               | 4        | 8.7%    |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 4        | 8.7%    |
 | BenQ FP91G+ BNQ76A5 1280x1024 376x301mm 19.0-inch                       | 3        | 6.52%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 2        | 4.35%   |
@@ -1478,27 +1478,27 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 17       | 26.15%  |
-| Intel 82546EB Gigabit Ethernet Controller (Copper)                | 10       | 15.38%  |
-| D-Link DUB-1312 Gigabit Ethernet Adapter                          | 6        | 9.23%   |
-| Intel 82541PI Gigabit Ethernet Controller                         | 5        | 7.69%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 4        | 6.15%   |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 3        | 4.62%   |
-| Intel 82575EB Gigabit Network Connection                          | 3        | 4.62%   |
-| Intel 82574L Gigabit Network Connection                           | 3        | 4.62%   |
-| Realtek RTL8150 Fast Ethernet Adapter                             | 2        | 3.08%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2        | 3.08%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                              | 2        | 3.08%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.54%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1        | 1.54%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1        | 1.54%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1        | 1.54%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.54%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.54%   |
-| Broadcom Network controller                                       | 1        | 1.54%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1        | 1.54%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 17       | 26.15%  |
+| Intel 82546EB Gigabit Ethernet Controller (Copper)                     | 10       | 15.38%  |
+| D-Link DUB-1312 Gigabit Ethernet Adapter                               | 6        | 9.23%   |
+| Intel 82541PI Gigabit Ethernet Controller                              | 5        | 7.69%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 4        | 6.15%   |
+| VIA VT6102/VT6103 [Rhine-II]                                           | 3        | 4.62%   |
+| Intel 82575EB Gigabit Network Connection                               | 3        | 4.62%   |
+| Intel 82574L Gigabit Network Connection                                | 3        | 4.62%   |
+| Realtek RTL8150 Fast Ethernet Adapter                                  | 2        | 3.08%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 2        | 3.08%   |
+| Intel 82557/8/9/0/1 Ethernet Pro 100                                   | 2        | 3.08%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 1.54%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1        | 1.54%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 1        | 1.54%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 1.54%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 1.54%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1        | 1.54%   |
+| Broadcom Network controller                                            | 1        | 1.54%   |
+| ASIX AX88179 Gigabit Ethernet                                          | 1        | 1.54%   |
 
 Wireless Vendor
 ---------------
@@ -1553,24 +1553,24 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 17       | 27.42%  |
-| Intel 82546EB Gigabit Ethernet Controller (Copper)                | 10       | 16.13%  |
-| D-Link DUB-1312 Gigabit Ethernet Adapter                          | 6        | 9.68%   |
-| Intel 82541PI Gigabit Ethernet Controller                         | 5        | 8.06%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 4        | 6.45%   |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 3        | 4.84%   |
-| Intel 82575EB Gigabit Network Connection                          | 3        | 4.84%   |
-| Intel 82574L Gigabit Network Connection                           | 3        | 4.84%   |
-| Realtek RTL8150 Fast Ethernet Adapter                             | 2        | 3.23%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2        | 3.23%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                              | 2        | 3.23%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 1.61%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1        | 1.61%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1        | 1.61%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 1.61%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1        | 1.61%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 17       | 27.42%  |
+| Intel 82546EB Gigabit Ethernet Controller (Copper)                     | 10       | 16.13%  |
+| D-Link DUB-1312 Gigabit Ethernet Adapter                               | 6        | 9.68%   |
+| Intel 82541PI Gigabit Ethernet Controller                              | 5        | 8.06%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 4        | 6.45%   |
+| VIA VT6102/VT6103 [Rhine-II]                                           | 3        | 4.84%   |
+| Intel 82575EB Gigabit Network Connection                               | 3        | 4.84%   |
+| Intel 82574L Gigabit Network Connection                                | 3        | 4.84%   |
+| Realtek RTL8150 Fast Ethernet Adapter                                  | 2        | 3.23%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 2        | 3.23%   |
+| Intel 82557/8/9/0/1 Ethernet Pro 100                                   | 2        | 3.23%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 1.61%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1        | 1.61%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1        | 1.61%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1        | 1.61%   |
+| ASIX AX88179 Gigabit Ethernet                                          | 1        | 1.61%   |
 
 Net Controller Kind
 -------------------
@@ -1720,29 +1720,29 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| G.Skill RAM F3-12800CL8-4GBXM 4GB DIMM DDR3 1600MT/s     | 3        | 9.68%   |
-| Unknown RAM Module 8192MB DIMM                           | 2        | 6.45%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s             | 2        | 6.45%   |
-| Unknown RAM Module 4096MB DIMM                           | 2        | 6.45%   |
-| Unknown RAM Module 2048MB SODIMM DDR2 800MT/s            | 2        | 6.45%   |
-| Unknown RAM Module 2048MB DIMM 667MT/s                   | 2        | 6.45%   |
-| Kingston RAM 99U5471-011.A 2048MB DIMM DDR3 667MT/s      | 2        | 6.45%   |
-| Kingston RAM 99U5471-002.A 2048MB DIMM DDR3 667MT/s      | 2        | 6.45%   |
-| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s    | 2        | 6.45%   |
-| Unknown RAM Module 4096MB SODIMM DDR2 800MT/s            | 1        | 3.23%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 3.23%   |
-| Unknown RAM Module 2048MB DIMM 400MT/s                   | 1        | 3.23%   |
-| Unknown RAM Module 1024MB SODIMM DDR2 800MT/s            | 1        | 3.23%   |
-| Unknown RAM Module 1024MB DIMM DDR 333MT/s               | 1        | 3.23%   |
-| Samsung RAM M471B5273DH0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 3.23%   |
-| pqi RAM Module 1024MB DIMM DDR2 800MT/s                  | 1        | 3.23%   |
-| Nanya RAM Module 2048MB DIMM DDR2 800MT/s                | 1        | 3.23%   |
-| Kingston RAM Module 2048MB DIMM DDR2 533MT/s             | 1        | 3.23%   |
-| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s | 1        | 3.23%   |
-| Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s      | 1        | 3.23%   |
-| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s    | 1        | 3.23%   |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| G.Skill RAM F3-12800CL8-4GBXM 4GB DIMM DDR3 1600MT/s  | 3        | 9.68%   |
+| Unknown RAM Module 8192MB DIMM                        | 2        | 6.45%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1333MT/s          | 2        | 6.45%   |
+| Unknown RAM Module 4096MB DIMM                        | 2        | 6.45%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 800MT/s         | 2        | 6.45%   |
+| Unknown RAM Module 2048MB DIMM 667MT/s                | 2        | 6.45%   |
+| Kingston RAM 99U5471-011.A 2048MB DIMM DDR3 667MT/s   | 2        | 6.45%   |
+| Kingston RAM 99U5471-002.A 2048MB DIMM DDR3 667MT/s   | 2        | 6.45%   |
+| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s | 2        | 6.45%   |
+| Unknown RAM Module 4096MB SODIMM DDR2 800MT/s         | 1        | 3.23%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s               | 1        | 3.23%   |
+| Unknown RAM Module 2048MB DIMM 400MT/s                | 1        | 3.23%   |
+| Unknown RAM Module 1024MB SODIMM DDR2 800MT/s         | 1        | 3.23%   |
+| Unknown RAM Module 1024MB DIMM DDR 333MT/s            | 1        | 3.23%   |
+| Samsung RAM M471B5273DH0-YK0 4GB DIMM DDR3 1600MT/s   | 1        | 3.23%   |
+| pqi RAM Module 1024MB DIMM DDR2 800MT/s               | 1        | 3.23%   |
+| Nanya RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 3.23%   |
+| Kingston RAM Module 2048MB DIMM DDR2 533MT/s          | 1        | 3.23%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 3.23%   |
+| Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s   | 1        | 3.23%   |
+| Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s | 1        | 3.23%   |
 
 Memory Kind
 -----------
@@ -1901,8 +1901,8 @@ Total unsupported devices on board
 | Total | Desktops | Percent |
 |-------|----------|---------|
 | 0     | 14       | 46.67%  |
-| 1     | 12       | 40%     |
-| 2     | 3        | 10%     |
+| 1     | 13       | 43.33%  |
+| 2     | 2        | 6.67%   |
 | 4     | 1        | 3.33%   |
 
 Unsupported Device Types

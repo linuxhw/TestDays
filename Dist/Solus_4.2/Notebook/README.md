@@ -690,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -1326,32 +1326,32 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4         | 14.29%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 7.14%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 1         | 3.57%   |
-| Realtek RTL8723AE PCIe Wireless Network Adapter                   | 1         | 3.57%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 3.57%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 3.57%   |
-| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                         | 1         | 3.57%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 3.57%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 3.57%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 3.57%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.57%   |
-| OnePlus (Shenzhen) OnePlus                                        | 1         | 3.57%   |
-| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
-| Intel Wireless 8260                                               | 1         | 3.57%   |
-| Intel Wireless 7260                                               | 1         | 3.57%   |
-| Intel Wi-Fi 6 AX200                                               | 1         | 3.57%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 3.57%   |
-| Intel Ethernet Connection I217-V                                  | 1         | 3.57%   |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                     | 1         | 3.57%   |
-| Intel Centrino Advanced-N 6230 [Rainbow Peak]                     | 1         | 3.57%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 1         | 3.57%   |
-| HP lt4112 Gobi 4G Module Network Device                           | 1         | 3.57%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 3.57%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 4         | 14.29%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 7.14%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                        | 1         | 3.57%   |
+| Realtek RTL8723AE PCIe Wireless Network Adapter                        | 1         | 3.57%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1         | 3.57%   |
+| Realtek Killer E2600 GbE Controller                                    | 1         | 3.57%   |
+| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                              | 1         | 3.57%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 1         | 3.57%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 1         | 3.57%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)         | 1         | 3.57%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1         | 3.57%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                                  | 1         | 3.57%   |
+| OnePlus (Shenzhen) KB2000                                              | 1         | 3.57%   |
+| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller                | 1         | 3.57%   |
+| Intel Wireless 8260                                                    | 1         | 3.57%   |
+| Intel Wireless 7260                                                    | 1         | 3.57%   |
+| Intel Wi-Fi 6 AX200                                                    | 1         | 3.57%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 3.57%   |
+| Intel Ethernet Connection I217-V                                       | 1         | 3.57%   |
+| Intel Centrino Wireless-N 1030 [Rainbow Peak]                          | 1         | 3.57%   |
+| Intel Centrino Advanced-N 6230 [Rainbow Peak]                          | 1         | 3.57%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                           | 1         | 3.57%   |
+| HP lt4112 Gobi 4G Module Network Device                                | 1         | 3.57%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                        | 1         | 3.57%   |
 
 Wireless Vendor
 ---------------
@@ -1418,17 +1418,17 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4         | 30.77%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 15.38%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 7.69%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 7.69%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 7.69%   |
-| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 7.69%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 7.69%   |
-| Intel Ethernet Connection I217-V                                  | 1         | 7.69%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 1         | 7.69%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 4         | 30.77%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 15.38%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1         | 7.69%   |
+| Realtek Killer E2600 GbE Controller                                    | 1         | 7.69%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                                  | 1         | 7.69%   |
+| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller                | 1         | 7.69%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 7.69%   |
+| Intel Ethernet Connection I217-V                                       | 1         | 7.69%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                        | 1         | 7.69%   |
 
 Net Controller Kind
 -------------------
@@ -1509,16 +1509,16 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                            | Notebooks | Percent |
-|--------------------------------------------------|-----------|---------|
-| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
-| Intel Bluetooth wireless interface               | 2         | 20%     |
-| Toshiba RT Bluetooth Radio                       | 1         | 10%     |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
-| Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
-| Intel AX200 Bluetooth                            | 1         | 10%     |
+| Model                                      | Notebooks | Percent |
+|--------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface         | 2         | 20%     |
+| Intel Bluetooth Device                     | 2         | 20%     |
+| Toshiba RT Bluetooth Radio                 | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth          | 1         | 10%     |
+| Qualcomm Atheros AR3011 Bluetooth          | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 10%     |
+| Intel AX200 Bluetooth                      | 1         | 10%     |
 
 Sound
 -----
@@ -1591,7 +1591,7 @@ Memory module models
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 16.67%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 16.67%  |

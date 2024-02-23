@@ -933,7 +933,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 480GB                   | 1         | 1.49%   |
+| TO Exter nal USB 3.0 512GB                   | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1037,7 +1037,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 49     | 100%    |
+| 0.01-0.5   | 40        | 48     | 97.56%  |
+| 0.51-1.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1580,17 +1581,17 @@ Monitor models
 | BOE LCD Monitor BOE06B4 1920x1080 344x194mm 15.5-inch                 | 3         | 5%      |
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                  | 2         | 3.33%   |
 | Toshiba TV TSB0106 1366x768                                           | 1         | 1.67%   |
-| Sony TV SNY9C01 1360x768                                              | 1         | 1.67%   |
+| Sony TV SNY9C01 1920x1080                                             | 1         | 1.67%   |
 | Sharp LQ123P1JX32 SHP148A 2400x1600 259x173mm 12.3-inch               | 1         | 1.67%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SDC3853 2736x1824 260x173mm 12.3-inch | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SAM07BC 1360x768 700x390mm 31.5-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SAM07BC 1360x768                      | 1         | 1.67%   |
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                        | 1         | 1.67%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch                | 1         | 1.67%   |
 | LG Philips LCD Monitor LPL8D00 1280x800 304x190mm 14.1-inch           | 1         | 1.67%   |
@@ -1798,7 +1799,7 @@ Controller models
 
 | Model                                                                   | Computers | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 15        | 15.46%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller  | 15        | 15.46%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                   | 4         | 4.12%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter              | 4         | 4.12%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 4         | 4.12%   |
@@ -1926,26 +1927,26 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 15        | 35.71%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 4         | 9.52%   |
-| Intel 82567LM Gigabit Network Connection                          | 4         | 9.52%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 3         | 7.14%   |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 2         | 4.76%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 4.76%   |
-| TP-Link USB 10/100 LAN                                            | 1         | 2.38%   |
-| Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1         | 2.38%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 1         | 2.38%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 2.38%   |
-| Nvidia MCP51 Ethernet Controller                                  | 1         | 2.38%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 2.38%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 1         | 2.38%   |
-| Intel 82567LF Gigabit Network Connection                          | 1         | 2.38%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 1         | 2.38%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 1         | 2.38%   |
-| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe          | 1         | 2.38%   |
-| Broadcom Limited NetLink BCM5787M Gigabit Ethernet PCI Express    | 1         | 2.38%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 15        | 35.71%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 4         | 9.52%   |
+| Intel 82567LM Gigabit Network Connection                               | 4         | 9.52%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 3         | 7.14%   |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                   | 2         | 4.76%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 4.76%   |
+| TP-Link USB 10/100 LAN                                                 | 1         | 2.38%   |
+| Qualcomm Atheros Attansic L1 Gigabit Ethernet                          | 1         | 2.38%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                  | 1         | 2.38%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                               | 1         | 2.38%   |
+| Nvidia MCP51 Ethernet Controller                                       | 1         | 2.38%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1         | 2.38%   |
+| Intel 82567LM-3 Gigabit Network Connection                             | 1         | 2.38%   |
+| Intel 82567LF Gigabit Network Connection                               | 1         | 2.38%   |
+| Intel 82566DM-2 Gigabit Network Connection                             | 1         | 2.38%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                       | 1         | 2.38%   |
+| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe               | 1         | 2.38%   |
+| Broadcom Limited NetLink BCM5787M Gigabit Ethernet PCI Express         | 1         | 2.38%   |
 
 Net Controller Kind
 -------------------
@@ -2386,9 +2387,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 34        | 56.67%  |
+| 0     | 36        | 60%     |
 | 1     | 21        | 35%     |
-| 2     | 5         | 8.33%   |
+| 2     | 3         | 5%      |
 
 Unsupported Device Types
 ------------------------
@@ -2400,13 +2401,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 20%     |
-| Graphics card            | 6         | 20%     |
-| Net/wireless             | 5         | 16.67%  |
-| Fingerprint reader       | 5         | 16.67%  |
-| Chipcard                 | 3         | 10%     |
-| Storage                  | 2         | 6.67%   |
-| Storage/ide              | 1         | 3.33%   |
-| Modem                    | 1         | 3.33%   |
-| Communication controller | 1         | 3.33%   |
+| Multimedia controller    | 6         | 23.08%  |
+| Net/wireless             | 5         | 19.23%  |
+| Fingerprint reader       | 5         | 19.23%  |
+| Chipcard                 | 3         | 11.54%  |
+| Storage                  | 2         | 7.69%   |
+| Graphics card            | 2         | 7.69%   |
+| Storage/ide              | 1         | 3.85%   |
+| Modem                    | 1         | 3.85%   |
+| Communication controller | 1         | 3.85%   |
 

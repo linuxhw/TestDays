@@ -591,8 +591,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 9        | 52.94%  |
-| No        | 8        | 47.06%  |
+| No        | 9        | 52.94%  |
+| Yes       | 8        | 47.06%  |
 
 Has Ethernet
 ------------
@@ -731,7 +731,7 @@ Hard drive models
 | Seagate ST2000DM008-2UB102 2TB       | 1        | 3.23%   |
 | Seagate ST2000DM008-2FR102 2TB       | 1        | 3.23%   |
 | SanDisk SD8SB8U-256G-1006 256GB SSD  | 1        | 3.23%   |
-| SanDisk Portable SSD 2TB             | 1        | 3.23%   |
+| SanDisk Portable SSD 1TB             | 1        | 3.23%   |
 | Samsung SSD 980 PRO 1TB              | 1        | 3.23%   |
 | Samsung SSD 970 EVO Plus 500GB       | 1        | 3.23%   |
 | Samsung SSD 970 EVO Plus 1TB         | 1        | 3.23%   |
@@ -743,7 +743,7 @@ Hard drive models
 | Kingston RBUSC180DS37128GH 128GB SSD | 1        | 3.23%   |
 | Intel SSDPEKNW010T8 1TB              | 1        | 3.23%   |
 | China SATA SSD 256GB                 | 1        | 3.23%   |
-| ASMedia ASM1153E 2TB                 | 1        | 3.23%   |
+| ASMedia asm1153e 2TB                 | 1        | 3.23%   |
 | A-DATA XPG EX500 240GB SSD           | 1        | 3.23%   |
 | A-DATA SU635 240GB SSD               | 1        | 3.23%   |
 | Unknown                              | 1        | 3.23%   |
@@ -821,8 +821,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 10       | 14     | 45.45%  |
-| 1.01-2.0   | 5        | 6      | 22.73%  |
-| 0.51-1.0   | 4        | 4      | 18.18%  |
+| 0.51-1.0   | 5        | 5      | 22.73%  |
+| 1.01-2.0   | 4        | 5      | 18.18%  |
 | 2.01-3.0   | 2        | 2      | 9.09%   |
 | 4.01-10.0  | 1        | 1      | 4.55%   |
 
@@ -1305,7 +1305,7 @@ Monitor models
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch              | 1        | 7.69%   |
 | Hewlett-Packard vs17 HWP2647 1280x1024 337x270mm 17.0-inch           | 1        | 7.69%   |
 | Hewlett-Packard V221 HWP3111 1920x1080 477x268mm 21.5-inch           | 1        | 7.69%   |
-| Grundig WUXGA GRU4448 1920x1080                                      | 1        | 7.69%   |
+| Grundig WXGA GRU4448 1600x1200                                       | 1        | 7.69%   |
 | Dell U2515H DELD06F 2560x1440 553x311mm 25.0-inch                    | 1        | 7.69%   |
 | Dell SE2719HR DELF115 1920x1080 598x336mm 27.0-inch                  | 1        | 7.69%   |
 | Dell P2418HT DEL4113 1920x1080 527x296mm 23.8-inch                   | 1        | 7.69%   |
@@ -1453,27 +1453,27 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6        | 23.08%  |
-| Intel I211 Gigabit Network Connection                             | 2        | 7.69%   |
-| Intel Ethernet Connection (2) I219-LM                             | 2        | 7.69%   |
-| TP-Link Archer T4UH wireless Realtek 8812AU                       | 1        | 3.85%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 3.85%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1        | 3.85%   |
-| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                        | 1        | 3.85%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 3.85%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 3.85%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 3.85%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1        | 3.85%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1        | 3.85%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 3.85%   |
-| Nvidia MCP61 Ethernet                                             | 1        | 3.85%   |
-| Lenovo P2a42                                                      | 1        | 3.85%   |
-| Intel Ethernet Connection I217-LM                                 | 1        | 3.85%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 3.85%   |
-| Intel 82575EB Gigabit Network Connection                          | 1        | 3.85%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1        | 3.85%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 6        | 23.08%  |
+| Intel I211 Gigabit Network Connection                                  | 2        | 7.69%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 2        | 7.69%   |
+| TP-Link Archer T4UH wireless Realtek 8812AU                            | 1        | 3.85%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]             | 1        | 3.85%   |
+| TP-Link 802.11ac WLAN Adapter                                          | 1        | 3.85%   |
+| Realtek RTL8723BU 802.11b/g/n WLAN Adapter                             | 1        | 3.85%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 3.85%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 1        | 3.85%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 3.85%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)         | 1        | 3.85%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)         | 1        | 3.85%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 3.85%   |
+| Nvidia MCP61 Ethernet                                                  | 1        | 3.85%   |
+| Lenovo P2a42                                                           | 1        | 3.85%   |
+| Intel Ethernet Connection I217-LM                                      | 1        | 3.85%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 3.85%   |
+| Intel 82575EB Gigabit Network Connection                               | 1        | 3.85%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                      | 1        | 3.85%   |
 
 Wireless Vendor
 ---------------
@@ -1531,21 +1531,21 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6        | 30%     |
-| Intel I211 Gigabit Network Connection                             | 2        | 10%     |
-| Intel Ethernet Connection (2) I219-LM                             | 2        | 10%     |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 5%      |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 5%      |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 5%      |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 5%      |
-| Nvidia MCP61 Ethernet                                             | 1        | 5%      |
-| Lenovo P2a42                                                      | 1        | 5%      |
-| Intel Ethernet Connection I217-LM                                 | 1        | 5%      |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 5%      |
-| Intel 82575EB Gigabit Network Connection                          | 1        | 5%      |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1        | 5%      |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 6        | 30%     |
+| Intel I211 Gigabit Network Connection                                  | 2        | 10%     |
+| Intel Ethernet Connection (2) I219-LM                                  | 2        | 10%     |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 5%      |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 1        | 5%      |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 5%      |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 5%      |
+| Nvidia MCP61 Ethernet                                                  | 1        | 5%      |
+| Lenovo P2a42                                                           | 1        | 5%      |
+| Intel Ethernet Connection I217-LM                                      | 1        | 5%      |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 5%      |
+| Intel 82575EB Gigabit Network Connection                               | 1        | 5%      |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                      | 1        | 5%      |
 
 Net Controller Kind
 -------------------

@@ -744,7 +744,7 @@ Hard drive vendors
 |---------------------------|----------|--------|---------|
 | WDC                       | 6        | 8      | 14.63%  |
 | Seagate                   | 6        | 10     | 14.63%  |
-| Sandisk                   | 4        | 5      | 9.76%   |
+| SanDisk                   | 4        | 5      | 9.76%   |
 | Samsung Electronics       | 4        | 4      | 9.76%   |
 | Hitachi                   | 3        | 3      | 7.32%   |
 | Toshiba                   | 2        | 2      | 4.88%   |
@@ -769,48 +769,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Desktops | Percent |
-|-----------------------------------------------------|----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 3        | 6.52%   |
-| WDC WD5000AAKX-75U6AA0 500GB                        | 1        | 2.17%   |
-| WDC WD5000AAKX-60U6AA0 500GB                        | 1        | 2.17%   |
-| WDC WD5000AAKX-08U6AA0 500GB                        | 1        | 2.17%   |
-| WDC WD3200BPVT-22JJ5T0 320GB                        | 1        | 2.17%   |
-| WDC WD20 EARX-00PASB0 2TB                           | 1        | 2.17%   |
-| WDC WD10EZEX-22RKKA0 1TB                            | 1        | 2.17%   |
-| WDC WD10EZEX-21M2NA0 1TB                            | 1        | 2.17%   |
-| WDC WD10EARS-00MVWB0 1TB                            | 1        | 2.17%   |
-| Toshiba DT01ACA200 2TB                              | 1        | 2.17%   |
-| Toshiba DT01ACA100 1TB                              | 1        | 2.17%   |
-| SUNEAST SSD SE800 128GB                             | 1        | 2.17%   |
-| Seagate ST6000DM003-2CY186 6TB                      | 1        | 2.17%   |
-| Seagate ST3500410AS 500GB                           | 1        | 2.17%   |
-| Seagate ST320LM001 HN-M320MBB 320GB                 | 1        | 2.17%   |
-| Seagate ST3160815AS 160GB                           | 1        | 2.17%   |
-| Seagate ST31500341AS 1TB                            | 1        | 2.17%   |
-| Seagate ST2000DM 008-2FR102 2TB                     | 1        | 2.17%   |
-| Seagate ST1000DM010-2EP102 1TB                      | 1        | 2.17%   |
-| Seagate Expansion Desk 8TB                          | 1        | 2.17%   |
-| Sandisk WD_BLACK SN770 1TB                          | 1        | 2.17%   |
-| Sandisk WD Green SN350 500GB 2G0C                   | 1        | 2.17%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB                  | 1        | 2.17%   |
-| SanDisk SSD PLUS 240 GB                             | 1        | 2.17%   |
-| SanDisk SDSSDA240G 240GB                            | 1        | 2.17%   |
-| Samsung SSD 970 EVO Plus 1TB                        | 1        | 2.17%   |
-| ROG ESD-S1C 1024GB                                  | 1        | 2.17%   |
-| Phison E16 PCIe4 NVMe Controller 2TB                | 1        | 2.17%   |
-| Phison E12 NVMe Controller 1TB                      | 1        | 2.17%   |
-| Patriot Burst 120GB SSD                             | 1        | 2.17%   |
-| Micron/Crucial P2 NVMe PCIe SSD 4TB                 | 1        | 2.17%   |
-| Kingston SFYRS500G 500GB                            | 1        | 2.17%   |
-| Kingston SA400M8240G 240GB SSD                      | 1        | 2.17%   |
-| Intel SSDSC2KW256G8 256GB                           | 1        | 2.17%   |
-| Intel SSDPE21D480GA 480GB                           | 1        | 2.17%   |
-| Hitachi HTS547550A9E384 500GB                       | 1        | 2.17%   |
-| Hitachi HTS545050A7E380 500GB                       | 1        | 2.17%   |
-| Hitachi HDS721010CLA332 1TB                         | 1        | 2.17%   |
-| Crucial M4-CT064M4SSD2 64GB                         | 1        | 2.17%   |
-| China SATA SSD 512GB                                | 1        | 2.17%   |
+| Model                                             | Desktops | Percent |
+|---------------------------------------------------|----------|---------|
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 3        | 6.52%   |
+| WDC WD5000AAKX-75U6AA0 500GB                      | 1        | 2.17%   |
+| WDC WD5000AAKX-60U6AA0 500GB                      | 1        | 2.17%   |
+| WDC WD5000AAKX-08U6AA0 500GB                      | 1        | 2.17%   |
+| WDC WD3200BPVT-22JJ5T0 320GB                      | 1        | 2.17%   |
+| WDC WD20 EARX-00PASB0 2TB                         | 1        | 2.17%   |
+| WDC WD10EZEX-22RKKA0 1TB                          | 1        | 2.17%   |
+| WDC WD10EZEX-21M2NA0 1TB                          | 1        | 2.17%   |
+| WDC WD10EARS-00MVWB0 1TB                          | 1        | 2.17%   |
+| Toshiba DT01ACA200 2TB                            | 1        | 2.17%   |
+| Toshiba DT01ACA100 1TB                            | 1        | 2.17%   |
+| SUNEAST SSD SE800 128GB                           | 1        | 2.17%   |
+| Seagate ST6000DM003-2CY186 6TB                    | 1        | 2.17%   |
+| Seagate ST3500410AS 500GB                         | 1        | 2.17%   |
+| Seagate ST320LM001 HN-M320MBB 320GB               | 1        | 2.17%   |
+| Seagate ST3160815AS 160GB                         | 1        | 2.17%   |
+| Seagate ST31500341AS 1TB                          | 1        | 2.17%   |
+| Seagate ST2000DM 008-2FR102 2TB                   | 1        | 2.17%   |
+| Seagate ST1000DM010-2EP102 1TB                    | 1        | 2.17%   |
+| Seagate Expansion Desk 8TB                        | 1        | 2.17%   |
+| Sandisk WD_BLACK SN770 1TB                        | 1        | 2.17%   |
+| Sandisk WD Green SN350 500GB 2G0C                 | 1        | 2.17%   |
+| Sandisk WD Blue SN550 NVMe SSD 512GB              | 1        | 2.17%   |
+| SanDisk SSD PLUS 240 GB                           | 1        | 2.17%   |
+| SanDisk SDSSDA240G 240GB                          | 1        | 2.17%   |
+| Samsung SSD 970 EVO Plus 1TB                      | 1        | 2.17%   |
+| ROG ESD-S1C 1024GB                                | 1        | 2.17%   |
+| Phison E16 PCIe4 NVMe Controller 2TB              | 1        | 2.17%   |
+| Phison E12 NVMe Controller 1TB                    | 1        | 2.17%   |
+| Patriot Burst 120GB SSD                           | 1        | 2.17%   |
+| Micron/Crucial P2 NVMe PCIe SSD 1TB               | 1        | 2.17%   |
+| Kingston SFYRS500G 500GB                          | 1        | 2.17%   |
+| Kingston SA400M8240G 240GB SSD                    | 1        | 2.17%   |
+| Intel SSDSC2KW256G8 256GB                         | 1        | 2.17%   |
+| Intel SSDPE21D480GA 480GB                         | 1        | 2.17%   |
+| Hitachi HTS547550A9E384 500GB                     | 1        | 2.17%   |
+| Hitachi HTS545050A7E380 500GB                     | 1        | 2.17%   |
+| Hitachi HDS721010CLA332 1TB                       | 1        | 2.17%   |
+| Crucial M4-CT064M4SSD2 64GB                       | 1        | 2.17%   |
+| China SATA SSD 512GB                              | 1        | 2.17%   |
 
 HDD Vendor
 ----------
@@ -1056,8 +1056,8 @@ Storage controller models
 
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                            | 5        | 13.51%  |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 4        | 10.81%  |
+| AMD FCH SATA Controller [AHCI mode]                                            | 4        | 10.81%  |
 | AMD 500 Series Chipset SATA Controller                                         | 4        | 10.81%  |
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 2        | 5.41%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 2        | 5.41%   |
@@ -1077,9 +1077,10 @@ Storage controller models
 | Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                      | 1        | 2.7%    |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 1        | 2.7%    |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 1        | 2.7%    |
-| ASMedia ASM1062 Serial ATA Controller                                          | 1        | 2.7%    |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 1        | 2.7%    |
 | AMD FCH SATA Controller [IDE mode]                                             | 1        | 2.7%    |
 | AMD FCH SATA Controller D                                                      | 1        | 2.7%    |
+| AMD 600 Series Chipset SATA Controller                                         | 1        | 2.7%    |
 | AMD 400 Series Chipset SATA Controller                                         | 1        | 2.7%    |
 
 Storage Kind
@@ -1307,7 +1308,7 @@ Graphics card models
 | AMD Pitcairn PRO [Radeon HD 7850 / R7 265 / R9 270 1024SP]                  | 1        | 4%      |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]        | 1        | 4%      |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]       | 1        | 4%      |
-| AMD Navi 31 [Radeon RX 7900 XT/7900 XTX]                                    | 1        | 4%      |
+| AMD Navi 31 [Radeon RX 7900 XT/7900 XTX/7900M]                              | 1        | 4%      |
 | AMD Navi 23 [Radeon RX 6600/6600 XT/6600M]                                  | 1        | 4%      |
 
 GPU Combo
@@ -1397,7 +1398,7 @@ Monitor models
 
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
-| Toshiba TV TSB0206 1920x1080 890x500mm 40.2-inch                      | 1        | 3.85%   |
+| Toshiba TV TSB0206 1920x1080                                          | 1        | 3.85%   |
 | Samsung Electronics LS24AG32x SAM71DA 1920x1080 527x296mm 23.8-inch   | 1        | 3.85%   |
 | Samsung Electronics C49RG9x SAM0F9C 3840x1080 1193x336mm 48.8-inch    | 1        | 3.85%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 3.85%   |
@@ -1407,15 +1408,15 @@ Monitor models
 | Goldstar L1742 GSM449C 1280x1024 338x270mm 17.0-inch                  | 1        | 3.85%   |
 | Goldstar HDR WFHD GSM5BB9 2560x1080 798x334mm 34.1-inch               | 1        | 3.85%   |
 | Goldstar FULL HD GSM5BFB 1920x1080 480x270mm 21.7-inch                | 1        | 3.85%   |
-| Dell SE2417HG DELD08E 1920x1080 521x293mm 23.5-inch                   | 1        | 3.85%   |
-| Dell SE2417HG DELD08D 1920x1080 521x293mm 23.5-inch                   | 1        | 3.85%   |
+| Dell SE2417HG DELD08E 1920x1080 520x290mm 23.4-inch                   | 1        | 3.85%   |
+| Dell SE2417HG DELD08D 1920x1080 520x290mm 23.4-inch                   | 1        | 3.85%   |
 | Dell S2421NX DEL41FB 1920x1080 527x296mm 23.8-inch                    | 1        | 3.85%   |
 | Dell S2240T DELA094 1920x1080 477x268mm 21.5-inch                     | 1        | 3.85%   |
 | Dell E198WFP DELF005 1440x900 408x255mm 18.9-inch                     | 1        | 3.85%   |
 | BenQ BL3200 BNQ8017 2560x1440 708x398mm 32.0-inch                     | 1        | 3.85%   |
 | ASUSTek Computer ROG PG65UQ AUS65A1 3840x2160 1430x800mm 64.5-inch    | 1        | 3.85%   |
 | Ancor Communications ROG PG348Q ACI3433 3440x1440 798x335mm 34.1-inch | 1        | 3.85%   |
-| Ancor Communications ASUS VS228 ACI22FD 1920x1080 480x270mm 21.7-inch | 1        | 3.85%   |
+| Ancor Communications ASUS VS228 ACI22FD 1920x1080 476x268mm 21.5-inch | 1        | 3.85%   |
 | Ancor Communications ASUS PB278 ACI27A3 2560x1440 597x336mm 27.0-inch | 1        | 3.85%   |
 | AGO LCD Monitor AGO0001 1920x1080 300x230mm 14.9-inch                 | 1        | 3.85%   |
 | AGO LCD Monitor AGO0001 1920x1080 256x192mm 12.6-inch                 | 1        | 3.85%   |
@@ -1590,29 +1591,29 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 10       | 30.3%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 9.09%   |
-| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 2        | 6.06%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1        | 3.03%   |
-| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                        | 1        | 3.03%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 3.03%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 3.03%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 3.03%   |
-| Realtek 802.11ac NIC                                              | 1        | 3.03%   |
-| Ralink MT7601U Wireless Adapter                                   | 1        | 3.03%   |
-| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter     | 1        | 3.03%   |
-| Intel Wireless-AC 9260                                            | 1        | 3.03%   |
-| Intel Wireless 8265 / 8275                                        | 1        | 3.03%   |
-| Intel Wi-Fi 6 AX200                                               | 1        | 3.03%   |
-| Intel I211 Gigabit Network Connection                             | 1        | 3.03%   |
-| Intel Ethernet Connection I217-LM                                 | 1        | 3.03%   |
-| Intel Ethernet Connection (3) I219-LM                             | 1        | 3.03%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 3.03%   |
-| Intel Ethernet Connection (2) I218-V                              | 1        | 3.03%   |
-| Broadcom Limited NetLink BCM5787 Gigabit Ethernet PCI Express     | 1        | 3.03%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 1        | 3.03%   |
+| Model                                                                          | Desktops | Percent |
+|--------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 10       | 30.3%   |
+| Realtek RTL8125 2.5GbE Controller                                              | 3        | 9.09%   |
+| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                       | 2        | 6.06%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                       | 1        | 3.03%   |
+| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                     | 1        | 3.03%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                                | 1        | 3.03%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                                       | 1        | 3.03%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 1        | 3.03%   |
+| Realtek 802.11ac NIC                                                           | 1        | 3.03%   |
+| Ralink MT7601U Wireless Adapter                                                | 1        | 3.03%   |
+| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter                  | 1        | 3.03%   |
+| Intel Wireless 8265 / 8275                                                     | 1        | 3.03%   |
+| Intel Wi-Fi 6 AX200                                                            | 1        | 3.03%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                        | 1        | 3.03%   |
+| Intel I211 Gigabit Network Connection                                          | 1        | 3.03%   |
+| Intel Ethernet Connection I217-LM                                              | 1        | 3.03%   |
+| Intel Ethernet Connection (3) I219-LM                                          | 1        | 3.03%   |
+| Intel Ethernet Connection (2) I219-V                                           | 1        | 3.03%   |
+| Intel Ethernet Connection (2) I218-V                                           | 1        | 3.03%   |
+| Broadcom Limited NetLink BCM5787 Gigabit Ethernet PCI Express                  | 1        | 3.03%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 1        | 3.03%   |
 
 Wireless Vendor
 ---------------
@@ -1645,9 +1646,9 @@ Wireless models
 | Realtek 802.11ac NIC                                          | 1        | 10%     |
 | Ralink MT7601U Wireless Adapter                               | 1        | 10%     |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter | 1        | 10%     |
-| Intel Wireless-AC 9260                                        | 1        | 10%     |
 | Intel Wireless 8265 / 8275                                    | 1        | 10%     |
 | Intel Wi-Fi 6 AX200                                           | 1        | 10%     |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]       | 1        | 10%     |
 
 Ethernet Vendor
 ---------------
@@ -1672,20 +1673,20 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 10       | 43.48%  |
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 13.04%  |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 4.35%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 1        | 4.35%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 4.35%   |
-| Intel I211 Gigabit Network Connection                             | 1        | 4.35%   |
-| Intel Ethernet Connection I217-LM                                 | 1        | 4.35%   |
-| Intel Ethernet Connection (3) I219-LM                             | 1        | 4.35%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 4.35%   |
-| Intel Ethernet Connection (2) I218-V                              | 1        | 4.35%   |
-| Broadcom Limited NetLink BCM5787 Gigabit Ethernet PCI Express     | 1        | 4.35%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 1        | 4.35%   |
+| Model                                                                          | Desktops | Percent |
+|--------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 10       | 43.48%  |
+| Realtek RTL8125 2.5GbE Controller                                              | 3        | 13.04%  |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                                | 1        | 4.35%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                                       | 1        | 4.35%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 1        | 4.35%   |
+| Intel I211 Gigabit Network Connection                                          | 1        | 4.35%   |
+| Intel Ethernet Connection I217-LM                                              | 1        | 4.35%   |
+| Intel Ethernet Connection (3) I219-LM                                          | 1        | 4.35%   |
+| Intel Ethernet Connection (2) I219-V                                           | 1        | 4.35%   |
+| Intel Ethernet Connection (2) I218-V                                           | 1        | 4.35%   |
+| Broadcom Limited NetLink BCM5787 Gigabit Ethernet PCI Express                  | 1        | 4.35%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 1        | 4.35%   |
 
 Net Controller Kind
 -------------------
@@ -1797,9 +1798,9 @@ Sound card vendors
 | C-Media Electronics | 2        | 5%      |
 | Texas Instruments   | 1        | 2.5%    |
 | Oculus VR           | 1        | 2.5%    |
+| KTMicro             | 1        | 2.5%    |
 | Kingston Technology | 1        | 2.5%    |
 | JMTek               | 1        | 2.5%    |
-| DCMT Technology     | 1        | 2.5%    |
 | Blue Microphones    | 1        | 2.5%    |
 
 Sound Model
@@ -1831,6 +1832,7 @@ Sound card models
 | Logitech Logitech USB Microphone                                           | 1        | 1.96%   |
 | Logitech H390 headset with microphone                                      | 1        | 1.96%   |
 | Logitech G432 Gaming Headset                                               | 1        | 1.96%   |
+| KTMicro KT_USB_AUDIO                                                       | 1        | 1.96%   |
 | Kingston Technology HyperX QuadCast                                        | 1        | 1.96%   |
 | JMTek USB PnP Audio Device                                                 | 1        | 1.96%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1        | 1.96%   |
@@ -1839,7 +1841,6 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 1        | 1.96%   |
 | Intel 200 Series PCH HD Audio                                              | 1        | 1.96%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 1.96%   |
-| DCMT Technology USB Condenser Microphone                                   | 1        | 1.96%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 1.96%   |
 | C-Media Electronics Antlion USB adapter                                    | 1        | 1.96%   |
 | Blue Microphones Yeti Nano                                                 | 1        | 1.96%   |
@@ -1889,7 +1890,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 5%      |
 | Unknown RAM Module 2GB DIMM SDRAM                       | 1        | 5%      |
 | Unknown RAM Module 1GB DIMM SDRAM                       | 1        | 5%      |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3800MT/s     | 1        | 5%      |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3800MT/s     | 1        | 5%      |
 | SK hynix RAM HYMP512U64CP8-S6 1GB DIMM DDR2 800MT/s     | 1        | 5%      |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s   | 1        | 5%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1        | 5%      |
@@ -1897,7 +1898,7 @@ Memory module models
 | Micron RAM F6451U64F9333G 4096MB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Kingston RAM KF552C40-8 8GB DIMM DDR5 4800MT/s          | 1        | 5%      |
 | Kingston RAM KF3600C16D4/16GX 16GB DIMM DDR4 3800MT/s   | 1        | 5%      |
-| Kingston RAM KF3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s  | 1        | 5%      |
+| Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 1        | 5%      |
 | Kingston RAM 9905402-532.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 5%      |
 | G.Skill RAM F4-3000C16-8GTZR 8GB DIMM DDR4 3200MT/s     | 1        | 5%      |
 | Crucial RAM CT51264BA1339.M16F 4GB DIMM DDR3 1333MT/s   | 1        | 5%      |
@@ -2046,7 +2047,7 @@ Camera device models
 |-----------------------------------------|----------|---------|
 | Samsung Galaxy series, misc. (MTP mode) | 1        | 33.33%  |
 | Logitech HD Pro Webcam C920             | 1        | 33.33%  |
-| Generalplus WEB CAM                     | 1        | 33.33%  |
+| Generalplus GENERAL WEBCAM              | 1        | 33.33%  |
 
 Security
 --------

@@ -731,10 +731,10 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 10       | 15.15%  |
+| 2019 | 9        | 13.64%  |
 | 2012 | 9        | 13.64%  |
+| 2018 | 8        | 12.12%  |
 | 2013 | 8        | 12.12%  |
-| 2018 | 7        | 10.61%  |
 | 2016 | 5        | 7.58%   |
 | 2010 | 5        | 7.58%   |
 | 2009 | 5        | 7.58%   |
@@ -1159,12 +1159,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 42       | 63     | 48.28%  |
-| 0.51-1.0   | 31       | 37     | 35.63%  |
-| 1.01-2.0   | 6        | 8      | 6.9%    |
-| 2.01-3.0   | 4        | 5      | 4.6%    |
-| 4.01-10.0  | 3        | 4      | 3.45%   |
-| 3.01-4.0   | 1        | 1      | 1.15%   |
+| 0.01-0.5   | 42       | 64     | 48.84%  |
+| 0.51-1.0   | 29       | 35     | 33.72%  |
+| 1.01-2.0   | 7        | 9      | 8.14%   |
+| 2.01-3.0   | 4        | 5      | 4.65%   |
+| 4.01-10.0  | 3        | 4      | 3.49%   |
+| 3.01-4.0   | 1        | 1      | 1.16%   |
 
 Space Total
 -----------
@@ -1319,7 +1319,7 @@ Storage controller models
 
 | Model                                                                                   | Desktops | Percent |
 |-----------------------------------------------------------------------------------------|----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                                     | 20       | 16.13%  |
+| AMD FCH SATA Controller [AHCI mode]                                                     | 19       | 15.32%  |
 | Phison E12 NVMe Controller                                                              | 6        | 4.84%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 6        | 4.84%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 5        | 4.03%   |
@@ -1770,9 +1770,9 @@ Monitor models
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SA300/SA350 SAM0791 1920x1080 510x287mm 23.0-inch   | 2        | 2.5%    |
-| MSI Optix MAG27CQ MSI1462 2560x1440 597x336mm 27.0-inch                 | 2        | 2.5%    |
+| MSI MAG341CQ MSI1462 3440x1440 797x333mm 34.0-inch                      | 2        | 2.5%    |
 | Hewlett-Packard 27ea HPN3395 1920x1080 527x296mm 23.8-inch              | 2        | 2.5%    |
-| Vizio E480i-C2 VIZ1004 1920x1080 477x268mm 21.5-inch                    | 1        | 1.25%   |
+| Vizio E32-C1 VIZ1004 1920x1080 698x392mm 31.5-inch                      | 1        | 1.25%   |
 | Vestel LCD Monitor 32W_LCD_TV                                           | 1        | 1.25%   |
 | Unknown LCD Monitor DAC Moniter 5760x1080                               | 1        | 1.25%   |
 | Sony TV SNYF301 1920x1080                                               | 1        | 1.25%   |
@@ -1790,7 +1790,7 @@ Monitor models
 | Samsung Electronics LCD Monitor S24D300 1920x1080                       | 1        | 1.25%   |
 | Samsung Electronics LCD Monitor S22D300 1920x1080                       | 1        | 1.25%   |
 | Plain Tree Systems TFT19DXP PTS03A0 1280x1024 376x301mm 19.0-inch       | 1        | 1.25%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch                | 1        | 1.25%   |
+| Philips PHL 276E8V PHLC18F 3840x2160 597x336mm 27.0-inch                | 1        | 1.25%   |
 | Philips PHL 273V5 PHLC0D2 1920x1080 598x336mm 27.0-inch                 | 1        | 1.25%   |
 | Philips PHL 246E9Q PHLC17C 1920x1080 527x296mm 23.8-inch                | 1        | 1.25%   |
 | Philips LCD Monitor PHL 276E8V 7680x2160                                | 1        | 1.25%   |
@@ -1850,14 +1850,14 @@ Diagonal size in inches
 | 24      | 9        | 12.33%  |
 | 21      | 9        | 12.33%  |
 | Unknown | 9        | 12.33%  |
-| 27      | 6        | 8.22%   |
 | 19      | 6        | 8.22%   |
+| 27      | 5        | 6.85%   |
 | 18      | 4        | 5.48%   |
+| 31      | 3        | 4.11%   |
 | 22      | 3        | 4.11%   |
 | 84      | 2        | 2.74%   |
 | 54      | 2        | 2.74%   |
 | 34      | 2        | 2.74%   |
-| 31      | 2        | 2.74%   |
 | 20      | 2        | 2.74%   |
 | 72      | 1        | 1.37%   |
 | 46      | 1        | 1.37%   |
@@ -1877,16 +1877,16 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 22       | 30.99%  |
-| 401-500     | 21       | 29.58%  |
-| Unknown     | 9        | 12.68%  |
-| 701-800     | 4        | 5.63%   |
-| 601-700     | 4        | 5.63%   |
-| 351-400     | 3        | 4.23%   |
-| 1501-2000   | 3        | 4.23%   |
-| 1001-1500   | 3        | 4.23%   |
-| 801-900     | 1        | 1.41%   |
-| 301-350     | 1        | 1.41%   |
+| 501-600     | 22       | 30.56%  |
+| 401-500     | 21       | 29.17%  |
+| Unknown     | 9        | 12.5%   |
+| 601-700     | 5        | 6.94%   |
+| 701-800     | 4        | 5.56%   |
+| 351-400     | 3        | 4.17%   |
+| 1501-2000   | 3        | 4.17%   |
+| 1001-1500   | 3        | 4.17%   |
+| 801-900     | 1        | 1.39%   |
+| 301-350     | 1        | 1.39%   |
 
 Aspect Ratio
 ------------
@@ -1917,9 +1917,9 @@ Area in inch²
 | 201-250        | 26       | 37.68%  |
 | 151-200        | 9        | 13.04%  |
 | Unknown        | 9        | 13.04%  |
-| 301-350        | 6        | 8.7%    |
+| 351-500        | 6        | 8.7%    |
 | More than 1000 | 5        | 7.25%   |
-| 351-500        | 5        | 7.25%   |
+| 301-350        | 5        | 7.25%   |
 | 141-150        | 5        | 7.25%   |
 | 501-1000       | 3        | 4.35%   |
 | 251-300        | 1        | 1.45%   |
@@ -1934,12 +1934,12 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 41       | 57.75%  |
-| 101-120 | 11       | 15.49%  |
-| Unknown | 9        | 12.68%  |
-| 1-50    | 5        | 7.04%   |
-| 121-160 | 3        | 4.23%   |
-| 161-240 | 2        | 2.82%   |
+| 51-100  | 41       | 56.94%  |
+| 101-120 | 11       | 15.28%  |
+| Unknown | 9        | 12.5%   |
+| 1-50    | 5        | 6.94%   |
+| 121-160 | 4        | 5.56%   |
+| 161-240 | 2        | 2.78%   |
 
 Multiple Monitors
 -----------------
@@ -1994,7 +1994,7 @@ Controller models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 29       | 28.16%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller  | 29       | 28.16%  |
 | Intel I211 Gigabit Network Connection                                   | 10       | 9.71%   |
 | Intel Wi-Fi 6 AX200                                                     | 5        | 4.85%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                      | 3        | 2.91%   |
@@ -2004,7 +2004,7 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                         | 2        | 1.94%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                   | 2        | 1.94%   |
 | Ralink RT5572 Wireless Adapter                                          | 2        | 1.94%   |
-| Intel Wireless-AC 9260                                                  | 2        | 1.94%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                 | 2        | 1.94%   |
 | Intel Ethernet Controller I225-V                                        | 2        | 1.94%   |
 | Intel Ethernet Connection (2) I219-V                                    | 2        | 1.94%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                          | 1        | 0.97%   |
@@ -2030,7 +2030,7 @@ Controller models
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 0.97%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                 | 1        | 0.97%   |
 | Intel Wireless 8265 / 8275                                              | 1        | 0.97%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                  | 1        | 0.97%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]               | 1        | 0.97%   |
 | Intel Ethernet Connection I217-V                                        | 1        | 0.97%   |
 | Intel Ethernet Connection (2) I219-LM                                   | 1        | 0.97%   |
 | Intel Ethernet Connection (2) I218-V                                    | 1        | 0.97%   |
@@ -2071,7 +2071,7 @@ Wireless models
 | Realtek RTL88x2bu [AC1200 Techkey]                                      | 3        | 8.57%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                         | 2        | 5.71%   |
 | Ralink RT5572 Wireless Adapter                                          | 2        | 5.71%   |
-| Intel Wireless-AC 9260                                                  | 2        | 5.71%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                 | 2        | 5.71%   |
 | TP-Link TL-WN822N Version 4 RTL8192EU                                   | 1        | 2.86%   |
 | TP-Link Archer T4U v2 [Realtek RTL8812AU]                               | 1        | 2.86%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1        | 2.86%   |
@@ -2088,7 +2088,7 @@ Wireless models
 | Microsoft Xbox 360 Wireless Adapter                                     | 1        | 2.86%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                 | 1        | 2.86%   |
 | Intel Wireless 8265 / 8275                                              | 1        | 2.86%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                  | 1        | 2.86%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]               | 1        | 2.86%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                        | 1        | 2.86%   |
 | Intel Cannon Lake PCH CNVi WiFi                                         | 1        | 2.86%   |
 | Broadcom BCM43217 802.11b/g/n                                           | 1        | 2.86%   |
@@ -2120,30 +2120,30 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                                | Desktops | Percent |
-|----------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller    | 29       | 42.65%  |
-| Intel I211 Gigabit Network Connection                                | 10       | 14.71%  |
-| Intel Ethernet Connection I217-LM                                    | 3        | 4.41%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                | 3        | 4.41%   |
-| Intel 82567LM-3 Gigabit Network Connection                           | 3        | 4.41%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                | 2        | 2.94%   |
-| Intel Ethernet Controller I225-V                                     | 2        | 2.94%   |
-| Intel Ethernet Connection (2) I219-V                                 | 2        | 2.94%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                       | 1        | 1.47%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                             | 1        | 1.47%   |
-| Realtek RTL8125 2.5GbE Controller                                    | 1        | 1.47%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                             | 1        | 1.47%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                        | 1        | 1.47%   |
-| Nvidia MCP61 Ethernet                                                | 1        | 1.47%   |
-| NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter | 1        | 1.47%   |
-| Intel Ethernet Connection I217-V                                     | 1        | 1.47%   |
-| Intel Ethernet Connection (2) I219-LM                                | 1        | 1.47%   |
-| Intel Ethernet Connection (2) I218-V                                 | 1        | 1.47%   |
-| Intel 82579V Gigabit Network Connection                              | 1        | 1.47%   |
-| Intel 82578DC Gigabit Network Connection                             | 1        | 1.47%   |
-| Intel 82574L Gigabit Network Connection                              | 1        | 1.47%   |
-| Broadcom NetLink BCM57788 Gigabit Ethernet PCIe                      | 1        | 1.47%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 29       | 42.65%  |
+| Intel I211 Gigabit Network Connection                                  | 10       | 14.71%  |
+| Intel Ethernet Connection I217-LM                                      | 3        | 4.41%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 3        | 4.41%   |
+| Intel 82567LM-3 Gigabit Network Connection                             | 3        | 4.41%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2        | 2.94%   |
+| Intel Ethernet Controller I225-V                                       | 2        | 2.94%   |
+| Intel Ethernet Connection (2) I219-V                                   | 2        | 2.94%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                         | 1        | 1.47%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 1        | 1.47%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 1.47%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                               | 1        | 1.47%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 1.47%   |
+| Nvidia MCP61 Ethernet                                                  | 1        | 1.47%   |
+| NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter   | 1        | 1.47%   |
+| Intel Ethernet Connection I217-V                                       | 1        | 1.47%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1        | 1.47%   |
+| Intel Ethernet Connection (2) I218-V                                   | 1        | 1.47%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 1.47%   |
+| Intel 82578DC Gigabit Network Connection                               | 1        | 1.47%   |
+| Intel 82574L Gigabit Network Connection                                | 1        | 1.47%   |
+| Broadcom NetLink BCM57788 Gigabit Ethernet PCIe                        | 1        | 1.47%   |
 
 Net Controller Kind
 -------------------
@@ -2354,30 +2354,30 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                 | 1        | 4.55%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s              | 1        | 4.55%   |
-| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s     | 1        | 4.55%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB SODIMM DDR4 2667MT/s | 1        | 4.55%   |
-| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s       | 1        | 4.55%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s       | 1        | 4.55%   |
-| PNY RAM 8GBU1X08QJLL42-12-K 8GB SODIMM DDR4 3200MT/s      | 1        | 4.55%   |
-| Micron RAM Module 16GB SODIMM DDR4 3200MT/s               | 1        | 4.55%   |
-| Micron RAM 16ATF1G64AZ-2G1A2 8GB DIMM DDR4 2400MT/s       | 1        | 4.55%   |
-| Kingston RAM Module 8GB DIMM DDR4 2667MT/s                | 1        | 4.55%   |
-| Kingston RAM KHX2133C14/8G 8192MB DIMM DDR4 2666MT/s      | 1        | 4.55%   |
-| Kingston RAM HX426C16FB2/8 8GB DIMM DDR4 2667MT/s         | 1        | 4.55%   |
-| Kingston RAM 99P5471-002.A00LF 2GB DIMM DDR3 1600MT/s     | 1        | 4.55%   |
-| Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s     | 1        | 4.55%   |
-| Kingston RAM 99P5471-001.A00LF 2GB DIMM DDR3 1333MT/s     | 1        | 4.55%   |
-| Kingston RAM 9905584-023.A00LF 4GB DIMM DDR3 1600MT/s     | 1        | 4.55%   |
-| G.Skill RAM F4-3600C16-8GVKC 8GB DIMM DDR4 3600MT/s       | 1        | 4.55%   |
-| Crucial RAM BLT4G3D1869DT 4096MB DIMM DDR3 1333MT/s       | 1        | 4.55%   |
-| Crucial RAM BL16G36C16U4W.M16FE1 16GB DIMM DDR4 3733MT/s  | 1        | 4.55%   |
-| Corsair RAM CMT32GX5M2X6200C36 16GB DIMM DDR5 6400MT/s    | 1        | 4.55%   |
-| Corsair RAM CMK64GX4M2D3000C16 32GB DIMM DDR4 3000MT/s    | 1        | 4.55%   |
-| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s     | 1        | 4.55%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM DDR4 2667MT/s                | 1        | 4.55%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 4.55%   |
+| Team RAM TEAMGROUP-SD4-2666 16GB SODIMM DDR4 2667MT/s    | 1        | 4.55%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2667MT/s   | 1        | 4.55%   |
+| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s      | 1        | 4.55%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 3500MT/s      | 1        | 4.55%   |
+| PNY RAM 8GBU1X08QJLL42-12-K 8GB SODIMM DDR4 3200MT/s     | 1        | 4.55%   |
+| Micron RAM Module 16GB SODIMM DDR4 3200MT/s              | 1        | 4.55%   |
+| Micron RAM 16ATF1G64AZ-2G1A2 8GB DIMM DDR4 2400MT/s      | 1        | 4.55%   |
+| Kingston RAM Module 8GB DIMM DDR4 2667MT/s               | 1        | 4.55%   |
+| Kingston RAM KHX2133C14/8G 8GB DIMM DDR4 2666MT/s        | 1        | 4.55%   |
+| Kingston RAM HX426C16FB2/8 8GB DIMM DDR4 2667MT/s        | 1        | 4.55%   |
+| Kingston RAM 99P5471-002.A00LF 2GB DIMM DDR3 1600MT/s    | 1        | 4.55%   |
+| Kingston RAM 99P5471-001.A01LF 2GB DIMM DDR3 1333MT/s    | 1        | 4.55%   |
+| Kingston RAM 99P5471-001.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 4.55%   |
+| Kingston RAM 9905584-023.A00LF 4GB DIMM DDR3 1600MT/s    | 1        | 4.55%   |
+| G.Skill RAM F4-3600C16-8GVKC 8GB DIMM DDR4 3600MT/s      | 1        | 4.55%   |
+| Crucial RAM BLT4G3D1869DT 4096MB DIMM DDR3 1333MT/s      | 1        | 4.55%   |
+| Crucial RAM BL16G36C16U4W.M16FE1 16GB DIMM DDR4 3733MT/s | 1        | 4.55%   |
+| Corsair RAM CMT32GX5M2X6200C36 16GB DIMM DDR5 6400MT/s   | 1        | 4.55%   |
+| Corsair RAM CMK64GX4M2D3000C16 32GB DIMM DDR4 3000MT/s   | 1        | 4.55%   |
+| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 4.55%   |
 
 Memory Kind
 -----------
@@ -2508,13 +2508,13 @@ Camera device vendors
 | Vendor                      | Desktops | Percent |
 |-----------------------------|----------|---------|
 | Logitech                    | 3        | 27.27%  |
+| webcamvendor                | 1        | 9.09%   |
 | Samsung Electronics         | 1        | 9.09%   |
 | Microdia                    | 1        | 9.09%   |
 | KYE Systems (Mouse Systems) | 1        | 9.09%   |
 | IMC Networks                | 1        | 9.09%   |
 | Generalplus Technology      | 1        | 9.09%   |
 | GEMBIRD                     | 1        | 9.09%   |
-| Creality 3D Technology      | 1        | 9.09%   |
 | Alcor Micro                 | 1        | 9.09%   |
 
 Camera Model
@@ -2525,18 +2525,18 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920              | 2        | 18.18%  |
-| Samsung Galaxy series, misc. (MTP mode)  | 1        | 9.09%   |
-| Microdia USB 2.0 Camera                  | 1        | 9.09%   |
-| Logitech C922 Pro Stream Webcam          | 1        | 9.09%   |
-| KYE Systems (Mouse Systems) Slim 1322AF  | 1        | 9.09%   |
-| IMC Networks Integrated Camera           | 1        | 9.09%   |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 9.09%   |
-| GEMBIRD USB2.0 PC CAMERA                 | 1        | 9.09%   |
-| Creality 3D CREALITY CAM                 | 1        | 9.09%   |
-| Alcor Micro USB 2.0 PC Camera            | 1        | 9.09%   |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920             | 2        | 18.18%  |
+| webcamvendor webcamproduct              | 1        | 9.09%   |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 9.09%   |
+| Microdia USB 2.0 Camera                 | 1        | 9.09%   |
+| Logitech C922 Pro Stream Webcam         | 1        | 9.09%   |
+| KYE Systems (Mouse Systems) Slim 1322AF | 1        | 9.09%   |
+| IMC Networks XHC Camera                 | 1        | 9.09%   |
+| Generalplus 808 Camera                  | 1        | 9.09%   |
+| GEMBIRD USB2.0 PC CAMERA                | 1        | 9.09%   |
+| Alcor Micro USB 2.0 PC Camera           | 1        | 9.09%   |
 
 Security
 --------

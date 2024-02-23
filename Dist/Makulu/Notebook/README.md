@@ -765,7 +765,7 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB      | 2         | 6.9%    |
 | WDC WD2500BEVS-22UST0 250GB          | 1         | 3.45%   |
 | WDC WD10SPZX-60Z10T0 1TB             | 1         | 3.45%   |
-| Unknown SD/MMC/MS PRO 512GB          | 1         | 3.45%   |
+| Unknown SD/MMC/MS PRO 256GB          | 1         | 3.45%   |
 | Transcend TS64GMSA230S 64GB SSD      | 1         | 3.45%   |
 | Toshiba MQ01ABF050M 500GB            | 1         | 3.45%   |
 | Seagate ST9320325AS 320GB            | 1         | 3.45%   |
@@ -863,10 +863,10 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 13        | 18     | 61.9%   |
-| 0.51-1.0   | 6         | 6      | 28.57%  |
-| 1.01-2.0   | 1         | 1      | 4.76%   |
-| 4.01-10.0  | 1         | 1      | 4.76%   |
+| 0.01-0.5   | 13        | 19     | 65%     |
+| 0.51-1.0   | 5         | 5      | 25%     |
+| 1.01-2.0   | 1         | 1      | 5%      |
+| 4.01-10.0  | 1         | 1      | 5%      |
 
 Space Total
 -----------
@@ -1314,7 +1314,7 @@ Monitor models
 | Vizio E280i-A1 VIZ1002 1360x768 607x345mm 27.5-inch                      | 1         | 4.35%   |
 | Sharp LQ116M1JW02 SHP1440 1920x1080 256x144mm 11.6-inch                  | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 4.35%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 4.35%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 4.35%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 4.35%   |
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 4.35%   |
@@ -1326,7 +1326,7 @@ Monitor models
 | Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN1746 1600x900 382x214mm 17.2-inch          | 1         | 4.35%   |
 | Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 4.35%   |
-| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 4.35%   |
+| Chimei Innolux LCD Monitor CMN15AB 1366x768 344x194mm 15.5-inch          | 1         | 4.35%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 4.35%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 4.35%   |
 | BOE LCD Monitor BOE07D3 1920x1080 309x174mm 14.0-inch                    | 1         | 4.35%   |
@@ -1484,7 +1484,7 @@ Controller models
 
 | Model                                                                                | Notebooks | Percent |
 |--------------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                    | 4         | 10%     |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller               | 4         | 10%     |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                | 4         | 10%     |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                             | 2         | 5%      |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                     | 2         | 5%      |
@@ -1499,9 +1499,9 @@ Controller models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                       | 1         | 2.5%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                        | 1         | 2.5%    |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB]       | 1         | 2.5%    |
-| Intel Wireless-AC 9260                                                               | 1         | 2.5%    |
 | Intel Wireless 8265 / 8275                                                           | 1         | 2.5%    |
 | Intel Wireless 8260                                                                  | 1         | 2.5%    |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                              | 1         | 2.5%    |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                              | 1         | 2.5%    |
 | Intel Ice Lake-LP PCH CNVi WiFi                                                      | 1         | 2.5%    |
 | Intel Ethernet Connection I217-LM                                                    | 1         | 2.5%    |
@@ -1556,9 +1556,9 @@ Wireless models
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                           | 1         | 4%      |
 | Qualcomm Atheros TP-Link TL-WN821N v3 / TL-WN822N v2 802.11n [Atheros AR7010+AR9287] | 1         | 4%      |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                       | 1         | 4%      |
-| Intel Wireless-AC 9260                                                               | 1         | 4%      |
 | Intel Wireless 8265 / 8275                                                           | 1         | 4%      |
 | Intel Wireless 8260                                                                  | 1         | 4%      |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                              | 1         | 4%      |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                              | 1         | 4%      |
 | Intel Ice Lake-LP PCH CNVi WiFi                                                      | 1         | 4%      |
 | Intel Centrino Ultimate-N 6300                                                       | 1         | 4%      |
@@ -1594,7 +1594,7 @@ Ethernet models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 4         | 26.67%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 4         | 26.67%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 4         | 26.67%  |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                  | 1         | 6.67%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 6.67%   |

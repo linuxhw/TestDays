@@ -153,10 +153,11 @@ Contents
 Test Cases
 ----------
 
-Total: 314
+Total: 315
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | EP45-DS3L                   | [7c90f3665f](https://linux-hardware.org/?probe=7c90f3665f) | Jan 27, 2024 |
 | Gigabyte      | EP45-DS3L                   | [7cf925bed4](https://linux-hardware.org/?probe=7cf925bed4) | Dec 23, 2023 |
 | Gigabyte      | B360M HD3                   | [9acf6baf05](https://linux-hardware.org/?probe=9acf6baf05) | Dec 22, 2023 |
 | ASUSTek       | H110M-K                     | [55109c1bbc](https://linux-hardware.org/?probe=55109c1bbc) | Dec 22, 2023 |
@@ -485,45 +486,45 @@ Version of the Linux kernel
 
 | Version                      | Desktops | Percent |
 |------------------------------|----------|---------|
-| 3.10.0-1160.102.1.el7.x86_64 | 45       | 17.05%  |
-| 3.10.0-1160.45.1.el7.x86_64  | 13       | 4.92%   |
-| 3.10.0-1160.90.1.el7.x86_64  | 12       | 4.55%   |
-| 3.10.0-1160.31.1.el7.x86_64  | 12       | 4.55%   |
-| 3.10.0-1160.25.1.el7.x86_64  | 9        | 3.41%   |
-| 3.10.0-1160.95.1.el7.x86_64  | 8        | 3.03%   |
-| 3.10.0-1062.el7.x86_64       | 8        | 3.03%   |
-| 3.10.0-1160.83.1.el7.x86_64  | 7        | 2.65%   |
-| 3.10.0-957.10.1.el7.x86_64   | 6        | 2.27%   |
-| 3.10.0-1160.76.1.el7.x86_64  | 6        | 2.27%   |
-| 3.10.0-1160.66.1.el7.x86_64  | 6        | 2.27%   |
-| 3.10.0-1160.15.2.el7.x86_64  | 6        | 2.27%   |
-| 3.10.0-1062.12.1.el7.x86_64  | 6        | 2.27%   |
+| 3.10.0-1160.102.1.el7.x86_64 | 45       | 16.98%  |
+| 3.10.0-1160.45.1.el7.x86_64  | 13       | 4.91%   |
+| 3.10.0-1160.90.1.el7.x86_64  | 12       | 4.53%   |
+| 3.10.0-1160.31.1.el7.x86_64  | 12       | 4.53%   |
+| 3.10.0-1160.25.1.el7.x86_64  | 9        | 3.4%    |
+| 3.10.0-1160.95.1.el7.x86_64  | 8        | 3.02%   |
+| 3.10.0-1062.el7.x86_64       | 8        | 3.02%   |
+| 3.10.0-1160.83.1.el7.x86_64  | 7        | 2.64%   |
+| 3.10.0-957.10.1.el7.x86_64   | 6        | 2.26%   |
+| 3.10.0-1160.76.1.el7.x86_64  | 6        | 2.26%   |
+| 3.10.0-1160.66.1.el7.x86_64  | 6        | 2.26%   |
+| 3.10.0-1160.15.2.el7.x86_64  | 6        | 2.26%   |
+| 3.10.0-1062.12.1.el7.x86_64  | 6        | 2.26%   |
 | 3.10.0-1160.6.1.el7.x86_64   | 5        | 1.89%   |
 | 3.10.0-1160.36.2.el7.x86_64  | 5        | 1.89%   |
 | 3.10.0-1062.9.1.el7.x86_64   | 5        | 1.89%   |
-| 3.10.0-957.27.2.el7.x86_64   | 4        | 1.52%   |
-| 3.10.0-1160.el7.x86_64       | 4        | 1.52%   |
-| 3.10.0-1160.88.1.el7.x86_64  | 4        | 1.52%   |
-| 3.10.0-1160.59.1.el7.x86_64  | 4        | 1.52%   |
-| 3.10.0-1127.el7.x86_64       | 4        | 1.52%   |
-| 3.10.0-957.5.1.el7.x86_64    | 3        | 1.14%   |
-| 3.10.0-957.1.3.el7.x86_64    | 3        | 1.14%   |
-| 3.10.0-1160.49.1.el7.x86_64  | 3        | 1.14%   |
-| 3.10.0-1160.24.1.el7.x86_64  | 3        | 1.14%   |
-| 3.10.0-1160.21.1.el7.x86_64  | 3        | 1.14%   |
-| 3.10.0-1127.19.1.el7.x86_64  | 3        | 1.14%   |
-| 3.10.0-1127.13.1.el7.x86_64  | 3        | 1.14%   |
-| 3.10.0-957.el7.x86_64        | 2        | 0.76%   |
-| 3.10.0-957.12.2.el7.x86_64   | 2        | 0.76%   |
-| 3.10.0-693.21.1.el7.x86_64   | 2        | 0.76%   |
-| 3.10.0-1160.81.1.el7.x86_64  | 2        | 0.76%   |
-| 3.10.0-1160.62.1.el7.x86_64  | 2        | 0.76%   |
-| 3.10.0-1160.53.1.el7.x86_64  | 2        | 0.76%   |
-| 3.10.0-1160.11.1.el7.x86_64  | 2        | 0.76%   |
-| 3.10.0-1160.105.1.el7.x86_64 | 2        | 0.76%   |
-| 3.10.0-1127.10.1.el7.x86_64  | 2        | 0.76%   |
-| 3.10.0-1062.18.1.el7.x86_64  | 2        | 0.76%   |
-| 3.10.0                       | 2        | 0.76%   |
+| 3.10.0-957.27.2.el7.x86_64   | 4        | 1.51%   |
+| 3.10.0-1160.el7.x86_64       | 4        | 1.51%   |
+| 3.10.0-1160.88.1.el7.x86_64  | 4        | 1.51%   |
+| 3.10.0-1160.59.1.el7.x86_64  | 4        | 1.51%   |
+| 3.10.0-1127.el7.x86_64       | 4        | 1.51%   |
+| 3.10.0-957.5.1.el7.x86_64    | 3        | 1.13%   |
+| 3.10.0-957.1.3.el7.x86_64    | 3        | 1.13%   |
+| 3.10.0-1160.49.1.el7.x86_64  | 3        | 1.13%   |
+| 3.10.0-1160.24.1.el7.x86_64  | 3        | 1.13%   |
+| 3.10.0-1160.21.1.el7.x86_64  | 3        | 1.13%   |
+| 3.10.0-1127.19.1.el7.x86_64  | 3        | 1.13%   |
+| 3.10.0-1127.13.1.el7.x86_64  | 3        | 1.13%   |
+| 3.10.0-957.el7.x86_64        | 2        | 0.75%   |
+| 3.10.0-957.12.2.el7.x86_64   | 2        | 0.75%   |
+| 3.10.0-693.21.1.el7.x86_64   | 2        | 0.75%   |
+| 3.10.0-1160.81.1.el7.x86_64  | 2        | 0.75%   |
+| 3.10.0-1160.62.1.el7.x86_64  | 2        | 0.75%   |
+| 3.10.0-1160.53.1.el7.x86_64  | 2        | 0.75%   |
+| 3.10.0-1160.11.1.el7.x86_64  | 2        | 0.75%   |
+| 3.10.0-1160.105.1.el7.x86_64 | 2        | 0.75%   |
+| 3.10.0-1127.10.1.el7.x86_64  | 2        | 0.75%   |
+| 3.10.0-1062.18.1.el7.x86_64  | 2        | 0.75%   |
+| 3.10.0                       | 2        | 0.75%   |
 | 6.2.2-1.el7.elrepo.x86_64    | 1        | 0.38%   |
 
 Kernel Family
@@ -1187,12 +1188,12 @@ Hard drive vendors
 |---------------------------|----------|--------|---------|
 | WDC                       | 124      | 176    | 36.58%  |
 | Seagate                   | 65       | 252    | 19.17%  |
-| Samsung Electronics       | 36       | 136    | 10.62%  |
+| Samsung Electronics       | 36       | 141    | 10.62%  |
 | Toshiba                   | 20       | 28     | 5.9%    |
 | Kingston                  | 16       | 21     | 4.72%   |
 | Hitachi                   | 14       | 44     | 4.13%   |
 | SanDisk                   | 10       | 13     | 2.95%   |
-| Intel                     | 9        | 32     | 2.65%   |
+| Intel                     | 9        | 33     | 2.65%   |
 | Unknown                   | 5        | 14     | 1.47%   |
 | HGST                      | 5        | 71     | 1.47%   |
 | SK hynix                  | 3        | 3      | 0.88%   |
@@ -1288,7 +1289,7 @@ Hard disk drive vendors
 | Seagate             | 65       | 251    | 27.08%  |
 | Toshiba             | 20       | 28     | 8.33%   |
 | Hitachi             | 14       | 44     | 5.83%   |
-| Samsung Electronics | 9        | 101    | 3.75%   |
+| Samsung Electronics | 9        | 106    | 3.75%   |
 | HGST                | 5        | 24     | 2.08%   |
 | Unknown             | 2        | 11     | 0.83%   |
 | Sun                 | 1        | 3      | 0.42%   |
@@ -1308,7 +1309,7 @@ Solid state drive vendors
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 19       | 24     | 24.05%  |
 | Kingston            | 16       | 21     | 20.25%  |
-| Intel               | 9        | 31     | 11.39%  |
+| Intel               | 9        | 32     | 11.39%  |
 | WDC                 | 7        | 10     | 8.86%   |
 | SanDisk             | 4        | 4      | 5.06%   |
 | SK hynix            | 3        | 3      | 3.8%    |
@@ -1339,8 +1340,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 198      | 632    | 67.12%  |
-| SSD     | 70       | 125    | 23.73%  |
+| HDD     | 198      | 637    | 67.12%  |
+| SSD     | 70       | 126    | 23.73%  |
 | NVMe    | 20       | 28     | 6.78%   |
 | MMC     | 4        | 4      | 1.36%   |
 | Unknown | 3        | 48     | 1.02%   |
@@ -1355,7 +1356,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 218      | 586    | 85.49%  |
+| SATA | 218      | 592    | 85.49%  |
 | NVMe | 20       | 28     | 7.84%   |
 | SAS  | 13       | 219    | 5.1%    |
 | MMC  | 4        | 4      | 1.57%   |
@@ -1370,13 +1371,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 134      | 159    | 44.52%  |
-| 0.01-0.5   | 100      | 271    | 33.22%  |
-| 1.01-2.0   | 21       | 61     | 6.98%   |
-| 3.01-4.0   | 15       | 113    | 4.98%   |
-| 2.01-3.0   | 13       | 28     | 4.32%   |
-| 4.01-10.0  | 12       | 86     | 3.99%   |
-| 10.01-20.0 | 6        | 39     | 1.99%   |
+| 0.51-1.0   | 133      | 159    | 44.48%  |
+| 0.01-0.5   | 100      | 278    | 33.44%  |
+| 1.01-2.0   | 20       | 60     | 6.69%   |
+| 3.01-4.0   | 15       | 113    | 5.02%   |
+| 2.01-3.0   | 13       | 28     | 4.35%   |
+| 4.01-10.0  | 12       | 86     | 4.01%   |
+| 10.01-20.0 | 6        | 39     | 2.01%   |
 
 Space Total
 -----------
@@ -1467,7 +1468,7 @@ Drive models with a malfunction
 | Intel SSDSCKKW256G8 256GB                   | 1        | 1      | 2.13%   |
 | Intel SSDSC2KG480G8 480GB                   | 1        | 2      | 2.13%   |
 | Intel SSDSA2M120G2GC 120GB                  | 1        | 1      | 2.13%   |
-| Intel SSDSA2M080G2LE 80GB                   | 1        | 18     | 2.13%   |
+| Intel SSDSA2M080G2LE 80GB                   | 1        | 19     | 2.13%   |
 | Hitachi HTS542512K9A300 120GB               | 1        | 1      | 2.13%   |
 | Hitachi HDS728080PLA380 82GB                | 1        | 1      | 2.13%   |
 | Hitachi HDS725050KLA360 500GB               | 1        | 1      | 2.13%   |
@@ -1485,7 +1486,7 @@ Vendors of faulty drives
 | WDC                 | 13       | 17     | 28.89%  |
 | Seagate             | 12       | 14     | 26.67%  |
 | Samsung Electronics | 4        | 6      | 8.89%   |
-| Intel               | 4        | 22     | 8.89%   |
+| Intel               | 4        | 23     | 8.89%   |
 | Hitachi             | 4        | 4      | 8.89%   |
 | Kingston            | 3        | 3      | 6.67%   |
 | SanDisk             | 1        | 1      | 2.22%   |
@@ -1522,7 +1523,7 @@ Kinds of faulty drives
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | HDD  | 27       | 39     | 69.23%  |
-| SSD  | 12       | 32     | 30.77%  |
+| SSD  | 12       | 33     | 30.77%  |
 
 Failed Drives
 -------------
@@ -1548,9 +1549,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 196      | 504    | 72.59%  |
+| Works    | 196      | 509    | 72.59%  |
 | Detected | 37       | 262    | 13.7%   |
-| Malfunc  | 37       | 71     | 13.7%   |
+| Malfunc  | 37       | 72     | 13.7%   |
 
 Storage controller
 ------------------
@@ -1599,11 +1600,11 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 43       | 12.22%  |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 29       | 8.24%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 24       | 6.82%   |
+| Intel SATA Controller [RAID mode]                                                       | 19       | 5.4%    |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 18       | 5.11%   |
-| Intel SATA Controller [RAID mode]                                                       | 16       | 4.55%   |
 | AMD FCH SATA Controller [AHCI mode]                                                     | 10       | 2.84%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 8        | 2.27%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 8        | 2.27%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 8        | 2.27%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 8        | 2.27%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 7        | 1.99%   |
 | Intel C600/X79 series chipset 6-Port SATA AHCI Controller                               | 7        | 1.99%   |
@@ -1622,7 +1623,6 @@ Storage controller models
 | LSI Logic / Symbios Logic SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                 | 3        | 0.85%   |
 | LSI Logic / Symbios Logic SAS1068E PCI-Express Fusion-MPT SAS                           | 3        | 0.85%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 3        | 0.85%   |
-| Intel C600/X79 series chipset SATA RAID Controller                                      | 3        | 0.85%   |
 | Intel C600/X79 series chipset IDE-r Controller                                          | 3        | 0.85%   |
 | Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 3        | 0.85%   |
 | Intel 631xESB/632xESB IDE Controller                                                    | 3        | 0.85%   |
@@ -1636,6 +1636,7 @@ Storage controller models
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                      | 2        | 0.57%   |
 | Intel 631xESB/632xESB SATA RAID Controller                                              | 2        | 0.57%   |
 | Broadcom / LSI SAS2116 PCI-Express Fusion-MPT SAS-2 [Meteor]                            | 2        | 0.57%   |
+| ASMedia ASM1064 Serial ATA Controller                                                   | 2        | 0.57%   |
 
 Storage Kind
 ------------
@@ -1647,11 +1648,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 188      | 63.95%  |
-| IDE  | 40       | 13.61%  |
-| RAID | 32       | 10.88%  |
-| NVMe | 20       | 6.8%    |
-| SAS  | 10       | 3.4%    |
+| SATA | 188      | 63.73%  |
+| IDE  | 40       | 13.56%  |
+| RAID | 33       | 11.19%  |
+| NVMe | 20       | 6.78%   |
+| SAS  | 10       | 3.39%   |
 | SCSI | 4        | 1.36%   |
 
 Processor
@@ -2093,20 +2094,20 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch  | 2        | 1.33%   |
 | Samsung Electronics S19C150 SAM0AE6 1366x768 410x230mm 18.5-inch     | 2        | 1.33%   |
 | Hewlett-Packard ZR2440w HWP2956 1920x1200 520x320mm 24.0-inch        | 2        | 1.33%   |
-| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                    | 2        | 1.33%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 2        | 1.33%   |
 | Dell P2417H DELA0DA 1920x1080 527x296mm 23.8-inch                    | 2        | 1.33%   |
 | BenQ GW2765 BNQ78D6 2560x1440 597x336mm 27.0-inch                    | 2        | 1.33%   |
 | ___ LCDTV16 ___9000 1360x768                                         | 1        | 0.67%   |
 | ___ LCD TV ___0101 1920x1080                                         | 1        | 0.67%   |
 | ViewSonic VA702b VSC231C 1280x1024 338x270mm 17.0-inch               | 1        | 0.67%   |
-| ViewSonic VA2226w-11 VSC2051 1680x1050 495x291mm 22.6-inch           | 1        | 0.67%   |
+| ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch            | 1        | 0.67%   |
 | Unknown LCDTV16 9000 1360x768 1600x900mm 72.3-inch                   | 1        | 0.67%   |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                  | 1        | 0.67%   |
 | Toshiba LCD Monitor 1 1 5" LCD000D 1024x768 304x228mm 15.0-inch      | 1        | 0.67%   |
-| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch               | 1        | 0.67%   |
-| Samsung Electronics U32R59x SAM0F96 3840x2160 700x390mm 31.5-inch    | 1        | 0.67%   |
+| Sceptre Tech U27 SPT0ABF 3840x2160 600x340mm 27.2-inch               | 1        | 0.67%   |
+| Samsung Electronics U32R59x SAM0F96 3840x2160 697x392mm 31.5-inch    | 1        | 0.67%   |
 | Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch    | 1        | 0.67%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch    | 1        | 0.67%   |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 607x345mm 27.5-inch    | 1        | 0.67%   |
 | Samsung Electronics SyncMaster SAM05C7 1920x1080 521x293mm 23.5-inch | 1        | 0.67%   |
 | Samsung Electronics SyncMaster SAM04DD 1920x1080 477x268mm 21.5-inch | 1        | 0.67%   |
 | Samsung Electronics SyncMaster SAM037C 1680x1050 474x296mm 22.0-inch | 1        | 0.67%   |
@@ -2326,48 +2327,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                               | Desktops | Percent |
-|---------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller   | 120      | 36.7%   |
-| Intel Ethernet Connection (2) I219-LM                               | 15       | 4.59%   |
-| Intel Ethernet Connection I217-LM                                   | 14       | 4.28%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)               | 12       | 3.67%   |
-| Intel Ethernet Connection (2) I219-V                                | 7        | 2.14%   |
-| Intel I211 Gigabit Network Connection                               | 6        | 1.83%   |
-| Intel 82574L Gigabit Network Connection                             | 6        | 1.83%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller               | 5        | 1.53%   |
-| Intel I350 Gigabit Network Connection                               | 5        | 1.53%   |
-| Intel Ethernet Connection (11) I219-LM                              | 5        | 1.53%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                    | 5        | 1.53%   |
-| Intel I210 Gigabit Network Connection                               | 4        | 1.22%   |
-| Intel Ethernet Connection (7) I219-LM                               | 4        | 1.22%   |
-| Intel Ethernet Connection (2) I218-V                                | 4        | 1.22%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                   | 4        | 1.22%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter            | 3        | 0.92%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                     | 3        | 0.92%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter               | 3        | 0.92%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                            | 3        | 0.92%   |
-| Intel Ethernet Controller X550                                      | 3        | 0.92%   |
-| Intel Ethernet Controller I225-V                                    | 3        | 0.92%   |
-| Intel 82580 Gigabit Network Connection                              | 3        | 0.92%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                            | 2        | 0.61%   |
-| Ralink MT7601U Wireless Adapter                                     | 2        | 0.61%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                    | 2        | 0.61%   |
-| Intel 82579V Gigabit Network Connection                             | 2        | 0.61%   |
-| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express             | 2        | 0.61%   |
-| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter        | 2        | 0.61%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]   | 2        | 0.61%   |
-| Xilinx Network controller                                           | 1        | 0.31%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                      | 1        | 0.31%   |
-| VIA VT6105/VT6106S [Rhine-III]                                      | 1        | 0.31%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                        | 1        | 0.31%   |
-| TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U] | 1        | 0.31%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]          | 1        | 0.31%   |
-| TP-Link 802.11ac WLAN Adapter                                       | 1        | 0.31%   |
-| TP-Link 802.11ac NIC                                                | 1        | 0.31%   |
-| Sierra Wireless AirPrime MC7455 3G/4G LTE Modem                     | 1        | 0.31%   |
-| Samsung Galaxy series, misc. (tethering mode)                       | 1        | 0.31%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                     | 1        | 0.31%   |
+| Model                                                                          | Desktops | Percent |
+|--------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 120      | 36.7%   |
+| Intel Ethernet Connection (2) I219-LM                                          | 15       | 4.59%   |
+| Intel Ethernet Connection I217-LM                                              | 14       | 4.28%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 12       | 3.67%   |
+| Intel Ethernet Connection (2) I219-V                                           | 7        | 2.14%   |
+| Intel I211 Gigabit Network Connection                                          | 6        | 1.83%   |
+| Intel 82574L Gigabit Network Connection                                        | 6        | 1.83%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 5        | 1.53%   |
+| Intel I350 Gigabit Network Connection                                          | 5        | 1.53%   |
+| Intel Ethernet Connection (11) I219-LM                                         | 5        | 1.53%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                               | 5        | 1.53%   |
+| Intel I210 Gigabit Network Connection                                          | 4        | 1.22%   |
+| Intel Ethernet Connection (7) I219-LM                                          | 4        | 1.22%   |
+| Intel Ethernet Connection (2) I218-V                                           | 4        | 1.22%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                              | 4        | 1.22%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                       | 3        | 0.92%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                                | 3        | 0.92%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 3        | 0.92%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                                       | 3        | 0.92%   |
+| Intel Ethernet Controller X550                                                 | 3        | 0.92%   |
+| Intel Ethernet Controller I225-V                                               | 3        | 0.92%   |
+| Intel 82580 Gigabit Network Connection                                         | 3        | 0.92%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                                       | 2        | 0.61%   |
+| Ralink MT7601U Wireless Adapter                                                | 2        | 0.61%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                               | 2        | 0.61%   |
+| Intel 82579V Gigabit Network Connection                                        | 2        | 0.61%   |
+| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                        | 2        | 0.61%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                   | 2        | 0.61%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 2        | 0.61%   |
+| Xilinx Network controller                                                      | 1        | 0.31%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                                 | 1        | 0.31%   |
+| VIA VT6105/VT6106S [Rhine-III]                                                 | 1        | 0.31%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                   | 1        | 0.31%   |
+| TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]            | 1        | 0.31%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                     | 1        | 0.31%   |
+| TP-Link 802.11ac WLAN Adapter                                                  | 1        | 0.31%   |
+| TP-Link 802.11ac NIC                                                           | 1        | 0.31%   |
+| Sierra Wireless AirPrime MC7455 3G/4G LTE Modem                                | 1        | 0.31%   |
+| Samsung Galaxy series, misc. (tethering mode)                                  | 1        | 0.31%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                                | 1        | 0.31%   |
 
 Wireless Vendor
 ---------------
@@ -2400,41 +2401,41 @@ Wireless models
 ![Wireless Model](./images/pie_chart/net_wireless_model.svg)
 
 
-| Model                                                                | Desktops | Percent |
-|----------------------------------------------------------------------|----------|---------|
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 3        | 7.89%   |
-| Ralink MT7601U Wireless Adapter                                      | 2        | 5.26%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                     | 2        | 5.26%   |
-| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 2        | 5.26%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                         | 1        | 2.63%   |
-| TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]  | 1        | 2.63%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]           | 1        | 2.63%   |
-| TP-Link 802.11ac WLAN Adapter                                        | 1        | 2.63%   |
-| TP-Link 802.11ac NIC                                                 | 1        | 2.63%   |
-| Sierra Wireless AirPrime MC7455 3G/4G LTE Modem                      | 1        | 2.63%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                      | 1        | 2.63%   |
-| Realtek RTL8192CE PCIe Wireless Network Adapter                      | 1        | 2.63%   |
-| Realtek RTL8188SU 802.11n WLAN Adapter                               | 1        | 2.63%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                  | 1        | 2.63%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                              | 1        | 2.63%   |
-| Ralink RT5572 Wireless Adapter                                       | 1        | 2.63%   |
-| Ralink RT5370 Wireless Adapter                                       | 1        | 2.63%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                | 1        | 2.63%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter           | 1        | 2.63%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 1        | 2.63%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                     | 1        | 2.63%   |
-| NetGear A6150                                                        | 1        | 2.63%   |
-| MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                   | 1        | 2.63%   |
-| Linksys AE6000 802.11a/b/g/n/ac Wireless Adapter [MediaTek MT7610U]  | 1        | 2.63%   |
-| Intel Wireless 7260                                                  | 1        | 2.63%   |
-| Intel Wireless 3165                                                  | 1        | 2.63%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                               | 1        | 2.63%   |
-| Intel Wi-Fi 6 AX200                                                  | 1        | 2.63%   |
-| Intel Tiger Lake PCH CNVi WiFi                                       | 1        | 2.63%   |
-| D-Link System DWA-110 Wireless G Adapter(rev.A1) [Ralink RT2571W]    | 1        | 2.63%   |
-| D-Link DWA-160 Xtreme N Dual Band USB Adapter(rev.C1)                | 1        | 2.63%   |
-| D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU] | 1        | 2.63%   |
-| D-Link 802.11 n WLAN                                                 | 1        | 2.63%   |
+| Model                                                               | Desktops | Percent |
+|---------------------------------------------------------------------|----------|---------|
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter            | 3        | 7.89%   |
+| Ralink MT7601U Wireless Adapter                                     | 2        | 5.26%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                    | 2        | 5.26%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter        | 2        | 5.26%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                        | 1        | 2.63%   |
+| TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U] | 1        | 2.63%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]          | 1        | 2.63%   |
+| TP-Link 802.11ac WLAN Adapter                                       | 1        | 2.63%   |
+| TP-Link 802.11ac NIC                                                | 1        | 2.63%   |
+| Sierra Wireless AirPrime MC7455 3G/4G LTE Modem                     | 1        | 2.63%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                     | 1        | 2.63%   |
+| Realtek RTL8192CE PCIe Wireless Network Adapter                     | 1        | 2.63%   |
+| Realtek RTL8188SU 802.11n WLAN Adapter                              | 1        | 2.63%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                 | 1        | 2.63%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                             | 1        | 2.63%   |
+| Ralink RT5572 Wireless Adapter                                      | 1        | 2.63%   |
+| Ralink RT5370 Wireless Adapter                                      | 1        | 2.63%   |
+| Ralink RT2870/RT3070 Wireless Adapter                               | 1        | 2.63%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter          | 1        | 2.63%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter          | 1        | 2.63%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                    | 1        | 2.63%   |
+| NetGear A6150                                                       | 1        | 2.63%   |
+| MediaTek MT7612U 802.11a/b/g/n/ac Wireless Adapter                  | 1        | 2.63%   |
+| Linksys AE6000 802.11a/b/g/n/ac Wireless Adapter [MediaTek MT7610U] | 1        | 2.63%   |
+| Intel Wireless 7260                                                 | 1        | 2.63%   |
+| Intel Wireless 3165                                                 | 1        | 2.63%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]           | 1        | 2.63%   |
+| Intel Wi-Fi 6 AX200                                                 | 1        | 2.63%   |
+| Intel Tiger Lake PCH CNVi WiFi                                      | 1        | 2.63%   |
+| D-Link Wireless N Nano USB Adapter                                  | 1        | 2.63%   |
+| D-Link System DWA-110 Wireless G Adapter(rev.A1) [Ralink RT2571W]   | 1        | 2.63%   |
+| D-Link DWA-160 Xtreme N Dual Band USB Adapter(rev.C1)               | 1        | 2.63%   |
+| D-Link 802.11 n WLAN                                                | 1        | 2.63%   |
 
 Ethernet Vendor
 ---------------
@@ -2475,7 +2476,7 @@ Ethernet models
 
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 120      | 42.4%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 120      | 42.4%   |
 | Intel Ethernet Connection (2) I219-LM                                          | 15       | 5.3%    |
 | Intel Ethernet Connection I217-LM                                              | 14       | 4.95%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 12       | 4.24%   |
@@ -2499,7 +2500,7 @@ Ethernet models
 | Realtek RTL8153 Gigabit Ethernet Adapter                                       | 2        | 0.71%   |
 | Intel 82579V Gigabit Network Connection                                        | 2        | 0.71%   |
 | Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                        | 2        | 0.71%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]              | 2        | 0.71%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 2        | 0.71%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                                 | 1        | 0.35%   |
 | VIA VT6105/VT6106S [Rhine-III]                                                 | 1        | 0.35%   |
 | Samsung Galaxy series, misc. (tethering mode)                                  | 1        | 0.35%   |
@@ -2614,8 +2615,8 @@ Controller models
 | Broadcom BCM20702A0 Bluetooth 4.0                        | 2        | 8%      |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE    | 2        | 8%      |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                    | 1        | 4%      |
-| Intel Bluetooth Device                                   | 1        | 4%      |
 | Intel AX210 Bluetooth                                    | 1        | 4%      |
+| Intel AX201 Bluetooth                                    | 1        | 4%      |
 | Intel AX200 Bluetooth                                    | 1        | 4%      |
 | Dynex Bluetooth 4.0 Adapter [Broadcom, 1.12, BCM20702A0] | 1        | 4%      |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter         | 1        | 4%      |
@@ -2741,7 +2742,7 @@ Memory module models
 |------------------------------------------------------------|----------|---------|
 | Kingston RAM CL16-16-16 D4-2400 8192MB DIMM DDR4 2400MT/s  | 9        | 3.5%    |
 | GeIL RAM CL11-11-11 D3-1600 4GB DIMM 1600MT/s              | 9        | 3.5%    |
-| G.Skill RAM F4-2666C19-8GIS 8GB DIMM DDR4 3000MT/s         | 9        | 3.5%    |
+| G.Skill RAM F4-2666C19-8GIS 8GB DIMM DDR4 3200MT/s         | 9        | 3.5%    |
 | Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s        | 6        | 2.33%   |
 | Kingston RAM 9905678-173.A00G 8192MB DIMM DDR4 2400MT/s    | 5        | 1.95%   |
 | Crucial RAM CT8G4DFD8213.C16FBD2 8192MB DIMM DDR4 2500MT/s | 5        | 1.95%   |
@@ -2763,8 +2764,8 @@ Memory module models
 | Micron RAM 8ATF1G64AZ-2G3E1 8GB DIMM DDR4 2400MT/s         | 2        | 0.78%   |
 | Micron RAM 18ASF2G72AZ-2G6D1 16GB DIMM DDR4 2667MT/s       | 2        | 0.78%   |
 | Kingston RAM KHX1600C9D3/8GX 8192MB DIMM DDR3 2133MT/s     | 2        | 0.78%   |
-| Kingston RAM KHX1600C9D3/4GX 4096MB DIMM DDR3 1600MT/s     | 2        | 0.78%   |
-| Crucial RAM CT8G4DFS8266.C8FN 8192MB DIMM DDR4 2667MT/s    | 2        | 0.78%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s        | 2        | 0.78%   |
+| Crucial RAM CT8G4DFS8266.C8FN 8GB DIMM DDR4 2667MT/s       | 2        | 0.78%   |
 | Crucial RAM CT8G4DFD824A.C16FBD1 8GB DIMM DDR4 2400MT/s    | 2        | 0.78%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1333MT/s               | 1        | 0.39%   |
 | Unknown RAM Module 8192MB DIMM 667MT/s                     | 1        | 0.39%   |
@@ -2844,11 +2845,10 @@ Memory module speed
 | 1600    | 57       | 24.57%  |
 | 2400    | 42       | 18.1%   |
 | 1333    | 25       | 10.78%  |
+| 3200    | 20       | 8.62%   |
 | 2667    | 19       | 8.19%   |
 | 2133    | 13       | 5.6%    |
-| 3200    | 11       | 4.74%   |
 | 800     | 11       | 4.74%   |
-| 3000    | 10       | 4.31%   |
 | 667     | 6        | 2.59%   |
 | 2500    | 5        | 2.16%   |
 | 2800    | 4        | 1.72%   |
@@ -2863,6 +2863,7 @@ Memory module speed
 | 4333    | 1        | 0.43%   |
 | 3500    | 1        | 0.43%   |
 | 3466    | 1        | 0.43%   |
+| 3000    | 1        | 0.43%   |
 | 2933    | 1        | 0.43%   |
 | 2465    | 1        | 0.43%   |
 | 1867    | 1        | 0.43%   |
@@ -2900,7 +2901,7 @@ Printer device models
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
 | Star Micronics TSP100ECO/TSP100II | 1        | 16.67%  |
-| HP LaserJet 400 M401a             | 1        | 16.67%  |
+| HP LaserJet 400 M401dn            | 1        | 16.67%  |
 | HP LaserJet 3030                  | 1        | 16.67%  |
 | HP LaserJet 1020                  | 1        | 16.67%  |
 | Canon MF210 Series                | 1        | 16.67%  |
@@ -2949,16 +2950,16 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                    | Desktops | Percent |
-|------------------------------------------|----------|---------|
-| Z-Star Venus USB2.0 Camera               | 1        | 12.5%   |
-| WaveRider USB 2.0 Camera                 | 1        | 12.5%   |
-| Samsung Galaxy series, misc. (MTP mode)  | 1        | 12.5%   |
-| Realtek USB Camera                       | 1        | 12.5%   |
-| Microsoft LifeCam HD-5000                | 1        | 12.5%   |
-| Logitech Webcam C310                     | 1        | 12.5%   |
-| Logitech HD Pro Webcam C920              | 1        | 12.5%   |
-| Generalplus 808 Camera #9 (web-cam mode) | 1        | 12.5%   |
+| Model                                   | Desktops | Percent |
+|-----------------------------------------|----------|---------|
+| Z-Star Venus USB2.0 Camera              | 1        | 12.5%   |
+| WaveRider USB 2.0 Camera                | 1        | 12.5%   |
+| Samsung Galaxy series, misc. (MTP mode) | 1        | 12.5%   |
+| Realtek USB Camera                      | 1        | 12.5%   |
+| Microsoft LifeCam HD-5000               | 1        | 12.5%   |
+| Logitech Webcam C310                    | 1        | 12.5%   |
+| Logitech HD Pro Webcam C920             | 1        | 12.5%   |
+| Generalplus 808 Camera                  | 1        | 12.5%   |
 
 Security
 --------
@@ -3014,8 +3015,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 175      | 72.31%  |
-| 1     | 44       | 18.18%  |
+| 0     | 177      | 73.14%  |
+| 1     | 42       | 17.36%  |
 | 2     | 13       | 5.37%   |
 | 4     | 7        | 2.89%   |
 | 3     | 3        | 1.24%   |
@@ -3030,14 +3031,14 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 38       | 38.38%  |
-| Communication controller | 26       | 26.26%  |
-| Net/wireless             | 14       | 14.14%  |
-| Unassigned class         | 9        | 9.09%   |
-| Net/ethernet             | 7        | 7.07%   |
-| Storage/raid             | 1        | 1.01%   |
-| Sound                    | 1        | 1.01%   |
-| Network                  | 1        | 1.01%   |
-| Multimedia controller    | 1        | 1.01%   |
-| Modem                    | 1        | 1.01%   |
+| Graphics card            | 36       | 37.11%  |
+| Communication controller | 26       | 26.8%   |
+| Net/wireless             | 14       | 14.43%  |
+| Unassigned class         | 9        | 9.28%   |
+| Net/ethernet             | 7        | 7.22%   |
+| Storage/raid             | 1        | 1.03%   |
+| Sound                    | 1        | 1.03%   |
+| Network                  | 1        | 1.03%   |
+| Multimedia controller    | 1        | 1.03%   |
+| Modem                    | 1        | 1.03%   |
 

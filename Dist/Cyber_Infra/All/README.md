@@ -743,7 +743,7 @@ Hard drive models
 | Micron 5300_MTFDDAK1T9TDT 2TB SSD                            | 5         | 3.42%   |
 | Samsung MZ7L31T9HBLT-00A07 2TB SSD                           | 4         | 2.74%   |
 | Micron 7300_MTFDHBE3T8TDF 4TB                                | 4         | 2.74%   |
-| Intel PCIe Data Center SSD 1TB                               | 4         | 2.74%   |
+| Intel PCIe Data Center SSD 2TB                               | 4         | 2.74%   |
 | Toshiba MG04ACA400E 4TB                                      | 3         | 2.05%   |
 | Samsung MZQL23T8 4TB                                         | 3         | 2.05%   |
 | Samsung MZ7L3240HCHQ-00A07 240GB SSD                         | 3         | 2.05%   |
@@ -759,7 +759,7 @@ Hard drive models
 | WDC WD4002FYYZ-01B7CB1 4TB                                   | 1         | 0.68%   |
 | WDC WD1003FBYZ-010FB0 1TB                                    | 1         | 0.68%   |
 | VSTORAGE VSTOR-DISK 5.4TB                                    | 1         | 0.68%   |
-| Toshiba XG6 NVMe SSD Controller 512GB                        | 1         | 0.68%   |
+| Toshiba XG6 NVMe SSD Controller 256GB                        | 1         | 0.68%   |
 | Toshiba MG03SCA100 1TB                                       | 1         | 0.68%   |
 | Toshiba KPM5XVUG480G 480GB                                   | 1         | 0.68%   |
 | Toshiba AL15SEB24EQY 2TB                                     | 1         | 0.68%   |
@@ -1014,10 +1014,10 @@ Storage controller models
 | Intel C620 Series Chipset Family SSATA Controller [AHCI mode]                 | 31        | 20.53%  |
 | Intel C620 Series Chipset Family SATA Controller [AHCI mode]                  | 24        | 15.89%  |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 14        | 9.27%   |
-| ASMedia ASM1062 Serial ATA Controller                                         | 10        | 6.62%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                 | 10        | 6.62%   |
 | AMD FCH SATA Controller [AHCI mode]                                           | 10        | 6.62%   |
+| Intel SATA Controller [RAID Mode]                                             | 9         | 5.96%   |
 | Intel NVMe Datacenter SSD [3DNAND, Beta Rock Controller]                      | 9         | 5.96%   |
-| Intel C600/X79 series chipset SATA RAID Controller                            | 9         | 5.96%   |
 | Micron 7300 PRO NVMe SSD                                                      | 4         | 2.65%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 4         | 2.65%   |
 | Intel PCIe Data Center SSD                                                    | 4         | 2.65%   |

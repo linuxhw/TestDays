@@ -945,48 +945,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                               | Notebooks | Percent |
-|-----------------------------------------------------|-----------|---------|
-| Unknown MMC Card  32GB                              | 2         | 3.45%   |
-| Seagate ST500LM030-2E717D 500GB                     | 2         | 3.45%   |
-| Phison PS5013 E13 NVMe Controller 512GB             | 2         | 3.45%   |
-| Unknown                                             | 2         | 3.45%   |
-| Yangtze Memory YMTC PC005 256GB                     | 1         | 1.72%   |
-| WDC WDS500G2B0C-00PXH0 500GB                        | 1         | 1.72%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 1.72%   |
-| WDC WD10SPZX-75Z10T3 1TB                            | 1         | 1.72%   |
-| WDC WD10SPZX-24Z10T0 1TB                            | 1         | 1.72%   |
-| WDC WD10JPVX-22JC3T0 1TB                            | 1         | 1.72%   |
-| Unknown SD/MMC/MS PRO 512GB                         | 1         | 1.72%   |
-| Unknown SC128  128GB                                | 1         | 1.72%   |
-| Unknown MMC Card  64GB                              | 1         | 1.72%   |
-| Unknown MMC Card  16GB                              | 1         | 1.72%   |
-| Unknown MMC Card  128GB                             | 1         | 1.72%   |
-| Unknown Essentiel B 1TB                             | 1         | 1.72%   |
-| Toshiba MQ01ABF050 500GB                            | 1         | 1.72%   |
-| Toshiba MQ01ABD100 1TB                              | 1         | 1.72%   |
-| Solid State Storage SSSTC CL1-4D256 256GB           | 1         | 1.72%   |
-| SK hynix NVMe SSD Drive 128GB                       | 1         | 1.72%   |
-| SK hynix HFS128G39TND-N210A 128GB SSD               | 1         | 1.72%   |
-| Seagate ST1000LM048-2E7172 1TB                      | 1         | 1.72%   |
-| Seagate Expansion 2TB                               | 1         | 1.72%   |
-| Sandisk WD_BLACK SN770 1TB                          | 1         | 1.72%   |
-| Sandisk WD PC SN735 SDBPNHH-512G-1002 512GB         | 1         | 1.72%   |
-| Sandisk WD Blue SN570 1TB                           | 1         | 1.72%   |
-| Sandisk WD Blue SN550 NVMe SSD 1TB                  | 1         | 1.72%   |
-| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 128GB     | 1         | 1.72%   |
-| Samsung SSD PM871 mSATA 256GB                       | 1         | 1.72%   |
-| Samsung SSD 860 EVO 1TB                             | 1         | 1.72%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983 512GB | 1         | 1.72%   |
-| Samsung MZVLQ512HBLU-00B00 512GB                    | 1         | 1.72%   |
-| Phison Sabrent Rocket 4.0 Plus 1TB                  | 1         | 1.72%   |
-| Phison E16 PCIe4 NVMe Controller 2TB                | 1         | 1.72%   |
-| Netac S535N8/256 256GB SSD                          | 1         | 1.72%   |
-| Mushkin MKNSSDPE500GB-D8                            | 1         | 1.72%   |
-| Mushkin MKNSSDPE1TB-D8                              | 1         | 1.72%   |
-| Micron/Crucial NVMe SSD Drive 2TB                   | 1         | 1.72%   |
-| KIOXIA KBG40ZNV512G 512GB                           | 1         | 1.72%   |
-| KIOXIA KBG40ZNV256G 256GB                           | 1         | 1.72%   |
+| Model                                             | Notebooks | Percent |
+|---------------------------------------------------|-----------|---------|
+| Unknown MMC Card  32GB                            | 2         | 3.45%   |
+| Seagate ST500LM030-2E717D 500GB                   | 2         | 3.45%   |
+| Phison PS5013 E13 NVMe Controller 256GB           | 2         | 3.45%   |
+| Unknown                                           | 2         | 3.45%   |
+| Yangtze Memory YMTC PC005 256GB                   | 1         | 1.72%   |
+| WDC WDS500G2B0C-00PXH0 500GB                      | 1         | 1.72%   |
+| WDC WDS500G2B0A-00SM50 500GB SSD                  | 1         | 1.72%   |
+| WDC WD10SPZX-75Z10T3 1TB                          | 1         | 1.72%   |
+| WDC WD10SPZX-24Z10T0 1TB                          | 1         | 1.72%   |
+| WDC WD10JPVX-22JC3T0 1TB                          | 1         | 1.72%   |
+| Unknown SD/MMC/MS PRO 256GB                       | 1         | 1.72%   |
+| Unknown SC128  128GB                              | 1         | 1.72%   |
+| Unknown MMC Card  64GB                            | 1         | 1.72%   |
+| Unknown MMC Card  16GB                            | 1         | 1.72%   |
+| Unknown MMC Card  128GB                           | 1         | 1.72%   |
+| Unknown Essentiel B 1TB                           | 1         | 1.72%   |
+| Toshiba MQ01ABF050 500GB                          | 1         | 1.72%   |
+| Toshiba MQ01ABD100 1TB                            | 1         | 1.72%   |
+| Solid State Storage SSSTC CL1-4D256 256GB         | 1         | 1.72%   |
+| SK hynix NVMe SSD Drive 128GB                     | 1         | 1.72%   |
+| SK hynix HFS128G39TND-N210A 128GB SSD             | 1         | 1.72%   |
+| Seagate ST1000LM048-2E7172 1TB                    | 1         | 1.72%   |
+| Seagate Expansion 1TB                             | 1         | 1.72%   |
+| Sandisk WD_BLACK SN770 1TB                        | 1         | 1.72%   |
+| Sandisk WD PC SN735 SDBPNHH-512G-1002 512GB       | 1         | 1.72%   |
+| Sandisk WD Blue SN570 1TB                         | 1         | 1.72%   |
+| Sandisk WD Blue SN550 NVMe SSD 512GB              | 1         | 1.72%   |
+| Sandisk WD Blue SN500 / PC SN520 NVMe SSD 512GB   | 1         | 1.72%   |
+| Samsung SSD PM871 mSATA 256GB                     | 1         | 1.72%   |
+| Samsung SSD 860 EVO 1TB                           | 1         | 1.72%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983 1TB | 1         | 1.72%   |
+| Samsung MZVLQ512HBLU-00B00 512GB                  | 1         | 1.72%   |
+| Phison Sabrent Rocket 4.0 Plus 2TB                | 1         | 1.72%   |
+| Phison E16 PCIe4 NVMe Controller 2TB              | 1         | 1.72%   |
+| Netac S535N8/256 256GB SSD                        | 1         | 1.72%   |
+| Mushkin MKNSSDPE500GB-D8                          | 1         | 1.72%   |
+| Mushkin MKNSSDPE1TB-D8                            | 1         | 1.72%   |
+| Micron/Crucial NVMe SSD Drive 2TB                 | 1         | 1.72%   |
+| KIOXIA KBG40ZNV512G 512GB                         | 1         | 1.72%   |
+| KIOXIA KBG40ZNV256G 256GB                         | 1         | 1.72%   |
 
 HDD Vendor
 ----------
@@ -1068,9 +1068,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 16        | 17     | 59.26%  |
-| 0.51-1.0   | 10        | 11     | 37.04%  |
-| 1.01-2.0   | 1         | 1      | 3.7%    |
+| 0.01-0.5   | 17        | 19     | 65.38%  |
+| 0.51-1.0   | 9         | 10     | 34.62%  |
 
 Space Total
 -----------
@@ -1254,8 +1253,8 @@ Storage controller models
 | Phison E18 PCIe4 NVMe Controller                                                 | 1         | 1.82%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 1         | 1.82%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                | 1         | 1.82%   |
-| Kingston Company NV2 NVMe SSD SM2267XT                                           | 1         | 1.82%   |
-| Kingston Company NV1 NVMe SSD SM2263XT                                           | 1         | 1.82%   |
+| Kingston Company NV2 NVMe SSD SM2267XT (DRAM-less)                               | 1         | 1.82%   |
+| Kingston Company NV1 NVMe SSD SM2263XT (DRAM-less)                               | 1         | 1.82%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 1         | 1.82%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 1         | 1.82%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 1         | 1.82%   |
@@ -1661,7 +1660,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO38ED 1920x1080 344x193mm 15.5-inch       | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO21ED 1920x1080 344x193mm 15.5-inch       | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO213E 1600x900 309x174mm 14.0-inch        | 1         | 2.27%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch        | 1         | 2.27%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch        | 1         | 2.27%   |
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1         | 2.27%   |
 | Apple LCD Monitor APP9C5F 1280x800 286x179mm 13.3-inch               | 1         | 2.27%   |
 
@@ -1818,47 +1817,47 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11        | 15.49%  |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 4         | 5.63%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 4         | 5.63%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 3         | 4.23%   |
-| Intel Tiger Lake PCH CNVi WiFi                                    | 3         | 4.23%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 2         | 2.82%   |
-| Realtek 802.11ac NIC                                              | 2         | 2.82%   |
-| Ralink MT7601U Wireless Adapter                                   | 2         | 2.82%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 2         | 2.82%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 2         | 2.82%   |
-| Intel Wireless 7265                                               | 2         | 2.82%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 2         | 2.82%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                 | 2         | 2.82%   |
-| Intel Comet Lake PCH CNVi WiFi                                    | 2         | 2.82%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 2         | 2.82%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 2.82%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 2         | 2.82%   |
-| TP-Link 802.11ac WLAN Adapter                                     | 1         | 1.41%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1         | 1.41%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1         | 1.41%   |
-| Ralink RT5572 Wireless Adapter                                    | 1         | 1.41%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.41%   |
-| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter     | 1         | 1.41%   |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                           | 1         | 1.41%   |
-| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter     | 1         | 1.41%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 1.41%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 1         | 1.41%   |
-| Intel Wi-Fi 6 AX201                                               | 1         | 1.41%   |
-| Intel Ice Lake-LP PCH CNVi WiFi                                   | 1         | 1.41%   |
-| Intel Gemini Lake PCH CNVi WiFi                                   | 1         | 1.41%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 1.41%   |
-| Intel Ethernet Connection (3) I218-LM                             | 1         | 1.41%   |
-| Intel Centrino Ultimate-N 6300                                    | 1         | 1.41%   |
-| DisplayLink USB Display                                           | 1         | 1.41%   |
-| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe          | 1         | 1.41%   |
-| Broadcom BCM43225 802.11b/g/n                                     | 1         | 1.41%   |
-| Broadcom BCM43224 802.11a/b/g/n                                   | 1         | 1.41%   |
-| Broadcom BCM4321 802.11a/b/g/n                                    | 1         | 1.41%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.41%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 11        | 15.49%  |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 4         | 5.63%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 4         | 5.63%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 3         | 4.23%   |
+| Intel Tiger Lake PCH CNVi WiFi                                         | 3         | 4.23%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter               | 2         | 2.82%   |
+| Realtek 802.11ac NIC                                                   | 2         | 2.82%   |
+| Ralink MT7601U Wireless Adapter                                        | 2         | 2.82%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 2         | 2.82%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 2         | 2.82%   |
+| Intel Wireless 7265                                                    | 2         | 2.82%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                       | 2         | 2.82%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                      | 2         | 2.82%   |
+| Intel Comet Lake PCH CNVi WiFi                                         | 2         | 2.82%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                           | 2         | 2.82%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 2.82%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                        | 2         | 2.82%   |
+| TP-Link 802.11ac WLAN Adapter                                          | 1         | 1.41%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                        | 1         | 1.41%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 1         | 1.41%   |
+| Ralink RT5572 Wireless Adapter                                         | 1         | 1.41%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 1         | 1.41%   |
+| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter          | 1         | 1.41%   |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                | 1         | 1.41%   |
+| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter          | 1         | 1.41%   |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                | 1         | 1.41%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]              | 1         | 1.41%   |
+| Intel Wi-Fi 6 AX201                                                    | 1         | 1.41%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                        | 1         | 1.41%   |
+| Intel Gemini Lake PCH CNVi WiFi                                        | 1         | 1.41%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 1.41%   |
+| Intel Ethernet Connection (3) I218-LM                                  | 1         | 1.41%   |
+| Intel Centrino Ultimate-N 6300                                         | 1         | 1.41%   |
+| DisplayLink USB3 to HDMI                                               | 1         | 1.41%   |
+| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe               | 1         | 1.41%   |
+| Broadcom BCM43225 802.11b/g/n                                          | 1         | 1.41%   |
+| Broadcom BCM43224 802.11a/b/g/n                                        | 1         | 1.41%   |
+| Broadcom BCM4321 802.11a/b/g/n                                         | 1         | 1.41%   |
+| ASIX AX88179 Gigabit Ethernet                                          | 1         | 1.41%   |
 
 Wireless Vendor
 ---------------
@@ -1908,7 +1907,7 @@ Wireless models
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter | 1         | 2.33%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                       | 1         | 2.33%   |
 | MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter | 1         | 2.33%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                        | 1         | 2.33%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]     | 1         | 2.33%   |
 | Intel Wi-Fi 6 AX201                                           | 1         | 2.33%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                               | 1         | 2.33%   |
 | Intel Gemini Lake PCH CNVi WiFi                               | 1         | 2.33%   |
@@ -1943,19 +1942,19 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11        | 39.29%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 4         | 14.29%  |
-| Realtek RTL8125 2.5GbE Controller                                 | 3         | 10.71%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 7.14%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 2         | 7.14%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 3.57%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 3.57%   |
-| Intel Ethernet Connection (3) I218-LM                             | 1         | 3.57%   |
-| DisplayLink USB Display                                           | 1         | 3.57%   |
-| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe          | 1         | 3.57%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1         | 3.57%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 11        | 39.29%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 4         | 14.29%  |
+| Realtek RTL8125 2.5GbE Controller                                      | 3         | 10.71%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 7.14%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                        | 2         | 7.14%   |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                | 1         | 3.57%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 3.57%   |
+| Intel Ethernet Connection (3) I218-LM                                  | 1         | 3.57%   |
+| DisplayLink USB3 to HDMI                                               | 1         | 3.57%   |
+| Broadcom Limited NetXtreme BCM5761 Gigabit Ethernet PCIe               | 1         | 3.57%   |
+| ASIX AX88179 Gigabit Ethernet                                          | 1         | 3.57%   |
 
 Net Controller Kind
 -------------------
@@ -2045,7 +2044,7 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                              | 8         | 24.24%  |
+| Intel AX201 Bluetooth                               | 8         | 24.24%  |
 | Realtek Bluetooth Radio                             | 4         | 12.12%  |
 | Qualcomm Atheros  Bluetooth Device                  | 2         | 6.06%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 6.06%   |
@@ -2153,48 +2152,48 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                            | Notebooks | Percent |
-|------------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 2         | 4.55%   |
-| Kingston RAM KF2933C17S4/16G 16GB SODIMM DDR4 2933MT/s           | 2         | 4.55%   |
-| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                      | 1         | 2.27%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 2.27%   |
-| SK hynix RAM HMT451S6MFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.27%   |
-| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.27%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.27%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 2.27%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4096MB SODIMM DDR3 1600MT/s        | 1         | 2.27%   |
-| SK hynix RAM HMAA1GS6CMR6N-VK 8GB Row Of Chips DDR4 2667MT/s     | 1         | 2.27%   |
-| SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 2.27%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s           | 1         | 2.27%   |
-| Samsung RAM Module 2GB SODIMM DDR3 1333MT/s                      | 1         | 2.27%   |
-| Samsung RAM M474A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s           | 1         | 2.27%   |
-| Samsung RAM M471B5673FH0-CH9 2048MB SODIMM DDR3 1334MT/s         | 1         | 2.27%   |
-| Samsung RAM M471A5244CB0-CRC 4096MB SODIMM DDR4 2667MT/s         | 1         | 2.27%   |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.27%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.27%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 2.27%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 2.27%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 2.27%   |
-| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s          | 1         | 2.27%   |
-| Samsung RAM K4A8G165WC-BCTD 4GB Row Of Chips DDR4 2667MT/s       | 1         | 2.27%   |
-| Nanya RAM Module 1GB SODIMM DDR2 667MT/s                         | 1         | 2.27%   |
-| Micron RAM MTC4C10163S1SC48BA1 8GB SODIMM DDR5 4800MT/s          | 1         | 2.27%   |
-| Micron RAM Module 4GB Row Of Chips DDR4 2400MT/s                 | 1         | 2.27%   |
-| Micron RAM Module 2GB SODIMM DDR3 1866MT/s                       | 1         | 2.27%   |
-| Micron RAM K4A8G165WB-BCRC 8GB Row Of Chips LPDDR4 3333MT/s      | 1         | 2.27%   |
-| Micron RAM 8KTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s            | 1         | 2.27%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s             | 1         | 2.27%   |
-| Micron RAM 4ATF51264HZ-3G2R1 4GB SODIMM DDR4 3200MT/s            | 1         | 2.27%   |
-| Micron RAM 16ATF2G64HZ-2G3E1 16GB SODIMM DDR4 2667MT/s           | 1         | 2.27%   |
-| Kingston RAM KN2M64-ETB 8GB SODIMM DDR3 1600MT/s                 | 1         | 2.27%   |
-| Kingston RAM ACR256X64D3S1333C9 2GB SODIMM DDR3 1334MT/s         | 1         | 2.27%   |
-| Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s           | 1         | 2.27%   |
-| Kingston RAM 9905625-004.A03LF 4GB SODIMM DDR3 3200MT/s          | 1         | 2.27%   |
-| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s           | 1         | 2.27%   |
-| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s          | 1         | 2.27%   |
-| Crucial RAM CT32G4SFD832A.C16FE 32GB SODIMM DDR4 3200MT/s        | 1         | 2.27%   |
-| Crucial RAM BL16G32C16S4B.16FE 16GB SODIMM DDR4 3200MT/s         | 1         | 2.27%   |
+| Model                                                               | Notebooks | Percent |
+|---------------------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s              | 2         | 4.55%   |
+| Kingston RAM KF2933C17S4/16G 16GB SODIMM DDR4 2933MT/s              | 2         | 4.55%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                         | 1         | 2.27%   |
+| Unknown (ABCD) RAM 123456789012345678 2048MB SODIMM LPDDR4 2400MT/s | 1         | 2.27%   |
+| SK hynix RAM HMT451S6MFR8C-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.27%   |
+| SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.27%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.27%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s              | 1         | 2.27%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s              | 1         | 2.27%   |
+| SK hynix RAM HMAA1GS6CMR6N-VK 8GB Row Of Chips DDR4 2667MT/s        | 1         | 2.27%   |
+| SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s              | 1         | 2.27%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s              | 1         | 2.27%   |
+| Samsung RAM Module 2GB SODIMM DDR3 1333MT/s                         | 1         | 2.27%   |
+| Samsung RAM M474A2K43BB1-CPB 16GB SODIMM DDR4 2133MT/s              | 1         | 2.27%   |
+| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s               | 1         | 2.27%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s               | 1         | 2.27%   |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s               | 1         | 2.27%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s               | 1         | 2.27%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s               | 1         | 2.27%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2667MT/s               | 1         | 2.27%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s               | 1         | 2.27%   |
+| Samsung RAM M425R1GB4BB0-CQKOL 8GB SODIMM DDR5 4800MT/s             | 1         | 2.27%   |
+| Samsung RAM K4A8G165WC-BCTD 4GB Row Of Chips DDR4 2667MT/s          | 1         | 2.27%   |
+| Nanya RAM Module 1GB SODIMM DDR2 667MT/s                            | 1         | 2.27%   |
+| Micron RAM MTC4C10163S1SC48BA1 8GB SODIMM DDR5 4800MT/s             | 1         | 2.27%   |
+| Micron RAM Module 4GB Row Of Chips DDR4 2400MT/s                    | 1         | 2.27%   |
+| Micron RAM Module 2GB SODIMM DDR3 1866MT/s                          | 1         | 2.27%   |
+| Micron RAM K4A8G165WB-BCRC 8GB Row Of Chips LPDDR4 3333MT/s         | 1         | 2.27%   |
+| Micron RAM 8KTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s               | 1         | 2.27%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s                | 1         | 2.27%   |
+| Micron RAM 4ATF51264HZ-3G2R1 4GB SODIMM DDR4 3200MT/s               | 1         | 2.27%   |
+| Micron RAM 16ATF2G64HZ-2G3E1 16GB SODIMM DDR4 2667MT/s              | 1         | 2.27%   |
+| Kingston RAM KN2M64-ETB 8GB SODIMM DDR3 1600MT/s                    | 1         | 2.27%   |
+| Kingston RAM ACR256X64D3S1333C9 2GB SODIMM DDR3 1334MT/s            | 1         | 2.27%   |
+| Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s              | 1         | 2.27%   |
+| Kingston RAM 9905625-004.A03LF 4GB SODIMM DDR3 3200MT/s             | 1         | 2.27%   |
+| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s              | 1         | 2.27%   |
+| Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s             | 1         | 2.27%   |
+| Crucial RAM CT32G4SFD832A.C16FE 32GB SODIMM DDR4 3200MT/s           | 1         | 2.27%   |
+| Crucial RAM BL16G32C16S4B.16FE 16GB SODIMM DDR4 3200MT/s            | 1         | 2.27%   |
 
 Memory Kind
 -----------
@@ -2235,12 +2234,12 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 13        | 33.33%  |
-| 4096  | 10        | 25.64%  |
-| 16384 | 7         | 17.95%  |
-| 2048  | 6         | 15.38%  |
-| 1024  | 2         | 5.13%   |
-| 32768 | 1         | 2.56%   |
+| 8192  | 14        | 35%     |
+| 4096  | 10        | 25%     |
+| 16384 | 7         | 17.5%   |
+| 2048  | 6         | 15%     |
+| 1024  | 2         | 5%      |
+| 32768 | 1         | 2.5%    |
 
 Memory Speed
 ------------
@@ -2336,11 +2335,10 @@ Camera device models
 
 | Model                                                           | Notebooks | Percent |
 |-----------------------------------------------------------------|-----------|---------|
+| Chicony HD Webcam                                               | 4         | 12.5%   |
 | Microdia Integrated_Webcam_HD                                   | 3         | 9.38%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)     | 2         | 6.25%   |
 | Quanta ov9734_techfront_camera                                  | 2         | 6.25%   |
-| Chicony Integrated IR Camera                                    | 2         | 6.25%   |
-| Chicony HD WebCam                                               | 2         | 6.25%   |
 | Bison HD Webcam                                                 | 2         | 6.25%   |
 | Sunplus Integrated_Webcam_HD                                    | 1         | 3.13%   |
 | Ricoh Laptop_Integrated_Webcam_FHD                              | 1         | 3.13%   |
@@ -2431,8 +2429,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 31        | 75.61%  |
-| 1     | 8         | 19.51%  |
+| 0     | 30        | 73.17%  |
+| 1     | 9         | 21.95%  |
 | 2     | 2         | 4.88%   |
 
 Unsupported Device Types
@@ -2445,10 +2443,10 @@ Types of unsupported devices
 
 | Type                  | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Fingerprint reader    | 5         | 41.67%  |
-| Storage               | 2         | 16.67%  |
-| Net/wireless          | 2         | 16.67%  |
-| Multimedia controller | 1         | 8.33%   |
-| Graphics card         | 1         | 8.33%   |
-| Chipcard              | 1         | 8.33%   |
+| Fingerprint reader    | 5         | 38.46%  |
+| Storage               | 2         | 15.38%  |
+| Net/wireless          | 2         | 15.38%  |
+| Graphics card         | 2         | 15.38%  |
+| Multimedia controller | 1         | 7.69%   |
+| Chipcard              | 1         | 7.69%   |
 

@@ -953,7 +953,7 @@ Hard drive models
 | WDC WD10EZEX-75WN4A0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-22MFCA0 1TB             | 1        | 0.71%   |
 | WDC WD10EZEX-08WN4A0 1TB             | 1        | 0.71%   |
-| Unknown SD/MMC/MS PRO 512GB          | 1        | 0.71%   |
+| Unknown SD/MMC/MS PRO 256GB          | 1        | 0.71%   |
 
 HDD Vendor
 ----------
@@ -1039,12 +1039,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 35       | 74     | 40.7%   |
-| 0.51-1.0   | 28       | 52     | 32.56%  |
-| 1.01-2.0   | 13       | 16     | 15.12%  |
-| 3.01-4.0   | 6        | 11     | 6.98%   |
-| 4.01-10.0  | 3        | 6      | 3.49%   |
-| 2.01-3.0   | 1        | 1      | 1.16%   |
+| 0.01-0.5   | 35       | 74     | 39.77%  |
+| 0.51-1.0   | 29       | 51     | 32.95%  |
+| 1.01-2.0   | 14       | 17     | 15.91%  |
+| 3.01-4.0   | 6        | 11     | 6.82%   |
+| 4.01-10.0  | 3        | 6      | 3.41%   |
+| 2.01-3.0   | 1        | 1      | 1.14%   |
 
 Space Total
 -----------
@@ -1208,48 +1208,48 @@ Storage controller models
 ![Storage Model](./images/pie_chart/storage_model.svg)
 
 
-| Model                                                                          | Desktops | Percent |
-|--------------------------------------------------------------------------------|----------|---------|
-| Intel Cannon Lake PCH SATA AHCI Controller                                     | 9        | 8.65%   |
-| AMD FCH SATA Controller [AHCI mode]                                            | 8        | 7.69%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 6        | 5.77%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 5        | 4.81%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 5        | 4.81%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 4        | 3.85%   |
-| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]               | 4        | 3.85%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 4        | 3.85%   |
-| Intel SATA Controller [RAID mode]                                              | 3        | 2.88%   |
-| Intel C610/X99 series chipset sSATA Controller [AHCI mode]                     | 3        | 2.88%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                               | 3        | 2.88%   |
-| AMD 300 Series Chipset SATA Controller                                         | 3        | 2.88%   |
-| Toshiba America Info Systems XG5 NVMe SSD Controller                           | 2        | 1.92%   |
-| SK hynix PC601 NVMe Solid State Drive                                          | 2        | 1.92%   |
-| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 2        | 1.92%   |
-| Phison E12 NVMe Controller                                                     | 2        | 1.92%   |
-| Intel C600/X79 series chipset SATA RAID Controller                             | 2        | 1.92%   |
-| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 2        | 1.92%   |
-| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                      | 2        | 1.92%   |
-| Western Digital Ultrastar DC SN640 NVMe SSD                                    | 1        | 0.96%   |
-| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1        | 0.96%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1        | 0.96%   |
-| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1        | 0.96%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1        | 0.96%   |
-| Phison E16 PCIe4 NVMe Controller                                               | 1        | 0.96%   |
-| Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                     | 1        | 0.96%   |
-| Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller               | 1        | 0.96%   |
-| Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo          | 1        | 0.96%   |
-| Marvell Group 88NR2241 Non-Volatile memory controller                          | 1        | 0.96%   |
-| LSI Logic / Symbios Logic SAS2308 PCI-Express Fusion-MPT SAS-2                 | 1        | 0.96%   |
-| LSI Logic / Symbios Logic MegaRAID SAS 2008 [Falcon]                           | 1        | 0.96%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1        | 0.96%   |
-| Intel SSD 660P Series                                                          | 1        | 0.96%   |
-| Intel Optane SSD 900P Series                                                   | 1        | 0.96%   |
-| Intel Comet Lake SATA AHCI Controller                                          | 1        | 0.96%   |
-| Intel C610/X99 series chipset sSATA Controller [RAID mode]                     | 1        | 0.96%   |
-| Intel C602 chipset 4-Port SATA Storage Control Unit                            | 1        | 0.96%   |
-| Intel C600/X79 series chipset IDE-r Controller                                 | 1        | 0.96%   |
-| Intel 631xESB/632xESB/3100 Chipset SATA IDE Controller                         | 1        | 0.96%   |
-| Intel 631xESB/632xESB IDE Controller                                           | 1        | 0.96%   |
+| Model                                                                                   | Desktops | Percent |
+|-----------------------------------------------------------------------------------------|----------|---------|
+| Intel Cannon Lake PCH SATA AHCI Controller                                              | 9        | 8.65%   |
+| AMD FCH SATA Controller [AHCI mode]                                                     | 8        | 7.69%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 6        | 5.77%   |
+| Intel SATA Controller [RAID Mode]                                                       | 5        | 4.81%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 5        | 4.81%   |
+| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 5        | 4.81%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 4        | 3.85%   |
+| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]                        | 4        | 3.85%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 4        | 3.85%   |
+| Intel C610/X99 series chipset sSATA Controller [AHCI mode]                              | 3        | 2.88%   |
+| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 3        | 2.88%   |
+| AMD 300 Series Chipset SATA Controller                                                  | 3        | 2.88%   |
+| Toshiba America Info Systems XG5 NVMe SSD Controller                                    | 2        | 1.92%   |
+| SK hynix PC601 NVMe Solid State Drive                                                   | 2        | 1.92%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 2        | 1.92%   |
+| Phison E12 NVMe Controller                                                              | 2        | 1.92%   |
+| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                               | 2        | 1.92%   |
+| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 2        | 1.92%   |
+| Western Digital Ultrastar DC SN640 NVMe SSD                                             | 1        | 0.96%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1        | 0.96%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 0.96%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD                    | 1        | 0.96%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 0.96%   |
+| Phison E16 PCIe4 NVMe Controller                                                        | 1        | 0.96%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                              | 1        | 0.96%   |
+| Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 0.96%   |
+| Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo                   | 1        | 0.96%   |
+| Marvell Group 88NR2241 Non-Volatile memory controller                                   | 1        | 0.96%   |
+| LSI Logic / Symbios Logic SAS2308 PCI-Express Fusion-MPT SAS-2                          | 1        | 0.96%   |
+| LSI Logic / Symbios Logic MegaRAID SAS 2008 [Falcon]                                    | 1        | 0.96%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 0.96%   |
+| Intel SSD 660P Series                                                                   | 1        | 0.96%   |
+| Intel sSATA Controller [RAID Mode]                                                      | 1        | 0.96%   |
+| Intel Optane SSD 900P Series                                                            | 1        | 0.96%   |
+| Intel Comet Lake SATA AHCI Controller                                                   | 1        | 0.96%   |
+| Intel C602 chipset 4-Port SATA Storage Control Unit                                     | 1        | 0.96%   |
+| Intel C600/X79 series chipset IDE-r Controller                                          | 1        | 0.96%   |
+| Intel 631xESB/632xESB/3100 Chipset SATA IDE Controller                                  | 1        | 0.96%   |
+| Intel 631xESB/632xESB IDE Controller                                                    | 1        | 0.96%   |
+| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 1        | 0.96%   |
 
 Storage Kind
 ------------
@@ -1650,7 +1650,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM0566 1440x900 408x255mm 18.9-inch   | 1        | 1.41%   |
 | Samsung Electronics S22E390 SAM0C18 1920x1080 477x268mm 21.5-inch     | 1        | 1.41%   |
 | Samsung Electronics S22B300 SAM08A9 1600x900 443x249mm 20.0-inch      | 1        | 1.41%   |
-| Samsung Electronics LCD Monitor SAM7106 1920x1080 530x300mm 24.0-inch | 1        | 1.41%   |
+| Samsung Electronics LCD Monitor SAM7106 1920x1080 600x340mm 27.2-inch | 1        | 1.41%   |
 | Samsung Electronics LCD Monitor SAM0200 1280x720                      | 1        | 1.41%   |
 | Samsung Electronics LCD Monitor S22B150                               | 1        | 1.41%   |
 | Samsung Electronics LCD Monitor C49HG9x 3840x1080                     | 1        | 1.41%   |
@@ -1672,10 +1672,10 @@ Monitor models
 | Hewlett-Packard Z38c HPN3411 3840x1600 880x367mm 37.5-inch            | 1        | 1.41%   |
 | Hewlett-Packard LE2002x HWP2963 1600x900 443x249mm 20.0-inch          | 1        | 1.41%   |
 | Hewlett-Packard LCD Monitor LA2306                                    | 1        | 1.41%   |
-| Hewlett-Packard LA2405x HWP301F 1920x1200 520x320mm 24.0-inch         | 1        | 1.41%   |
+| Hewlett-Packard LA2405x HWP301F 1920x1200 518x324mm 24.1-inch         | 1        | 1.41%   |
 | Hewlett-Packard E273 HPN3471 1920x1080 598x336mm 27.0-inch            | 1        | 1.41%   |
-| Hewlett-Packard E233 HPN3460 1920x1080 510x290mm 23.1-inch            | 1        | 1.41%   |
-| Goldstar W2243 GSM56FE 1920x1080 477x269mm 21.6-inch                  | 1        | 1.41%   |
+| Hewlett-Packard E233 HPN3460 1920x1080 509x286mm 23.0-inch            | 1        | 1.41%   |
+| Goldstar W2243 GSM56FE 1920x1080 477x268mm 21.5-inch                  | 1        | 1.41%   |
 | Goldstar ULTRAWIDE GSM76F6 3440x1440 800x335mm 34.1-inch              | 1        | 1.41%   |
 | Goldstar ULTRAWIDE GSM59F1 2560x1080 673x284mm 28.8-inch              | 1        | 1.41%   |
 
@@ -1853,7 +1853,7 @@ Controller models
 
 | Model                                                                      | Desktops | Percent |
 |----------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller          | 20       | 18.87%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller     | 20       | 18.87%  |
 | Intel I211 Gigabit Network Connection                                      | 6        | 5.66%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                      | 5        | 4.72%   |
 | Intel Ethernet Connection (7) I219-LM                                      | 4        | 3.77%   |
@@ -1867,7 +1867,7 @@ Controller models
 | Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter               | 3        | 2.83%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                                   | 2        | 1.89%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                           | 2        | 1.89%   |
-| Intel Wireless-AC 9260                                                     | 2        | 1.89%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 2        | 1.89%   |
 | Intel I210 Gigabit Network Connection                                      | 2        | 1.89%   |
 | Intel Ethernet Controller I225-V                                           | 2        | 1.89%   |
 | Intel Ethernet Connection I217-V                                           | 2        | 1.89%   |
@@ -1928,7 +1928,7 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                                            | 3        | 10.34%  |
 | Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter               | 3        | 10.34%  |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                           | 2        | 6.9%    |
-| Intel Wireless-AC 9260                                                     | 2        | 6.9%    |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 2        | 6.9%    |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                            | 1        | 3.45%   |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                            | 1        | 3.45%   |
 | Realtek RTL8192CE PCIe Wireless Network Adapter                            | 1        | 3.45%   |
@@ -1972,7 +1972,7 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 20       | 27.03%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 20       | 27.03%  |
 | Intel I211 Gigabit Network Connection                                         | 6        | 8.11%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                         | 5        | 6.76%   |
 | Intel Ethernet Connection (7) I219-LM                                         | 4        | 5.41%   |
@@ -2071,12 +2071,12 @@ Controller vendors
 |---------------------------------|----------|---------|
 | Intel                           | 8        | 33.33%  |
 | Cambridge Silicon Radio         | 6        | 25%     |
-| Broadcom                        | 3        | 12.5%   |
+| ASUSTek Computer                | 3        | 12.5%   |
 | Realtek Semiconductor           | 2        | 8.33%   |
 | Qualcomm Atheros Communications | 2        | 8.33%   |
 | Micro Star International        | 1        | 4.17%   |
 | IMC Networks                    | 1        | 4.17%   |
-| ASUSTek Computer                | 1        | 4.17%   |
+| Broadcom                        | 1        | 4.17%   |
 
 Bluetooth Model
 ---------------
@@ -2093,11 +2093,11 @@ Controller models
 | Realtek Bluetooth Radio                               | 2        | 8.33%   |
 | Qualcomm Atheros  Bluetooth Device                    | 2        | 8.33%   |
 | Intel AX200 Bluetooth                                 | 2        | 8.33%   |
-| Broadcom BCM20702A0                                   | 2        | 8.33%   |
+| ASUS BCM20702A0                                       | 2        | 8.33%   |
 | Micro Star International Bluetooth Device             | 1        | 4.17%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter              | 1        | 4.17%   |
 | Intel Bluetooth wireless interface                    | 1        | 4.17%   |
-| Intel Bluetooth Device                                | 1        | 4.17%   |
+| Intel AX201 Bluetooth                                 | 1        | 4.17%   |
 | IMC Networks BCM20702A0                               | 1        | 4.17%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                     | 1        | 4.17%   |
 | ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE | 1        | 4.17%   |

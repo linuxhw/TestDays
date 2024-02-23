@@ -918,7 +918,7 @@ Hard drive models
 | Seagate ST3500413AS 500GB          | 1        | 1.52%   |
 | Seagate ST3500312CS 500GB          | 1        | 1.52%   |
 | Seagate ST3320418AS 320GB          | 1        | 1.52%   |
-| Seagate ST3250820AS 250GB          | 1        | 1.52%   |
+| Seagate ST3250820AS 249GB          | 1        | 1.52%   |
 | Seagate ST31000524AS 1TB           | 1        | 1.52%   |
 | Seagate ST2000DM008-2FR102 2TB     | 1        | 1.52%   |
 | Seagate ST2000DM001-9YN164 2TB     | 1        | 1.52%   |
@@ -1186,7 +1186,7 @@ Storage controller models
 | Intel 82801JD/DO (ICH10 Family) 4-port SATA IDE Controller                       | 2        | 2.9%    |
 | Intel 82801JD/DO (ICH10 Family) 2-port SATA IDE Controller                       | 2        | 2.9%    |
 | Intel 4 Series Chipset PT IDER Controller                                        | 2        | 2.9%    |
-| ASMedia ASM1062 Serial ATA Controller                                            | 2        | 2.9%    |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                    | 2        | 2.9%    |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2        | 2.9%    |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1        | 1.45%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1        | 1.45%   |
@@ -1194,7 +1194,7 @@ Storage controller models
 | Marvell Group 88SE91A3 SATA-600 Controller                                       | 1        | 1.45%   |
 | Kingston Company A2000 NVMe SSD SM2263EN                                         | 1        | 1.45%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 1        | 1.45%   |
-| Intel C600/X79 series chipset SATA RAID Controller                               | 1        | 1.45%   |
+| Intel SATA Controller [RAID Mode]                                                | 1        | 1.45%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 1        | 1.45%   |
 | Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                       | 1        | 1.45%   |
 | Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                       | 1        | 1.45%   |
@@ -1598,7 +1598,7 @@ Monitor models
 |------------------------------------------------------------------------|----------|---------|
 | Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                 | 1        | 2.38%   |
 | ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch          | 1        | 2.38%   |
-| Vestel Elektronik 55UHD_LCD_TV VES3700 3840x2160 1872x1053mm 84.6-inch | 1        | 2.38%   |
+| Vestel Elektronik 32FHD_LCD_TV VES3700 1920x1080 700x400mm 31.7-inch   | 1        | 2.38%   |
 | Unknown LCD Monitor Sony 55R617 1920x1080                              | 1        | 2.38%   |
 | Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                        | 1        | 2.38%   |
 | SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                    | 1        | 2.38%   |
@@ -1611,20 +1611,20 @@ Monitor models
 | Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                     | 1        | 2.38%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1        | 2.38%   |
 | Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch                | 1        | 2.38%   |
-| Insignia DX-32L200NA14 BBY0032 1360x768 544x326mm 25.0-inch            | 1        | 2.38%   |
+| Insignia NS-32D20SNA14 BBY0032 1360x768 544x326mm 25.0-inch            | 1        | 2.38%   |
 | HPN LCD Monitor HP 24o 1920x1080                                       | 1        | 2.38%   |
 | Hewlett-Packard ZR2240w HWP2952 1920x1080 475x267mm 21.5-inch          | 1        | 2.38%   |
 | Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch            | 1        | 2.38%   |
 | Hewlett-Packard LA2306 HWP294A 1920x1080 510x287mm 23.0-inch           | 1        | 2.38%   |
 | Hewlett-Packard L1740 HWP2649 1280x1024 338x270mm 17.0-inch            | 1        | 2.38%   |
-| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch              | 1        | 2.38%   |
+| Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch             | 1        | 2.38%   |
 | HannStar iH282 HSD20E6 1920x1200 590x370mm 27.4-inch                   | 1        | 2.38%   |
 | Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch               | 1        | 2.38%   |
-| Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch             | 1        | 2.38%   |
+| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch                | 1        | 2.38%   |
 | Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                   | 1        | 2.38%   |
-| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                   | 1        | 2.38%   |
-| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                      | 1        | 2.38%   |
-| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                       | 1        | 2.38%   |
+| Goldstar 20EN33 GSM4EE1 1600x900 440x250mm 19.9-inch                   | 1        | 2.38%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                      | 1        | 2.38%   |
+| Dell U2410 DELF016 1920x1200 520x320mm 24.0-inch                       | 1        | 2.38%   |
 | Dell S2722DGM DEL423A 2560x1440 597x336mm 27.0-inch                    | 1        | 2.38%   |
 | Dell LCD Monitor ST2220L 3840x1080                                     | 1        | 2.38%   |
 | Dell LCD Monitor ST2220L                                               | 1        | 2.38%   |
@@ -1813,17 +1813,16 @@ Controller models
 
 | Model                                                                                         | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                             | 20       | 31.25%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller                        | 20       | 31.25%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                         | 3        | 4.69%   |
+| TP-Link 802.11ac NIC                                                                          | 2        | 3.13%   |
 | Qualcomm Atheros AR9271 802.11n                                                               | 2        | 3.13%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                                         | 2        | 3.13%   |
 | Nvidia MCP61 Ethernet                                                                         | 2        | 3.13%   |
 | Intel Wireless 3160                                                                           | 2        | 3.13%   |
 | Intel I211 Gigabit Network Connection                                                         | 2        | 3.13%   |
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]                               | 1        | 1.56%   |
-| TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                                    | 1        | 1.56%   |
 | TP-Link Archer T4U ver.3                                                                      | 1        | 1.56%   |
-| TP-Link 802.11ac NIC                                                                          | 1        | 1.56%   |
 | T & A Mobile Phones QM215-QRD _SN:6B7D8716                                                    | 1        | 1.56%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter                                 | 1        | 1.56%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 1.56%   |
@@ -1881,11 +1880,10 @@ Wireless models
 
 | Model                                                                                         | Desktops | Percent |
 |-----------------------------------------------------------------------------------------------|----------|---------|
+| TP-Link 802.11ac NIC                                                                          | 2        | 9.09%   |
 | Qualcomm Atheros AR9271 802.11n                                                               | 2        | 9.09%   |
 | Intel Wireless 3160                                                                           | 2        | 9.09%   |
-| TP-Link Archer T9UH v1 [Realtek RTL8814AU]                                                    | 1        | 4.55%   |
 | TP-Link Archer T4U ver.3                                                                      | 1        | 4.55%   |
-| TP-Link 802.11ac NIC                                                                          | 1        | 4.55%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                                            | 1        | 4.55%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                                      | 1        | 4.55%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                                    | 1        | 4.55%   |
@@ -1929,26 +1927,26 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 20       | 47.62%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3        | 7.14%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 2        | 4.76%   |
-| Nvidia MCP61 Ethernet                                             | 2        | 4.76%   |
-| Intel I211 Gigabit Network Connection                             | 2        | 4.76%   |
-| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]   | 1        | 2.38%   |
-| T & A Mobile Phones QM215-QRD _SN:6B7D8716                        | 1        | 2.38%   |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1        | 2.38%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1        | 2.38%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2.38%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 2.38%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1        | 2.38%   |
-| Intel Ethernet Connection (2) I219-LM                             | 1        | 2.38%   |
-| Intel Ethernet Connection (11) I219-V                             | 1        | 2.38%   |
-| Intel 82583V Gigabit Network Connection                           | 1        | 2.38%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 1        | 2.38%   |
-| Intel 82567LF-3 Gigabit Network Connection                        | 1        | 2.38%   |
-| Intel 82562V-2 10/100 Network Connection                          | 1        | 2.38%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 20       | 47.62%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 3        | 7.14%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                  | 2        | 4.76%   |
+| Nvidia MCP61 Ethernet                                                  | 2        | 4.76%   |
+| Intel I211 Gigabit Network Connection                                  | 2        | 4.76%   |
+| TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]        | 1        | 2.38%   |
+| T & A Mobile Phones QM215-QRD _SN:6B7D8716                             | 1        | 2.38%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter          | 1        | 2.38%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1        | 2.38%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1        | 2.38%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                | 1        | 2.38%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1        | 2.38%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1        | 2.38%   |
+| Intel Ethernet Connection (11) I219-V                                  | 1        | 2.38%   |
+| Intel 82583V Gigabit Network Connection                                | 1        | 2.38%   |
+| Intel 82567LM-3 Gigabit Network Connection                             | 1        | 2.38%   |
+| Intel 82567LF-3 Gigabit Network Connection                             | 1        | 2.38%   |
+| Intel 82562V-2 10/100 Network Connection                               | 1        | 2.38%   |
 
 Net Controller Kind
 -------------------
@@ -2041,7 +2039,7 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.25%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 6.25%   |
 | Integrated System Solution Bluetooth Device         | 1        | 6.25%   |
-| Apple Bluetooth USB Host Controller                 | 1        | 6.25%   |
+| Apple Bluetooth Host Controller                     | 1        | 6.25%   |
 
 Sound
 -----
@@ -2104,7 +2102,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                                                | 1        | 1.23%   |
 | M2Tech hiFaceDAC UAC2                                                                             | 1        | 1.23%   |
 | Logitech QuickCam Fusion                                                                          | 1        | 1.23%   |
-| Logitech Logitech G PRO X Gaming Headset                                                          | 1        | 1.23%   |
+| Logitech PRO X                                                                                    | 1        | 1.23%   |
 | Logitech Headset H390                                                                             | 1        | 1.23%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 1        | 1.23%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.23%   |
@@ -2157,7 +2155,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                            | 1        | 5.56%   |
 | Unknown RAM Module 2048MB DIMM 800MT/s                                  | 1        | 5.56%   |
 | SK hynix RAM HYMP125U64CP8-S6 2GB DIMM DDR2 49926MT/s                   | 1        | 5.56%   |
-| Samsung RAM M471A1K43CB1-CTD 8192MB SODIMM DDR4 2667MT/s                | 1        | 5.56%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                   | 1        | 5.56%   |
 | Samsung RAM 4D332037385432383633515A532D43463720 1GB DIMM DDR2 800MT/s  | 1        | 5.56%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                        | 1        | 5.56%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR 49926MT/s                      | 1        | 5.56%   |

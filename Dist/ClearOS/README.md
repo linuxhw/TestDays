@@ -1065,9 +1065,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 21        | 58.33%  |
-| IDE  | 10        | 27.78%  |
-| RAID | 5         | 13.89%  |
+| SATA | 20        | 57.14%  |
+| IDE  | 10        | 28.57%  |
+| RAID | 5         | 14.29%  |
 
 Processor
 ---------
@@ -1352,7 +1352,7 @@ Monitor models
 | ___ LCD TV ___0101 1920x1080                                            | 9         | 18.75%  |
 | Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5         | 10.42%  |
 | Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5         | 10.42%  |
-| ViewSonic VA2226w-11 VSC2051 1680x1050 495x291mm 22.6-inch              | 4         | 8.33%   |
+| ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch               | 4         | 8.33%   |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 4         | 8.33%   |
 | BenQ FP91G+ BNQ76A5 1280x1024 376x301mm 19.0-inch                       | 3         | 6.25%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 2         | 4.17%   |
@@ -1507,28 +1507,28 @@ Controller models
 ![Net Controller Model](./All/images/pie_chart/net_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 17        | 25.76%  |
-| Intel 82546EB Gigabit Ethernet Controller (Copper)                | 10        | 15.15%  |
-| D-Link DUB-1312 Gigabit Ethernet Adapter                          | 6         | 9.09%   |
-| Intel 82541PI Gigabit Ethernet Controller                         | 5         | 7.58%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 4         | 6.06%   |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 3         | 4.55%   |
-| Intel 82575EB Gigabit Network Connection                          | 3         | 4.55%   |
-| Intel 82574L Gigabit Network Connection                           | 3         | 4.55%   |
-| Realtek RTL8150 Fast Ethernet Adapter                             | 2         | 3.03%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2         | 3.03%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                              | 2         | 3.03%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 1.52%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.52%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 1         | 1.52%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 1.52%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 1.52%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1         | 1.52%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                  | 1         | 1.52%   |
-| Broadcom Network controller                                       | 1         | 1.52%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.52%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 17        | 25.76%  |
+| Intel 82546EB Gigabit Ethernet Controller (Copper)                     | 10        | 15.15%  |
+| D-Link DUB-1312 Gigabit Ethernet Adapter                               | 6         | 9.09%   |
+| Intel 82541PI Gigabit Ethernet Controller                              | 5         | 7.58%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 4         | 6.06%   |
+| VIA VT6102/VT6103 [Rhine-II]                                           | 3         | 4.55%   |
+| Intel 82575EB Gigabit Network Connection                               | 3         | 4.55%   |
+| Intel 82574L Gigabit Network Connection                                | 3         | 4.55%   |
+| Realtek RTL8150 Fast Ethernet Adapter                                  | 2         | 3.03%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 2         | 3.03%   |
+| Intel 82557/8/9/0/1 Ethernet Pro 100                                   | 2         | 3.03%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1         | 1.52%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1         | 1.52%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 1         | 1.52%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1         | 1.52%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1         | 1.52%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1         | 1.52%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                       | 1         | 1.52%   |
+| Broadcom Network controller                                            | 1         | 1.52%   |
+| ASIX AX88179 Gigabit Ethernet                                          | 1         | 1.52%   |
 
 Wireless Vendor
 ---------------
@@ -1584,25 +1584,25 @@ Ethernet models
 ![Ethernet Model](./All/images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 17        | 26.98%  |
-| Intel 82546EB Gigabit Ethernet Controller (Copper)                | 10        | 15.87%  |
-| D-Link DUB-1312 Gigabit Ethernet Adapter                          | 6         | 9.52%   |
-| Intel 82541PI Gigabit Ethernet Controller                         | 5         | 7.94%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 4         | 6.35%   |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 3         | 4.76%   |
-| Intel 82575EB Gigabit Network Connection                          | 3         | 4.76%   |
-| Intel 82574L Gigabit Network Connection                           | 3         | 4.76%   |
-| Realtek RTL8150 Fast Ethernet Adapter                             | 2         | 3.17%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2         | 3.17%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                              | 2         | 3.17%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 1.59%   |
-| Realtek RTL8152 Fast Ethernet Adapter                             | 1         | 1.59%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 1.59%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1         | 1.59%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                  | 1         | 1.59%   |
-| ASIX AX88179 Gigabit Ethernet                                     | 1         | 1.59%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 17        | 26.98%  |
+| Intel 82546EB Gigabit Ethernet Controller (Copper)                     | 10        | 15.87%  |
+| D-Link DUB-1312 Gigabit Ethernet Adapter                               | 6         | 9.52%   |
+| Intel 82541PI Gigabit Ethernet Controller                              | 5         | 7.94%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 4         | 6.35%   |
+| VIA VT6102/VT6103 [Rhine-II]                                           | 3         | 4.76%   |
+| Intel 82575EB Gigabit Network Connection                               | 3         | 4.76%   |
+| Intel 82574L Gigabit Network Connection                                | 3         | 4.76%   |
+| Realtek RTL8150 Fast Ethernet Adapter                                  | 2         | 3.17%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 2         | 3.17%   |
+| Intel 82557/8/9/0/1 Ethernet Pro 100                                   | 2         | 3.17%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1         | 1.59%   |
+| Realtek RTL8152 Fast Ethernet Adapter                                  | 1         | 1.59%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1         | 1.59%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1         | 1.59%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                       | 1         | 1.59%   |
+| ASIX AX88179 Gigabit Ethernet                                          | 1         | 1.59%   |
 
 Net Controller Kind
 -------------------
@@ -1774,7 +1774,7 @@ Memory module models
 | pqi RAM Module 1024MB DIMM DDR2 800MT/s                        | 1         | 3.13%   |
 | Nanya RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 3.13%   |
 | Kingston RAM Module 2048MB DIMM DDR2 533MT/s                   | 1         | 3.13%   |
-| Kingston RAM 99U5471-020.A00LF 4096MB DIMM DDR3 1600MT/s       | 1         | 3.13%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
 | Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s            | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s          | 1         | 3.13%   |
 
@@ -1936,8 +1936,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 15        | 48.39%  |
-| 1     | 12        | 38.71%  |
-| 2     | 3         | 9.68%   |
+| 1     | 13        | 41.94%  |
+| 2     | 2         | 6.45%   |
 | 4     | 1         | 3.23%   |
 
 Unsupported Device Types

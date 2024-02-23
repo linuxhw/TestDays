@@ -1593,12 +1593,12 @@ Monitor models
 | LG Display LCD Monitor LGD02E2 1600x900 310x174mm 14.0-inch              | 2         | 5%      |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch                  | 2         | 5%      |
 | Sharp LCD Monitor SHP1449 1920x1080 294x165mm 13.3-inch                  | 1         | 2.5%    |
-| Samsung Electronics SyncMaster SAM0216 1280x1024 338x270mm 17.0-inch     | 1         | 2.5%    |
+| Samsung Electronics SyncMaster SAM0216 1280x1024 340x270mm 17.1-inch     | 1         | 2.5%    |
 | Samsung Electronics SMC27A550U SAM07F6 1920x1080 598x336mm 27.0-inch     | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SEC374E 1366x768 344x193mm 15.5-inch     | 1         | 2.5%    |
-| Samsung Electronics LCD Monitor SEC3052 1366x768 256x144mm 11.6-inch     | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SEC374E 1024x600 223x125mm 10.1-inch     | 1         | 2.5%    |
+| Samsung Electronics LCD Monitor SEC3052 1366x768 344x194mm 15.5-inch     | 1         | 2.5%    |
 | Samsung Electronics LCD Monitor SDCA029 3840x2160 344x194mm 15.5-inch    | 1         | 2.5%    |
 | Plain Tree Systems Monitor PTS076D 1280x1024 376x301mm 19.0-inch         | 1         | 2.5%    |
 | Philips PHL 243V5 PHLC0D1 1920x1080 521x293mm 23.5-inch                  | 1         | 2.5%    |
@@ -1608,7 +1608,7 @@ Monitor models
 | LG Display LCD Monitor LGD0335 1366x768 310x174mm 14.0-inch              | 1         | 2.5%    |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch                  | 1         | 2.5%    |
 | Gateway FPD1976W GWY0785 1440x900 410x257mm 19.1-inch                    | 1         | 2.5%    |
-| Dell E151FPp DEL7006 1024x768 300x230mm 14.9-inch                        | 1         | 2.5%    |
+| Dell E151FPp DEL7006 1024x768 304x228mm 15.0-inch                        | 1         | 2.5%    |
 | Dell 1909W DELA03C 1440x900 408x255mm 18.9-inch                          | 1         | 2.5%    |
 | CPT LCD Monitor CPT1401 1280x800 331x207mm 15.4-inch                     | 1         | 2.5%    |
 | Chimei Innolux LCD Monitor CMN1139 1366x768 256x144mm 11.6-inch          | 1         | 2.5%    |
@@ -1786,48 +1786,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart/net_model.svg)
 
 
-| Model                                                               | Computers | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller   | 11        | 13.41%  |
-| Qualcomm Atheros AR9271 802.11n                                     | 4         | 4.88%   |
-| Qualcomm Atheros AR93xx Wireless Network Adapter                    | 4         | 4.88%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)               | 4         | 4.88%   |
-| Intel Tiger Lake PCH CNVi WiFi                                      | 3         | 3.66%   |
-| Intel 82567LM Gigabit Network Connection                            | 3         | 3.66%   |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter             | 2         | 2.44%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                            | 2         | 2.44%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller               | 2         | 2.44%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter          | 2         | 2.44%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)      | 2         | 2.44%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 2         | 2.44%   |
-| Nvidia MCP61 Ethernet                                               | 2         | 2.44%   |
-| Intel Centrino Wireless-N 1000 [Condor Peak]                        | 2         | 2.44%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                        | 2         | 2.44%   |
-| Samsung HSPA Modem                                                  | 1         | 1.22%   |
-| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter            | 1         | 1.22%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter            | 1         | 1.22%   |
-| Realtek RTL8723AE PCIe Wireless Network Adapter                     | 1         | 1.22%   |
-| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter            | 1         | 1.22%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                    | 1         | 1.22%   |
-| Ralink RT2870/RT3070 Wireless Adapter                               | 1         | 1.22%   |
-| Ralink MT7601U Wireless Adapter                                     | 1         | 1.22%   |
-| Qualcomm CAPE-MTP _SN:14677F87                                      | 1         | 1.22%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter          | 1         | 1.22%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter          | 1         | 1.22%   |
-| Qualcomm Atheros QCA8172 Fast Ethernet                              | 1         | 1.22%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller           | 1         | 1.22%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                    | 1         | 1.22%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                    | 1         | 1.22%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                               | 1         | 1.22%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                          | 1         | 1.22%   |
-| Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg] | 1         | 1.22%   |
-| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                   | 1         | 1.22%   |
-| Memorex 802.11n WLAN Adapter                                        | 1         | 1.22%   |
-| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller             | 1         | 1.22%   |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                | 1         | 1.22%   |
-| Intel Wireless 8265 / 8275                                          | 1         | 1.22%   |
-| Intel Wireless 7265                                                 | 1         | 1.22%   |
-| Intel Wireless 3165                                                 | 1         | 1.22%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 10        | 12.2%   |
+| Qualcomm Atheros AR9271 802.11n                                        | 4         | 4.88%   |
+| Qualcomm Atheros AR93xx Wireless Network Adapter                       | 4         | 4.88%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 4         | 4.88%   |
+| Intel Tiger Lake PCH CNVi WiFi                                         | 3         | 3.66%   |
+| Intel 82567LM Gigabit Network Connection                               | 3         | 3.66%   |
+| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter                | 2         | 2.44%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 2         | 2.44%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2         | 2.44%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 2         | 2.44%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 2         | 2.44%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 2         | 2.44%   |
+| Nvidia MCP61 Ethernet                                                  | 2         | 2.44%   |
+| Intel Centrino Wireless-N 1000 [Condor Peak]                           | 2         | 2.44%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                           | 2         | 2.44%   |
+| Samsung HSPA Modem                                                     | 1         | 1.22%   |
+| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter               | 1         | 1.22%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 1         | 1.22%   |
+| Realtek RTL8723AE PCIe Wireless Network Adapter                        | 1         | 1.22%   |
+| Realtek RTL8187B Wireless 802.11g 54Mbps Network Adapter               | 1         | 1.22%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller      | 1         | 1.22%   |
+| Realtek Killer E2600 GbE Controller                                    | 1         | 1.22%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                  | 1         | 1.22%   |
+| Ralink MT7601U Wireless Adapter                                        | 1         | 1.22%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 1         | 1.22%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 1         | 1.22%   |
+| Qualcomm Atheros QCA8172 Fast Ethernet                                 | 1         | 1.22%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1         | 1.22%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 1.22%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                       | 1         | 1.22%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                                  | 1         | 1.22%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 1.22%   |
+| Qualcomm Atheros AR2417 Wireless Network Adapter [AR5007G 802.11bg]    | 1         | 1.22%   |
+| Qualcomm Android                                                       | 1         | 1.22%   |
+| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                      | 1         | 1.22%   |
+| Memorex 802.11n WLAN Adapter                                           | 1         | 1.22%   |
+| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                | 1         | 1.22%   |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                   | 1         | 1.22%   |
+| Intel Wireless 8265 / 8275                                             | 1         | 1.22%   |
+| Intel Wireless 7265                                                    | 1         | 1.22%   |
 
 Wireless Vendor
 ---------------
@@ -1913,29 +1913,30 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 11        | 27.5%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 4         | 10%     |
-| Intel 82567LM Gigabit Network Connection                          | 3         | 7.5%    |
-| Realtek RTL8153 Gigabit Ethernet Adapter                          | 2         | 5%      |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 5%      |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 2         | 5%      |
-| Nvidia MCP61 Ethernet                                             | 2         | 5%      |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 2.5%    |
-| Qualcomm CAPE-MTP _SN:14677F87                                    | 1         | 2.5%    |
-| Qualcomm Atheros QCA8172 Fast Ethernet                            | 1         | 2.5%    |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 2.5%    |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 2.5%    |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 2.5%    |
-| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                 | 1         | 2.5%    |
-| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 2.5%    |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 2.5%    |
-| Intel Ethernet Connection (5) I219-LM                             | 1         | 2.5%    |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 2.5%    |
-| Intel 82574L Gigabit Network Connection                           | 1         | 2.5%    |
-| Intel 82567LF Gigabit Network Connection                          | 1         | 2.5%    |
-| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1         | 2.5%    |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 10        | 25%     |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 4         | 10%     |
+| Intel 82567LM Gigabit Network Connection                               | 3         | 7.5%    |
+| Realtek RTL8153 Gigabit Ethernet Adapter                               | 2         | 5%      |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2         | 5%      |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 2         | 5%      |
+| Nvidia MCP61 Ethernet                                                  | 2         | 5%      |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller      | 1         | 2.5%    |
+| Realtek Killer E2600 GbE Controller                                    | 1         | 2.5%    |
+| Qualcomm Atheros QCA8172 Fast Ethernet                                 | 1         | 2.5%    |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1         | 2.5%    |
+| Qualcomm Atheros AR8162 Fast Ethernet                                  | 1         | 2.5%    |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 2.5%    |
+| Qualcomm Android                                                       | 1         | 2.5%    |
+| Microsoft RTL8153 GigE [Surface Ethernet Adapter]                      | 1         | 2.5%    |
+| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                | 1         | 2.5%    |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                   | 1         | 2.5%    |
+| Intel Ethernet Connection (5) I219-LM                                  | 1         | 2.5%    |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 2.5%    |
+| Intel 82574L Gigabit Network Connection                                | 1         | 2.5%    |
+| Intel 82567LF Gigabit Network Connection                               | 1         | 2.5%    |
+| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                        | 1         | 2.5%    |
 
 Net Controller Kind
 -------------------
@@ -2023,7 +2024,7 @@ Controller models
 
 | Model                                              | Computers | Percent |
 |----------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                             | 4         | 20%     |
+| Intel AX201 Bluetooth                              | 4         | 20%     |
 | Realtek Bluetooth Radio                            | 2         | 10%     |
 | Qualcomm Atheros  Bluetooth Device                 | 2         | 10%     |
 | Intel Bluetooth wireless interface                 | 2         | 10%     |
@@ -2140,7 +2141,7 @@ Memory module models
 | Unknown RAM 3634543235363032304555322E3543322020 2048MB DIMM DDR2 800MT/s | 1         | 2.86%   |
 | TEXTORM RAM TXS8G1M2666C19 8GB SODIMM DDR4 2667MT/s                       | 1         | 2.86%   |
 | SK hynix RAM Module 1024MB DIMM DDR3 1066MT/s                             | 1         | 2.86%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s                     | 1         | 2.86%   |
+| SK hynix RAM HYMP125S64CP8-S6 2048MB SODIMM DDR 975MT/s                   | 1         | 2.86%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s                      | 1         | 2.86%   |
 | SK hynix RAM HMT41GS6AFR8A-H9 8192MB SODIMM DDR3 1333MT/s                 | 1         | 2.86%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 2.86%   |
@@ -2150,9 +2151,9 @@ Memory module models
 | Samsung RAM Module 4096MB DIMM DDR3 1066MT/s                              | 1         | 2.86%   |
 | Samsung RAM Module 2GB Row Of Chips DDR3 1600MT/s                         | 1         | 2.86%   |
 | Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.86%   |
-| Samsung RAM M471B5273DH0-CH9 4096MB SODIMM DDR3 1334MT/s                  | 1         | 2.86%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 1         | 2.86%   |
 | Samsung RAM M378B5273DH0-CH9 4096MB DIMM DDR2 2133MT/s                    | 1         | 2.86%   |
-| Ramaxel RAM RMT3170ME68F9F1600 4096MB SODIMM DDR3 1600MT/s                | 1         | 2.86%   |
+| Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s                   | 1         | 2.86%   |
 | Qimonda RAM 64T512022EDL2.5A 4096MB SODIMM DDR 800MT/s                    | 1         | 2.86%   |
 | PNY RAM Module 4096MB DIMM DDR3 1066MT/s                                  | 1         | 2.86%   |
 | Micron RAM MT52L512M32D2PF-10 4GB Row Of Chips LPDDR3 1867MT/s            | 1         | 2.86%   |
@@ -2320,7 +2321,7 @@ Camera device models
 | Sunplus ZET USB WEBCAM                                       | 1         | 4%      |
 | Sunplus Integrated_Webcam_HD                                 | 1         | 4%      |
 | Sunplus HD WebCam                                            | 1         | 4%      |
-| Sunplus ASUS USB2.0 Webcam                                   | 1         | 4%      |
+| Sunplus Asus Webcam                                          | 1         | 4%      |
 | Realtek Lenovo EasyCamera                                    | 1         | 4%      |
 | Quanta HD User Facing                                        | 1         | 4%      |
 | Microdia Integrated_Webcam_HD                                | 1         | 4%      |
@@ -2406,9 +2407,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 25        | 58.14%  |
+| 0     | 27        | 62.79%  |
 | 1     | 14        | 32.56%  |
-| 2     | 4         | 9.3%    |
+| 2     | 2         | 4.65%   |
 
 Unsupported Device Types
 ------------------------
@@ -2420,10 +2421,10 @@ Types of unsupported devices
 
 | Type                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Graphics card         | 9         | 47.37%  |
-| Chipcard              | 4         | 21.05%  |
-| Net/wireless          | 2         | 10.53%  |
-| Multimedia controller | 2         | 10.53%  |
-| Fingerprint reader    | 1         | 5.26%   |
-| Bluetooth             | 1         | 5.26%   |
+| Graphics card         | 5         | 33.33%  |
+| Chipcard              | 4         | 26.67%  |
+| Net/wireless          | 2         | 13.33%  |
+| Multimedia controller | 2         | 13.33%  |
+| Fingerprint reader    | 1         | 6.67%   |
+| Bluetooth             | 1         | 6.67%   |
 
