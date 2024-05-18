@@ -745,12 +745,12 @@ Used RAM memory
 
 | Used GB   | Computers | Percent |
 |-----------|-----------|---------|
-| 1.01-2.0  | 27        | 34.62%  |
-| 2.01-3.0  | 23        | 29.49%  |
-| 4.01-8.0  | 11        | 14.1%   |
-| 3.01-4.0  | 11        | 14.1%   |
-| 8.01-16.0 | 3         | 3.85%   |
-| 0.51-1.0  | 3         | 3.85%   |
+| 1.01-2.0  | 26        | 33.77%  |
+| 2.01-3.0  | 23        | 29.87%  |
+| 4.01-8.0  | 11        | 14.29%  |
+| 3.01-4.0  | 11        | 14.29%  |
+| 8.01-16.0 | 3         | 3.9%    |
+| 0.51-1.0  | 3         | 3.9%    |
 
 Total Drives
 ------------
@@ -1024,14 +1024,15 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 25        | 33     | 51.02%  |
-| Seagate             | 13        | 16     | 26.53%  |
-| Toshiba             | 4         | 4      | 8.16%   |
-| Samsung Electronics | 2         | 2      | 4.08%   |
-| Hitachi             | 2         | 2      | 4.08%   |
-| Unknown             | 1         | 1      | 2.04%   |
-| Maxtor              | 1         | 1      | 2.04%   |
-| Intenso             | 1         | 2      | 2.04%   |
+| WDC                 | 25        | 33     | 50%     |
+| Seagate             | 13        | 16     | 26%     |
+| Toshiba             | 4         | 4      | 8%      |
+| Samsung Electronics | 2         | 2      | 4%      |
+| Hitachi             | 2         | 2      | 4%      |
+| Unknown             | 1         | 1      | 2%      |
+| SABRENT             | 1         | 1      | 2%      |
+| Maxtor              | 1         | 1      | 2%      |
+| Intenso             | 1         | 2      | 2%      |
 
 SSD Vendor
 ----------
@@ -1043,22 +1044,21 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 14        | 20     | 32.56%  |
-| Kingston            | 7         | 10     | 16.28%  |
-| SanDisk             | 4         | 4      | 9.3%    |
-| Crucial             | 4         | 4      | 9.3%    |
-| PNY                 | 3         | 3      | 6.98%   |
-| WDC                 | 1         | 1      | 2.33%   |
-| SPCC Sol            | 1         | 1      | 2.33%   |
-| SK hynix            | 1         | 1      | 2.33%   |
-| SABRENT             | 1         | 1      | 2.33%   |
-| Patriot             | 1         | 1      | 2.33%   |
-| Micron Technology   | 1         | 1      | 2.33%   |
-| Emtec               | 1         | 1      | 2.33%   |
-| China               | 1         | 1      | 2.33%   |
-| Apple               | 1         | 1      | 2.33%   |
-| Advantech           | 1         | 1      | 2.33%   |
-| A-DATA Technology   | 1         | 1      | 2.33%   |
+| Samsung Electronics | 14        | 20     | 33.33%  |
+| Kingston            | 7         | 10     | 16.67%  |
+| SanDisk             | 4         | 4      | 9.52%   |
+| Crucial             | 4         | 4      | 9.52%   |
+| PNY                 | 3         | 3      | 7.14%   |
+| WDC                 | 1         | 1      | 2.38%   |
+| SPCC Sol            | 1         | 1      | 2.38%   |
+| SK hynix            | 1         | 1      | 2.38%   |
+| Patriot             | 1         | 1      | 2.38%   |
+| Micron Technology   | 1         | 1      | 2.38%   |
+| Emtec               | 1         | 1      | 2.38%   |
+| China               | 1         | 1      | 2.38%   |
+| Apple               | 1         | 1      | 2.38%   |
+| Advantech           | 1         | 1      | 2.38%   |
+| A-DATA Technology   | 1         | 1      | 2.38%   |
 
 Drive Kind
 ----------
@@ -1070,11 +1070,11 @@ HDD or SSD
 
 | Kind    | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| HDD     | 40        | 61     | 36.36%  |
-| NVMe    | 32        | 42     | 29.09%  |
-| SSD     | 31        | 52     | 28.18%  |
-| Unknown | 4         | 4      | 3.64%   |
-| MMC     | 3         | 3      | 2.73%   |
+| HDD     | 41        | 62     | 36.94%  |
+| NVMe    | 32        | 42     | 28.83%  |
+| SSD     | 31        | 51     | 27.93%  |
+| Unknown | 4         | 4      | 3.6%    |
+| MMC     | 3         | 3      | 2.7%    |
 
 Drive Connector
 ---------------
@@ -1101,12 +1101,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 66     | 51.35%  |
-| 0.51-1.0   | 21        | 27     | 28.38%  |
-| 1.01-2.0   | 9         | 12     | 12.16%  |
-| 3.01-4.0   | 4         | 5      | 5.41%   |
-| 2.01-3.0   | 1         | 2      | 1.35%   |
-| 10.01-20.0 | 1         | 1      | 1.35%   |
+| 0.01-0.5   | 37        | 65     | 49.33%  |
+| 0.51-1.0   | 23        | 30     | 30.67%  |
+| 1.01-2.0   | 9         | 10     | 12%     |
+| 3.01-4.0   | 4         | 5      | 5.33%   |
+| 2.01-3.0   | 1         | 2      | 1.33%   |
+| 10.01-20.0 | 1         | 1      | 1.33%   |
 
 Space Total
 -----------
@@ -1118,15 +1118,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Computers | Percent |
 |----------------|-----------|---------|
-| 101-250        | 20        | 26.67%  |
-| 251-500        | 18        | 24%     |
-| 501-1000       | 15        | 20%     |
-| 1001-2000      | 8         | 10.67%  |
-| More than 3000 | 5         | 6.67%   |
-| 21-50          | 3         | 4%      |
-| 51-100         | 3         | 4%      |
-| 2001-3000      | 2         | 2.67%   |
-| Unknown        | 1         | 1.33%   |
+| 101-250        | 20        | 26.32%  |
+| 251-500        | 18        | 23.68%  |
+| 501-1000       | 16        | 21.05%  |
+| 1001-2000      | 8         | 10.53%  |
+| More than 3000 | 5         | 6.58%   |
+| 21-50          | 3         | 3.95%   |
+| 51-100         | 3         | 3.95%   |
+| 2001-3000      | 2         | 2.63%   |
+| Unknown        | 1         | 1.32%   |
 
 Space Used
 ----------
@@ -1138,15 +1138,15 @@ Amount of used disk space
 
 | Used GB        | Computers | Percent |
 |----------------|-----------|---------|
-| 1-20           | 23        | 29.49%  |
-| 21-50          | 13        | 16.67%  |
-| 101-250        | 9         | 11.54%  |
-| 1001-2000      | 9         | 11.54%  |
-| 51-100         | 8         | 10.26%  |
-| 251-500        | 7         | 8.97%   |
-| 501-1000       | 7         | 8.97%   |
-| More than 3000 | 1         | 1.28%   |
-| Unknown        | 1         | 1.28%   |
+| 1-20           | 23        | 29.11%  |
+| 21-50          | 13        | 16.46%  |
+| 101-250        | 9         | 11.39%  |
+| 1001-2000      | 9         | 11.39%  |
+| 251-500        | 8         | 10.13%  |
+| 51-100         | 8         | 10.13%  |
+| 501-1000       | 7         | 8.86%   |
+| More than 3000 | 1         | 1.27%   |
+| Unknown        | 1         | 1.27%   |
 
 Malfunc. Drives
 ---------------
@@ -1718,16 +1718,16 @@ Monitor models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3         | 3.26%   |
+| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                   | 3         | 3.26%   |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2         | 2.17%   |
 | Unknown                                                              | 2         | 2.17%   |
-| Toshiba Internal LCD TOS5091 1366x768 344x193mm 15.5-inch            | 1         | 1.09%   |
+| Toshiba Internal LCD TOS5091 1366x768 309x174mm 14.0-inch            | 1         | 1.09%   |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM05CB 1920x1080 530x300mm 24.0-inch | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM029A 1920x1200 582x364mm 27.0-inch | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1         | 1.09%   |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1         | 1.09%   |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch | 1         | 1.09%   |
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1         | 1.09%   |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1         | 1.09%   |
@@ -2116,7 +2116,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                                  | 1         | 1.49%   |
 | Intel Ethernet Connection (13) I219-V                                  | 1         | 1.49%   |
 | Intel Ethernet Connection (10) I219-V                                  | 1         | 1.49%   |
-| Huawei STG-LX1                                                         | 1         | 1.49%   |
+| Huawei VTR-L09                                                         | 1         | 1.49%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                      | 1         | 1.49%   |
 | ASIX AX88179 Gigabit Ethernet                                          | 1         | 1.49%   |
 
@@ -2192,10 +2192,11 @@ Controller vendors
 | Qualcomm Atheros Communications | 6         | 12.24%  |
 | Cambridge Silicon Radio         | 4         | 8.16%   |
 | Realtek Semiconductor           | 3         | 6.12%   |
-| Broadcom                        | 3         | 6.12%   |
 | MediaTek                        | 2         | 4.08%   |
 | Lite-On Technology              | 2         | 4.08%   |
+| Broadcom                        | 2         | 4.08%   |
 | Toshiba                         | 1         | 2.04%   |
+| SiW                             | 1         | 2.04%   |
 | IMC Networks                    | 1         | 2.04%   |
 | Foxconn / Hon Hai               | 1         | 2.04%   |
 | Dell                            | 1         | 2.04%   |
@@ -2212,17 +2213,19 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 7         | 14.29%  |
 | Intel AX200 Bluetooth                               | 7         | 14.29%  |
+| Intel Bluetooth wireless interface                  | 5         | 10.2%   |
 | Intel AX201 Bluetooth                               | 5         | 10.2%   |
 | Qualcomm Atheros  Bluetooth Device                  | 4         | 8.16%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 4         | 8.16%   |
 | Realtek Bluetooth Radio                             | 2         | 4.08%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 2         | 4.08%   |
 | MediaTek Wireless_Device                            | 2         | 4.08%   |
+| Intel Bluetooth Device                              | 2         | 4.08%   |
 | Intel AX210 Bluetooth                               | 2         | 4.08%   |
 | Toshiba RT Bluetooth Radio                          | 1         | 2.04%   |
-| Realtek  Bluetooth 4.2 Adapter                      | 1         | 2.04%   |
+| SiW SiW                                             | 1         | 2.04%   |
+| Realtek RTL8821A Bluetooth                          | 1         | 2.04%   |
 | Lite-On Wireless_Device                             | 1         | 2.04%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth          | 1         | 2.04%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.04%   |
@@ -2231,7 +2234,6 @@ Controller models
 | Foxconn / Hon Hai Bluetooth Device                  | 1         | 2.04%   |
 | Dell DW375 Bluetooth Module                         | 1         | 2.04%   |
 | Broadcom Bluetooth 2.1 Device                       | 1         | 2.04%   |
-| Broadcom BCM92045B3 ROM                             | 1         | 2.04%   |
 | Broadcom BCM2045 Bluetooth                          | 1         | 2.04%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1         | 2.04%   |
 | Apple Bluetooth USB Host Controller                 | 1         | 2.04%   |
@@ -2345,43 +2347,43 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                               | Computers | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                           | 1         | 2.86%   |
-| Unknown RAM Module 1GB SODIMM DDR                                   | 1         | 2.86%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                                 | 1         | 2.86%   |
-| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s                  | 1         | 2.86%   |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s                   | 1         | 2.86%   |
-| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s                | 1         | 2.86%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s              | 1         | 2.86%   |
-| SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s      | 1         | 2.86%   |
-| SK hynix RAM H9CCNNNCLGALAR-NVD 8192MB Row Of Chips LPDDR3 2133MT/s | 1         | 2.86%   |
-| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                      | 1         | 2.86%   |
-| Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s               | 1         | 2.86%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s               | 1         | 2.86%   |
-| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s              | 1         | 2.86%   |
-| Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s              | 1         | 2.86%   |
-| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s              | 1         | 2.86%   |
-| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s              | 1         | 2.86%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s                 | 1         | 2.86%   |
-| Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s        | 1         | 2.86%   |
-| Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s              | 1         | 2.86%   |
-| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s                 | 1         | 2.86%   |
-| Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2                       | 1         | 2.86%   |
-| Micron RAM 8ATF1G64HZ-2G3H1 8192MB SODIMM DDR4 2400MT/s             | 1         | 2.86%   |
-| Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s               | 1         | 2.86%   |
-| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s                 | 1         | 2.86%   |
-| Kingston RAM KHX1600C10D3/4G 4096MB DIMM DDR3 1600MT/s              | 1         | 2.86%   |
-| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s               | 1         | 2.86%   |
-| G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s              | 1         | 2.86%   |
-| Crucial RAM CT8G4SFS824A.M8FJ 8GB SODIMM DDR4 2400MT/s              | 1         | 2.86%   |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s               | 1         | 2.86%   |
-| Crucial RAM CT16G4SFD8213.C16FBD 16GB SODIMM DDR4 2133MT/s          | 1         | 2.86%   |
-| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s              | 1         | 2.86%   |
-| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s               | 1         | 2.86%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2133MT/s                       | 1         | 2.86%   |
-| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s                         | 1         | 2.86%   |
-| A-DATA RAM AL1P32NCST2-B87S 16GB SODIMM DDR4 3200MT/s               | 1         | 2.86%   |
+| Model                                                            | Computers | Percent |
+|------------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                        | 1         | 2.86%   |
+| Unknown RAM Module 1GB SODIMM DDR                                | 1         | 2.86%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                              | 1         | 2.86%   |
+| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s               | 1         | 2.86%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s                | 1         | 2.86%   |
+| Team RAM TEAMGROUP-SD4-3200 16384MB SODIMM DDR4 3200MT/s         | 1         | 2.86%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 2.86%   |
+| SK hynix RAM HCNNNBKMMLXR-NEE 4GB Row Of Chips LPDDR4 4267MT/s   | 1         | 2.86%   |
+| SK hynix RAM H9CCNNNCLGALAR-NVD 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.86%   |
+| Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                   | 1         | 2.86%   |
+| Samsung RAM M471B5773CHS-CK0 2GB SODIMM 1600MT/s                 | 1         | 2.86%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 2.86%   |
+| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 1         | 2.86%   |
+| Samsung RAM M471A2K43EB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 2.86%   |
+| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 2.86%   |
+| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 2.86%   |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s              | 1         | 2.86%   |
+| Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 2.86%   |
+| Samsung RAM K4E8E324EB-EGCF 2GB SODIMM LPDDR3 1867MT/s           | 1         | 2.86%   |
+| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s              | 1         | 2.86%   |
+| Micron RAM 8HTF12864HDY-667E1 1GB SODIMM DDR2                    | 1         | 2.86%   |
+| Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s             | 1         | 2.86%   |
+| Micron RAM 4ATS2G64HZ-3G2B1 16GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
+| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s              | 1         | 2.86%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s              | 1         | 2.86%   |
+| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s            | 1         | 2.86%   |
+| G.Skill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s           | 1         | 2.86%   |
+| Crucial RAM CT8G4SFS824A.M8FJ 8GB SODIMM DDR4 2400MT/s           | 1         | 2.86%   |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s            | 1         | 2.86%   |
+| Crucial RAM CT16G4SFD8213.C16FBD 16GB SODIMM DDR4 2133MT/s       | 1         | 2.86%   |
+| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s           | 1         | 2.86%   |
+| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s            | 1         | 2.86%   |
+| A-DATA RAM Module 8192MB SODIMM DDR4 2133MT/s                    | 1         | 2.86%   |
+| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s                      | 1         | 2.86%   |
+| A-DATA RAM AL1P32NCST2-B87S 16GB SODIMM DDR4 3200MT/s            | 1         | 2.86%   |
 
 Memory Kind
 -----------
@@ -2568,8 +2570,8 @@ Camera device models
 | Chicony Sony Visual Communication Camera                        | 1         | 2.5%    |
 | Chicony Integrated Camera                                       | 1         | 2.5%    |
 | Chicony EasyCamera                                              | 1         | 2.5%    |
-| Cheng Uei Precision Industry (Foxlink) Webcam                   | 1         | 2.5%    |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Camera | 1         | 2.5%    |
+| Cheng Uei Precision Industry (Foxlink) HP HD Camera             | 1         | 2.5%    |
 | Bison LENOVO LBG 720P CAM                                       | 1         | 2.5%    |
 | Bison Lenovo EasyCamera                                         | 1         | 2.5%    |
 | Apple FaceTime HD Camera (Built-in)                             | 1         | 2.5%    |
@@ -2608,7 +2610,7 @@ Fingerprint sensor models
 | Validity Sensors VFS495 Fingerprint Reader        | 1         | 14.29%  |
 | Validity Sensors VFS Fingerprint sensor           | 1         | 14.29%  |
 | Shenzhen Goodix  FingerPrint Device               | 1         | 14.29%  |
-| Focal-systems.Corp FT9201Fingerprint.Ì         | 1         | 14.29%  |
+| Focal-systems.Corp FT9201Fingerprint.             | 1         | 14.29%  |
 | AuthenTec Fingerprint Sensor                      | 1         | 14.29%  |
 
 Chipcard Vendor

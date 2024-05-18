@@ -708,8 +708,8 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 21        | 42.86%  |
-| 2.01-3.0 | 15        | 30.61%  |
+| 1.01-2.0 | 22        | 44.9%   |
+| 2.01-3.0 | 14        | 28.57%  |
 | 3.01-4.0 | 8         | 16.33%  |
 | 4.01-8.0 | 4         | 8.16%   |
 | 0.51-1.0 | 1         | 2.04%   |
@@ -918,7 +918,7 @@ Hard drive models
 | HGST HTS721010A9E630 1TB                          | 2         | 3.33%   |
 | WDC WD2500BPVT-00JJ5T0 250GB                      | 1         | 1.67%   |
 | Unknown SDW32G  32GB                              | 1         | 1.67%   |
-| Unknown SD/MMC/MS PRO 256GB                       | 1         | 1.67%   |
+| Unknown SD/MMC/MS PRO 128GB                       | 1         | 1.67%   |
 | Unknown SB128  128GB                              | 1         | 1.67%   |
 | Unknown SA04G  4GB                                | 1         | 1.67%   |
 | Unknown MMC Card  32GB                            | 1         | 1.67%   |
@@ -1637,7 +1637,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO303C 1366x768 309x173mm 13.9-inch            | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO219D 1920x1080 381x214mm 17.2-inch           | 1         | 2.27%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch            | 1         | 2.27%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 276x155mm 12.5-inch            | 1         | 2.27%   |
+| AU Optronics LCD Monitor AUO106C 1366x768 277x156mm 12.5-inch            | 1         | 2.27%   |
 | Apple LCD Monitor APP9CC3 1280x800 286x179mm 13.3-inch                   | 1         | 2.27%   |
 
 Monitor Resolution
@@ -1814,7 +1814,7 @@ Controller models
 | TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1         | 1.19%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1         | 1.19%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                                    | 1         | 1.19%   |
-| Sierra Wireless EM7345 4G LTE                                                                 | 1         | 1.19%   |
+| Sierra Wireless Sierra Wireless EM7345 4G LTE                                                 | 1         | 1.19%   |
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 1.19%   |
 | Research In Motion BlackBerry                                                                 | 1         | 1.19%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.19%   |
@@ -1827,13 +1827,13 @@ Controller models
 | Realtek Killer E3000 2.5GbE Controller                                                        | 1         | 1.19%   |
 | Ralink MT7601U Wireless Adapter                                                               | 1         | 1.19%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                                     | 1         | 1.19%   |
-| Qualcomm Redmi 9T                                                                             | 1         | 1.19%   |
+| Qualcomm Nokia G42 5G                                                                         | 1         | 1.19%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                                    | 1         | 1.19%   |
 | Qualcomm Atheros QCA6164 802.11ac Wireless Network Adapter                                    | 1         | 1.19%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller                                     | 1         | 1.19%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 1         | 1.19%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                                      | 1         | 1.19%   |
-| Motorola PCS moto g52                                                                         | 1         | 1.19%   |
+| Motorola PCS moto g(7) power                                                                  | 1         | 1.19%   |
 | Marvell Group 88E8039 PCI-E Fast Ethernet Controller                                          | 1         | 1.19%   |
 | Intel Wireless 8265 / 8275                                                                    | 1         | 1.19%   |
 | Intel Wireless 8260                                                                           | 1         | 1.19%   |
@@ -1881,7 +1881,7 @@ Wireless models
 | TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1         | 2.17%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1         | 2.17%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                                    | 1         | 2.17%   |
-| Sierra Wireless EM7345 4G LTE                                                                 | 1         | 2.17%   |
+| Sierra Wireless Sierra Wireless EM7345 4G LTE                                                 | 1         | 2.17%   |
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 2.17%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 2.17%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 2.17%   |
@@ -1943,10 +1943,10 @@ Ethernet models
 | Research In Motion BlackBerry                                          | 1         | 2.63%   |
 | Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 2.63%   |
 | Realtek Killer E3000 2.5GbE Controller                                 | 1         | 2.63%   |
-| Qualcomm Redmi 9T                                                      | 1         | 2.63%   |
+| Qualcomm Nokia G42 5G                                                  | 1         | 2.63%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller              | 1         | 2.63%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                               | 1         | 2.63%   |
-| Motorola PCS moto g52                                                  | 1         | 2.63%   |
+| Motorola PCS moto g(7) power                                           | 1         | 2.63%   |
 | Marvell Group 88E8039 PCI-E Fast Ethernet Controller                   | 1         | 2.63%   |
 | Intel WiMAX Connection 2400m                                           | 1         | 2.63%   |
 | Intel Killer E3100X 2.5 Gigabit Ethernet Controller                    | 1         | 2.63%   |
@@ -2045,14 +2045,14 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 6         | 18.75%  |
+| Intel Bluetooth wireless interface                  | 4         | 12.5%   |
 | IMC Networks Wireless_Device                        | 3         | 9.38%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3         | 9.38%   |
 | Realtek Bluetooth Radio                             | 2         | 6.25%   |
+| Realtek Bluetooth Radio                             | 2         | 6.25%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 6.25%   |
+| Intel Bluetooth Device                              | 2         | 6.25%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 1         | 3.13%   |
-| Realtek  Bluetooth 4.2 Adapter                      | 1         | 3.13%   |
-| Realtek Bluetooth Radio                             | 1         | 3.13%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 1         | 3.13%   |
 | Lite-On Bluetooth Device                            | 1         | 3.13%   |
 | Intel AX210 Bluetooth                               | 1         | 3.13%   |
@@ -2169,7 +2169,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                | 1         | 5.26%   |
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1867MT/s           | 1         | 5.26%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s      | 1         | 5.26%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s      | 1         | 5.26%   |
+| Samsung RAM M471A1G44AB0-CWE 8192MB SODIMM DDR4 3200MT/s   | 1         | 5.26%   |
 | Micron RAM Module 2048MB Row Of Chips DDR3 1600MT/s        | 1         | 5.26%   |
 | Micron RAM 8JTF5126 4HZ1G6D 1 4GB SODIMM DDR3 1600MT/s     | 1         | 5.26%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s      | 1         | 5.26%   |
@@ -2263,7 +2263,7 @@ Printer device models
 
 | Model         | Notebooks | Percent |
 |---------------|-----------|---------|
-| HP Laser 107a | 1         | 100%    |
+| HP Laser 107w | 1         | 100%    |
 
 Scanner Vendor
 --------------
@@ -2295,7 +2295,7 @@ Camera device vendors
 | Chicony Electronics                    | 9         | 24.32%  |
 | IMC Networks                           | 8         | 21.62%  |
 | Realtek Semiconductor                  | 4         | 10.81%  |
-| Bison Electronics                      | 4         | 10.81%  |
+| Acer                                   | 4         | 10.81%  |
 | Sunplus Innovation Technology          | 2         | 5.41%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.41%   |
 | Samsung Electronics                    | 1         | 2.7%    |
@@ -2303,9 +2303,9 @@ Camera device vendors
 | Microdia                               | 1         | 2.7%    |
 | Lite-On Technology                     | 1         | 2.7%    |
 | GEMBIRD                                | 1         | 2.7%    |
+| Bison Electronics                      | 1         | 2.7%    |
 | Apple                                  | 1         | 2.7%    |
 | Alcor Micro                            | 1         | 2.7%    |
-| Acer                                   | 1         | 2.7%    |
 
 Camera Model
 ------------
@@ -2319,7 +2319,7 @@ Camera device models
 |---------------------------------------------------------|-----------|---------|
 | IMC Networks USB2.0 HD UVC WebCam                       | 4         | 10.81%  |
 | IMC Networks USB2.0 VGA UVC WebCam                      | 2         | 5.41%   |
-| Bison Lenovo EasyCamera                                 | 2         | 5.41%   |
+| Acer Lenovo EasyCamera                                  | 2         | 5.41%   |
 | Sunplus HP HD Webcam [Fixed]                            | 1         | 2.7%    |
 | Sunplus Asus Webcam                                     | 1         | 2.7%    |
 | Samsung Galaxy series, misc. (MTP mode)                 | 1         | 2.7%    |
@@ -2344,11 +2344,11 @@ Camera device models
 | Chicony FJ Camera                                       | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 2.7%    |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam     | 1         | 2.7%    |
-| Bison Integrated Camera                                 | 1         | 2.7%    |
-| Bison HD Camera                                         | 1         | 2.7%    |
+| Bison Lenovo EasyCamera                                 | 1         | 2.7%    |
 | Apple FaceTime HD Camera                                | 1         | 2.7%    |
-| Alcor Micro USB 2.0 Camera                              | 1         | 2.7%    |
-| Acer Lenovo EasyCamera                                  | 1         | 2.7%    |
+| Alcor Micro USB 2.0 PC cam                              | 1         | 2.7%    |
+| Acer Integrated Camera                                  | 1         | 2.7%    |
+| Acer HD Camera                                          | 1         | 2.7%    |
 
 Security
 --------

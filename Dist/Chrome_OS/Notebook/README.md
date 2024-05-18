@@ -278,9 +278,10 @@ Version of the Linux kernel
 | 5.4.25+                      | 5         | 10.42%  |
 | 4.19.49+                     | 3         | 6.25%   |
 | 4.14.86+                     | 2         | 4.17%   |
-| 4.14.58+                     | 2         | 4.17%   |
 | 5.4.157-brunch-sebanc        | 1         | 2.08%   |
 | 4.4.275-20726-g204ae1828356  | 1         | 2.08%   |
+| 4.14.65+                     | 1         | 2.08%   |
+| 4.14.58+                     | 1         | 2.08%   |
 | 4.14.243-18084-g7bc10658733d | 1         | 2.08%   |
 | 4.14.105+                    | 1         | 2.08%   |
 
@@ -301,9 +302,10 @@ Linux kernel without a distro release
 | 5.4.25   | 5         | 10.42%  |
 | 4.19.49  | 3         | 6.25%   |
 | 4.14.86  | 2         | 4.17%   |
-| 4.14.58  | 2         | 4.17%   |
 | 5.4.157  | 1         | 2.08%   |
 | 4.4.275  | 1         | 2.08%   |
+| 4.14.65  | 1         | 2.08%   |
+| 4.14.58  | 1         | 2.08%   |
 | 4.14.243 | 1         | 2.08%   |
 | 4.14.105 | 1         | 2.08%   |
 
@@ -656,8 +658,8 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 25        | 52.08%  |
-| 2.01-3.0 | 15        | 31.25%  |
+| 1.01-2.0 | 26        | 54.17%  |
+| 2.01-3.0 | 14        | 29.17%  |
 | 4.01-8.0 | 5         | 10.42%  |
 | 3.01-4.0 | 2         | 4.17%   |
 | 0.51-1.0 | 1         | 2.08%   |
@@ -686,8 +688,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 27        | 61.36%  |
-| Yes       | 17        | 38.64%  |
+| No        | 26        | 59.09%  |
+| Yes       | 18        | 40.91%  |
 
 Has Ethernet
 ------------
@@ -870,7 +872,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 512GB                   | 1         | 1.96%   |
+| TO Exter nal USB 3.0 500GB                   | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -966,8 +968,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 26        | 31     | 96.3%   |
-| 0.51-1.0   | 1         | 1      | 3.7%    |
+| 0.01-0.5   | 27        | 32     | 100%    |
 
 Space Total
 -----------
@@ -1448,7 +1449,7 @@ Monitor models
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.35%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.17%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.17%   |
@@ -2084,7 +2085,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 18.18%  |
+| Alcor Micro USB 2.0 PC cam                              | 6         | 18.18%  |
 | Lenovo UVC Camera                                       | 3         | 9.09%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.06%   |
 | Lite-On Integrated Camera                               | 2         | 6.06%   |
@@ -2179,9 +2180,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 24        | 54.55%  |
-| 1     | 17        | 38.64%  |
-| 2     | 3         | 6.82%   |
+| 0     | 25        | 56.82%  |
+| 1     | 15        | 34.09%  |
+| 2     | 4         | 9.09%   |
 
 Unsupported Device Types
 ------------------------

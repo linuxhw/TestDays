@@ -763,13 +763,13 @@ Geographic location (city)
 | Kansas City         | 1        | 3.45%   |
 | Izmir               | 1        | 3.45%   |
 | Helensburgh         | 1        | 3.45%   |
-| Heidenrod           | 1        | 3.45%   |
 | Einbeck             | 1        | 3.45%   |
 | Edmonton            | 1        | 3.45%   |
 | Dollard-des-Ormeaux | 1        | 3.45%   |
 | Dallas              | 1        | 3.45%   |
 | Berlin              | 1        | 3.45%   |
 | Beaverton           | 1        | 3.45%   |
+| Bad Schwalbach      | 1        | 3.45%   |
 | Arroyo Grande       | 1        | 3.45%   |
 | Anniston            | 1        | 3.45%   |
 | Adelaide            | 1        | 3.45%   |
@@ -950,11 +950,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 21       | 32     | 58.33%  |
-| 0.51-1.0   | 12       | 14     | 33.33%  |
-| 3.01-4.0   | 1        | 1      | 2.78%   |
-| 2.01-3.0   | 1        | 1      | 2.78%   |
-| 1.01-2.0   | 1        | 1      | 2.78%   |
+| 0.01-0.5   | 21       | 33     | 60%     |
+| 0.51-1.0   | 11       | 13     | 31.43%  |
+| 3.01-4.0   | 1        | 1      | 2.86%   |
+| 2.01-3.0   | 1        | 1      | 2.86%   |
+| 1.01-2.0   | 1        | 1      | 2.86%   |
 
 Space Total
 -----------
@@ -1969,14 +1969,14 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                   | Desktops | Percent |
-|---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM 1066MT/s                 | 1        | 16.67%  |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s      | 1        | 16.67%  |
-| Smart RAM SH564568FH8N6PHSFG 2GB DIMM 1333MT/s          | 1        | 16.67%  |
-| SK hynix RAM HMT351U6EFR8C-PB 4096MB DIMM DDR3 1800MT/s | 1        | 16.67%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s    | 1        | 16.67%  |
-| Kingston RAM K531R8-HYA 4GB DIMM DDR3 1600MT/s          | 1        | 16.67%  |
+| Model                                                | Desktops | Percent |
+|------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM 1066MT/s              | 1        | 16.67%  |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s  | 1        | 16.67%  |
+| Smart RAM SH564568FH8N6PHSFG 2GB DIMM DDR3 1333MT/s  | 1        | 16.67%  |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s | 1        | 16.67%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1800MT/s | 1        | 16.67%  |
+| Kingston RAM K531R8-HYA 4GB DIMM DDR3 1600MT/s       | 1        | 16.67%  |
 
 Memory Kind
 -----------

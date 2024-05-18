@@ -155,10 +155,12 @@ Contents
 Test Cases
 ----------
 
-Total: 162
+Total: 164
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | P5Q3 DELUXE                 | [080e3fa26d](https://linux-hardware.org/?probe=080e3fa26d) | Apr 27, 2024 |
+| ASUSTek       | P5Q3 DELUXE                 | [bac3d4945e](https://linux-hardware.org/?probe=bac3d4945e) | Apr 26, 2024 |
 | Dell          | 0T1D10 A01                  | [5fa41b15bb](https://linux-hardware.org/?probe=5fa41b15bb) | Dec 05, 2023 |
 | Dell          | 0T1D10 A01                  | [65d5ddf61f](https://linux-hardware.org/?probe=65d5ddf61f) | Dec 05, 2023 |
 | ASUSTek       | P5Q3 DELUXE                 | [7dbdce995b](https://linux-hardware.org/?probe=7dbdce995b) | Oct 07, 2023 |
@@ -838,13 +840,13 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 0.51-1.0  | 44       | 39.29%  |
-| 1.01-2.0  | 41       | 36.61%  |
-| 2.01-3.0  | 8        | 7.14%   |
-| 3.01-4.0  | 7        | 6.25%   |
-| 4.01-8.0  | 5        | 4.46%   |
-| 0.01-0.5  | 5        | 4.46%   |
-| 8.01-16.0 | 2        | 1.79%   |
+| 0.51-1.0  | 45       | 39.82%  |
+| 1.01-2.0  | 41       | 36.28%  |
+| 2.01-3.0  | 8        | 7.08%   |
+| 3.01-4.0  | 7        | 6.19%   |
+| 4.01-8.0  | 5        | 4.42%   |
+| 0.01-0.5  | 5        | 4.42%   |
+| 8.01-16.0 | 2        | 1.77%   |
 
 Total Drives
 ------------
@@ -856,13 +858,13 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 64       | 62.14%  |
-| 2      | 25       | 24.27%  |
-| 3      | 8        | 7.77%   |
-| 6      | 2        | 1.94%   |
-| 4      | 2        | 1.94%   |
-| 7      | 1        | 0.97%   |
-| 5      | 1        | 0.97%   |
+| 1      | 64       | 61.54%  |
+| 2      | 25       | 24.04%  |
+| 3      | 9        | 8.65%   |
+| 6      | 2        | 1.92%   |
+| 4      | 2        | 1.92%   |
+| 7      | 1        | 0.96%   |
+| 5      | 1        | 0.96%   |
 
 Has CD-ROM
 ----------
@@ -1032,7 +1034,7 @@ Hard drive vendors
 | Toshiba                     | 2        | 2      | 1.41%   |
 | PNY                         | 2        | 3      | 1.41%   |
 | Intel                       | 2        | 2      | 1.41%   |
-| Crucial                     | 2        | 4      | 1.41%   |
+| Crucial                     | 2        | 6      | 1.41%   |
 | WD MediaMax                 | 1        | 1      | 0.7%    |
 | USB3.0                      | 1        | 1      | 0.7%    |
 | Phison Electronics          | 1        | 2      | 0.7%    |
@@ -1041,7 +1043,7 @@ Hard drive vendors
 | Lexar                       | 1        | 1      | 0.7%    |
 | Kingston Technology Company | 1        | 1      | 0.7%    |
 | Intenso                     | 1        | 1      | 0.7%    |
-| HGST                        | 1        | 1      | 0.7%    |
+| HGST                        | 1        | 2      | 0.7%    |
 | GOODRAM                     | 1        | 2      | 0.7%    |
 | GAMER                       | 1        | 1      | 0.7%    |
 | Fujitsu                     | 1        | 1      | 0.7%    |
@@ -1094,7 +1096,7 @@ Hard drive models
 | WDC WD30EFZX-68AWUN0 3TB            | 1        | 0.65%   |
 | WDC WD2500JS-60NCB1 250GB           | 1        | 0.65%   |
 | WDC WD2500AVJB-63WKA0 250GB         | 1        | 0.65%   |
-| WDC WD2500AAJS-75M0A0 249GB         | 1        | 0.65%   |
+| WDC WD2500AAJS-75M0A0 250GB         | 1        | 0.65%   |
 | WDC WD2500AAJS-00VTA0 250GB         | 1        | 0.65%   |
 | WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.65%   |
 | WDC WD20EURS-63S48Y0 2TB            | 1        | 0.65%   |
@@ -1119,7 +1121,7 @@ Hard disk drive vendors
 | Toshiba             | 2        | 2      | 1.9%    |
 | WD MediaMax         | 1        | 1      | 0.95%   |
 | USB3.0              | 1        | 1      | 0.95%   |
-| HGST                | 1        | 1      | 0.95%   |
+| HGST                | 1        | 2      | 0.95%   |
 | Fujitsu             | 1        | 1      | 0.95%   |
 
 SSD Vendor
@@ -1137,7 +1139,7 @@ Solid state drive vendors
 | SanDisk             | 3        | 3      | 10.34%  |
 | PNY                 | 2        | 3      | 6.9%    |
 | Intel               | 2        | 2      | 6.9%    |
-| Crucial             | 2        | 4      | 6.9%    |
+| Crucial             | 2        | 6      | 6.9%    |
 | WDC                 | 1        | 1      | 3.45%   |
 | OCZ                 | 1        | 1      | 3.45%   |
 | Lexar               | 1        | 1      | 3.45%   |
@@ -1157,8 +1159,8 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| HDD     | 86       | 143    | 71.07%  |
-| SSD     | 29       | 37     | 23.97%  |
+| HDD     | 86       | 144    | 71.07%  |
+| SSD     | 29       | 39     | 23.97%  |
 | NVMe    | 3        | 7      | 2.48%   |
 | Unknown | 2        | 4      | 1.65%   |
 | MMC     | 1        | 1      | 0.83%   |
@@ -1173,7 +1175,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 98       | 178    | 92.45%  |
+| SATA | 98       | 181    | 92.45%  |
 | SAS  | 4        | 6      | 3.77%   |
 | NVMe | 3        | 7      | 2.83%   |
 | MMC  | 1        | 1      | 0.94%   |
@@ -1188,9 +1190,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 85       | 132    | 70.83%  |
-| 0.51-1.0   | 24       | 30     | 20%     |
-| 1.01-2.0   | 9        | 13     | 7.5%    |
+| 0.01-0.5   | 85       | 135    | 70.83%  |
+| 0.51-1.0   | 23       | 29     | 19.17%  |
+| 1.01-2.0   | 10       | 14     | 8.33%   |
 | 2.01-3.0   | 1        | 4      | 0.83%   |
 | 4.01-10.0  | 1        | 1      | 0.83%   |
 
@@ -1310,7 +1312,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 94       | 180    | 90.38%  |
+| Detected | 94       | 183    | 90.38%  |
 | Works    | 7        | 9      | 6.73%   |
 | Malfunc  | 3        | 3      | 2.88%   |
 
@@ -1832,23 +1834,23 @@ Monitor models
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 2        | 2.04%   |
 | Dell 1905FP DEL400C 1280x1024 376x301mm 19.0-inch                       | 2        | 2.04%   |
 | BenQ FP731 BNQ7659 1280x1024 304x228mm 15.0-inch                        | 2        | 2.04%   |
-| Acer G276HL ACR0300 1920x1080 600x340mm 27.2-inch                       | 2        | 2.04%   |
+| Acer G276HL ACR0300 1920x1080 598x336mm 27.0-inch                       | 2        | 2.04%   |
 | VIZ LCD Monitor D50-D1 1920x1080                                        | 1        | 1.02%   |
 | ViewSonic VG2230wm-EU VSCA21E 1680x1050 474x296mm 22.0-inch             | 1        | 1.02%   |
-| Vestel Elektronik 32FHD_LCD_TV VES3700 1920x1080 700x400mm 31.7-inch    | 1        | 1.02%   |
+| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                           | 1        | 1.02%   |
 | Toshiba TV TSB0206 1920x1080                                            | 1        | 1.02%   |
 | Sony TV SNYB800 1280x768 690x390mm 31.2-inch                            | 1        | 1.02%   |
 | Sony SDM-HX75 SNY5100 1280x1024 338x270mm 17.0-inch                     | 1        | 1.02%   |
 | Sony LCD Monitor TV                                                     | 1        | 1.02%   |
 | Sharp LCD SHP1047 1920x1080                                             | 1        | 1.02%   |
 | Sharp LCD SHP0FF0 1360x768                                              | 1        | 1.02%   |
-| Sceptre Tech E32 SPT0CB8 1366x768 575x323mm 26.0-inch                   | 1        | 1.02%   |
+| Sceptre Tech X325BV-FMDR SPT0CB8 1920x1080 698x392mm 31.5-inch          | 1        | 1.02%   |
 | Samsung Electronics SyncMaster SAM05C8 1920x1080 521x293mm 23.5-inch    | 1        | 1.02%   |
 | Samsung Electronics SyncMaster SAM0255 1680x1050 474x296mm 22.0-inch    | 1        | 1.02%   |
 | Samsung Electronics SyncMaster SAM018F 1280x1024 338x270mm 17.0-inch    | 1        | 1.02%   |
 | Samsung Electronics SME1920 SAM06B7 1366x768 410x230mm 18.5-inch        | 1        | 1.02%   |
 | Samsung Electronics S22B370 SAM0898 1920x1080 477x268mm 21.5-inch       | 1        | 1.02%   |
-| Samsung Electronics S22B300 SAM08AB 1920x1080 477x268mm 21.5-inch       | 1        | 1.02%   |
+| Samsung Electronics S22B300 SAM08AB 1920x1080 480x270mm 21.7-inch       | 1        | 1.02%   |
 | Samsung Electronics LCD Monitor SyncMaster 2624x1200                    | 1        | 1.02%   |
 | Samsung Electronics LCD Monitor SMB1930NW 1440x900                      | 1        | 1.02%   |
 | Samsung Electronics LCD Monitor SAM0DF3 3840x2160 1872x1053mm 84.6-inch | 1        | 1.02%   |
@@ -1858,14 +1860,14 @@ Monitor models
 | Samsung Electronics C27R50x SAM0F9E 1920x1080 598x336mm 27.0-inch       | 1        | 1.02%   |
 | Philips LCD Monitor 240BW 1920x1200                                     | 1        | 1.02%   |
 | Panasonic TH-42PD25U MEIA023 1920x540 920x518mm 41.6-inch               | 1        | 1.02%   |
-| OEM 19W_LCD_TV OEM3700 1920x540                                         | 1        | 1.02%   |
+| OEM 26W_LCD_TV OEM3700 1920x540                                         | 1        | 1.02%   |
 | MPI MPI7002 MPI7002 1920x1080 180x130mm 8.7-inch                        | 1        | 1.02%   |
 | Lite-On B17MTF LTN022A 1280x768 369x221mm 16.9-inch                     | 1        | 1.02%   |
 | LG Electronics LCD Monitor M227WD 1920x1080                             | 1        | 1.02%   |
 | LG Electronics LCD Monitor LG IPS FULLHD 1920x1080                      | 1        | 1.02%   |
 | LG Electronics LCD Monitor FLATRON 795FT Plus 1600x1200                 | 1        | 1.02%   |
-| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                   | 1        | 1.02%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 1        | 1.02%   |
+| Lenovo LEN L171 LEN240B 1280x1024 340x270mm 17.1-inch                   | 1        | 1.02%   |
 | KTC 32'TV KTC3200 1360x768 708x398mm 32.0-inch                          | 1        | 1.02%   |
 | Hitachi 40E31 HTC0139 1920x1080 575x323mm 26.0-inch                     | 1        | 1.02%   |
 
@@ -2485,7 +2487,7 @@ Memory module models
 | Unknown RAM Module 1024MB DIMM 800MT/s                  | 1        | 4%      |
 | Unknown RAM Module 1024MB DIMM 41632MT/s                | 1        | 4%      |
 | SK hynix RAM Module 2GB DIMM DDR3 1600MT/s              | 1        | 4%      |
-| SK hynix RAM HMT125U6TFR8C-H9 2048MB DIMM DDR3 1333MT/s | 1        | 4%      |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 4%      |
 | Samsung RAM Module 2048MB DIMM DDR3 1333MT/s            | 1        | 4%      |
 | Samsung RAM M378B2873FHS-CH9 1GB DIMM DDR3 1600MT/s     | 1        | 4%      |
 | Nanya RAM NT2GC64B8HC0NF-CG 2GB DIMM DDR3 1333MT/s      | 1        | 4%      |
@@ -2582,12 +2584,12 @@ Printer device vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Brother Industries  | 3        | 33.33%  |
-| Hewlett-Packard     | 2        | 22.22%  |
-| Seiko Epson         | 1        | 11.11%  |
-| Samsung Electronics | 1        | 11.11%  |
-| Dymo-CoStar         | 1        | 11.11%  |
-| Canon               | 1        | 11.11%  |
+| Brother Industries  | 3        | 30%     |
+| Hewlett-Packard     | 2        | 20%     |
+| Canon               | 2        | 20%     |
+| Seiko Epson         | 1        | 10%     |
+| Samsung Electronics | 1        | 10%     |
+| Dymo-CoStar         | 1        | 10%     |
 
 Printer Model
 -------------
@@ -2599,15 +2601,16 @@ Printer device models
 
 | Model                                  | Desktops | Percent |
 |----------------------------------------|----------|---------|
-| Seiko Epson XP-240 Series              | 1        | 11.11%  |
-| Samsung ML-216x Series Laser Printer   | 1        | 11.11%  |
-| HP OfficeJet 5200 series               | 1        | 11.11%  |
-| HP DeskJet 1220C                       | 1        | 11.11%  |
-| Dymo-CoStar DYMO LabelWriter 450 Turbo | 1        | 11.11%  |
-| Canon TS3300 series                    | 1        | 11.11%  |
-| Brother HL-L2360D series               | 1        | 11.11%  |
-| Brother HL-L2350DW series              | 1        | 11.11%  |
-| Brother HL-L2340D series               | 1        | 11.11%  |
+| Seiko Epson XP-240 Series              | 1        | 10%     |
+| Samsung ML-216x Series Laser Printer   | 1        | 10%     |
+| HP OfficeJet 5200 series               | 1        | 10%     |
+| HP DeskJet 1220C                       | 1        | 10%     |
+| Dymo-CoStar DYMO LabelWriter 450 Turbo | 1        | 10%     |
+| Canon TS3300 series                    | 1        | 10%     |
+| Canon PIXMA MX920 Series               | 1        | 10%     |
+| Brother HL-L2360D series               | 1        | 10%     |
+| Brother HL-L2350DW series              | 1        | 10%     |
+| Brother HL-L2340D series               | 1        | 10%     |
 
 Scanner Vendor
 --------------
@@ -2653,18 +2656,17 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                                               | Desktops | Percent |
-|---------------------------------------------------------------------|----------|---------|
-| Trust WB-6250X Webcam                                               | 1        | 10%     |
-| Sunplus SPCA2281 Web Camera                                         | 1        | 10%     |
-| Samsung Galaxy series, misc. (MTP mode)                             | 1        | 10%     |
-| Logitech Webcam C270                                                | 1        | 10%     |
-| Logitech Webcam C210                                                | 1        | 10%     |
-| LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode)               | 1        | 10%     |
-| GEO Semi Condor                                                     | 1        | 10%     |
-| Cubeternet USB2.0 Camera                                            | 1        | 10%     |
-| Cubeternet EtronTech CMOS based eSP570 WebCam [Onyx Titanium TC101] | 1        | 10%     |
-| Aveo Camera                                                         | 1        | 10%     |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Cubeternet USB2.0 Camera                              | 2        | 20%     |
+| Trust WB-6250X Webcam                                 | 1        | 10%     |
+| Sunplus SPCA2281 Web Camera                           | 1        | 10%     |
+| Samsung Galaxy series, misc. (MTP mode)               | 1        | 10%     |
+| Logitech Webcam C270                                  | 1        | 10%     |
+| Logitech Webcam C210                                  | 1        | 10%     |
+| LG LM-X420xxx/G2/G3 Android Phone (MTP/download mode) | 1        | 10%     |
+| GEO Semi Condor                                       | 1        | 10%     |
+| Aveo Camera                                           | 1        | 10%     |
 
 Security
 --------
@@ -2710,8 +2712,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 78       | 75.73%  |
-| 1     | 20       | 19.42%  |
+| 0     | 77       | 74.76%  |
+| 1     | 21       | 20.39%  |
 | 2     | 5        | 4.85%   |
 
 Unsupported Device Types
@@ -2724,11 +2726,11 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Graphics card            | 9        | 30%     |
-| Net/wireless             | 8        | 26.67%  |
-| Communication controller | 8        | 26.67%  |
-| Camera                   | 2        | 6.67%   |
-| Unassigned class         | 1        | 3.33%   |
-| Sound                    | 1        | 3.33%   |
-| Net/ethernet             | 1        | 3.33%   |
+| Graphics card            | 10       | 32.26%  |
+| Net/wireless             | 8        | 25.81%  |
+| Communication controller | 8        | 25.81%  |
+| Camera                   | 2        | 6.45%   |
+| Unassigned class         | 1        | 3.23%   |
+| Sound                    | 1        | 3.23%   |
+| Net/ethernet             | 1        | 3.23%   |
 

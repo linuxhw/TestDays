@@ -1,10 +1,25 @@
 Xero - Test Cases
 -----------------
 
-Total: 586
+Total: 601
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Medion        | B360H4-EM V1.0              | Desktop     | [1dce3c5ac9](https://linux-hardware.org/?probe=1dce3c5ac9) | Apr 30, 2024 |
+| HP            | 2B47                        | Desktop     | [3a165a34a7](https://linux-hardware.org/?probe=3a165a34a7) | Apr 27, 2024 |
+| Dell          | 0773VG A02                  | Desktop     | [2db2c160ae](https://linux-hardware.org/?probe=2db2c160ae) | Apr 03, 2024 |
+| HP            | 2AF7                        | Desktop     | [a9fd9938cd](https://linux-hardware.org/?probe=a9fd9938cd) | Apr 01, 2024 |
+| Acer          | Aspire XC-603               | Desktop     | [68c8512ceb](https://linux-hardware.org/?probe=68c8512ceb) | Mar 09, 2024 |
+| HP            | 89E9 0100                   | All in one  | [dedbe73fee](https://linux-hardware.org/?probe=dedbe73fee) | Mar 08, 2024 |
+| MSI           | 970 GAMING                  | Desktop     | [940cdd271c](https://linux-hardware.org/?probe=940cdd271c) | Mar 01, 2024 |
+| HP            | 89E9 0100                   | All in one  | [7c86412368](https://linux-hardware.org/?probe=7c86412368) | Feb 23, 2024 |
+| Acer          | Aspire 5732Z                | Notebook    | [e2286ae69c](https://linux-hardware.org/?probe=e2286ae69c) | Feb 22, 2024 |
+| Acer          | Aspire 5732Z                | Notebook    | [caa89e80d0](https://linux-hardware.org/?probe=caa89e80d0) | Feb 21, 2024 |
+| ASUSTek       | V161GA                      | All in one  | [d1891af126](https://linux-hardware.org/?probe=d1891af126) | Feb 12, 2024 |
+| ASUSTek       | P5K                         | Desktop     | [a93b9e89e3](https://linux-hardware.org/?probe=a93b9e89e3) | Feb 08, 2024 |
+| Acer          | Aspire 5732Z                | Notebook    | [76604f435d](https://linux-hardware.org/?probe=76604f435d) | Feb 07, 2024 |
+| Dell          | 0J7MNP A00                  | All in one  | [148caf0684](https://linux-hardware.org/?probe=148caf0684) | Feb 04, 2024 |
+| Dell          | 0J7MNP A00                  | All in one  | [6a65fd96cc](https://linux-hardware.org/?probe=6a65fd96cc) | Feb 03, 2024 |
 | Dell          | 0J7MNP A00                  | All in one  | [7a08cc9321](https://linux-hardware.org/?probe=7a08cc9321) | Feb 02, 2024 |
 | Dell          | 0J7MNP A00                  | All in one  | [3ec79f8a00](https://linux-hardware.org/?probe=3ec79f8a00) | Feb 02, 2024 |
 | Dell          | 06X1TJ A00                  | Desktop     | [f3cb8642e0](https://linux-hardware.org/?probe=f3cb8642e0) | Feb 01, 2024 |

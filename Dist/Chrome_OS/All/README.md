@@ -305,9 +305,10 @@ Version of the Linux kernel
 | 5.4.25+                      | 8         | 12.7%   |
 | 4.19.49+                     | 4         | 6.35%   |
 | 4.14.86+                     | 2         | 3.17%   |
-| 4.14.58+                     | 2         | 3.17%   |
 | 5.4.157-brunch-sebanc        | 1         | 1.59%   |
 | 4.4.275-20726-g204ae1828356  | 1         | 1.59%   |
+| 4.14.65+                     | 1         | 1.59%   |
+| 4.14.58+                     | 1         | 1.59%   |
 | 4.14.243-18084-g7bc10658733d | 1         | 1.59%   |
 | 4.14.105+                    | 1         | 1.59%   |
 
@@ -328,9 +329,10 @@ Linux kernel without a distro release
 | 5.4.25   | 8         | 12.7%   |
 | 4.19.49  | 4         | 6.35%   |
 | 4.14.86  | 2         | 3.17%   |
-| 4.14.58  | 2         | 3.17%   |
 | 5.4.157  | 1         | 1.59%   |
 | 4.4.275  | 1         | 1.59%   |
+| 4.14.65  | 1         | 1.59%   |
+| 4.14.58  | 1         | 1.59%   |
 | 4.14.243 | 1         | 1.59%   |
 | 4.14.105 | 1         | 1.59%   |
 
@@ -706,8 +708,8 @@ Used RAM memory
 
 | Used GB  | Computers | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 31        | 48.44%  |
-| 2.01-3.0 | 19        | 29.69%  |
+| 1.01-2.0 | 32        | 50%     |
+| 2.01-3.0 | 18        | 28.13%  |
 | 4.01-8.0 | 6         | 9.38%   |
 | 3.01-4.0 | 5         | 7.81%   |
 | 0.51-1.0 | 3         | 4.69%   |
@@ -736,8 +738,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 33        | 55.93%  |
-| Yes       | 26        | 44.07%  |
+| No        | 32        | 54.24%  |
+| Yes       | 27        | 45.76%  |
 
 Has Ethernet
 ------------
@@ -933,7 +935,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 512GB                   | 1         | 1.49%   |
+| TO Exter nal USB 3.0 500GB                   | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -1037,8 +1039,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 48     | 97.56%  |
-| 0.51-1.0   | 1         | 1      | 2.44%   |
+| 0.01-0.5   | 41        | 49     | 100%    |
 
 Space Total
 -----------
@@ -1586,7 +1587,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 367x230mm 17.1-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
@@ -1606,7 +1607,7 @@ Monitor models
 | InnoLux Display LCD Monitor INL000A 1366x768 344x194mm 15.5-inch      | 1         | 1.67%   |
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.67%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.67%   |
-| Goldstar W1952 GSM4B77 1440x900 408x255mm 18.9-inch                   | 1         | 1.67%   |
+| Goldstar W1952 GSM4B77 1440x900 410x260mm 19.1-inch                   | 1         | 1.67%   |
 | Goldstar E2260 GSM57DF 1920x1080 480x270mm 21.7-inch                  | 1         | 1.67%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                | 1         | 1.67%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1         | 1.67%   |
@@ -2223,10 +2224,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                    | Computers | Percent |
-|--------------------------|-----------|---------|
-| Seiko Epson L3150 Series | 1         | 50%     |
-| HP LaserJet 1012         | 1         | 50%     |
+| Model                      | Computers | Percent |
+|----------------------------|-----------|---------|
+| Seiko Epson ET-2710 Series | 1         | 50%     |
+| HP LaserJet 1012           | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2290,7 +2291,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 Camera                              | 6         | 17.14%  |
+| Alcor Micro USB 2.0 PC cam                              | 6         | 17.14%  |
 | Lenovo UVC Camera                                       | 3         | 8.57%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.71%   |
 | Lite-On Integrated Camera                               | 2         | 5.71%   |
@@ -2388,8 +2389,8 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 36        | 60%     |
-| 1     | 21        | 35%     |
-| 2     | 3         | 5%      |
+| 1     | 20        | 33.33%  |
+| 2     | 4         | 6.67%   |
 
 Unsupported Device Types
 ------------------------
@@ -2401,13 +2402,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 23.08%  |
-| Net/wireless             | 5         | 19.23%  |
-| Fingerprint reader       | 5         | 19.23%  |
-| Chipcard                 | 3         | 11.54%  |
-| Storage                  | 2         | 7.69%   |
-| Graphics card            | 2         | 7.69%   |
-| Storage/ide              | 1         | 3.85%   |
-| Modem                    | 1         | 3.85%   |
-| Communication controller | 1         | 3.85%   |
+| Multimedia controller    | 6         | 22.22%  |
+| Net/wireless             | 5         | 18.52%  |
+| Fingerprint reader       | 5         | 18.52%  |
+| Graphics card            | 3         | 11.11%  |
+| Chipcard                 | 3         | 11.11%  |
+| Storage                  | 2         | 7.41%   |
+| Storage/ide              | 1         | 3.7%    |
+| Modem                    | 1         | 3.7%    |
+| Communication controller | 1         | 3.7%    |
 

@@ -762,25 +762,25 @@ Hard drive vendors
 
 | Vendor                       | Computers | Drives | Percent |
 |------------------------------|-----------|--------|---------|
-| Seagate                      | 16        | 48     | 25.4%   |
-| WDC                          | 8         | 12     | 12.7%   |
-| Toshiba                      | 8         | 14     | 12.7%   |
-| Samsung Electronics          | 7         | 11     | 11.11%  |
-| Dell                         | 4         | 8      | 6.35%   |
-| Intel                        | 3         | 3      | 4.76%   |
-| Unknown                      | 2         | 2      | 3.17%   |
-| SanDisk                      | 2         | 2      | 3.17%   |
-| Micron Technology            | 2         | 3      | 3.17%   |
-| HGST                         | 2         | 5      | 3.17%   |
-| Western Digital              | 1         | 1      | 1.59%   |
-| Transcend                    | 1         | 1      | 1.59%   |
-| Toshiba America Info Systems | 1         | 1      | 1.59%   |
-| SK hynix                     | 1         | 2      | 1.59%   |
-| SCST_FIO                     | 1         | 9      | 1.59%   |
-| NVMe                         | 1         | 1      | 1.59%   |
-| Hewlett-Packard              | 1         | 8      | 1.59%   |
-| Crucial                      | 1         | 1      | 1.59%   |
-| Anobit                       | 1         | 1      | 1.59%   |
+| Seagate                      | 16        | 48     | 25%     |
+| WDC                          | 8         | 12     | 12.5%   |
+| Toshiba                      | 8         | 14     | 12.5%   |
+| Samsung Electronics          | 7         | 11     | 10.94%  |
+| Dell                         | 4         | 8      | 6.25%   |
+| Intel                        | 3         | 3      | 4.69%   |
+| Unknown                      | 2         | 2      | 3.13%   |
+| SanDisk                      | 2         | 2      | 3.13%   |
+| Micron Technology            | 2         | 3      | 3.13%   |
+| HGST                         | 2         | 5      | 3.13%   |
+| Hewlett-Packard              | 2         | 10     | 3.13%   |
+| Western Digital              | 1         | 1      | 1.56%   |
+| Transcend                    | 1         | 1      | 1.56%   |
+| Toshiba America Info Systems | 1         | 1      | 1.56%   |
+| SK hynix                     | 1         | 2      | 1.56%   |
+| SCST_FIO                     | 1         | 9      | 1.56%   |
+| NVMe                         | 1         | 1      | 1.56%   |
+| Crucial                      | 1         | 1      | 1.56%   |
+| Anobit                       | 1         | 1      | 1.56%   |
 
 Drive Model
 -----------
@@ -792,46 +792,46 @@ Hard drive models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Toshiba MG04ACA100NY 1TB                            | 4         | 5.33%   |
-| Dell MD34xx 26TB                                    | 4         | 5.33%   |
-| WDC WD5003ABYZ-011FA0 500GB                         | 2         | 2.67%   |
-| Toshiba AL14SEB18EQ 1.8TB                           | 2         | 2.67%   |
-| Seagate ST91000640NS 1TB                            | 2         | 2.67%   |
-| Seagate ST4000NM0033-9ZM170 4TB                     | 2         | 2.67%   |
-| Seagate ST300MP0026 304GB                           | 2         | 2.67%   |
-| Seagate ST2000NX0433 2TB                            | 2         | 2.67%   |
-| Seagate ST2000NX0273 2TB                            | 2         | 2.67%   |
-| Samsung SSD 860 EVO 500GB                           | 2         | 2.67%   |
-| Samsung NVMe SSD Drive 512GB                        | 2         | 2.67%   |
-| Western Digital WUS3BA176C7P3E3 8TB                 | 1         | 1.33%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 1.33%   |
-| WDC WD5000HHTZ-04N21V0 500GB                        | 1         | 1.33%   |
-| WDC WD4000FYYZ-01UL1B1 4TB                          | 1         | 1.33%   |
-| WDC WD20EZRX-00DC0B0 2TB                            | 1         | 1.33%   |
-| WDC WD2002FFSX-68PF8N0 2TB                          | 1         | 1.33%   |
-| WDC WD10SPCX-75KHST0 1TB                            | 1         | 1.33%   |
-| WDC WD10EALX-759BA1 1TB                             | 1         | 1.33%   |
-| Unknown NVMe SSD Drive 1TB                          | 1         | 1.33%   |
-| Unknown MMC Card  128GB                             | 1         | 1.33%   |
-| Transcend TS512GMTS800 512GB SSD                    | 1         | 1.33%   |
-| Toshiba NVMe SSD Drive 1024GB                       | 1         | 1.33%   |
-| Toshiba MQ01ACF032 320GB                            | 1         | 1.33%   |
-| Toshiba America Info Systems KXG50ZNV256G NVM 256GB | 1         | 1.33%   |
-| SK hynix SC311 SATA 256GB SSD                       | 1         | 1.33%   |
-| Seagate ST9500620NS 500GB                           | 1         | 1.33%   |
-| Seagate ST6000NM0024-1HT17Z 6TB                     | 1         | 1.33%   |
-| Seagate ST4000NM0085-1YY107 4TB                     | 1         | 1.33%   |
-| Seagate ST3160815AS 160GB                           | 1         | 1.33%   |
-| Seagate ST2000VN000-1HJ164 2TB                      | 1         | 1.33%   |
-| Seagate ST2000NX0423 2TB                            | 1         | 1.33%   |
-| Seagate ST1000NM0065-1VT10C 1TB                     | 1         | 1.33%   |
-| SCST_FIO slordtgt008 8.7TB                          | 1         | 1.33%   |
-| SCST_FIO slordtgt007 8.7TB                          | 1         | 1.33%   |
-| SCST_FIO slordtgt006 8.7TB                          | 1         | 1.33%   |
-| SCST_FIO slordtgt005 8.7TB                          | 1         | 1.33%   |
-| SCST_FIO slordtgt004 8.7TB                          | 1         | 1.33%   |
-| SCST_FIO slordtgt003 274GB                          | 1         | 1.33%   |
-| SCST_FIO slordtgt002 274GB                          | 1         | 1.33%   |
+| Toshiba MG04ACA100NY 1TB                            | 4         | 5.19%   |
+| Dell MD34xx 26TB                                    | 4         | 5.19%   |
+| WDC WD5003ABYZ-011FA0 500GB                         | 2         | 2.6%    |
+| Toshiba AL14SEB18EQ 1.8TB                           | 2         | 2.6%    |
+| Seagate ST91000640NS 1TB                            | 2         | 2.6%    |
+| Seagate ST4000NM0033-9ZM170 4TB                     | 2         | 2.6%    |
+| Seagate ST300MP0026 304GB                           | 2         | 2.6%    |
+| Seagate ST2000NX0433 2TB                            | 2         | 2.6%    |
+| Seagate ST2000NX0273 2TB                            | 2         | 2.6%    |
+| Samsung SSD 860 EVO 500GB                           | 2         | 2.6%    |
+| Samsung NVMe SSD Drive 512GB                        | 2         | 2.6%    |
+| HP LOGICAL VOLUME 160GB                             | 2         | 2.6%    |
+| Western Digital WUS3BA176C7P3E3 8TB                 | 1         | 1.3%    |
+| WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 1.3%    |
+| WDC WD5000HHTZ-04N21V0 500GB                        | 1         | 1.3%    |
+| WDC WD4000FYYZ-01UL1B1 4TB                          | 1         | 1.3%    |
+| WDC WD20EZRX-00DC0B0 2TB                            | 1         | 1.3%    |
+| WDC WD2002FFSX-68PF8N0 2TB                          | 1         | 1.3%    |
+| WDC WD10SPCX-75KHST0 1TB                            | 1         | 1.3%    |
+| WDC WD10EALX-759BA1 1TB                             | 1         | 1.3%    |
+| Unknown NVMe SSD Drive 1TB                          | 1         | 1.3%    |
+| Unknown MMC Card  128GB                             | 1         | 1.3%    |
+| Transcend TS512GMTS800 512GB SSD                    | 1         | 1.3%    |
+| Toshiba NVMe SSD Drive 1024GB                       | 1         | 1.3%    |
+| Toshiba MQ01ACF032 320GB                            | 1         | 1.3%    |
+| Toshiba America Info Systems KXG50ZNV256G NVM 256GB | 1         | 1.3%    |
+| SK hynix SC311 SATA 256GB SSD                       | 1         | 1.3%    |
+| Seagate ST9500620NS 500GB                           | 1         | 1.3%    |
+| Seagate ST6000NM0024-1HT17Z 6TB                     | 1         | 1.3%    |
+| Seagate ST4000NM0085-1YY107 4TB                     | 1         | 1.3%    |
+| Seagate ST3160815AS 160GB                           | 1         | 1.3%    |
+| Seagate ST2000VN000-1HJ164 2TB                      | 1         | 1.3%    |
+| Seagate ST2000NX0423 2TB                            | 1         | 1.3%    |
+| Seagate ST1000NM0065-1VT10C 1TB                     | 1         | 1.3%    |
+| SCST_FIO slordtgt008 8.7TB                          | 1         | 1.3%    |
+| SCST_FIO slordtgt007 8.7TB                          | 1         | 1.3%    |
+| SCST_FIO slordtgt006 8.7TB                          | 1         | 1.3%    |
+| SCST_FIO slordtgt005 8.7TB                          | 1         | 1.3%    |
+| SCST_FIO slordtgt004 8.7TB                          | 1         | 1.3%    |
+| SCST_FIO slordtgt003 274GB                          | 1         | 1.3%    |
 
 HDD Vendor
 ----------
@@ -843,13 +843,13 @@ Hard disk drive vendors
 
 | Vendor          | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| Seagate         | 16        | 48     | 41.03%  |
-| WDC             | 8         | 11     | 20.51%  |
-| Toshiba         | 7         | 13     | 17.95%  |
-| Dell            | 4         | 8      | 10.26%  |
-| HGST            | 2         | 5      | 5.13%   |
-| SCST_FIO        | 1         | 9      | 2.56%   |
-| Hewlett-Packard | 1         | 8      | 2.56%   |
+| Seagate         | 16        | 48     | 40%     |
+| WDC             | 8         | 11     | 20%     |
+| Toshiba         | 7         | 13     | 17.5%   |
+| Dell            | 4         | 8      | 10%     |
+| HGST            | 2         | 5      | 5%      |
+| Hewlett-Packard | 2         | 10     | 5%      |
+| SCST_FIO        | 1         | 9      | 2.5%    |
 
 SSD Vendor
 ----------
@@ -881,10 +881,10 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 28        | 102    | 53.85%  |
-| SSD  | 12        | 16     | 23.08%  |
-| NVMe | 11        | 14     | 21.15%  |
-| MMC  | 1         | 1      | 1.92%   |
+| HDD  | 29        | 104    | 54.72%  |
+| SSD  | 12        | 16     | 22.64%  |
+| NVMe | 11        | 14     | 20.75%  |
+| MMC  | 1         | 1      | 1.89%   |
 
 Drive Connector
 ---------------
@@ -896,10 +896,10 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 34        | 110    | 68%     |
-| NVMe | 11        | 14     | 22%     |
-| SAS  | 4         | 8      | 8%      |
-| MMC  | 1         | 1      | 2%      |
+| SATA | 34        | 110    | 65.38%  |
+| NVMe | 11        | 14     | 21.15%  |
+| SAS  | 6         | 10     | 11.54%  |
+| MMC  | 1         | 1      | 1.92%   |
 
 Drive Size
 ----------
@@ -911,12 +911,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 15        | 24     | 31.91%  |
-| 0.01-0.5   | 15        | 31     | 31.91%  |
-| 1.01-2.0   | 7         | 31     | 14.89%  |
-| 20.01-50.0 | 4         | 8      | 8.51%   |
-| 3.01-4.0   | 3         | 13     | 6.38%   |
-| 4.01-10.0  | 3         | 11     | 6.38%   |
+| 0.01-0.5   | 16        | 33     | 33.33%  |
+| 0.51-1.0   | 15        | 24     | 31.25%  |
+| 1.01-2.0   | 7         | 31     | 14.58%  |
+| 20.01-50.0 | 4         | 8      | 8.33%   |
+| 3.01-4.0   | 3         | 13     | 6.25%   |
+| 4.01-10.0  | 3         | 11     | 6.25%   |
 
 Space Total
 -----------
@@ -1038,9 +1038,9 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 31        | 107    | 65.96%  |
-| Detected | 11        | 15     | 23.4%   |
-| Malfunc  | 5         | 11     | 10.64%  |
+| Works    | 31        | 107    | 63.27%  |
+| Detected | 13        | 17     | 26.53%  |
+| Malfunc  | 5         | 11     | 10.2%   |
 
 Storage controller
 ------------------
@@ -1464,7 +1464,7 @@ Monitor models
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | Dell LCD Monitor DEL0001 1280x1024                                    | 6         | 24%     |
-| ViewSonic VA2419 Series VSC7B32 1920x1080 530x300mm 24.0-inch         | 1         | 4%      |
+| ViewSonic VA2419 Series VSC7B32 1920x1080 527x296mm 23.8-inch         | 1         | 4%      |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 4%      |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 4%      |
 | Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1         | 4%      |
@@ -1472,7 +1472,7 @@ Monitor models
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
 | ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 4%      |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
-| Hewlett-Packard 24es HWP3320 1920x1080 527x296mm 23.8-inch            | 1         | 4%      |
+| Hewlett-Packard 24er HWP3320 1920x1080 527x296mm 23.8-inch            | 1         | 4%      |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1         | 4%      |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1         | 4%      |
 | Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 4%      |
@@ -1671,7 +1671,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 1.25%   |
 | QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.25%   |
 | Prolific USB-Serial Controller                                         | 1         | 1.25%   |
-| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 1.25%   |
+| OPPO SM8350-MTP _SN:9338D66C                                           | 1         | 1.25%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.25%   |
 | Intel Wi-Fi 6 AX200                                                    | 1         | 1.25%   |
 | Intel Ethernet Controller I225-LM                                      | 1         | 1.25%   |
@@ -1773,7 +1773,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                                 | 2         | 3.17%   |
 | Dell iDRAC Virtual NIC                                                 | 2         | 3.17%   |
 | QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.59%   |
-| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 1.59%   |
+| OPPO SM8350-MTP _SN:9338D66C                                           | 1         | 1.59%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.59%   |
 | Intel Ethernet Controller I225-LM                                      | 1         | 1.59%   |
 | Intel Ethernet Connection I219-LM                                      | 1         | 1.59%   |
@@ -1876,9 +1876,9 @@ Controller models
 
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface             | 5         | 50%     |
+| Intel Bluetooth Device                         | 5         | 50%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2         | 20%     |
-| Realtek  Bluetooth 4.2 Adapter                 | 1         | 10%     |
+| Realtek Bluetooth Radio                        | 1         | 10%     |
 | Intel AX200 Bluetooth                          | 1         | 10%     |
 | ASUS Qualcomm Bluetooth 4.1                    | 1         | 10%     |
 
@@ -1931,7 +1931,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                               | 1         | 3.23%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 1         | 3.23%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 1         | 3.23%   |
-| C-Media Electronics USB Advanced Audio Device                                     | 1         | 3.23%   |
+| C-Media Electronics Sharkoon B2                                                   | 1         | 3.23%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1         | 3.23%   |
 
 Memory
@@ -1968,7 +1968,7 @@ Memory module models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s    | 4         | 9.76%   |
+| SK hynix RAM HMA81GU7AFR8N-UH 8192MB DIMM DDR4 2400MT/s | 4         | 9.76%   |
 | SK hynix RAM HMA81GR7AFR8N-VK 8192MB DIMM DDR4 2666MT/s | 3         | 7.32%   |
 | SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s   | 3         | 7.32%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1600MT/s            | 2         | 4.88%   |
@@ -2218,9 +2218,9 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 17        | 37.78%  |
-| 2     | 12        | 26.67%  |
+| 2     | 11        | 24.44%  |
 | 3     | 7         | 15.56%  |
-| 1     | 6         | 13.33%  |
+| 1     | 7         | 15.56%  |
 | 5     | 3         | 6.67%   |
 
 Unsupported Device Types

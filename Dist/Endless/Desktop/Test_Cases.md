@@ -1,10 +1,19 @@
 Endless - Test Cases (Desktops)
 -------------------------------
 
-Total: 1155
+Total: 1164
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | TUF Gaming X570-PLUS        | [f0e6546433](https://linux-hardware.org/?probe=f0e6546433) | May 05, 2024 |
+| ASRock        | A520M-HDV                   | [f0d3e66a28](https://linux-hardware.org/?probe=f0d3e66a28) | May 04, 2024 |
+| Dell          | 0PU052                      | [077bc56832](https://linux-hardware.org/?probe=077bc56832) | Apr 11, 2024 |
+| XFX           | MB-750I-72P9                | [fc5cf282c8](https://linux-hardware.org/?probe=fc5cf282c8) | Mar 27, 2024 |
+| MSI           | Z87-G45 GAMING              | [9d1882967c](https://linux-hardware.org/?probe=9d1882967c) | Mar 27, 2024 |
+| Gigabyte      | B450M GAMING                | [77e9ae35fd](https://linux-hardware.org/?probe=77e9ae35fd) | Mar 12, 2024 |
+| Gigabyte      | 970A-D3                     | [655090e5a1](https://linux-hardware.org/?probe=655090e5a1) | Mar 06, 2024 |
+| Gigabyte      | 970A-D3                     | [010b7bcfd1](https://linux-hardware.org/?probe=010b7bcfd1) | Mar 06, 2024 |
+| Dell          | 0H634K A00                  | [09ca1ba335](https://linux-hardware.org/?probe=09ca1ba335) | Feb 16, 2024 |
 | Dell          | 0D24M8 A02                  | [7aacff6afb](https://linux-hardware.org/?probe=7aacff6afb) | Jan 04, 2024 |
 | ASUSTek       | P8Z77-V DELUXE              | [6e57197ce6](https://linux-hardware.org/?probe=6e57197ce6) | Dec 10, 2023 |
 | Gigabyte      | 970A-UD3P                   | [34792695eb](https://linux-hardware.org/?probe=34792695eb) | Oct 12, 2023 |

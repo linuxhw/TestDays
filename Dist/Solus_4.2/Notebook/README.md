@@ -1181,7 +1181,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 293x165mm 13.2-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1509,16 +1509,17 @@ Controller models
 ![Bluetooth Model](./images/pie_chart/bt_model.svg)
 
 
-| Model                                      | Notebooks | Percent |
-|--------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface         | 2         | 20%     |
-| Intel Bluetooth Device                     | 2         | 20%     |
-| Toshiba RT Bluetooth Radio                 | 1         | 10%     |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 10%     |
-| Qualcomm Atheros AR9462 Bluetooth          | 1         | 10%     |
-| Qualcomm Atheros AR3011 Bluetooth          | 1         | 10%     |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 10%     |
-| Intel AX200 Bluetooth                      | 1         | 10%     |
+| Model                                            | Notebooks | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
+| Toshiba RT Bluetooth Radio                       | 1         | 10%     |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
+| Intel Bluetooth wireless interface               | 1         | 10%     |
+| Intel Bluetooth Device                           | 1         | 10%     |
+| Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
 -----
@@ -1590,12 +1591,12 @@ Memory module models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 16.67%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 16.67%  |
+| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 16.67%  |
-| A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 16.67%  |
+| A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2400MT/s      | 1         | 16.67%  |
 
 Memory Kind
 -----------
@@ -1647,11 +1648,10 @@ Memory module speed
 
 | Speed | Notebooks | Percent |
 |-------|-----------|---------|
-| 3200  | 1         | 20%     |
-| 2400  | 1         | 20%     |
-| 2133  | 1         | 20%     |
-| 1600  | 1         | 20%     |
-| 1334  | 1         | 20%     |
+| 3200  | 1         | 25%     |
+| 2400  | 1         | 25%     |
+| 1600  | 1         | 25%     |
+| 1334  | 1         | 25%     |
 
 Printers & scanners
 -------------------
@@ -1795,8 +1795,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 6         | 46.15%  |
-| 1     | 5         | 38.46%  |
+| 0     | 7         | 53.85%  |
+| 1     | 4         | 30.77%  |
 | 2     | 2         | 15.38%  |
 
 Unsupported Device Types
@@ -1809,8 +1809,7 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 4         | 50%     |
-| Net/wireless       | 2         | 25%     |
-| Graphics card      | 1         | 12.5%   |
-| Chipcard           | 1         | 12.5%   |
+| Fingerprint reader | 4         | 57.14%  |
+| Net/wireless       | 2         | 28.57%  |
+| Chipcard           | 1         | 14.29%  |
 

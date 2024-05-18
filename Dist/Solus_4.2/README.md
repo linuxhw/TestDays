@@ -802,7 +802,7 @@ Hard drive models
 | SanDisk SDSSDP064G 64GB                  | 1         | 2.22%   |
 | SanDisk SDSSDA240G 240GB                 | 1         | 2.22%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 2.22%   |
-| SanDisk Extreme SSD 500GB                | 1         | 2.22%   |
+| SanDisk Extreme SSD 1TB                  | 1         | 2.22%   |
 | Samsung SSD 970 EVO Plus 2TB             | 1         | 2.22%   |
 | Samsung SSD 970 EVO 500GB                | 1         | 2.22%   |
 | Samsung PSSD T7 500GB                    | 1         | 2.22%   |
@@ -897,10 +897,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 20        | 25     | 62.5%   |
-| 0.51-1.0   | 10        | 15     | 31.25%  |
-| 3.01-4.0   | 1         | 1      | 3.13%   |
-| 1.01-2.0   | 1         | 4      | 3.13%   |
+| 0.01-0.5   | 19        | 23     | 61.29%  |
+| 0.51-1.0   | 10        | 17     | 32.26%  |
+| 3.01-4.0   | 1         | 1      | 3.23%   |
+| 1.01-2.0   | 1         | 4      | 3.23%   |
 
 Space Total
 -----------
@@ -1410,7 +1410,7 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 344x194mm 15.5-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 293x165mm 13.2-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
@@ -1431,11 +1431,11 @@ Monitor models
 | AU Optronics LCD Monitor AUO139E 1600x900 382x214mm 17.2-inch        | 1         | 3.45%   |
 | AU Optronics LCD Monitor AUO10EC 1366x768 344x193mm 15.5-inch        | 1         | 3.45%   |
 | Apple iMac APPAE05 3840x2160 597x336mm 27.0-inch                     | 1         | 3.45%   |
-| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 1         | 3.45%   |
+| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                   | 1         | 3.45%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch     | 1         | 3.45%   |
 | Ancor Communications LCD Monitor VX229                               | 1         | 3.45%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                     | 1         | 3.45%   |
-| Acer V226HQL ACR032D 1920x1080 477x268mm 21.5-inch                   | 1         | 3.45%   |
+| Acer V226HQL ACR032D 1920x1080 480x270mm 21.7-inch                   | 1         | 3.45%   |
 
 Monitor Resolution
 ------------------
@@ -1818,20 +1818,21 @@ Controller models
 ![Bluetooth Model](./All/images/pie_chart/bt_model.svg)
 
 
-| Model                                      | Computers | Percent |
-|--------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface         | 2         | 13.33%  |
-| Intel Bluetooth Device                     | 2         | 13.33%  |
-| Apple Bluetooth USB Host Controller        | 2         | 13.33%  |
-| Toshiba RT Bluetooth Radio                 | 1         | 6.67%   |
-| Realtek RTL8822BE Bluetooth 4.2 Adapter    | 1         | 6.67%   |
-| Realtek Bluetooth Radio                    | 1         | 6.67%   |
-| Qualcomm Atheros AR9462 Bluetooth          | 1         | 6.67%   |
-| Qualcomm Atheros AR3011 Bluetooth          | 1         | 6.67%   |
-| Lite-On Qualcomm Atheros QCA9377 Bluetooth | 1         | 6.67%   |
-| Intel Wireless-AC 9260 Bluetooth Adapter   | 1         | 6.67%   |
-| Intel AX200 Bluetooth                      | 1         | 6.67%   |
-| Broadcom BCM20702A0 Bluetooth 4.0          | 1         | 6.67%   |
+| Model                                            | Computers | Percent |
+|--------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 13.33%  |
+| Apple Bluetooth USB Host Controller              | 2         | 13.33%  |
+| Toshiba RT Bluetooth Radio                       | 1         | 6.67%   |
+| Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 6.67%   |
+| Realtek Bluetooth Radio                          | 1         | 6.67%   |
+| Qualcomm Atheros AR9462 Bluetooth                | 1         | 6.67%   |
+| Qualcomm Atheros AR3011 Bluetooth                | 1         | 6.67%   |
+| Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 6.67%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 6.67%   |
+| Intel Bluetooth wireless interface               | 1         | 6.67%   |
+| Intel Bluetooth Device                           | 1         | 6.67%   |
+| Intel AX200 Bluetooth                            | 1         | 6.67%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                | 1         | 6.67%   |
 
 Sound
 -----
@@ -1927,14 +1928,14 @@ Memory module models
 | Model                                                     | Computers | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 11.11%  |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1         | 11.11%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 11.11%  |
+| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 11.11%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 11.11%  |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 11.11%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 11.11%  |
 | G.Skill RAM F4-3600C16-16GVKC 16GB DIMM DDR4 3866MT/s     | 1         | 11.11%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 11.11%  |
-| A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2133MT/s      | 1         | 11.11%  |
+| A-DATA RAM AO1P24HC8T1-B2NS 8GB SODIMM DDR4 2400MT/s      | 1         | 11.11%  |
 
 Memory Kind
 -----------
@@ -1988,13 +1989,12 @@ Memory module speed
 
 | Speed | Computers | Percent |
 |-------|-----------|---------|
-| 3866  | 1         | 14.29%  |
-| 3200  | 1         | 14.29%  |
-| 2400  | 1         | 14.29%  |
-| 2133  | 1         | 14.29%  |
-| 1867  | 1         | 14.29%  |
-| 1600  | 1         | 14.29%  |
-| 1334  | 1         | 14.29%  |
+| 3866  | 1         | 16.67%  |
+| 3200  | 1         | 16.67%  |
+| 2400  | 1         | 16.67%  |
+| 1867  | 1         | 16.67%  |
+| 1600  | 1         | 16.67%  |
+| 1334  | 1         | 16.67%  |
 
 Printers & scanners
 -------------------
@@ -2082,7 +2082,7 @@ Camera device models
 | Chicony Integrated Camera                 | 1         | 7.14%   |
 | Chicony HD WebCam                         | 1         | 7.14%   |
 | Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR        | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X           | 1         | 7.14%   |
 | Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security
@@ -2157,8 +2157,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 16        | 61.54%  |
-| 1     | 7         | 26.92%  |
+| 0     | 17        | 65.38%  |
+| 1     | 6         | 23.08%  |
 | 2     | 3         | 11.54%  |
 
 Unsupported Device Types
@@ -2171,9 +2171,8 @@ Types of unsupported devices
 
 | Type               | Computers | Percent |
 |--------------------|-----------|---------|
-| Net/wireless       | 4         | 33.33%  |
-| Fingerprint reader | 4         | 33.33%  |
-| Chipcard           | 2         | 16.67%  |
-| Unassigned class   | 1         | 8.33%   |
-| Graphics card      | 1         | 8.33%   |
+| Net/wireless       | 4         | 36.36%  |
+| Fingerprint reader | 4         | 36.36%  |
+| Chipcard           | 2         | 18.18%  |
+| Unassigned class   | 1         | 9.09%   |
 

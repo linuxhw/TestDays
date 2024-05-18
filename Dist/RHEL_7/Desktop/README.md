@@ -1180,9 +1180,9 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Dell LCD Monitor DEL0001 1280x1024                                    | 6        | 54.55%  |
-| ViewSonic VA2419 Series VSC7B32 1920x1080 530x300mm 24.0-inch         | 1        | 9.09%   |
+| ViewSonic VA2419 Series VSC7B32 1920x1080 527x296mm 23.8-inch         | 1        | 9.09%   |
 | Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1        | 9.09%   |
-| Hewlett-Packard 24es HWP3320 1920x1080 527x296mm 23.8-inch            | 1        | 9.09%   |
+| Hewlett-Packard 24er HWP3320 1920x1080 527x296mm 23.8-inch            | 1        | 9.09%   |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1        | 9.09%   |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1        | 9.09%   |
 
@@ -1528,7 +1528,7 @@ Sound card models
 | Intel 82801JI (ICH10 Family) HD Audio Controller                                  | 1        | 6.25%   |
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                               | 1        | 6.25%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 1        | 6.25%   |
-| C-Media Electronics USB Advanced Audio Device                                     | 1        | 6.25%   |
+| C-Media Electronics Sharkoon B2                                                   | 1        | 6.25%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1        | 6.25%   |
 
 Memory
@@ -1728,9 +1728,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 2     | 7        | 50%     |
+| 2     | 6        | 42.86%  |
 | 0     | 4        | 28.57%  |
-| 1     | 2        | 14.29%  |
+| 1     | 3        | 21.43%  |
 | 3     | 1        | 7.14%   |
 
 Unsupported Device Types

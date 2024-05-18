@@ -1,10 +1,49 @@
 Fedora 38 - Test Cases (Desktops)
 ---------------------------------
 
-Total: 1371
+Total: 1410
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| MSI           | MPG X570 GAMING PRO CARB... | [1be8775956](https://linux-hardware.org/?probe=1be8775956) | May 08, 2024 |
+| ASRock        | Z87 Extreme6                | [738b732d00](https://linux-hardware.org/?probe=738b732d00) | Apr 29, 2024 |
+| MSI           | MPG X570S CARBON MAX WIF... | [39557715aa](https://linux-hardware.org/?probe=39557715aa) | Apr 27, 2024 |
+| Pegatron      | 2AA1h                       | [52b3bc466c](https://linux-hardware.org/?probe=52b3bc466c) | Apr 25, 2024 |
+| Gigabyte      | F2A58M-HD2                  | [4906ae2911](https://linux-hardware.org/?probe=4906ae2911) | Apr 24, 2024 |
+| Gigabyte      | F2A58M-HD2                  | [6574256f49](https://linux-hardware.org/?probe=6574256f49) | Apr 24, 2024 |
+| HP            | 158B                        | [de46c9cc60](https://linux-hardware.org/?probe=de46c9cc60) | Apr 23, 2024 |
+| Itautec       | ST 4265                     | [dc37dd8381](https://linux-hardware.org/?probe=dc37dd8381) | Apr 10, 2024 |
+| Itautec       | ST 4265                     | [c54a887467](https://linux-hardware.org/?probe=c54a887467) | Apr 09, 2024 |
+| Gigabyte      | Z790 AORUS ELITE X WIFI7    | [4d6b0e4311](https://linux-hardware.org/?probe=4d6b0e4311) | Apr 05, 2024 |
+| ASUSTek       | M5A78L-M/USB3               | [3dc1519718](https://linux-hardware.org/?probe=3dc1519718) | Mar 31, 2024 |
+| MSI           | B250M BAZOOKA               | [f942d827e4](https://linux-hardware.org/?probe=f942d827e4) | Mar 29, 2024 |
+| HP            | 1494                        | [21e1184473](https://linux-hardware.org/?probe=21e1184473) | Mar 24, 2024 |
+| Dell          | 06D7TR A00                  | [3c6718eb19](https://linux-hardware.org/?probe=3c6718eb19) | Mar 23, 2024 |
+| ASRock        | B560M-ITX/ac                | [deb5d7b1ca](https://linux-hardware.org/?probe=deb5d7b1ca) | Mar 23, 2024 |
+| HP            | 3047h                       | [d9e1d41076](https://linux-hardware.org/?probe=d9e1d41076) | Mar 20, 2024 |
+| Lenovo        | ThinkServer TS140           | [1d903ed7a4](https://linux-hardware.org/?probe=1d903ed7a4) | Mar 18, 2024 |
+| MSI           | X470 GAMING PLUS MAX        | [d0cd5bb06c](https://linux-hardware.org/?probe=d0cd5bb06c) | Mar 17, 2024 |
+| ASRock        | B560M-ITX/ac                | [3c068136de](https://linux-hardware.org/?probe=3c068136de) | Mar 17, 2024 |
+| Lenovo        | SHARKBAY NOK                | [3b5f5142dd](https://linux-hardware.org/?probe=3b5f5142dd) | Mar 16, 2024 |
+| ASUSTek       | M5A78L/USB3                 | [69c98f08eb](https://linux-hardware.org/?probe=69c98f08eb) | Mar 15, 2024 |
+| MSI           | 970A SLI Krait Edition      | [0199fc6eb3](https://linux-hardware.org/?probe=0199fc6eb3) | Mar 12, 2024 |
+| ASUSTek       | P7P55D                      | [2b9fe60339](https://linux-hardware.org/?probe=2b9fe60339) | Mar 04, 2024 |
+| MSI           | MPG X570S CARBON MAX WIF... | [165a9a11e4](https://linux-hardware.org/?probe=165a9a11e4) | Mar 01, 2024 |
+| Lenovo        | ThinkServer TS140           | [c405aa01a0](https://linux-hardware.org/?probe=c405aa01a0) | Feb 28, 2024 |
+| Gigabyte      | B450M DS3H-CF               | [04eb7eabdf](https://linux-hardware.org/?probe=04eb7eabdf) | Feb 26, 2024 |
+| ASUSTek       | Z87-PRO                     | [f0ca2a9462](https://linux-hardware.org/?probe=f0ca2a9462) | Feb 24, 2024 |
+| Unknown       | Unknown                     | [88a934f458](https://linux-hardware.org/?probe=88a934f458) | Feb 21, 2024 |
+| Itautec       | ST 4265 ST-4265 Padrao 0... | [622054b594](https://linux-hardware.org/?probe=622054b594) | Feb 20, 2024 |
+| ASRock        | AM1H-ITX                    | [3b7aca51d9](https://linux-hardware.org/?probe=3b7aca51d9) | Feb 19, 2024 |
+| Huanan        | X99-TF                      | [08b622a692](https://linux-hardware.org/?probe=08b622a692) | Feb 17, 2024 |
+| ASUSTek       | H61M-C                      | [0c06ff8ed4](https://linux-hardware.org/?probe=0c06ff8ed4) | Feb 15, 2024 |
+| Gigabyte      | B450 AORUS M                | [6c71a0e270](https://linux-hardware.org/?probe=6c71a0e270) | Feb 09, 2024 |
+| ASUSTek       | PRIME H310M-A R2.0          | [1909164628](https://linux-hardware.org/?probe=1909164628) | Feb 09, 2024 |
+| ASUSTek       | STRIX Z270G GAMING          | [5edaab42ec](https://linux-hardware.org/?probe=5edaab42ec) | Feb 07, 2024 |
+| Gigabyte      | TRX40 AORUS MASTER          | [109ad93b1a](https://linux-hardware.org/?probe=109ad93b1a) | Feb 07, 2024 |
+| Dell          | 0HD5W2 A00                  | [c299aca84a](https://linux-hardware.org/?probe=c299aca84a) | Feb 07, 2024 |
+| ASUSTek       | PRIME H310M-A R2.0          | [46c2322554](https://linux-hardware.org/?probe=46c2322554) | Feb 05, 2024 |
+| ASUSTek       | PRIME H470M-PLUS            | [a26110a2f5](https://linux-hardware.org/?probe=a26110a2f5) | Feb 04, 2024 |
 | ASRock        | B560M-ITX/ac                | [9ed6c67efe](https://linux-hardware.org/?probe=9ed6c67efe) | Feb 02, 2024 |
 | ASUSTek       | PRIME B450M-A II            | [abdcd1a804](https://linux-hardware.org/?probe=abdcd1a804) | Jan 30, 2024 |
 | Dell          | 0HHV7N A00                  | [38b1e0aa62](https://linux-hardware.org/?probe=38b1e0aa62) | Jan 23, 2024 |
@@ -762,7 +801,7 @@ Total: 1371
 | ASUSTek       | TUF B360-PLUS GAMING        | [173929b667](https://linux-hardware.org/?probe=173929b667) | Jul 19, 2023 |
 | Dell          | 0MN1TX A01                  | [696072cf7c](https://linux-hardware.org/?probe=696072cf7c) | Jul 18, 2023 |
 | LattePanda    | 3 Delta LP-BS-7-S70JR120... | [0296e5fd5c](https://linux-hardware.org/?probe=0296e5fd5c) | Jul 18, 2023 |
-| Gigabyte      | Z270XP-SLI-CF               | [14478a9226](https://linux-hardware.org/?probe=14478a9226) | Jul 18, 2023 |
+| ASRock        | B550 Phantom Gaming 4       | [14478a9226](https://linux-hardware.org/?probe=14478a9226) | Jul 18, 2023 |
 | ASUSTek       | ROG STRIX B550-I GAMING     | [3618885533](https://linux-hardware.org/?probe=3618885533) | Jul 18, 2023 |
 | Gigabyte      | B450M GAMING                | [d0fff20fb0](https://linux-hardware.org/?probe=d0fff20fb0) | Jul 18, 2023 |
 | MSI           | B450 GAMING PRO CARBON A... | [d2c6c9bcba](https://linux-hardware.org/?probe=d2c6c9bcba) | Jul 18, 2023 |

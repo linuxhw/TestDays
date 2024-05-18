@@ -1280,7 +1280,7 @@ Controller models
 | Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 4.35%   |
 | Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 4.35%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 4.35%   |
-| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 4.35%   |
+| OPPO SM8350-MTP _SN:9338D66C                                           | 1         | 4.35%   |
 | Intel Wi-Fi 6 AX200                                                    | 1         | 4.35%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1         | 4.35%   |
 | Intel Ethernet Connection (6) I219-LM                                  | 1         | 4.35%   |
@@ -1354,7 +1354,7 @@ Ethernet models
 | Intel Ethernet Connection (6) I219-V                                   | 2         | 18.18%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 9.09%   |
 | Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
-| OPPO SM8350-IDP _SN:361A1B3C                                           | 1         | 9.09%   |
+| OPPO SM8350-MTP _SN:9338D66C                                           | 1         | 9.09%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1         | 9.09%   |
 | Intel Ethernet Connection (6) I219-LM                                  | 1         | 9.09%   |
 | Intel Ethernet Connection (5) I219-LM                                  | 1         | 9.09%   |
@@ -1440,9 +1440,9 @@ Controller models
 
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface             | 4         | 50%     |
+| Intel Bluetooth Device                         | 4         | 50%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2         | 25%     |
-| Realtek  Bluetooth 4.2 Adapter                 | 1         | 12.5%   |
+| Realtek Bluetooth Radio                        | 1         | 12.5%   |
 | Intel AX200 Bluetooth                          | 1         | 12.5%   |
 
 Sound

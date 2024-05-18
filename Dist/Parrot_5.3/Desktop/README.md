@@ -268,15 +268,14 @@ Desktop Environment
 ![DE](./images/pie_chart/os_de.svg)
 
 
-| Name            | Desktops | Percent |
-|-----------------|----------|---------|
-| MATE            | 25       | 75.76%  |
-| KDE5            | 2        | 6.06%   |
-| GNOME           | 2        | 6.06%   |
-| XFCE            | 1        | 3.03%   |
-| GNOME Flashback | 1        | 3.03%   |
-| bspwm           | 1        | 3.03%   |
-| Unknown         | 1        | 3.03%   |
+| Name    | Desktops | Percent |
+|---------|----------|---------|
+| MATE    | 25       | 78.13%  |
+| KDE5    | 2        | 6.25%   |
+| GNOME   | 2        | 6.25%   |
+| XFCE    | 1        | 3.13%   |
+| bspwm   | 1        | 3.13%   |
+| Unknown | 1        | 3.13%   |
 
 Display Server
 --------------
@@ -756,7 +755,7 @@ Hard drive vendors
 | Samsung Electronics         | 9        | 13     | 14.75%  |
 | Toshiba                     | 6        | 7      | 9.84%   |
 | Hitachi                     | 4        | 7      | 6.56%   |
-| Sandisk                     | 3        | 3      | 4.92%   |
+| SanDisk                     | 3        | 3      | 4.92%   |
 | Kingston                    | 3        | 3      | 4.92%   |
 | SPCC                        | 2        | 2      | 3.28%   |
 | Crucial                     | 2        | 2      | 3.28%   |
@@ -794,7 +793,7 @@ Hard drive models
 | WDC WD3200BEVT-75ZCT2 320GB                           | 1        | 1.52%   |
 | WDC WD3200AVJS-63B6A0 320GB                           | 1        | 1.52%   |
 | WDC WD30EFRX-68EUZN0 3TB                              | 1        | 1.52%   |
-| WDC WD2500AAJS-75M0A0 249GB                           | 1        | 1.52%   |
+| WDC WD2500AAJS-75M0A0 250GB                           | 1        | 1.52%   |
 | WDC WD1003FZEX-00MK2A0 1TB                            | 1        | 1.52%   |
 | WDC WD1003FZEX-00K3CA0 1TB                            | 1        | 1.52%   |
 | WDC PC SN520 SDAPNUW-256G-1006 256GB                  | 1        | 1.52%   |
@@ -809,7 +808,7 @@ Hard drive models
 | SPCC Solid State Disk 1TB                             | 1        | 1.52%   |
 | SPCC M.2 PCIe SSD 256GB                               | 1        | 1.52%   |
 | SK hynix BC901 NVMe 256GB                             | 1        | 1.52%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller 128GB | 1        | 1.52%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller 256GB | 1        | 1.52%   |
 | Seagate ST3500414CS 500GB                             | 1        | 1.52%   |
 | Seagate ST31000524AS 1TB                              | 1        | 1.52%   |
 | Seagate ST2000DM008-2UB102 2TB                        | 1        | 1.52%   |
@@ -818,7 +817,7 @@ Hard drive models
 | Seagate ST1000VT001-1RE172 1TB                        | 1        | 1.52%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                    | 1        | 1.52%   |
 | Seagate ST1000DM003-1SB102 1TB                        | 1        | 1.52%   |
-| Seagate BUP Slim SL 2TB                               | 1        | 1.52%   |
+| Seagate BUP Slim SL 1TB                               | 1        | 1.52%   |
 | Sandisk WD Blue SN570 1TB                             | 1        | 1.52%   |
 | Samsung SSD 980 PRO 1TB                               | 1        | 1.52%   |
 | Samsung SSD 980 1TB                                   | 1        | 1.52%   |
@@ -901,11 +900,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 14       | 20     | 36.84%  |
-| 0.01-0.5   | 14       | 27     | 36.84%  |
-| 1.01-2.0   | 6        | 6      | 15.79%  |
-| 3.01-4.0   | 2        | 3      | 5.26%   |
-| 2.01-3.0   | 2        | 4      | 5.26%   |
+| 0.51-1.0   | 14       | 21     | 37.84%  |
+| 0.01-0.5   | 14       | 27     | 37.84%  |
+| 1.01-2.0   | 5        | 5      | 13.51%  |
+| 3.01-4.0   | 2        | 3      | 5.41%   |
+| 2.01-3.0   | 2        | 4      | 5.41%   |
 
 Space Total
 -----------
@@ -1454,42 +1453,42 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| ViewSonic VA3456-WQHD VSCFC3A 3440x1440 800x335mm 34.1-inch            | 1        | 2.94%   |
-| Unknown LCD Monitor SAMSUNG 1600x900                                   | 1        | 2.94%   |
-| Samsung Electronics SyncMaster SAM060D 1920x1080 531x299mm 24.0-inch   | 1        | 2.94%   |
-| Samsung Electronics SyncMaster SAM0117 1280x1024 312x234mm 15.4-inch   | 1        | 2.94%   |
-| Samsung Electronics SMB2430H SAM064D 1920x1080 531x299mm 24.0-inch     | 1        | 2.94%   |
-| Samsung Electronics LF27T35 SAM707F 1920x1080 598x337mm 27.0-inch      | 1        | 2.94%   |
-| Samsung Electronics LF24T35 SAM707E 1920x1080 528x297mm 23.9-inch      | 1        | 2.94%   |
-| Samsung Electronics LF24T35 SAM707D 1920x1080 528x297mm 23.9-inch      | 1        | 2.94%   |
-| Samsung Electronics LCD Monitor SAM723F 3840x2160 700x390mm 31.5-inch  | 1        | 2.94%   |
-| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 1020x570mm 46.0-inch | 1        | 2.94%   |
-| Samsung Electronics LCD Monitor SAM07BA 1920x1080 890x500mm 40.2-inch  | 1        | 2.94%   |
-| Philips PHL 241V8 PHLC212 1920x1080 527x296mm 23.8-inch                | 1        | 2.94%   |
-| KON TV_MONITOR KON0030 3840x2160 708x398mm 32.0-inch                   | 1        | 2.94%   |
-| Iiyama PL3461WQ IVM7615 3440x1440 800x330mm 34.1-inch                  | 1        | 2.94%   |
-| Hewlett-Packard w2408 HWP26CE 1920x1200 518x324mm 24.1-inch            | 1        | 2.94%   |
-| Hewlett-Packard L191s HWP2979 1280x1024 350x270mm 17.4-inch            | 1        | 2.94%   |
-| Hewlett-Packard E231 HWP3065 1920x1080 510x287mm 23.0-inch             | 1        | 2.94%   |
-| Hewlett-Packard E221 HWP3062 1920x1080 496x292mm 22.7-inch             | 1        | 2.94%   |
-| Goldstar ULTRAWIDE GSM7768 3440x1440 800x334mm 34.1-inch               | 1        | 2.94%   |
-| Goldstar ULTRAWIDE GSM7767 3440x1440 800x334mm 34.1-inch               | 1        | 2.94%   |
-| Dell S2721D DELA19A 2560x1440 597x336mm 27.0-inch                      | 1        | 2.94%   |
-| Dell S2419HGF DELD0E3 1920x1080 531x299mm 24.0-inch                    | 1        | 2.94%   |
-| Dell E2218HN DELF09E 1920x1080 476x268mm 21.5-inch                     | 1        | 2.94%   |
-| Dell 2001FP DELA008 1600x1200 367x275mm 18.1-inch                      | 1        | 2.94%   |
-| Dell 1907FP DEL4015 1280x1024 376x301mm 19.0-inch                      | 1        | 2.94%   |
-| BenQ EW277HDR BNQ7948 1920x1080 598x336mm 27.0-inch                    | 1        | 2.94%   |
-| BenQ EL2870U BNQ7949 3840x2160 621x341mm 27.9-inch                     | 1        | 2.94%   |
-| BBY LCD Monitor NS24ED310NA15                                          | 1        | 2.94%   |
-| ASUSTek Computer VG258 AUS25A4 1920x1080 544x303mm 24.5-inch           | 1        | 2.94%   |
-| AOC 27G2G8 AOC2702 1920x1080 598x336mm 27.0-inch                       | 1        | 2.94%   |
-| Ancor Communications LCD Monitor ASUS VH236H 5200x1080                 | 1        | 2.94%   |
-| Acer V223W ACR001B 1680x1050 474x296mm 22.0-inch                       | 1        | 2.94%   |
-| Acer SA230 ACR057E 1920x1080 509x286mm 23.0-inch                       | 1        | 2.94%   |
-| Acer LCD Monitor H236HL                                                | 1        | 2.94%   |
+| Model                                                                   | Desktops | Percent |
+|-------------------------------------------------------------------------|----------|---------|
+| ViewSonic VA3456-WQHD VSCFC3A 3440x1440 800x335mm 34.1-inch             | 1        | 2.94%   |
+| Unknown LCD Monitor SAMSUNG 1600x900                                    | 1        | 2.94%   |
+| Samsung Electronics SyncMaster SAM060D 1920x1080                        | 1        | 2.94%   |
+| Samsung Electronics SyncMaster SAM0117 1280x1024 312x234mm 15.4-inch    | 1        | 2.94%   |
+| Samsung Electronics SMB2430H SAM064D 1920x1080 531x299mm 24.0-inch      | 1        | 2.94%   |
+| Samsung Electronics LF27T35 SAM707F 1920x1080 598x337mm 27.0-inch       | 1        | 2.94%   |
+| Samsung Electronics LF24T35 SAM707E 1920x1080 528x297mm 23.9-inch       | 1        | 2.94%   |
+| Samsung Electronics LF24T35 SAM707D 1920x1080 528x297mm 23.9-inch       | 1        | 2.94%   |
+| Samsung Electronics LCD Monitor SAM723F 3840x2160 700x390mm 31.5-inch   | 1        | 2.94%   |
+| Samsung Electronics LCD Monitor SAM0D3B 3840x2160 1872x1053mm 84.6-inch | 1        | 2.94%   |
+| Samsung Electronics LCD Monitor SAM07BA 1920x1080 480x270mm 21.7-inch   | 1        | 2.94%   |
+| Philips PHL 241V8 PHLC212 1920x1080 527x296mm 23.8-inch                 | 1        | 2.94%   |
+| KON TV_MONITOR KON0030 3840x2160 708x398mm 32.0-inch                    | 1        | 2.94%   |
+| Iiyama PL3461WQ IVM7615 3440x1440 800x330mm 34.1-inch                   | 1        | 2.94%   |
+| Hewlett-Packard w2408 HWP26CE 1920x1200 518x324mm 24.1-inch             | 1        | 2.94%   |
+| Hewlett-Packard L191s HWP2979 1280x1024 350x270mm 17.4-inch             | 1        | 2.94%   |
+| Hewlett-Packard E231 HWP3065 1920x1080 509x286mm 23.0-inch              | 1        | 2.94%   |
+| Hewlett-Packard E221 HWP3062 1920x1080 496x292mm 22.7-inch              | 1        | 2.94%   |
+| Goldstar ULTRAWIDE GSM7768 3440x1440 800x334mm 34.1-inch                | 1        | 2.94%   |
+| Goldstar ULTRAWIDE GSM7767 3440x1440 800x334mm 34.1-inch                | 1        | 2.94%   |
+| Dell S2721D DELA19A 2560x1440 597x336mm 27.0-inch                       | 1        | 2.94%   |
+| Dell S2419HGF DELD0E3 1920x1080 531x299mm 24.0-inch                     | 1        | 2.94%   |
+| Dell E2218HN DELF09E 1920x1080 476x268mm 21.5-inch                      | 1        | 2.94%   |
+| Dell 2001FP DELA008 1600x1200 410x310mm 20.2-inch                       | 1        | 2.94%   |
+| Dell 1907FP DEL4015 1280x1024 376x301mm 19.0-inch                       | 1        | 2.94%   |
+| BenQ EW277HDR BNQ7948 1920x1080 598x336mm 27.0-inch                     | 1        | 2.94%   |
+| BenQ EL2870U BNQ7949 3840x2160 621x341mm 27.9-inch                      | 1        | 2.94%   |
+| BBY LCD Monitor NS24ED310NA15                                           | 1        | 2.94%   |
+| ASUSTek Computer VG258 AUS25A4 1920x1080 544x303mm 24.5-inch            | 1        | 2.94%   |
+| AOC 27G2G3 AOC2702 1920x1080 598x336mm 27.0-inch                        | 1        | 2.94%   |
+| Ancor Communications LCD Monitor ASUS VH236H 5200x1080                  | 1        | 2.94%   |
+| Acer V223W ACR001B 1680x1050 470x300mm 22.0-inch                        | 1        | 2.94%   |
+| Acer SA230 ACR057E 1920x1080 509x286mm 23.0-inch                        | 1        | 2.94%   |
+| Acer LCD Monitor H236HL                                                 | 1        | 2.94%   |
 
 Monitor Resolution
 ------------------
@@ -1880,7 +1879,7 @@ Controller models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| Intel Bluetooth Device                                   | 3        | 18.75%  |
+| Intel AX211 Bluetooth                                    | 3        | 18.75%  |
 | MediaTek Wireless_Device                                 | 2        | 12.5%   |
 | Intel AX201 Bluetooth                                    | 2        | 12.5%   |
 | Realtek Bluetooth Radio                                  | 1        | 6.25%   |
@@ -1959,8 +1958,8 @@ Sound card models
 | GN Netcom Jabra LINK 230                                                          | 1        | 1.54%   |
 | Corsair VOID ELITE Wireless Gaming Dongle                                         | 1        | 1.54%   |
 | Corsair VIRTUOSO XT USB Gaming Headset                                            | 1        | 1.54%   |
+| C-Media Electronics USB PnP Audio Device                                          | 1        | 1.54%   |
 | C-Media Electronics USB Audio Device                                              | 1        | 1.54%   |
-| C-Media Electronics TONOR TC30 Audio Device                                       | 1        | 1.54%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                                 | 1        | 1.54%   |
 | AMD Rembrandt Radeon High Definition Audio Controller                             | 1        | 1.54%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                               | 1        | 1.54%   |
@@ -2002,13 +2001,13 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 2        | 9.52%   |
+| Kingston RAM KF3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s  | 2        | 9.52%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s   | 2        | 9.52%   |
 | Unknown RAM Module 8GB DIMM 667MT/s                     | 1        | 4.76%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2667MT/s            | 1        | 4.76%   |
 | SK hynix RAM HMCG88MEBSA092N 32GB SODIMM DDR5 4800MT/s  | 1        | 4.76%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
-| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s     | 1        | 4.76%   |
+| Samsung RAM M378B5773CH0-CH9 2048MB DIMM DDR3 1867MT/s  | 1        | 4.76%   |
 | Kingston RAM KF556C40-16 16GB DIMM DDR5 6800MT/s        | 1        | 4.76%   |
 | Kingston RAM CBD48S40BS8MA-16 16GB SODIMM DDR5 4800MT/s | 1        | 4.76%   |
 | Kingston RAM 9905584-023.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
@@ -2019,7 +2018,7 @@ Memory module models
 | Corsair RAM CMK32GX4M2Z3600C18 16GB DIMM DDR4 3800MT/s  | 1        | 4.76%   |
 | Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 3534MT/s  | 1        | 4.76%   |
 | Asgard RAM VMA45UG-MEC1U2AW2 8GB DIMM DDR4 3200MT/s     | 1        | 4.76%   |
-| A-DATA RAM DDR3 1866 8GB DIMM DDR3 1333MT/s             | 1        | 4.76%   |
+| A-DATA RAM DDR3 1866 4GB DIMM DDR3 1600MT/s             | 1        | 4.76%   |
 | Unknown                                                 | 1        | 4.76%   |
 
 Memory Kind
@@ -2079,7 +2078,7 @@ Memory module speed
 |-------|----------|---------|
 | 3600  | 4        | 19.05%  |
 | 4800  | 2        | 9.52%   |
-| 1333  | 2        | 9.52%   |
+| 1600  | 2        | 9.52%   |
 | 6800  | 1        | 4.76%   |
 | 3866  | 1        | 4.76%   |
 | 3800  | 1        | 4.76%   |
@@ -2091,7 +2090,7 @@ Memory module speed
 | 1867  | 1        | 4.76%   |
 | 1866  | 1        | 4.76%   |
 | 1800  | 1        | 4.76%   |
-| 1600  | 1        | 4.76%   |
+| 1333  | 1        | 4.76%   |
 | 667   | 1        | 4.76%   |
 
 Printers & scanners
@@ -2151,7 +2150,8 @@ Camera device models
 
 | Model                      | Desktops | Percent |
 |----------------------------|----------|---------|
-| Generalplus GENERAL WEBCAM | 2        | 66.67%  |
+| Generalplus GENERAL WEBCAM | 1        | 33.33%  |
+| Generalplus CAMERA - UVC   | 1        | 33.33%  |
 | ARC International Camera   | 1        | 33.33%  |
 
 Security

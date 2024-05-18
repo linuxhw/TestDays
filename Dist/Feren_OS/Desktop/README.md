@@ -946,12 +946,12 @@ Hard drive models
 | WDC WD10EZEX-00WN4A0 1TB                    | 1        | 1.23%   |
 | WDC WD10EZEX-00BN5A0 1TB                    | 1        | 1.23%   |
 | WDC WD10EURX-83UY4Y0 1TB                    | 1        | 1.23%   |
-| WDC WD Blue SA510 2.5 500GB                 | 1        | 1.23%   |
-| Verbatim Vi550 S3 SSD 512GB                 | 1        | 1.23%   |
-| Unknown SD/MMC/MS PRO 256GB                 | 1        | 1.23%   |
+| WDC WD Blue SA510 2.5 500GB SSD             | 1        | 1.23%   |
+| Verbatim Vi550 S3 SSD 256GB                 | 1        | 1.23%   |
+| Unknown SD/MMC/MS PRO 128GB                 | 1        | 1.23%   |
 | Toshiba THNSNJ256GCST 256GB SSD             | 1        | 1.23%   |
 | Toshiba MK3275GSX 320GB                     | 1        | 1.23%   |
-| Toshiba MK1234GSX 120GB                     | 1        | 1.23%   |
+| Toshiba MK1234GSX 118GB                     | 1        | 1.23%   |
 | Toshiba HDWE140 4TB                         | 1        | 1.23%   |
 | Toshiba DT01ACA100 1TB                      | 1        | 1.23%   |
 | SK hynix BC501 NVMe Solid State Drive 512GB | 1        | 1.23%   |
@@ -1034,8 +1034,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 44     | 47.46%  |
-| 0.51-1.0   | 18       | 31     | 30.51%  |
+| 0.01-0.5   | 28       | 45     | 47.46%  |
+| 0.51-1.0   | 18       | 30     | 30.51%  |
 | 1.01-2.0   | 7        | 11     | 11.86%  |
 | 3.01-4.0   | 3        | 7      | 5.08%   |
 | 2.01-3.0   | 2        | 2      | 3.39%   |
@@ -1088,7 +1088,7 @@ Drive models with a malfunction
 | Model                       | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
 | WDC WD5000AAVS-00G9B1 500GB | 1        | 1      | 33.33%  |
-| Toshiba MK1234GSX 120GB     | 1        | 1      | 33.33%  |
+| Toshiba MK1234GSX 118GB     | 1        | 1      | 33.33%  |
 | Seagate ST3500418AS 500GB   | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Vendor
@@ -1628,9 +1628,9 @@ Monitor models
 | Vestel LCD Monitor 32W_LCD_TV 1920x1080                               | 1        | 2.27%   |
 | Unknown LCD Monitor SAMSUNG                                           | 1        | 2.27%   |
 | Sony AVAMP SNYF400 1920x1080                                          | 1        | 2.27%   |
-| Sceptre Tech U27 SPT0ABF 3840x2160 600x340mm 27.2-inch                | 1        | 2.27%   |
-| Samsung Electronics S34J55x SAM0F71 3440x1440 800x330mm 34.1-inch     | 1        | 2.27%   |
-| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1        | 2.27%   |
+| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                | 1        | 2.27%   |
+| Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1        | 2.27%   |
+| Samsung Electronics S27E510 SAM0C5F 1920x1080 600x340mm 27.2-inch     | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor U28E590                               | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch  | 1        | 2.27%   |
@@ -1643,9 +1643,9 @@ Monitor models
 | Philips PHL 328E9Q PHLC180 1920x1080 698x393mm 31.5-inch              | 1        | 2.27%   |
 | Philips PHL 275E1 PHLC20C 2560x1440 597x336mm 27.0-inch               | 1        | 2.27%   |
 | Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                  | 1        | 2.27%   |
-| Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1        | 2.27%   |
+| Medion MD 20094 MED3610 1920x1080 550x344mm 25.5-inch                 | 1        | 2.27%   |
 | LG Electronics LCD Monitor MP59HT 1920x1080                           | 1        | 2.27%   |
-| Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.27%   |
+| Lenovo LEN L171 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.27%   |
 | Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                  | 1        | 2.27%   |
 | Lenovo H61 LEN520B 1600x900 410x230mm 18.5-inch                       | 1        | 2.27%   |
 | Lenovo Group Limited LCD Monitor L24q-10 2560x1440                    | 1        | 2.27%   |
@@ -1655,7 +1655,7 @@ Monitor models
 | Hewlett-Packard 2509 HWP283A 1920x1080 553x311mm 25.0-inch            | 1        | 2.27%   |
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.27%   |
 | FNI LCD Monitor LCD TV 1920x1080                                      | 1        | 2.27%   |
-| Dell UP3017 DEL40FA 2560x1600 641x401mm 29.8-inch                     | 1        | 2.27%   |
+| Dell UP3017 DEL40FA 2560x1600 640x400mm 29.7-inch                     | 1        | 2.27%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.27%   |
 | Dell SP1908FP DEL4030 1280x1024 376x301mm 19.0-inch                   | 1        | 2.27%   |
 | Dell S2715H DEL40BB 1920x1080 598x336mm 27.0-inch                     | 1        | 2.27%   |
@@ -1704,11 +1704,11 @@ Diagonal size in inches
 | Unknown | 9        | 21.95%  |
 | 27      | 7        | 17.07%  |
 | 24      | 4        | 9.76%   |
+| 19      | 3        | 7.32%   |
 | 32      | 2        | 4.88%   |
 | 31      | 2        | 4.88%   |
 | 25      | 2        | 4.88%   |
 | 21      | 2        | 4.88%   |
-| 19      | 2        | 4.88%   |
 | 86      | 1        | 2.44%   |
 | 65      | 1        | 2.44%   |
 | 54      | 1        | 2.44%   |
@@ -1717,7 +1717,6 @@ Diagonal size in inches
 | 34      | 1        | 2.44%   |
 | 29      | 1        | 2.44%   |
 | 23      | 1        | 2.44%   |
-| 18      | 1        | 2.44%   |
 | 17      | 1        | 2.44%   |
 | 15      | 1        | 2.44%   |
 
@@ -1775,8 +1774,8 @@ Area in inch²
 | 201-250        | 6        | 14.63%  |
 | More than 1000 | 4        | 9.76%   |
 | 251-300        | 3        | 7.32%   |
-| 151-200        | 2        | 4.88%   |
-| 141-150        | 2        | 4.88%   |
+| 151-200        | 3        | 7.32%   |
+| 141-150        | 1        | 2.44%   |
 | 101-110        | 1        | 2.44%   |
 | 501-1000       | 1        | 2.44%   |
 
@@ -2145,8 +2144,8 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                             | 1        | 1.27%   |
 | Intel 82801G (ICH7 Family) AC'97 Audio Controller                                               | 1        | 1.27%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.27%   |
-| Hewlett-Packard Speaker Bar                                                                     | 1        | 1.27%   |
-| C-Media Electronics TONOR TC30 Audio Device                                                     | 1        | 1.27%   |
+| Hewlett-Packard HP S101 Speaker Bar                                                             | 1        | 1.27%   |
+| C-Media Electronics USB PnP Audio Device                                                        | 1        | 1.27%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.27%   |
 
 Memory
@@ -2194,7 +2193,7 @@ Memory module models
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
 | Crucial RAM CT8G4DFD8213.C16FBR2 8GB DIMM DDR4 2133MT/s        | 1        | 8.33%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1        | 8.33%   |
-| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3600MT/s                   | 1        | 8.33%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                    | 1        | 8.33%   |
 
 Memory Kind
 -----------
@@ -2350,20 +2349,20 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                       | Desktops | Percent |
-|---------------------------------------------|----------|---------|
-| Z-Star WebCam SC-03FFL11739P                | 2        | 15.38%  |
-| Z-Star Integrated Camera                    | 1        | 7.69%   |
-| Novatek NTK96550-based camera (webcam mode) | 1        | 7.69%   |
-| Microsoft LifeCam VX-5000                   | 1        | 7.69%   |
-| Microsoft LifeCam VX-500 [1357]             | 1        | 7.69%   |
-| Microdia USB 2.0 Camera                     | 1        | 7.69%   |
-| Logitech Webcam C270                        | 1        | 7.69%   |
-| Logitech QuickCam Communicate MP/S5500      | 1        | 7.69%   |
-| Huawei HiCamera                             | 1        | 7.69%   |
-| Generalplus 808 Camera                      | 1        | 7.69%   |
-| Cubeternet GL-UPC822 UVC WebCam             | 1        | 7.69%   |
-| ARC International Camera                    | 1        | 7.69%   |
+| Model                                  | Desktops | Percent |
+|----------------------------------------|----------|---------|
+| Z-Star WebCam SC-03FFL11739P           | 2        | 15.38%  |
+| Z-Star Integrated Camera               | 1        | 7.69%   |
+| Novatek DEMO1                          | 1        | 7.69%   |
+| Microsoft LifeCam VX-5000              | 1        | 7.69%   |
+| Microsoft LifeCam VX-500 [1357]        | 1        | 7.69%   |
+| Microdia USB 2.0 Camera                | 1        | 7.69%   |
+| Logitech Webcam C270                   | 1        | 7.69%   |
+| Logitech QuickCam Communicate MP/S5500 | 1        | 7.69%   |
+| Huawei HiCamera                        | 1        | 7.69%   |
+| Generalplus 808 Camera                 | 1        | 7.69%   |
+| Cubeternet GL-UPC822 UVC WebCam        | 1        | 7.69%   |
+| ARC International Camera               | 1        | 7.69%   |
 
 Security
 --------
@@ -2423,7 +2422,8 @@ Total unsupported devices on board
 |-------|----------|---------|
 | 0     | 33       | 78.57%  |
 | 1     | 7        | 16.67%  |
-| 2     | 2        | 4.76%   |
+| 3     | 1        | 2.38%   |
+| 2     | 1        | 2.38%   |
 
 Unsupported Device Types
 ------------------------

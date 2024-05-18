@@ -1,10 +1,27 @@
 Clear Linux - Test Cases
 ------------------------
 
-Total: 1442
+Total: 1459
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Chuwi         | CoreBook X                  | Notebook    | [de2cd02e92](https://linux-hardware.org/?probe=de2cd02e92) | Apr 18, 2024 |
+| HP            | EliteBook 840 G3            | Notebook    | [fc3d11e3f3](https://linux-hardware.org/?probe=fc3d11e3f3) | Apr 18, 2024 |
+| ASUSTek       | Strix GL504GS_GL504GS       | Notebook    | [fafcb22109](https://linux-hardware.org/?probe=fafcb22109) | Apr 17, 2024 |
+| HP            | Laptop 14s-dr2xxx           | Notebook    | [30ab271b58](https://linux-hardware.org/?probe=30ab271b58) | Apr 08, 2024 |
+| Intel         | NUC8BEB J72693-309          | Mini pc     | [74f33723a8](https://linux-hardware.org/?probe=74f33723a8) | Mar 11, 2024 |
+| LattePanda    | Sigma                       | Desktop     | [ae1ba16921](https://linux-hardware.org/?probe=ae1ba16921) | Mar 10, 2024 |
+| Dell          | Latitude 7400               | Notebook    | [97c11ef92d](https://linux-hardware.org/?probe=97c11ef92d) | Feb 28, 2024 |
+| ASRock        | Z97 Pro4                    | Desktop     | [9c48e758c6](https://linux-hardware.org/?probe=9c48e758c6) | Feb 26, 2024 |
+| AMI           | Aptio CRB                   | Mini pc     | [969a1bdb7c](https://linux-hardware.org/?probe=969a1bdb7c) | Feb 23, 2024 |
+| AMI           | Aptio CRB                   | Mini pc     | [5184bd82b1](https://linux-hardware.org/?probe=5184bd82b1) | Feb 23, 2024 |
+| Dell          | XPS 13 7390                 | Notebook    | [c347074123](https://linux-hardware.org/?probe=c347074123) | Feb 20, 2024 |
+| ASRock        | Z97 Pro4                    | Desktop     | [d6189a161e](https://linux-hardware.org/?probe=d6189a161e) | Feb 20, 2024 |
+| Timi          | Xiaomi NoteBook Pro         | Notebook    | [861a8f057e](https://linux-hardware.org/?probe=861a8f057e) | Feb 05, 2024 |
+| ASUSTek       | PRIME Z690-P WIFI D4        | Desktop     | [e2c0eadcb1](https://linux-hardware.org/?probe=e2c0eadcb1) | Feb 05, 2024 |
+| Lenovo        | IdeaPad 110-15IBR 80T7      | Notebook    | [ecd2bc3e73](https://linux-hardware.org/?probe=ecd2bc3e73) | Feb 03, 2024 |
+| Dell          | XPS 15 7590                 | Notebook    | [293e2aa334](https://linux-hardware.org/?probe=293e2aa334) | Feb 03, 2024 |
+| Acer          | Aspire E5-575G              | Notebook    | [d01e00588d](https://linux-hardware.org/?probe=d01e00588d) | Feb 03, 2024 |
 | Acer          | Aspire E5-575G              | Notebook    | [d6ddc23d9b](https://linux-hardware.org/?probe=d6ddc23d9b) | Jan 31, 2024 |
 | Acer          | Aspire E5-575G              | Notebook    | [fc26b8ad18](https://linux-hardware.org/?probe=fc26b8ad18) | Jan 31, 2024 |
 | Timi          | Xiaomi NoteBook Pro         | Notebook    | [2e4fa19ae6](https://linux-hardware.org/?probe=2e4fa19ae6) | Jan 29, 2024 |

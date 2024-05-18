@@ -359,8 +359,8 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 59       | 88.06%  |
-| LightDM | 8        | 11.94%  |
+| Unknown | 58       | 86.57%  |
+| LightDM | 9        | 13.43%  |
 
 OS Lang
 -------
@@ -401,8 +401,8 @@ EFI or BIOS
 
 | Mode | Desktops | Percent |
 |------|----------|---------|
-| BIOS | 64       | 95.52%  |
-| EFI  | 3        | 4.48%   |
+| BIOS | 63       | 94.03%  |
+| EFI  | 4        | 5.97%   |
 
 Filesystem
 ----------
@@ -430,8 +430,8 @@ Scheme of partitioning
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 59       | 88.06%  |
-| GPT     | 6        | 8.96%   |
+| Unknown | 58       | 86.57%  |
+| GPT     | 7        | 10.45%  |
 | MBR     | 2        | 2.99%   |
 
 Dual Boot with Linux/BSD
@@ -688,9 +688,9 @@ Used RAM memory
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 2.01-3.0  | 34       | 49.28%  |
+| 2.01-3.0  | 33       | 47.83%  |
 | 1.01-2.0  | 14       | 20.29%  |
-| 3.01-4.0  | 11       | 15.94%  |
+| 3.01-4.0  | 12       | 17.39%  |
 | 4.01-8.0  | 9        | 13.04%  |
 | 8.01-16.0 | 1        | 1.45%   |
 
@@ -944,8 +944,8 @@ Hard drive models
 | WDC WD10EZEX-00BN5A0 1TB                          | 1        | 0.76%   |
 | WDC WD10EZEX-00BBHA0 1TB                          | 1        | 0.76%   |
 | WDC WD1002FBYS-18W8B0 1TB                         | 1        | 0.76%   |
-| Verbatim Vi550 S3 SSD 512GB                       | 1        | 0.76%   |
-| Unknown SD/MMC/MS PRO 256GB                       | 1        | 0.76%   |
+| Verbatim Vi550 S3 SSD 256GB                       | 1        | 0.76%   |
+| Unknown SD/MMC/MS PRO 128GB                       | 1        | 0.76%   |
 | Toshiba XG4 NVMe SSD Controller 512GB             | 1        | 0.76%   |
 | Toshiba HDWD110 1TB                               | 1        | 0.76%   |
 | Toshiba DT01ACA100 1TB                            | 1        | 0.76%   |
@@ -1042,10 +1042,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 47       | 70     | 54.02%  |
-| 0.51-1.0   | 29       | 43     | 33.33%  |
-| 1.01-2.0   | 8        | 10     | 9.2%    |
-| 3.01-4.0   | 3        | 3      | 3.45%   |
+| 0.01-0.5   | 49       | 73     | 55.68%  |
+| 0.51-1.0   | 29       | 42     | 32.95%  |
+| 1.01-2.0   | 7        | 8      | 7.95%   |
+| 3.01-4.0   | 3        | 3      | 3.41%   |
 
 Space Total
 -----------
@@ -1076,8 +1076,8 @@ Amount of used disk space
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1-20      | 27       | 39.71%  |
-| 21-50     | 18       | 26.47%  |
+| 1-20      | 26       | 38.24%  |
+| 21-50     | 19       | 27.94%  |
 | 51-100    | 10       | 14.71%  |
 | 101-250   | 8        | 11.76%  |
 | 251-500   | 4        | 5.88%   |
@@ -1638,7 +1638,7 @@ Monitor models
 | Sharp HDMI SHP1048 1920x1080 820x460mm 37.0-inch                      | 1        | 1.3%    |
 | Seiki SC32FI SEK3201 1680x1050 698x392mm 31.5-inch                    | 1        | 1.3%    |
 | Sceptre Tech Sceptre Q27 SPT0AD2 2560x1440 597x336mm 27.0-inch        | 1        | 1.3%    |
-| Sceptre Tech Sceptre E24 SPT099D 1920x1080 521x293mm 23.5-inch        | 1        | 1.3%    |
+| Sceptre Tech E24 SPT099D 1920x1080 530x300mm 24.0-inch                | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM05CC 1920x1080 530x300mm 24.0-inch  | 1        | 1.3%    |
 | Samsung Electronics SyncMaster SAM0059 2048x1536 312x234mm 15.4-inch  | 1        | 1.3%    |
 | Samsung Electronics SMB2030HD SAM0709 1600x900 443x249mm 20.0-inch    | 1        | 1.3%    |
@@ -1650,7 +1650,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM0A7A 1920x1080 480x270mm 21.7-inch | 1        | 1.3%    |
 | Samsung Electronics C49J89x SAM0F21 3840x1080 1196x336mm 48.9-inch    | 1        | 1.3%    |
 | Samsung Electronics C32F391 SAM0D34 1920x1080 698x393mm 31.5-inch     | 1        | 1.3%    |
-| RCA RTRU4328CA RCA0B01 3840x2160 800x450mm 36.1-inch                  | 1        | 1.3%    |
+| RCA RTR3261-B-CA RCA0B01 1920x1080 698x392mm 31.5-inch                | 1        | 1.3%    |
 | Positivo MC35120QWQHD NON3503 3440x1440 819x346mm 35.0-inch           | 1        | 1.3%    |
 | Philips PHL 243V7 PHLC155 1920x1080 527x296mm 23.8-inch               | 1        | 1.3%    |
 | Philips 220TS PHLC06B 1920x1080 477x268mm 21.5-inch                   | 1        | 1.3%    |
@@ -1898,7 +1898,7 @@ Controller models
 | Realtek 802.11ac NIC                                                   | 1        | 0.93%   |
 | Ralink MT7601U Wireless Adapter                                        | 1        | 0.93%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                              | 1        | 0.93%   |
-| Qualcomm Redmi 9T                                                      | 1        | 0.93%   |
+| Qualcomm Nokia G42 5G                                                  | 1        | 0.93%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 1        | 0.93%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 1        | 0.93%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller              | 1        | 0.93%   |
@@ -2016,7 +2016,7 @@ Ethernet models
 | TP-Link UE300 10/100/1000 LAN (ethernet mode) [Realtek RTL8153]        | 1        | 1.35%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)            | 1        | 1.35%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1        | 1.35%   |
-| Qualcomm Redmi 9T                                                      | 1        | 1.35%   |
+| Qualcomm Nokia G42 5G                                                  | 1        | 1.35%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller              | 1        | 1.35%   |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller              | 1        | 1.35%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1        | 1.35%   |
@@ -2027,7 +2027,7 @@ Ethernet models
 | Intel 82578DC Gigabit Network Connection                               | 1        | 1.35%   |
 | Intel 82574L Gigabit Network Connection                                | 1        | 1.35%   |
 | Intel 82567LM-3 Gigabit Network Connection                             | 1        | 1.35%   |
-| Huawei STG-LX1                                                         | 1        | 1.35%   |
+| Huawei VTR-L09                                                         | 1        | 1.35%   |
 | Broadcom NetXtreme II BCM5706 Gigabit Ethernet                         | 1        | 1.35%   |
 | Broadcom NetXtreme BCM5762 Gigabit Ethernet PCIe                       | 1        | 1.35%   |
 
@@ -2117,12 +2117,13 @@ Controller models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Intel Bluetooth wireless interface                  | 5        | 19.23%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 5        | 19.23%  |
+| Intel Bluetooth wireless interface                  | 4        | 15.38%  |
 | Realtek Bluetooth Radio                             | 2        | 7.69%   |
 | Qualcomm Atheros  Bluetooth Device                  | 2        | 7.69%   |
 | Intel AX210 Bluetooth                               | 2        | 7.69%   |
 | MediaTek Wireless_Device                            | 1        | 3.85%   |
+| Intel Bluetooth Device                              | 1        | 3.85%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 1        | 3.85%   |
 | Intel AX201 Bluetooth                               | 1        | 3.85%   |
 | Intel AX200 Bluetooth                               | 1        | 3.85%   |
@@ -2243,7 +2244,7 @@ Memory module models
 | Model                                                         | Desktops | Percent |
 |---------------------------------------------------------------|----------|---------|
 | Unknown (0x5846) RAM DDR4 NB 8G 2666 8GB SODIMM DDR4 2667MT/s | 1        | 8.33%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1        | 8.33%   |
+| Samsung RAM M471B5273CH0-CK0 4096MB SODIMM DDR3 1600MT/s      | 1        | 8.33%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s           | 1        | 8.33%   |
 | Samsung RAM M378B5173QH0-YK0 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
 | Kingston RAM HX426C16FB/4 4GB DIMM DDR4 2800MT/s              | 1        | 8.33%   |
@@ -2404,13 +2405,13 @@ Camera device models
 
 | Model                                   | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| Sunplus FHD Camera Microphone           | 1        | 14.29%  |
+| Sunplus PC Camera                       | 1        | 14.29%  |
 | Samsung Galaxy series, misc. (MTP mode) | 1        | 14.29%  |
 | Logitech Webcam C270                    | 1        | 14.29%  |
 | Logitech HD Pro Webcam C920             | 1        | 14.29%  |
 | Generalplus GENERAL WEBCAM              | 1        | 14.29%  |
 | AVerMedia USB Device                    | 1        | 14.29%  |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR      | 1        | 14.29%  |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X         | 1        | 14.29%  |
 
 Security
 --------

@@ -839,8 +839,8 @@ Used RAM memory
 
 | Used GB    | Computers | Percent |
 |------------|-----------|---------|
-| 1.01-2.0   | 43        | 41.35%  |
-| 2.01-3.0   | 31        | 29.81%  |
+| 1.01-2.0   | 44        | 42.31%  |
+| 2.01-3.0   | 30        | 28.85%  |
 | 3.01-4.0   | 16        | 15.38%  |
 | 4.01-8.0   | 10        | 9.62%   |
 | 0.51-1.0   | 2         | 1.92%   |
@@ -1065,7 +1065,7 @@ Hard drive models
 
 | Model                                             | Computers | Percent |
 |---------------------------------------------------|-----------|---------|
-| Unknown SD/MMC/MS PRO 256GB                       | 3         | 1.91%   |
+| Unknown SD/MMC/MS PRO 128GB                       | 3         | 1.91%   |
 | Unknown MMC Card  32GB                            | 2         | 1.27%   |
 | Seagate ST500LT012-9WS142 500GB                   | 2         | 1.27%   |
 | Seagate ST4000LM016-1N2170 4TB                    | 2         | 1.27%   |
@@ -1193,12 +1193,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 61        | 90     | 61%     |
-| 0.51-1.0   | 26        | 40     | 26%     |
-| 1.01-2.0   | 7         | 11     | 7%      |
-| 3.01-4.0   | 3         | 7      | 3%      |
-| 2.01-3.0   | 2         | 2      | 2%      |
-| 4.01-10.0  | 1         | 1      | 1%      |
+| 0.01-0.5   | 61        | 90     | 60.4%   |
+| 0.51-1.0   | 27        | 40     | 26.73%  |
+| 1.01-2.0   | 7         | 11     | 6.93%   |
+| 3.01-4.0   | 3         | 7      | 2.97%   |
+| 2.01-3.0   | 2         | 2      | 1.98%   |
+| 4.01-10.0  | 1         | 1      | 0.99%   |
 
 Space Total
 -----------
@@ -1251,7 +1251,7 @@ Drive models with a malfunction
 | Model                                    | Computers | Drives | Percent |
 |------------------------------------------|-----------|--------|---------|
 | WDC WD5000AAVS-00G9B1 500GB              | 1         | 1      | 14.29%  |
-| Toshiba MK1234GSX 120GB                  | 1         | 1      | 14.29%  |
+| Toshiba MK1234GSX 118GB                  | 1         | 1      | 14.29%  |
 | Seagate ST500LT012-9WS142 500GB          | 1         | 1      | 14.29%  |
 | Seagate ST3500418AS 500GB                | 1         | 1      | 14.29%  |
 | Seagate ST1000LM024 HN-M101MBB 1TB       | 1         | 1      | 14.29%  |
@@ -1865,9 +1865,9 @@ Monitor models
 | Toshiba LCD Monitor LCD0905 1366x768 295x166mm 13.3-inch              | 1         | 1.02%   |
 | Sharp LQ156T1JW04 SHP153C 2560x1440 344x194mm 15.5-inch               | 1         | 1.02%   |
 | Sharp LQ156M1JW03 SHP14C5 1920x1080 344x194mm 15.5-inch               | 1         | 1.02%   |
-| Sceptre Tech U27 SPT0ABF 3840x2160 600x340mm 27.2-inch                | 1         | 1.02%   |
-| Samsung Electronics S34J55x SAM0F71 3440x1440 800x330mm 34.1-inch     | 1         | 1.02%   |
-| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1         | 1.02%   |
+| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                | 1         | 1.02%   |
+| Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1         | 1.02%   |
+| Samsung Electronics S27E510 SAM0C5F 1920x1080 600x340mm 27.2-inch     | 1         | 1.02%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1         | 1.02%   |
 | Samsung Electronics LCD Monitor U28E590                               | 1         | 1.02%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch  | 1         | 1.02%   |
@@ -1886,7 +1886,7 @@ Monitor models
 | PANDA LCD Monitor NCP0035 1920x1080 309x174mm 14.0-inch               | 1         | 1.02%   |
 | Panasonic TV MEIC301 1920x1080 698x392mm 31.5-inch                    | 1         | 1.02%   |
 | Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                  | 1         | 1.02%   |
-| Medion MD 20094 MED3610 1920x1200 550x344mm 25.5-inch                 | 1         | 1.02%   |
+| Medion MD 20094 MED3610 1920x1080 550x344mm 25.5-inch                 | 1         | 1.02%   |
 | LG Electronics LCD Monitor MP59HT 1920x1080                           | 1         | 1.02%   |
 | LG Display LCD Monitor LGD049B 1920x1080 344x194mm 15.5-inch          | 1         | 1.02%   |
 | LG Display LCD Monitor LGD0468 1366x768 344x194mm 15.5-inch           | 1         | 1.02%   |
@@ -1947,11 +1947,11 @@ Diagonal size in inches
 | 14      | 4         | 4.26%   |
 | 31      | 3         | 3.19%   |
 | 23      | 3         | 3.19%   |
+| 19      | 3         | 3.19%   |
 | 65      | 2         | 2.13%   |
 | 32      | 2         | 2.13%   |
 | 25      | 2         | 2.13%   |
 | 22      | 2         | 2.13%   |
-| 19      | 2         | 2.13%   |
 | 16      | 2         | 2.13%   |
 | 12      | 2         | 2.13%   |
 | 86      | 1         | 1.06%   |
@@ -1960,7 +1960,6 @@ Diagonal size in inches
 | 40      | 1         | 1.06%   |
 | 34      | 1         | 1.06%   |
 | 29      | 1         | 1.06%   |
-| 18      | 1         | 1.06%   |
 | 11      | 1         | 1.06%   |
 
 Monitor Width
@@ -2019,12 +2018,12 @@ Area in inch²
 | 301-350        | 8         | 8.51%   |
 | 351-500        | 7         | 7.45%   |
 | More than 1000 | 5         | 5.32%   |
+| 151-200        | 4         | 4.26%   |
 | 251-300        | 3         | 3.19%   |
-| 151-200        | 3         | 3.19%   |
-| 141-150        | 3         | 3.19%   |
 | 121-130        | 3         | 3.19%   |
 | 71-80          | 2         | 2.13%   |
 | 61-70          | 2         | 2.13%   |
+| 141-150        | 2         | 2.13%   |
 | 111-120        | 2         | 2.13%   |
 | 51-60          | 1         | 1.06%   |
 | 501-1000       | 1         | 1.06%   |
@@ -2131,7 +2130,7 @@ Controller models
 | Broadcom BCM43142 802.11b/g/n                                                                 | 2         | 1.2%    |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1         | 0.6%    |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1         | 0.6%    |
-| Sierra Wireless EM7345 4G LTE                                                                 | 1         | 0.6%    |
+| Sierra Wireless Sierra Wireless EM7345 4G LTE                                                 | 1         | 0.6%    |
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 0.6%    |
 | Research In Motion BlackBerry                                                                 | 1         | 0.6%    |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 0.6%    |
@@ -2200,7 +2199,7 @@ Wireless models
 | Broadcom BCM43142 802.11b/g/n                                                                 | 2         | 2.63%   |
 | TP-Link Archer T3U [Realtek RTL8812BU]                                                        | 1         | 1.32%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                                           | 1         | 1.32%   |
-| Sierra Wireless EM7345 4G LTE                                                                 | 1         | 1.32%   |
+| Sierra Wireless Sierra Wireless EM7345 4G LTE                                                 | 1         | 1.32%   |
 | Sierra Wireless EM7305 Modem                                                                  | 1         | 1.32%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.32%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                                      | 1         | 1.32%   |
@@ -2273,13 +2272,13 @@ Ethernet models
 | Research In Motion BlackBerry                                          | 1         | 1.1%    |
 | Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 1.1%    |
 | Realtek Killer E3000 2.5GbE Controller                                 | 1         | 1.1%    |
-| Qualcomm Redmi 9T                                                      | 1         | 1.1%    |
+| Qualcomm Nokia G42 5G                                                  | 1         | 1.1%    |
 | Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller              | 1         | 1.1%    |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 1.1%    |
 | Nvidia MCP79 Ethernet                                                  | 1         | 1.1%    |
 | Nvidia MCP55 Ethernet                                                  | 1         | 1.1%    |
 | NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter   | 1         | 1.1%    |
-| Motorola PCS moto g52                                                  | 1         | 1.1%    |
+| Motorola PCS moto g(7) power                                           | 1         | 1.1%    |
 | Microsoft RTL8153 GigE [Surface Ethernet Adapter]                      | 1         | 1.1%    |
 | Marvell Group 88E8039 PCI-E Fast Ethernet Controller                   | 1         | 1.1%    |
 | Intel WiMAX Connection 2400m                                           | 1         | 1.1%    |
@@ -2394,18 +2393,19 @@ Controller models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                  | 8         | 15.09%  |
+| Intel Bluetooth wireless interface                  | 6         | 11.32%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 6         | 11.32%  |
-| Realtek  Bluetooth 4.2 Adapter                      | 3         | 5.66%   |
 | Qualcomm Atheros QCA61x4 Bluetooth 4.0              | 3         | 5.66%   |
 | Intel AX200 Bluetooth                               | 3         | 5.66%   |
 | IMC Networks Wireless_Device                        | 3         | 5.66%   |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter             | 2         | 3.77%   |
+| Realtek  Bluetooth 4.2 Adapter                      | 2         | 3.77%   |
+| Realtek Bluetooth Radio                             | 2         | 3.77%   |
 | Realtek Bluetooth Radio                             | 2         | 3.77%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 2         | 3.77%   |
+| Intel Bluetooth Device                              | 2         | 3.77%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 2         | 3.77%   |
 | Apple Bluetooth Host Controller                     | 2         | 3.77%   |
-| Realtek Bluetooth Radio                             | 1         | 1.89%   |
 | Realtek Bluetooth 5.3 Radio                         | 1         | 1.89%   |
 | Ralink RT3290 Bluetooth                             | 1         | 1.89%   |
 | Marvell Bluetooth and Wireless LAN Composite Device | 1         | 1.89%   |
@@ -2543,7 +2543,7 @@ Memory module models
 | SK hynix RAM HKNNNFBMAVAR-NEH 2GB Row Of Chips LPDDR4 3200MT/s | 1         | 3.13%   |
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1867MT/s               | 1         | 3.13%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1         | 3.13%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1         | 3.13%   |
+| Samsung RAM M471A1G44AB0-CWE 8192MB SODIMM DDR4 3200MT/s       | 1         | 3.13%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1         | 3.13%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s             | 1         | 3.13%   |
@@ -2561,7 +2561,7 @@ Memory module models
 | Crucial RAM CT51264BF160BJ.C8F 4GB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
 | Crucial RAM CT16G4SFD824A.C16FP 16GB SODIMM DDR4 2400MT/s      | 1         | 3.13%   |
 | Corsair RAM CMK16GX4M2A2666C16 8GB DIMM DDR4 3400MT/s          | 1         | 3.13%   |
-| A-DATA RAM DDR4 3000 16GB DIMM DDR4 3600MT/s                   | 1         | 3.13%   |
+| A-DATA RAM DDR4 3000 8GB DIMM DDR4 3600MT/s                    | 1         | 3.13%   |
 | A-DATA RAM AM1U16BC4P2-B19H 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
 
 Memory Kind
@@ -2661,7 +2661,7 @@ Printer device models
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
 | Star Micronics TUP592 (STR_T-001) | 1         | 14.29%  |
-| HP Laser 107a                     | 1         | 14.29%  |
+| HP Laser 107w                     | 1         | 14.29%  |
 | HP ENVY 5000 series               | 1         | 14.29%  |
 | Canon PIXMA MX490 Series          | 1         | 14.29%  |
 | Canon G3000 series                | 1         | 14.29%  |
@@ -2708,8 +2708,8 @@ Camera device vendors
 | Chicony Electronics                    | 10        | 17.54%  |
 | IMC Networks                           | 8         | 14.04%  |
 | Realtek Semiconductor                  | 4         | 7.02%   |
-| Bison Electronics                      | 4         | 7.02%   |
 | Apple                                  | 4         | 7.02%   |
+| Acer                                   | 4         | 7.02%   |
 | Z-Star Microelectronics                | 3         | 5.26%   |
 | Sunplus Innovation Technology          | 3         | 5.26%   |
 | Logitech                               | 3         | 5.26%   |
@@ -2724,9 +2724,9 @@ Camera device vendors
 | Generalplus Technology                 | 1         | 1.75%   |
 | GEMBIRD                                | 1         | 1.75%   |
 | Cubeternet                             | 1         | 1.75%   |
+| Bison Electronics                      | 1         | 1.75%   |
 | ARC International                      | 1         | 1.75%   |
 | Alcor Micro                            | 1         | 1.75%   |
-| Acer                                   | 1         | 1.75%   |
 
 Camera Model
 ------------
@@ -2742,8 +2742,8 @@ Camera device models
 | Z-Star WebCam SC-03FFL11739P                                               | 2         | 3.51%   |
 | IMC Networks USB2.0 VGA UVC WebCam                                         | 2         | 3.51%   |
 | Chicony Integrated Camera                                                  | 2         | 3.51%   |
-| Bison Lenovo EasyCamera                                                    | 2         | 3.51%   |
 | Apple Built-in iSight                                                      | 2         | 3.51%   |
+| Acer Lenovo EasyCamera                                                     | 2         | 3.51%   |
 | Z-Star Integrated Camera                                                   | 1         | 1.75%   |
 | Sunplus Integrated_Webcam_HD                                               | 1         | 1.75%   |
 | Sunplus HP HD Webcam [Fixed]                                               | 1         | 1.75%   |
@@ -2754,7 +2754,7 @@ Camera device models
 | Realtek HP Wide Vision HD Camera                                           | 1         | 1.75%   |
 | Realtek HD WebCam                                                          | 1         | 1.75%   |
 | Pixart Imaging GE 1.3 MP MiniCam Pro                                       | 1         | 1.75%   |
-| Novatek NTK96550-based camera (webcam mode)                                | 1         | 1.75%   |
+| Novatek DEMO1                                                              | 1         | 1.75%   |
 | Microsoft LifeCam VX-5000                                                  | 1         | 1.75%   |
 | Microsoft LifeCam VX-500 [1357]                                            | 1         | 1.75%   |
 | Microdia USB 2.0 Camera                                                    | 1         | 1.75%   |
@@ -2858,7 +2858,8 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 0     | 70        | 72.92%  |
 | 1     | 22        | 22.92%  |
-| 2     | 4         | 4.17%   |
+| 2     | 3         | 3.13%   |
+| 3     | 1         | 1.04%   |
 
 Unsupported Device Types
 ------------------------

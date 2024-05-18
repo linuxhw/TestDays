@@ -742,9 +742,9 @@ Geographic location (city)
 
 | City           | Computers | Percent |
 |----------------|-----------|---------|
-| Wahroonga      | 19        | 38.78%  |
+| Wahroonga      | 20        | 40.82%  |
 | Sydney         | 11        | 22.45%  |
-| Surry Hills    | 10        | 20.41%  |
+| Surry Hills    | 9         | 18.37%  |
 | Lane Cove      | 4         | 8.16%   |
 | Launceston     | 3         | 6.12%   |
 | Carson         | 1         | 2.04%   |
@@ -795,7 +795,7 @@ Hard drive models
 | Samsung SSD 840 EVO 250GB           | 2         | 4.08%   |
 | Samsung HD103UJ 1TB                 | 2         | 4.08%   |
 | Maxtor 6Y080L0 82GB                 | 2         | 4.08%   |
-| Maxtor 6L200M0 200GB                | 2         | 4.08%   |
+| Maxtor 6L200M0 208GB                | 2         | 4.08%   |
 | LITEONIT LMT-128M6M mSATA 128GB SSD | 2         | 4.08%   |
 | KingSpec MT-128 128GB SSD           | 2         | 4.08%   |
 | WDC WD40EFRX-68N32N0 4TB            | 1         | 2.04%   |
@@ -928,7 +928,7 @@ Drive models with a malfunction
 | Model                           | Computers | Drives | Percent |
 |---------------------------------|-----------|--------|---------|
 | Maxtor 6Y080L0 82GB             | 2         | 4      | 25%     |
-| Maxtor 6L200M0 200GB            | 2         | 3      | 25%     |
+| Maxtor 6L200M0 208GB            | 2         | 3      | 25%     |
 | Seagate ST31000333AS 1TB        | 1         | 3      | 12.5%   |
 | Samsung Electronics HD103UJ 1TB | 1         | 12     | 12.5%   |
 | Intel SSDSC2CT120A3 120GB       | 1         | 4      | 12.5%   |
@@ -1351,15 +1351,15 @@ Monitor models
 | Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch     | 11        | 22.92%  |
 | ___ LCD TV ___0101 1920x1080                                            | 9         | 18.75%  |
 | Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5         | 10.42%  |
-| Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5         | 10.42%  |
-| ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch               | 4         | 8.33%   |
+| Philips 190S PHL082F 1280x1024 380x300mm 19.1-inch                      | 5         | 10.42%  |
+| ViewSonic VA2226w-3 VSC2051 1680x1050 495x291mm 22.6-inch               | 4         | 8.33%   |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 4         | 8.33%   |
 | BenQ FP91G+ BNQ76A5 1280x1024 376x301mm 19.0-inch                       | 3         | 6.25%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 2         | 4.17%   |
 | Samsung Electronics LCD Monitor SAM0F9F 3840x2160 1872x1053mm 84.6-inch | 1         | 2.08%   |
 | Hewlett-Packard L1502 HWP2600 1024x768 304x228mm 15.0-inch              | 1         | 2.08%   |
 | Goldstar E2241 GSM5818 1920x1080 477x268mm 21.5-inch                    | 1         | 2.08%   |
-| Dell P1917S DELD091 1280x1024 380x300mm 19.1-inch                       | 1         | 2.08%   |
+| Dell P1917S DELD091 1280x1024 375x300mm 18.9-inch                       | 1         | 2.08%   |
 | AOC 1619w AOC1619 1366x768 340x190mm 15.3-inch                          | 1         | 2.08%   |
 
 Monitor Resolution
