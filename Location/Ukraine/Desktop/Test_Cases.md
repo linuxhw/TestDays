@@ -1,10 +1,71 @@
 Linux in Ukraine - Test Cases (Desktops)
 ----------------------------------------
 
-Total: 2071
+Total: 2132
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | ROG STRIX X670E-F GAMING... | [053a6288cb](https://linux-hardware.org/?probe=053a6288cb) | Jan 04, 2025 |
+| ASUSTek       | H110I-PLUS                  | [5a05ac75d9](https://linux-hardware.org/?probe=5a05ac75d9) | Jan 03, 2025 |
+| ASUSTek       | PRIME A320M-K               | [dae8bf9671](https://linux-hardware.org/?probe=dae8bf9671) | Dec 29, 2024 |
+| ASRock        | G31M-GS                     | [43edae3bca](https://linux-hardware.org/?probe=43edae3bca) | Dec 27, 2024 |
+| ASUSTek       | M5A78L LE                   | [0705f8159c](https://linux-hardware.org/?probe=0705f8159c) | Dec 25, 2024 |
+| ASRock        | X399 Taichi                 | [fb9ee0f91d](https://linux-hardware.org/?probe=fb9ee0f91d) | Dec 22, 2024 |
+| ECS           | H61H2-M6                    | [ee83334d6e](https://linux-hardware.org/?probe=ee83334d6e) | Dec 21, 2024 |
+| ASRock        | Z77 Pro4-M                  | [6f78f8b204](https://linux-hardware.org/?probe=6f78f8b204) | Dec 20, 2024 |
+| Gigabyte      | F2A68HM-HD2                 | [69b82b01c8](https://linux-hardware.org/?probe=69b82b01c8) | Dec 16, 2024 |
+| MSI           | MPG B550 GAMING PLUS        | [474d59def7](https://linux-hardware.org/?probe=474d59def7) | Dec 12, 2024 |
+| ASRock        | G31M-GS                     | [769e2a4b35](https://linux-hardware.org/?probe=769e2a4b35) | Dec 11, 2024 |
+| ASUSTek       | PRIME B450-PLUS             | [3ac8b9ac4d](https://linux-hardware.org/?probe=3ac8b9ac4d) | Dec 05, 2024 |
+| ASRock        | Z270M Extreme4              | [1759ae4e5c](https://linux-hardware.org/?probe=1759ae4e5c) | Dec 05, 2024 |
+| MSI           | A88X-G43                    | [17b626db6d](https://linux-hardware.org/?probe=17b626db6d) | Dec 02, 2024 |
+| Intel         | JSL MRD                     | [0f704c481a](https://linux-hardware.org/?probe=0f704c481a) | Nov 30, 2024 |
+| Intel         | JSL MRD                     | [b9e83ac911](https://linux-hardware.org/?probe=b9e83ac911) | Nov 30, 2024 |
+| ASRock        | G31M-S                      | [eb86f2cd39](https://linux-hardware.org/?probe=eb86f2cd39) | Nov 25, 2024 |
+| ASUSTek       | TUF Gaming B450-PLUS II     | [9e94883925](https://linux-hardware.org/?probe=9e94883925) | Nov 24, 2024 |
+| MSI           | A88X-G43                    | [0a4c2c7e14](https://linux-hardware.org/?probe=0a4c2c7e14) | Nov 23, 2024 |
+| MSI           | A88X-G43                    | [144a4d42dc](https://linux-hardware.org/?probe=144a4d42dc) | Nov 23, 2024 |
+| ASUSTek       | PRIME B360M-K               | [4f46a03b8f](https://linux-hardware.org/?probe=4f46a03b8f) | Nov 18, 2024 |
+| Gigabyte      | Z68MA-D2H-B3                | [461bc5c613](https://linux-hardware.org/?probe=461bc5c613) | Nov 16, 2024 |
+| Gigabyte      | Z68MA-D2H-B3                | [2bf1a8297a](https://linux-hardware.org/?probe=2bf1a8297a) | Nov 14, 2024 |
+| Fujitsu       | D3430-U1 S26361-D3430-U1    | [b9654bc74b](https://linux-hardware.org/?probe=b9654bc74b) | Nov 05, 2024 |
+| Gigabyte      | GA-MA69G-S3H                | [155af677bf](https://linux-hardware.org/?probe=155af677bf) | Nov 03, 2024 |
+| ASUSTek       | PRIME A320M-K               | [cb259b05e2](https://linux-hardware.org/?probe=cb259b05e2) | Nov 02, 2024 |
+| ASUSTek       | PRIME A320M-K               | [5a5d4093a4](https://linux-hardware.org/?probe=5a5d4093a4) | Nov 02, 2024 |
+| Gigabyte      | B450 AORUS ELITE V2         | [65e4944972](https://linux-hardware.org/?probe=65e4944972) | Oct 25, 2024 |
+| Gigabyte      | F2A75M-D3H                  | [8cf1a27cdd](https://linux-hardware.org/?probe=8cf1a27cdd) | Oct 24, 2024 |
+| MSI           | MPG B550 GAMING PLUS        | [38f2255ffb](https://linux-hardware.org/?probe=38f2255ffb) | Oct 18, 2024 |
+| MSI           | MAG B560 TOMAHAWK WIFI      | [754ae30695](https://linux-hardware.org/?probe=754ae30695) | Oct 16, 2024 |
+| Biostar       | N68S3                       | [1763cb7b1a](https://linux-hardware.org/?probe=1763cb7b1a) | Oct 07, 2024 |
+| ASUSTek       | A55BM-K                     | [a10e7e5307](https://linux-hardware.org/?probe=a10e7e5307) | Oct 06, 2024 |
+| MACHINIST     | E5-MR9A PRO V1.2            | [74c4c3fbbd](https://linux-hardware.org/?probe=74c4c3fbbd) | Oct 06, 2024 |
+| Biostar       | A68MHE                      | [89d56ae37c](https://linux-hardware.org/?probe=89d56ae37c) | Sep 30, 2024 |
+| MSI           | H110M PRO-VD                | [82065600d6](https://linux-hardware.org/?probe=82065600d6) | Sep 30, 2024 |
+| Gigabyte      | B365M D3H-RD-CF             | [6c23dcaf5c](https://linux-hardware.org/?probe=6c23dcaf5c) | Sep 29, 2024 |
+| ASUSTek       | P8H61-M LX3 R2.0            | [1966702f2f](https://linux-hardware.org/?probe=1966702f2f) | Sep 22, 2024 |
+| Gigabyte      | GA-A55M-DS2                 | [f2f522b55b](https://linux-hardware.org/?probe=f2f522b55b) | Sep 20, 2024 |
+| ASRock        | P4i65G                      | [4b8718c271](https://linux-hardware.org/?probe=4b8718c271) | Sep 20, 2024 |
+| ASUSTek       | TUF Gaming B550M-PLUS       | [0cbaddaedf](https://linux-hardware.org/?probe=0cbaddaedf) | Sep 17, 2024 |
+| Gigabyte      | M68MT-S2                    | [22af2f7840](https://linux-hardware.org/?probe=22af2f7840) | Sep 15, 2024 |
+| ASRock        | 970 Pro3 R2.0               | [414cce51f0](https://linux-hardware.org/?probe=414cce51f0) | Sep 12, 2024 |
+| MSI           | A520M-A PRO                 | [bc07a3067b](https://linux-hardware.org/?probe=bc07a3067b) | Sep 09, 2024 |
+| ASUSTek       | PRIME H610I-PLUS D4         | [27f0d99cec](https://linux-hardware.org/?probe=27f0d99cec) | Sep 09, 2024 |
+| Gigabyte      | B450 I AORUS PRO WIFI-CF    | [5ac0a5a0cd](https://linux-hardware.org/?probe=5ac0a5a0cd) | Sep 08, 2024 |
+| ASRock        | 970 Pro3 R2.0               | [3d9822f68f](https://linux-hardware.org/?probe=3d9822f68f) | Sep 06, 2024 |
+| ASRock        | 970 Pro3 R2.0               | [06bcd2a1a6](https://linux-hardware.org/?probe=06bcd2a1a6) | Sep 06, 2024 |
+| ASUSTek       | SABERTOOTH 990FX R2.0       | [ae6954169b](https://linux-hardware.org/?probe=ae6954169b) | Aug 16, 2024 |
+| ASUSTek       | PRIME A320M-K               | [c81b3df757](https://linux-hardware.org/?probe=c81b3df757) | Aug 05, 2024 |
+| HP            | 339A                        | [e55b214c4e](https://linux-hardware.org/?probe=e55b214c4e) | Aug 04, 2024 |
+| Gigabyte      | B450M DS3H-CF               | [97eeb04e17](https://linux-hardware.org/?probe=97eeb04e17) | Jul 31, 2024 |
+| Gigabyte      | B450M GAMING                | [c6b8951769](https://linux-hardware.org/?probe=c6b8951769) | Jul 27, 2024 |
+| ASUSTek       | H81M-K                      | [c972a50979](https://linux-hardware.org/?probe=c972a50979) | Jul 26, 2024 |
+| ASUSTek       | M4A78LT-M-LE                | [f4985cfd49](https://linux-hardware.org/?probe=f4985cfd49) | Jul 21, 2024 |
+| ASUSTek       | TUF B450-PRO GAMING         | [24d5092933](https://linux-hardware.org/?probe=24d5092933) | Jul 04, 2024 |
+| ASUSTek       | M2N-E                       | [291f148ef6](https://linux-hardware.org/?probe=291f148ef6) | Jun 01, 2024 |
+| HP            | 8062                        | [e3ffb51a35](https://linux-hardware.org/?probe=e3ffb51a35) | May 31, 2024 |
+| ASRock        | A520M Pro4                  | [84ba0c3f89](https://linux-hardware.org/?probe=84ba0c3f89) | May 26, 2024 |
+| Gigabyte      | B250M-DS3H-CF               | [bd144bdd4c](https://linux-hardware.org/?probe=bd144bdd4c) | May 22, 2024 |
+| Intel         | X99H                        | [cad02cec7d](https://linux-hardware.org/?probe=cad02cec7d) | May 09, 2024 |
 | ASUSTek       | TUF Gaming B550M-PLUS WI... | [a671f5391b](https://linux-hardware.org/?probe=a671f5391b) | Apr 22, 2024 |
 | ASUSTek       | TUF Gaming B550M-PLUS WI... | [eb6c0896d5](https://linux-hardware.org/?probe=eb6c0896d5) | Apr 17, 2024 |
 | ASRock        | A520M Pro4                  | [9d7e14b058](https://linux-hardware.org/?probe=9d7e14b058) | Apr 14, 2024 |

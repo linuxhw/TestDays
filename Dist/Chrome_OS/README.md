@@ -738,8 +738,8 @@ Has CD-ROM on board
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| No        | 32        | 54.24%  |
-| Yes       | 27        | 45.76%  |
+| No        | 33        | 55.93%  |
+| Yes       | 26        | 44.07%  |
 
 Has Ethernet
 ------------
@@ -935,7 +935,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.49%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.49%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.49%   |
-| TO Exter nal USB 3.0 500GB                   | 1         | 1.49%   |
+| TO Exter nal USB 3.0 1024GB                  | 1         | 1.49%   |
 | SPCC Solid State Disk 128GB                  | 1         | 1.49%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.49%   |
 | Seagate ST980210AS 80GB                      | 1         | 1.49%   |
@@ -954,7 +954,7 @@ Hard drive models
 | Kingston SH100S3120G 120GB SSD               | 1         | 1.49%   |
 | Kingston SA400S37120G 120GB SSD              | 1         | 1.49%   |
 | Kingston SA2000M81000G 1TB                   | 1         | 1.49%   |
-| KingSpec NT-256 256GB SSD                    | 1         | 1.49%   |
+| KingSpec NT-256 256GB                        | 1         | 1.49%   |
 
 HDD Vendor
 ----------
@@ -1039,7 +1039,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 49     | 100%    |
+| 0.01-0.5   | 40        | 48     | 97.56%  |
+| 1.01-2.0   | 1         | 1      | 2.44%   |
 
 Space Total
 -----------
@@ -1172,7 +1173,7 @@ Storage controller models
 | Nvidia MCP51 Serial ATA Controller                                            | 1         | 1.67%   |
 | Nvidia MCP51 IDE                                                              | 1         | 1.67%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo         | 1         | 1.67%   |
-| Kingston Company A2000 NVMe SSD SM2263EN                                      | 1         | 1.67%   |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                    | 1         | 1.67%   |
 | JMicron JMB363 SATA/IDE Controller                                            | 1         | 1.67%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                            | 1         | 1.67%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                            | 1         | 1.67%   |
@@ -1587,7 +1588,7 @@ Monitor models
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch               | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM03F3 1920x1200 518x324mm 24.1-inch  | 1         | 1.67%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch  | 1         | 1.67%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch  | 1         | 1.67%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch  | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch  | 1         | 1.67%   |
@@ -1608,7 +1609,7 @@ Monitor models
 | Hewlett-Packard S2031 HWP2904 1600x900 443x249mm 20.0-inch            | 1         | 1.67%   |
 | HannStar HSD116PHW2A HSD0450 1366x768 260x140mm 11.6-inch             | 1         | 1.67%   |
 | Goldstar W1952 GSM4B77 1440x900 410x260mm 19.1-inch                   | 1         | 1.67%   |
-| Goldstar E2260 GSM57DF 1920x1080 480x270mm 21.7-inch                  | 1         | 1.67%   |
+| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                  | 1         | 1.67%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch                | 1         | 1.67%   |
 | Dell SE2717H/HX DELD0A1 1920x1080 598x336mm 27.0-inch                 | 1         | 1.67%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                   | 1         | 1.67%   |
@@ -2141,11 +2142,11 @@ Memory module models
 ![Memory Model](./All/images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Computers | Percent |
-|-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
+| Model                                                    | Computers | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s           | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s     | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2224,10 +2225,10 @@ Printer device models
 ![Printer Model](./All/images/pie_chart/printer_model.svg)
 
 
-| Model                      | Computers | Percent |
-|----------------------------|-----------|---------|
-| Seiko Epson ET-2710 Series | 1         | 50%     |
-| HP LaserJet 1012           | 1         | 50%     |
+| Model                    | Computers | Percent |
+|--------------------------|-----------|---------|
+| Seiko Epson L3150 Series | 1         | 50%     |
+| HP LaserJet 1012         | 1         | 50%     |
 
 Scanner Vendor
 --------------
@@ -2275,11 +2276,12 @@ Camera device vendors
 | Microdia                               | 2         | 5.71%   |
 | Lite-On Technology                     | 2         | 5.71%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 5.71%   |
-| Bison Electronics                      | 2         | 5.71%   |
 | Sunplus Innovation Technology          | 1         | 2.86%   |
 | Importek                               | 1         | 2.86%   |
 | IMC Networks                           | 1         | 2.86%   |
+| Bison Electronics                      | 1         | 2.86%   |
 | ARC International                      | 1         | 2.86%   |
+| Acer                                   | 1         | 2.86%   |
 
 Camera Model
 ------------
@@ -2291,7 +2293,7 @@ Camera device models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 PC cam                              | 6         | 17.14%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 17.14%  |
 | Lenovo UVC Camera                                       | 3         | 8.57%   |
 | Ricoh Integrated Webcam                                 | 2         | 5.71%   |
 | Lite-On Integrated Camera                               | 2         | 5.71%   |
@@ -2302,8 +2304,8 @@ Camera device models
 | Sunplus HD WebCam                                       | 1         | 2.86%   |
 | Realtek WebCamera                                       | 1         | 2.86%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 2.86%   |
-| Realtek USB Camera                                      | 1         | 2.86%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 2.86%   |
+| Realtek 2SF022                                          | 1         | 2.86%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 2.86%   |
 | Microdia HP Webcam                                      | 1         | 2.86%   |
 | Importek HP Webcam                                      | 1         | 2.86%   |
@@ -2315,8 +2317,8 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101    | 1         | 2.86%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 2.86%   |
 | Bison VGA WebCam                                        | 1         | 2.86%   |
-| Bison EasyCamera                                        | 1         | 2.86%   |
 | ARC International Camera                                | 1         | 2.86%   |
+| Acer EasyCamera                                         | 1         | 2.86%   |
 
 Security
 --------
@@ -2388,9 +2390,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 0     | 36        | 60%     |
-| 1     | 20        | 33.33%  |
-| 2     | 4         | 6.67%   |
+| 0     | 35        | 58.33%  |
+| 1     | 19        | 31.67%  |
+| 2     | 6         | 10%     |
 
 Unsupported Device Types
 ------------------------
@@ -2402,13 +2404,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 22.22%  |
-| Net/wireless             | 5         | 18.52%  |
-| Fingerprint reader       | 5         | 18.52%  |
-| Graphics card            | 3         | 11.11%  |
-| Chipcard                 | 3         | 11.11%  |
-| Storage                  | 2         | 7.41%   |
-| Storage/ide              | 1         | 3.7%    |
-| Modem                    | 1         | 3.7%    |
-| Communication controller | 1         | 3.7%    |
+| Multimedia controller    | 6         | 20%     |
+| Graphics card            | 6         | 20%     |
+| Net/wireless             | 5         | 16.67%  |
+| Fingerprint reader       | 5         | 16.67%  |
+| Chipcard                 | 3         | 10%     |
+| Storage                  | 2         | 6.67%   |
+| Storage/ide              | 1         | 3.33%   |
+| Modem                    | 1         | 3.33%   |
+| Communication controller | 1         | 3.33%   |
 

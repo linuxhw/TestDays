@@ -574,10 +574,10 @@ Motherboard manufacture year
 | 2019 | 2        | 13.33%  |
 | 2017 | 2        | 13.33%  |
 | 2016 | 2        | 13.33%  |
-| 2015 | 2        | 13.33%  |
+| 2014 | 2        | 13.33%  |
 | 2022 | 1        | 6.67%   |
 | 2018 | 1        | 6.67%   |
-| 2014 | 1        | 6.67%   |
+| 2015 | 1        | 6.67%   |
 
 Form Factor
 -----------
@@ -833,7 +833,7 @@ Hard drive models
 | Seagate ST3000VN000-1HJ166 3TB                    | 1        | 2.22%   |
 | Seagate ST2000DM008-2FR102 2TB                    | 1        | 2.22%   |
 | Seagate ST2000DL003-9VT166 2TB                    | 1        | 2.22%   |
-| SanDisk Ultra 3D NVMe 1TB                         | 1        | 2.22%   |
+| SanDisk Ultra 3D NVMe 500GB                       | 1        | 2.22%   |
 | SanDisk SD8TB8U256G1001 256GB SSD                 | 1        | 2.22%   |
 | SanDisk NVMe SSD Drive 1TB                        | 1        | 2.22%   |
 | Samsung SSD 870 EVO 4TB                           | 1        | 2.22%   |
@@ -1090,11 +1090,11 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 3        | 10.71%  |
 | AMD FCH SATA Controller [AHCI mode]                                            | 3        | 10.71%  |
 | AMD 500 Series Chipset SATA Controller                                         | 3        | 10.71%  |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 2        | 7.14%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)      | 2        | 7.14%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 2        | 7.14%   |
 | AMD 400 Series Chipset SATA Controller                                         | 2        | 7.14%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                  | 1        | 3.57%   |
-| SanDisk PC SN735 NVMe SSD (DRAM-less)                                          | 1        | 3.57%   |
+| SanDisk PC SN735 / WD_BLACK SN750 SE NVMe SSD (DRAM-less)                      | 1        | 3.57%   |
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1        | 3.57%   |
 | Phison E7 NVMe Controller                                                      | 1        | 3.57%   |
 | OCZ Group RD400/400A SSD                                                       | 1        | 3.57%   |
@@ -1401,7 +1401,7 @@ Monitor models
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM021E 1680x1050 433x271mm 20.1-inch | 2        | 7.41%   |
-| STD HDMI TV STD00C7 1680x1050 698x392mm 31.5-inch                    | 1        | 3.7%    |
+| STD HDMI TV STD00C7 1920x1080 698x392mm 31.5-inch                    | 1        | 3.7%    |
 | Sony SAMSUNG SNY5203 1920x540                                        | 1        | 3.7%    |
 | Samsung Electronics S27E590 SAM0C5D 1920x1080 598x336mm 27.0-inch    | 1        | 3.7%    |
 | Samsung Electronics S27E391 SAM0C15 1920x1080 598x336mm 27.0-inch    | 1        | 3.7%    |
@@ -1417,8 +1417,8 @@ Monitor models
 | Eizo EV3285 ENC2979 3840x2160 698x393mm 31.5-inch                    | 1        | 3.7%    |
 | Dell UP3216Q DEL40C2 3840x2160 700x400mm 31.7-inch                   | 1        | 3.7%    |
 | Dell U2414H DELA0B2 1920x1080 527x296mm 23.8-inch                    | 1        | 3.7%    |
-| BenQ LCD BNQ801E 3840x2160 600x340mm 27.2-inch                       | 1        | 3.7%    |
-| ASUSTek Computer XG49V AUS49A1 3840x1080 1196x336mm 48.9-inch        | 1        | 3.7%    |
+| BenQ LCD BNQ801E 3840x2160 596x335mm 26.9-inch                       | 1        | 3.7%    |
+| ASUSTek Computer XG49V AUS49A1 3840x1080 1200x340mm 49.1-inch        | 1        | 3.7%    |
 | AOC 2757 AOC2757 1920x1080 598x336mm 27.0-inch                       | 1        | 3.7%    |
 | Acer X34 P ACR054F 3440x1440 798x335mm 34.1-inch                     | 1        | 3.7%    |
 | Acer KA220HQ ACR0497 1920x1080 477x268mm 21.5-inch                   | 1        | 3.7%    |
@@ -1788,7 +1788,7 @@ Sound card models
 | Intel C610/X99 series chipset HD Audio Controller                   | 1        | 2.94%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller | 1        | 2.94%   |
 | GN Netcom Jabra Link 380                                            | 1        | 2.94%   |
-| Cambridge Silicon Radio Avantree DG80                               | 1        | 2.94%   |
+| Cambridge Silicon Radio B25                                         | 1        | 2.94%   |
 | C-Media Electronics CMI8738/CMI8768 PCI Audio                       | 1        | 2.94%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                   | 1        | 2.94%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                 | 1        | 2.94%   |
@@ -1825,24 +1825,24 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1        | 6.25%   |
-| SK hynix RAM HMT451U6DFR8A-PB 4GB DIMM DDR3 1600MT/s      | 1        | 6.25%   |
-| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2400MT/s      | 1        | 6.25%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s    | 1        | 6.25%   |
-| Ramsta RAM 3200MHz-16G 16GB SODIMM DDR4 3200MT/s          | 1        | 6.25%   |
-| Kingston RAM Module 8GB DIMM DDR4 3200MT/s                | 1        | 6.25%   |
-| G.Skill RAM F4-3600C16-8GTZR 8192MB DIMM DDR4 3600MT/s    | 1        | 6.25%   |
-| G.Skill RAM F4-3200C16-16GTZN 16GB DIMM DDR4 3200MT/s     | 1        | 6.25%   |
-| G.Skill RAM F4-3000C16-8GISB 8192MB DIMM DDR4 3200MT/s    | 1        | 6.25%   |
-| G.Skill RAM F4-3000C15-8GRBB 8GB DIMM DDR4 3000MT/s       | 1        | 6.25%   |
-| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s        | 1        | 6.25%   |
-| Crucial RAM BLS8G4D26BFSEK.8FD 8GB DIMM DDR4 3000MT/s     | 1        | 6.25%   |
-| Crucial RAM BLS8G4D26BFSBK.8FBD 8GB DIMM DDR4 2667MT/s    | 1        | 6.25%   |
-| Crucial RAM BL16G36C16U4R.M8FB1 16GB DIMM DDR4 3600MT/s   | 1        | 6.25%   |
-| Corsair RAM CMK32GX4M2A2400C16 16384MB DIMM DDR4 2400MT/s | 1        | 6.25%   |
-| Corsair RAM CMK32GX4M2A2400C14 16GB DIMM DDR4 2400MT/s    | 1        | 6.25%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 6.25%   |
+| SK hynix RAM HMT451U6DFR8A-PB 4GB DIMM DDR3 1600MT/s    | 1        | 6.25%   |
+| SK hynix RAM HMA81GU6CJR8N-VK 8GB DIMM DDR4 2400MT/s    | 1        | 6.25%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s  | 1        | 6.25%   |
+| Ramsta RAM 3200MHz-16G 16GB SODIMM DDR4 3200MT/s        | 1        | 6.25%   |
+| Kingston RAM Module 8GB DIMM DDR4 3200MT/s              | 1        | 6.25%   |
+| G.Skill RAM F4-3600C16-8GTZR 8192MB DIMM DDR4 3600MT/s  | 1        | 6.25%   |
+| G.Skill RAM F4-3200C16-16GTZN 16GB DIMM DDR4 3200MT/s   | 1        | 6.25%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3200MT/s     | 1        | 6.25%   |
+| G.Skill RAM F4-3000C15-8GRBB 8GB DIMM DDR4 3000MT/s     | 1        | 6.25%   |
+| G.Skill RAM F4-2400C15-8GNT 8GB DIMM DDR4 2666MT/s      | 1        | 6.25%   |
+| Crucial RAM BLS8G4D26BFSEK.8FD 8GB DIMM DDR4 3000MT/s   | 1        | 6.25%   |
+| Crucial RAM BLS8G4D26BFSBK.8FBD 8GB DIMM DDR4 2667MT/s  | 1        | 6.25%   |
+| Crucial RAM BL16G36C16U4R.M8FB1 16GB DIMM DDR4 3600MT/s | 1        | 6.25%   |
+| Corsair RAM CMK32GX4M2A2400C16 16GB DIMM DDR4 2400MT/s  | 1        | 6.25%   |
+| Corsair RAM CMK32GX4M2A2400C14 16GB DIMM DDR4 2400MT/s  | 1        | 6.25%   |
 
 Memory Kind
 -----------
@@ -1979,7 +1979,7 @@ Camera device models
 | Microsoft LifeCam Cinema     | 1        | 16.67%  |
 | Logitech Webcam C270         | 1        | 16.67%  |
 | Logitech QuickCam Pro 9000   | 1        | 16.67%  |
-| A4Tech REDRAGON Live Camera  | 1        | 16.67%  |
+| A4Tech PK-635G               | 1        | 16.67%  |
 
 Security
 --------

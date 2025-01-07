@@ -946,12 +946,12 @@ Hard drive models
 | WDC WD10EZEX-00WN4A0 1TB                    | 1        | 1.23%   |
 | WDC WD10EZEX-00BN5A0 1TB                    | 1        | 1.23%   |
 | WDC WD10EURX-83UY4Y0 1TB                    | 1        | 1.23%   |
-| WDC WD Blue SA510 2.5 500GB SSD             | 1        | 1.23%   |
-| Verbatim Vi550 S3 SSD 256GB                 | 1        | 1.23%   |
+| WDC WD Blue SA510 2.5 500GB                 | 1        | 1.23%   |
+| Verbatim Vi550 S3 SSD 512GB                 | 1        | 1.23%   |
 | Unknown SD/MMC/MS PRO 128GB                 | 1        | 1.23%   |
 | Toshiba THNSNJ256GCST 256GB SSD             | 1        | 1.23%   |
 | Toshiba MK3275GSX 320GB                     | 1        | 1.23%   |
-| Toshiba MK1234GSX 118GB                     | 1        | 1.23%   |
+| Toshiba MK1234GSX 120GB                     | 1        | 1.23%   |
 | Toshiba HDWE140 4TB                         | 1        | 1.23%   |
 | Toshiba DT01ACA100 1TB                      | 1        | 1.23%   |
 | SK hynix BC501 NVMe Solid State Drive 512GB | 1        | 1.23%   |
@@ -1034,8 +1034,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 45     | 47.46%  |
-| 0.51-1.0   | 18       | 30     | 30.51%  |
+| 0.01-0.5   | 28       | 44     | 47.46%  |
+| 0.51-1.0   | 18       | 31     | 30.51%  |
 | 1.01-2.0   | 7        | 11     | 11.86%  |
 | 3.01-4.0   | 3        | 7      | 5.08%   |
 | 2.01-3.0   | 2        | 2      | 3.39%   |
@@ -1088,7 +1088,7 @@ Drive models with a malfunction
 | Model                       | Desktops | Drives | Percent |
 |-----------------------------|----------|--------|---------|
 | WDC WD5000AAVS-00G9B1 500GB | 1        | 1      | 33.33%  |
-| Toshiba MK1234GSX 118GB     | 1        | 1      | 33.33%  |
+| Toshiba MK1234GSX 120GB     | 1        | 1      | 33.33%  |
 | Seagate ST3500418AS 500GB   | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Vendor
@@ -1221,14 +1221,14 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 2        | 2.67%   |
 | SK hynix BC501 NVMe Solid State Drive                                                   | 1        | 1.33%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 1.33%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 1.33%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)               | 1        | 1.33%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.33%   |
 | Realtek RTS5762 NVMe SSD Controller                                                     | 1        | 1.33%   |
 | Nvidia MCP55 SATA Controller                                                            | 1        | 1.33%   |
 | Nvidia MCP55 IDE                                                                        | 1        | 1.33%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                              | 1        | 1.33%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                       | 1        | 1.33%   |
-| Kingston Company A2000 NVMe SSD SM2263EN                                                | 1        | 1.33%   |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                              | 1        | 1.33%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 1        | 1.33%   |
 | Intel Tiger Lake-LP SATA Controller                                                     | 1        | 1.33%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 1.33%   |
@@ -1505,7 +1505,7 @@ Graphics card models
 | Intel IvyBridge GT2 [HD Graphics 4000]                                      | 2        | 4.55%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 2        | 4.55%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                       | 2        | 4.55%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]               | 2        | 4.55%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                 | 2        | 4.55%   |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                     | 2        | 4.55%   |
 | Nvidia TU116 [GeForce GTX 1660 SUPER]                                       | 1        | 2.27%   |
 | Nvidia GT218 [GeForce 210]                                                  | 1        | 2.27%   |
@@ -1628,15 +1628,15 @@ Monitor models
 | Vestel LCD Monitor 32W_LCD_TV 1920x1080                               | 1        | 2.27%   |
 | Unknown LCD Monitor SAMSUNG                                           | 1        | 2.27%   |
 | Sony AVAMP SNYF400 1920x1080                                          | 1        | 2.27%   |
-| Sceptre Tech F27 SPT0ABF 1920x1080 409x230mm 18.5-inch                | 1        | 2.27%   |
+| Sceptre Tech Sceptre F27 SPT0ABF 1920x1080 409x230mm 18.5-inch        | 1        | 2.27%   |
 | Samsung Electronics S34J55x SAM0F71 3440x1440 797x333mm 34.0-inch     | 1        | 2.27%   |
-| Samsung Electronics S27E510 SAM0C5F 1920x1080 600x340mm 27.2-inch     | 1        | 2.27%   |
+| Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor U28E590                               | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch  | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 890x500mm 40.2-inch | 1        | 2.27%   |
 | Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch     | 1        | 2.27%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 2.27%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch     | 1        | 2.27%   |
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch     | 1        | 2.27%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.27%   |
 | Ruijiang RJT HDMI RJT1200 1920x1080 320x180mm 14.5-inch               | 1        | 2.27%   |
@@ -2113,7 +2113,7 @@ Sound card models
 | Nvidia GF108 High Definition Audio Controller                                                   | 3        | 3.8%    |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 3        | 3.8%    |
 | Intel 200 Series PCH HD Audio                                                                   | 3        | 3.8%    |
-| AMD Family 17h/19h HD Audio Controller                                                          | 3        | 3.8%    |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                      | 3        | 3.8%    |
 | Nvidia GP104 High Definition Audio Controller                                                   | 2        | 2.53%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                                   | 2        | 2.53%   |
 | Nvidia GK107 HDMI Audio Controller                                                              | 2        | 2.53%   |
@@ -2144,9 +2144,9 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                             | 1        | 1.27%   |
 | Intel 82801G (ICH7 Family) AC'97 Audio Controller                                               | 1        | 1.27%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.27%   |
-| Hewlett-Packard HP S101 Speaker Bar                                                             | 1        | 1.27%   |
-| C-Media Electronics USB PnP Audio Device                                                        | 1        | 1.27%   |
+| Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.27%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.27%   |
+| C-Media Electronics Auna Mic CM900                                                              | 1        | 1.27%   |
 
 Memory
 ------
@@ -2185,9 +2185,9 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM DDR3 1400MT/s                   | 1        | 8.33%   |
 | SK hynix RAM HKNNNFBMAVAR-NEH 2GB Row Of Chips LPDDR4 3200MT/s | 1        | 8.33%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1        | 8.33%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
+| Samsung RAM M378B5173DB0-CK0 4096MB DIMM DDR3 1600MT/s         | 1        | 8.33%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s             | 1        | 8.33%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s            | 1        | 8.33%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1800MT/s            | 1        | 8.33%   |
 | HP RAM 7EH65AA# 16384MB DIMM DDR4 2666MT/s                     | 1        | 8.33%   |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s           | 1        | 8.33%   |
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
@@ -2349,20 +2349,20 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                                  | Desktops | Percent |
-|----------------------------------------|----------|---------|
-| Z-Star WebCam SC-03FFL11739P           | 2        | 15.38%  |
-| Z-Star Integrated Camera               | 1        | 7.69%   |
-| Novatek DEMO1                          | 1        | 7.69%   |
-| Microsoft LifeCam VX-5000              | 1        | 7.69%   |
-| Microsoft LifeCam VX-500 [1357]        | 1        | 7.69%   |
-| Microdia USB 2.0 Camera                | 1        | 7.69%   |
-| Logitech Webcam C270                   | 1        | 7.69%   |
-| Logitech QuickCam Communicate MP/S5500 | 1        | 7.69%   |
-| Huawei HiCamera                        | 1        | 7.69%   |
-| Generalplus 808 Camera                 | 1        | 7.69%   |
-| Cubeternet GL-UPC822 UVC WebCam        | 1        | 7.69%   |
-| ARC International Camera               | 1        | 7.69%   |
+| Model                                    | Desktops | Percent |
+|------------------------------------------|----------|---------|
+| Z-Star WebCam SC-03FFL11739P             | 2        | 15.38%  |
+| Z-Star Integrated Camera                 | 1        | 7.69%   |
+| Novatek J1455                            | 1        | 7.69%   |
+| Microsoft LifeCam VX-5000                | 1        | 7.69%   |
+| Microsoft LifeCam VX-500 [1357]          | 1        | 7.69%   |
+| Microdia USB 2.0 Camera                  | 1        | 7.69%   |
+| Logitech Webcam C270                     | 1        | 7.69%   |
+| Logitech QuickCam Communicate MP/S5500   | 1        | 7.69%   |
+| Huawei HiCamera                          | 1        | 7.69%   |
+| Generalplus 808 Camera #9 (web-cam mode) | 1        | 7.69%   |
+| Cubeternet GL-UPC822 UVC WebCam          | 1        | 7.69%   |
+| ARC International Camera                 | 1        | 7.69%   |
 
 Security
 --------
@@ -2420,8 +2420,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 33       | 78.57%  |
-| 1     | 7        | 16.67%  |
+| 0     | 32       | 76.19%  |
+| 1     | 8        | 19.05%  |
 | 3     | 1        | 2.38%   |
 | 2     | 1        | 2.38%   |
 
@@ -2435,11 +2435,11 @@ Types of unsupported devices
 
 | Type                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Graphics card         | 3        | 27.27%  |
-| Net/wireless          | 2        | 18.18%  |
-| Multimedia controller | 2        | 18.18%  |
-| Sound                 | 1        | 9.09%   |
-| Net/ethernet          | 1        | 9.09%   |
-| Chipcard              | 1        | 9.09%   |
-| Bluetooth             | 1        | 9.09%   |
+| Graphics card         | 4        | 33.33%  |
+| Net/wireless          | 2        | 16.67%  |
+| Multimedia controller | 2        | 16.67%  |
+| Sound                 | 1        | 8.33%   |
+| Net/ethernet          | 1        | 8.33%   |
+| Chipcard              | 1        | 8.33%   |
+| Bluetooth             | 1        | 8.33%   |
 

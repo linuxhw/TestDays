@@ -1,10 +1,48 @@
 Fedora 38 - Test Cases
 ----------------------
 
-Total: 4286
+Total: 4324
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Dell          | Latitude 5290 2-in-1        | Notebook    | [0b277582ac](https://linux-hardware.org/?probe=0b277582ac) | Jan 03, 2025 |
+| MSI           | MPG Z390 GAMING EDGE AC     | Desktop     | [08ef8b7453](https://linux-hardware.org/?probe=08ef8b7453) | Jan 01, 2025 |
+| Toshiba       | PORTEGE R700                | Notebook    | [71c89a13ef](https://linux-hardware.org/?probe=71c89a13ef) | Dec 18, 2024 |
+| Lenovo        | ThinkPad X1 Carbon 2nd 2... | Notebook    | [e494fd0d75](https://linux-hardware.org/?probe=e494fd0d75) | Dec 04, 2024 |
+| HP            | 885E A01                    | All in one  | [176bf6c346](https://linux-hardware.org/?probe=176bf6c346) | Dec 02, 2024 |
+| Dell          | Inspiron 5482               | Convertible | [9583c4e71b](https://linux-hardware.org/?probe=9583c4e71b) | Nov 09, 2024 |
+| Lenovo        | ThinkPad X1 Carbon 2nd 2... | Notebook    | [5b90e94be7](https://linux-hardware.org/?probe=5b90e94be7) | Nov 08, 2024 |
+| Siragon       | MN-50                       | Notebook    | [31e300c3fb](https://linux-hardware.org/?probe=31e300c3fb) | Oct 28, 2024 |
+| ASUSTek       | VivoBook_ASUSLaptop M350... | Notebook    | [97936e2c62](https://linux-hardware.org/?probe=97936e2c62) | Oct 21, 2024 |
+| Raspberry ... | Raspberry Pi 4 Model B R... | Soc         | [e93f345910](https://linux-hardware.org/?probe=e93f345910) | Oct 01, 2024 |
+| Lenovo        | ThinkPad X240 20AL00BRUK    | Notebook    | [98d613e99d](https://linux-hardware.org/?probe=98d613e99d) | Sep 09, 2024 |
+| Acer          | Nitro AN515-58              | Notebook    | [5e4d6ee2a9](https://linux-hardware.org/?probe=5e4d6ee2a9) | Sep 02, 2024 |
+| ASUSTek       | ROG STRIX X670E-E GAMING... | Desktop     | [97743675bd](https://linux-hardware.org/?probe=97743675bd) | Aug 25, 2024 |
+| Gigabyte      | P85-D3                      | Desktop     | [963dc3b162](https://linux-hardware.org/?probe=963dc3b162) | Aug 17, 2024 |
+| HP            | 650                         | Notebook    | [aee05e4142](https://linux-hardware.org/?probe=aee05e4142) | Aug 11, 2024 |
+| Unknown       | Unknown                     | Desktop     | [d8180652d2](https://linux-hardware.org/?probe=d8180652d2) | Aug 05, 2024 |
+| Acer          | Aspire E5-721               | Notebook    | [717fbb1b25](https://linux-hardware.org/?probe=717fbb1b25) | Jul 27, 2024 |
+| Acer          | Aspire E5-721               | Notebook    | [84fbbf51e9](https://linux-hardware.org/?probe=84fbbf51e9) | Jul 26, 2024 |
+| Unknown       | Unknown                     | Desktop     | [0d86efd8cb](https://linux-hardware.org/?probe=0d86efd8cb) | Jul 08, 2024 |
+| Dell          | Vostro 1400                 | Notebook    | [f6c68ed76d](https://linux-hardware.org/?probe=f6c68ed76d) | Jul 03, 2024 |
+| Matsushita... | CF-30FTS29AM                | Notebook    | [28a6faa26b](https://linux-hardware.org/?probe=28a6faa26b) | Jun 21, 2024 |
+| Medion        | ME Series                   | Notebook    | [287dad84a7](https://linux-hardware.org/?probe=287dad84a7) | Jun 16, 2024 |
+| Lenovo        | ThinkPad T14 Gen 1 20S1S... | Notebook    | [c7a3b88679](https://linux-hardware.org/?probe=c7a3b88679) | Jun 11, 2024 |
+| Lenovo        | ThinkPad T14 Gen 1 20S1S... | Notebook    | [3f5fa783fc](https://linux-hardware.org/?probe=3f5fa783fc) | Jun 11, 2024 |
+| Dell          | Latitude 5511               | Notebook    | [61d73d0947](https://linux-hardware.org/?probe=61d73d0947) | Jun 09, 2024 |
+| Acer          | Aspire A315-56              | Notebook    | [1dc0d08f6d](https://linux-hardware.org/?probe=1dc0d08f6d) | Jun 07, 2024 |
+| ASUSTek       | Z87I-PRO                    | Desktop     | [408cf67898](https://linux-hardware.org/?probe=408cf67898) | Jun 06, 2024 |
+| Microsoft     | Surface Laptop SE           | Tablet      | [1c92d7fd52](https://linux-hardware.org/?probe=1c92d7fd52) | May 30, 2024 |
+| Lenovo        | ThinkPad X1 Carbon 3rd 2... | Notebook    | [26130bdac3](https://linux-hardware.org/?probe=26130bdac3) | May 28, 2024 |
+| Microsoft     | Surface Pro 4               | Tablet      | [02f1095889](https://linux-hardware.org/?probe=02f1095889) | May 25, 2024 |
+| HP            | G61                         | Notebook    | [2aca794d48](https://linux-hardware.org/?probe=2aca794d48) | May 23, 2024 |
+| Acer          | Predator PH517-61           | Notebook    | [73fa0da6ff](https://linux-hardware.org/?probe=73fa0da6ff) | May 19, 2024 |
+| Lenovo        | ThinkPad Z16 Gen 1 21D4C... | Notebook    | [97cc11c8c4](https://linux-hardware.org/?probe=97cc11c8c4) | May 18, 2024 |
+| Gigabyte      | GA-990X-Gaming SLI-CF       | Desktop     | [ccc9d03eb5](https://linux-hardware.org/?probe=ccc9d03eb5) | May 17, 2024 |
+| Lenovo        | 36D9 NO DPK                 | Desktop     | [7da2018a21](https://linux-hardware.org/?probe=7da2018a21) | May 14, 2024 |
+| ASUSTek       | PRIME B350M-A               | Desktop     | [37981baa1f](https://linux-hardware.org/?probe=37981baa1f) | May 14, 2024 |
+| Dell          | 06D7TR A00                  | Desktop     | [92c8cc8db0](https://linux-hardware.org/?probe=92c8cc8db0) | May 13, 2024 |
+| Lenovo        | ThinkPad T14s Gen 1 20T1... | Notebook    | [8eafbd5d04](https://linux-hardware.org/?probe=8eafbd5d04) | May 09, 2024 |
 | MSI           | MPG X570 GAMING PRO CARB... | Desktop     | [1be8775956](https://linux-hardware.org/?probe=1be8775956) | May 08, 2024 |
 | Sony          | SVE1512Z1EB                 | Notebook    | [18a1eb8f10](https://linux-hardware.org/?probe=18a1eb8f10) | Apr 30, 2024 |
 | ASRock        | Z87 Extreme6                | Desktop     | [738b732d00](https://linux-hardware.org/?probe=738b732d00) | Apr 29, 2024 |
@@ -634,7 +672,7 @@ Total: 4286
 | Toshiba       | Satellite A500              | Notebook    | [15b78585e0](https://linux-hardware.org/?probe=15b78585e0) | Oct 19, 2023 |
 | HP            | ProBook 445 G7              | Notebook    | [10fab445ad](https://linux-hardware.org/?probe=10fab445ad) | Oct 19, 2023 |
 | Toshiba       | Satellite A500              | Notebook    | [0d2e2856a9](https://linux-hardware.org/?probe=0d2e2856a9) | Oct 19, 2023 |
-| ASUSTek       | PRIME X570-P                | Notebook    | [4506612f98](https://linux-hardware.org/?probe=4506612f98) | Oct 19, 2023 |
+| ASUSTek       | PRIME X570-P                | Desktop     | [4506612f98](https://linux-hardware.org/?probe=4506612f98) | Oct 19, 2023 |
 | Acer          | Aspire A315-57G             | Notebook    | [7e39a647e3](https://linux-hardware.org/?probe=7e39a647e3) | Oct 19, 2023 |
 | ASUSTek       | X555QG                      | Notebook    | [e2e11a852f](https://linux-hardware.org/?probe=e2e11a852f) | Oct 19, 2023 |
 | HP            | OMEN by Laptop 16-c0xxx     | Notebook    | [8d38f6e16d](https://linux-hardware.org/?probe=8d38f6e16d) | Oct 19, 2023 |
@@ -1682,7 +1720,7 @@ Total: 4286
 | ASUSTek       | Strix 17 GL703GE            | Notebook    | [b2ad72336f](https://linux-hardware.org/?probe=b2ad72336f) | Aug 26, 2023 |
 | HP            | OMEN by Laptop              | Notebook    | [df71a92503](https://linux-hardware.org/?probe=df71a92503) | Aug 26, 2023 |
 | Acer          | Aspire A715-72G             | Notebook    | [cbbaecabb1](https://linux-hardware.org/?probe=cbbaecabb1) | Aug 26, 2023 |
-| Samsung       | Galaxy TabPro S             | Tablet      | [c2efac4748](https://linux-hardware.org/?probe=c2efac4748) | Aug 26, 2023 |
+| Samsung       | Galaxy Book 12              | Tablet      | [c2efac4748](https://linux-hardware.org/?probe=c2efac4748) | Aug 26, 2023 |
 | ASUSTek       | Z170-P                      | Desktop     | [9e90f8b308](https://linux-hardware.org/?probe=9e90f8b308) | Aug 26, 2023 |
 | ASUSTek       | X542BP                      | Notebook    | [58cc535a58](https://linux-hardware.org/?probe=58cc535a58) | Aug 26, 2023 |
 | AZW           | U59                         | Desktop     | [ea7bf087cc](https://linux-hardware.org/?probe=ea7bf087cc) | Aug 26, 2023 |
@@ -2727,7 +2765,7 @@ Total: 4286
 | Lenovo        | Yoga Slim 7 Carbon 13ITL... | Notebook    | [638d99b4f8](https://linux-hardware.org/?probe=638d99b4f8) | Jul 02, 2023 |
 | HP            | Compaq 6910p                | Notebook    | [d72eacd7ea](https://linux-hardware.org/?probe=d72eacd7ea) | Jul 02, 2023 |
 | Gigabyte      | A320M-S2H-CF                | Desktop     | [d0ab54293f](https://linux-hardware.org/?probe=d0ab54293f) | Jul 02, 2023 |
-| Samsung       | Galaxy TabPro S             | Tablet      | [a53eeb72a6](https://linux-hardware.org/?probe=a53eeb72a6) | Jul 02, 2023 |
+| Samsung       | Galaxy Book 12              | Tablet      | [a53eeb72a6](https://linux-hardware.org/?probe=a53eeb72a6) | Jul 02, 2023 |
 | Lenovo        | ThinkPad E14 Gen 3 20Y70... | Notebook    | [05394ee8a5](https://linux-hardware.org/?probe=05394ee8a5) | Jul 02, 2023 |
 | Dell          | Latitude E6420              | Notebook    | [aae88e9000](https://linux-hardware.org/?probe=aae88e9000) | Jul 01, 2023 |
 | Apple         | Mac-F2268CC8                | All in one  | [3bafd84f65](https://linux-hardware.org/?probe=3bafd84f65) | Jul 01, 2023 |
@@ -3624,7 +3662,7 @@ Total: 4286
 | Dell          | Latitude 5490               | Notebook    | [0a6ee8c111](https://linux-hardware.org/?probe=0a6ee8c111) | May 14, 2023 |
 | HUAWEI        | BOHK-WAX9X                  | Notebook    | [e9ce1757ae](https://linux-hardware.org/?probe=e9ce1757ae) | May 14, 2023 |
 | iRU           | A231                        | Desktop     | [8c941b1457](https://linux-hardware.org/?probe=8c941b1457) | May 14, 2023 |
-| Unknown       | Unknown                     | Notebook    | [66e7dc292e](https://linux-hardware.org/?probe=66e7dc292e) | May 14, 2023 |
+| Unknown       | Apple MacBook Pro (14-in... | Notebook    | [66e7dc292e](https://linux-hardware.org/?probe=66e7dc292e) | May 14, 2023 |
 | Lenovo        | ThinkPad T480 20L6A0XKUK    | Notebook    | [8921a6d64e](https://linux-hardware.org/?probe=8921a6d64e) | May 14, 2023 |
 | Lenovo        | SHARKBAY 0B98401 PRO        | Desktop     | [71acd5de88](https://linux-hardware.org/?probe=71acd5de88) | May 14, 2023 |
 | HP            | ProBook 450 G2              | Notebook    | [2ab0709f22](https://linux-hardware.org/?probe=2ab0709f22) | May 14, 2023 |

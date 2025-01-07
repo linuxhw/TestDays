@@ -688,8 +688,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 26        | 59.09%  |
-| Yes       | 18        | 40.91%  |
+| No        | 27        | 61.36%  |
+| Yes       | 17        | 38.64%  |
 
 Has Ethernet
 ------------
@@ -872,7 +872,7 @@ Hard drive models
 | Union Memory (Shenzhen) NVMe SSD Drive 256GB | 1         | 1.96%   |
 | Toshiba MQ01ABD032 320GB                     | 1         | 1.96%   |
 | Toshiba MK2555GSX 250GB                      | 1         | 1.96%   |
-| TO Exter nal USB 3.0 500GB                   | 1         | 1.96%   |
+| TO Exter nal USB 3.0 1024GB                  | 1         | 1.96%   |
 | Seagate ST980811AS 80GB                      | 1         | 1.96%   |
 | Seagate ST9160821AS 160GB                    | 1         | 1.96%   |
 | SanDisk SSD U100 16GB                        | 1         | 1.96%   |
@@ -968,7 +968,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 32     | 100%    |
+| 0.01-0.5   | 26        | 31     | 96.3%   |
+| 1.01-2.0   | 1         | 1      | 3.7%    |
 
 Space Total
 -----------
@@ -1092,7 +1093,7 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                            | 2         | 5.41%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                            | 2         | 5.41%   |
 | Union Memory (Shenzhen) AM610 PCIe 3.0 x2 NVMe SSD 128GB, 256GB              | 1         | 2.7%    |
-| Kingston Company A2000 NVMe SSD SM2263EN                                     | 1         | 2.7%    |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                   | 1         | 2.7%    |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                           | 1         | 2.7%    |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 1         | 2.7%    |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                            | 1         | 2.7%    |
@@ -1449,7 +1450,7 @@ Monitor models
 | BOE LCD Monitor BOE0696 1366x768 309x173mm 13.9-inch                     | 2         | 4.35%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 344x194mm 15.5-inch                  | 1         | 2.17%   |
 | Samsung Electronics SyncMaster SAM0254 1680x1050 474x296mm 22.0-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC5442 1440x900 303x190mm 14.1-inch     | 1         | 2.17%   |
+| Samsung Electronics LCD Monitor SEC5442 1440x900 331x207mm 15.4-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3651 1366x768 344x194mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch     | 1         | 2.17%   |
 | Samsung Electronics LCD Monitor SEC3143 1366x768 256x144mm 11.6-inch     | 1         | 2.17%   |
@@ -1958,11 +1959,11 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Notebooks | Percent |
-|-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s        | 1         | 33.33%  |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
-| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s  | 1         | 33.33%  |
+| Model                                                    | Notebooks | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s           | 1         | 33.33%  |
+| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s | 1         | 33.33%  |
+| Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s     | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -2070,10 +2071,11 @@ Camera device vendors
 | Microdia                               | 2         | 6.06%   |
 | Lite-On Technology                     | 2         | 6.06%   |
 | Cheng Uei Precision Industry (Foxlink) | 2         | 6.06%   |
-| Bison Electronics                      | 2         | 6.06%   |
 | Sunplus Innovation Technology          | 1         | 3.03%   |
 | Importek                               | 1         | 3.03%   |
 | IMC Networks                           | 1         | 3.03%   |
+| Bison Electronics                      | 1         | 3.03%   |
+| Acer                                   | 1         | 3.03%   |
 
 Camera Model
 ------------
@@ -2085,7 +2087,7 @@ Camera device models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Alcor Micro USB 2.0 PC cam                              | 6         | 18.18%  |
+| Alcor Micro USB 2.0 Camera                              | 6         | 18.18%  |
 | Lenovo UVC Camera                                       | 3         | 9.09%   |
 | Ricoh Integrated Webcam                                 | 2         | 6.06%   |
 | Lite-On Integrated Camera                               | 2         | 6.06%   |
@@ -2095,8 +2097,8 @@ Camera device models
 | Suyin HD Video WebCam                                   | 1         | 3.03%   |
 | Sunplus HD WebCam                                       | 1         | 3.03%   |
 | Realtek USB2.0 VGA UVC WebCam                           | 1         | 3.03%   |
-| Realtek USB Camera                                      | 1         | 3.03%   |
 | Realtek Acer 640 x 480 laptop camera                    | 1         | 3.03%   |
+| Realtek 2SF022                                          | 1         | 3.03%   |
 | Microdia Integrated_Webcam_HD                           | 1         | 3.03%   |
 | Microdia HP Webcam                                      | 1         | 3.03%   |
 | Importek HP Webcam                                      | 1         | 3.03%   |
@@ -2108,7 +2110,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101    | 1         | 3.03%   |
 | Cheng Uei Precision Industry (Foxlink) HP Truevision HD | 1         | 3.03%   |
 | Bison VGA WebCam                                        | 1         | 3.03%   |
-| Bison EasyCamera                                        | 1         | 3.03%   |
+| Acer EasyCamera                                         | 1         | 3.03%   |
 
 Security
 --------
@@ -2180,9 +2182,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 25        | 56.82%  |
-| 1     | 15        | 34.09%  |
-| 2     | 4         | 9.09%   |
+| 0     | 24        | 54.55%  |
+| 1     | 14        | 31.82%  |
+| 2     | 6         | 13.64%  |
 
 Unsupported Device Types
 ------------------------
@@ -2194,13 +2196,13 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Multimedia controller    | 6         | 27.27%  |
-| Fingerprint reader       | 5         | 22.73%  |
-| Chipcard                 | 3         | 13.64%  |
-| Storage                  | 2         | 9.09%   |
-| Graphics card            | 2         | 9.09%   |
-| Storage/ide              | 1         | 4.55%   |
-| Net/wireless             | 1         | 4.55%   |
-| Modem                    | 1         | 4.55%   |
-| Communication controller | 1         | 4.55%   |
+| Multimedia controller    | 6         | 24%     |
+| Graphics card            | 5         | 20%     |
+| Fingerprint reader       | 5         | 20%     |
+| Chipcard                 | 3         | 12%     |
+| Storage                  | 2         | 8%      |
+| Storage/ide              | 1         | 4%      |
+| Net/wireless             | 1         | 4%      |
+| Modem                    | 1         | 4%      |
+| Communication controller | 1         | 4%      |
 

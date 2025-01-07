@@ -1,10 +1,59 @@
 OpenMandriva 4.2 - Test Cases
 -----------------------------
 
-Total: 4942
+Total: 4991
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Gigabyte      | H81M-D2V                    | Desktop     | [aadc1a0c13](https://linux-hardware.org/?probe=aadc1a0c13) | Jan 06, 2025 |
+| Dell          | Latitude E4310              | Notebook    | [68eec2c60e](https://linux-hardware.org/?probe=68eec2c60e) | Jan 04, 2025 |
+| ASUSTek       | P8Z77-V LX                  | Desktop     | [69679c9a35](https://linux-hardware.org/?probe=69679c9a35) | Dec 31, 2024 |
+| Gigabyte      | GA-MA770-DS3                | Desktop     | [d18eb4cf0d](https://linux-hardware.org/?probe=d18eb4cf0d) | Dec 31, 2024 |
+| HP            | ProBook 6560b               | Notebook    | [c2ae1365c2](https://linux-hardware.org/?probe=c2ae1365c2) | Dec 31, 2024 |
+| ASRock        | G31M-S                      | Desktop     | [983b928868](https://linux-hardware.org/?probe=983b928868) | Dec 23, 2024 |
+| HP            | 304Ah                       | Desktop     | [9c4499ff99](https://linux-hardware.org/?probe=9c4499ff99) | Nov 30, 2024 |
+| Panasonic     | CF-W8FWDAJS                 | Notebook    | [b07a63717b](https://linux-hardware.org/?probe=b07a63717b) | Nov 28, 2024 |
+| Toshiba       | Satellite L300              | Notebook    | [5f14b73409](https://linux-hardware.org/?probe=5f14b73409) | Nov 27, 2024 |
+| Panasonic     | CFXZ6-1                     | Tablet      | [0adce1d7c2](https://linux-hardware.org/?probe=0adce1d7c2) | Nov 27, 2024 |
+| Clevo         | W251EFQ/W270EFQ             | Notebook    | [14cef10c67](https://linux-hardware.org/?probe=14cef10c67) | Nov 22, 2024 |
+| Gigabyte      | P35-DS3                     | Desktop     | [781f667e83](https://linux-hardware.org/?probe=781f667e83) | Nov 13, 2024 |
+| Pegatron      | Spring Peak                 | Notebook    | [a3687da9ac](https://linux-hardware.org/?probe=a3687da9ac) | Nov 10, 2024 |
+| HP            | Compaq Presario CQ71        | Notebook    | [170e0ba845](https://linux-hardware.org/?probe=170e0ba845) | Oct 31, 2024 |
+| Fujitsu       | D2990-A1 S26361-D2990-A1    | Desktop     | [c96eaa6d8d](https://linux-hardware.org/?probe=c96eaa6d8d) | Oct 31, 2024 |
+| Lenovo        | IdeaPad 510-15ISK 80SR      | Notebook    | [1ad2d26ee7](https://linux-hardware.org/?probe=1ad2d26ee7) | Oct 30, 2024 |
+| HP            | ProBook 6475b               | Notebook    | [afad291037](https://linux-hardware.org/?probe=afad291037) | Oct 23, 2024 |
+| ASUSTek       | N751JK                      | Notebook    | [00ba90079e](https://linux-hardware.org/?probe=00ba90079e) | Oct 18, 2024 |
+| Gigabyte      | AB350M-Gaming 3-CF          | Desktop     | [ecd1036622](https://linux-hardware.org/?probe=ecd1036622) | Oct 01, 2024 |
+| Lenovo        | ThinkPad T470 W10DG 20JN... | Notebook    | [2a065d3b6e](https://linux-hardware.org/?probe=2a065d3b6e) | Sep 27, 2024 |
+| Dell          | 0XHYJF A00                  | All in one  | [3c594c0335](https://linux-hardware.org/?probe=3c594c0335) | Sep 25, 2024 |
+| Lenovo        | ThinkPad T430 2347H2U       | Notebook    | [f708e6c732](https://linux-hardware.org/?probe=f708e6c732) | Sep 23, 2024 |
+| Dell          | Latitude E6410              | Notebook    | [8ce3baea7d](https://linux-hardware.org/?probe=8ce3baea7d) | Sep 12, 2024 |
+| Intel         | H61                         | Desktop     | [26ad2a6fdf](https://linux-hardware.org/?probe=26ad2a6fdf) | Sep 10, 2024 |
+| ASUSTek       | H81M-PLUS                   | Desktop     | [7c0778ad12](https://linux-hardware.org/?probe=7c0778ad12) | Sep 05, 2024 |
+| ASUSTek       | M5A97 EVO R2.0              | Desktop     | [00fa1b948c](https://linux-hardware.org/?probe=00fa1b948c) | Sep 04, 2024 |
+| Gigabyte      | B75-D3V                     | Desktop     | [8287219a10](https://linux-hardware.org/?probe=8287219a10) | Aug 23, 2024 |
+| Samsung       | N100SP                      | Notebook    | [5b740218ab](https://linux-hardware.org/?probe=5b740218ab) | Aug 22, 2024 |
+| ASUSTek       | TUF B360-PRO GAMING         | Desktop     | [c6abb7cd5f](https://linux-hardware.org/?probe=c6abb7cd5f) | Aug 21, 2024 |
+| Acer          | Aspire A315-31              | Notebook    | [6222616358](https://linux-hardware.org/?probe=6222616358) | Aug 11, 2024 |
+| Gigabyte      | EP45-UD3R                   | Desktop     | [0f9529c85f](https://linux-hardware.org/?probe=0f9529c85f) | Aug 06, 2024 |
+| ASUSTek       | P5KPL-AM                    | Desktop     | [7825be94bd](https://linux-hardware.org/?probe=7825be94bd) | Aug 02, 2024 |
+| Dell          | Studio 1537                 | Notebook    | [a912e97b90](https://linux-hardware.org/?probe=a912e97b90) | Jul 23, 2024 |
+| MSI           | H410M-A PRO                 | Desktop     | [bdfd7784ad](https://linux-hardware.org/?probe=bdfd7784ad) | Jul 22, 2024 |
+| Acer          | Aspire 5738                 | Notebook    | [4118b16aa8](https://linux-hardware.org/?probe=4118b16aa8) | Jul 20, 2024 |
+| Lenovo        | IdeaPad S145-15IGM 81WT     | Notebook    | [6b11963a37](https://linux-hardware.org/?probe=6b11963a37) | Jul 18, 2024 |
+| HP            | Laptop 14-cm0xxx            | Notebook    | [e057c66153](https://linux-hardware.org/?probe=e057c66153) | Jul 15, 2024 |
+| Gigabyte      | H81M-D2V                    | Desktop     | [bc079fea91](https://linux-hardware.org/?probe=bc079fea91) | Jul 05, 2024 |
+| Dell          | 0HHV7N A00                  | Desktop     | [9313e32d5f](https://linux-hardware.org/?probe=9313e32d5f) | Jul 05, 2024 |
+| MSI           | A78M-E45                    | Desktop     | [1a99381c4e](https://linux-hardware.org/?probe=1a99381c4e) | Jul 05, 2024 |
+| Apple         | Mac-00BE6ED71E35EB86 iMa... | All in one  | [fc04d131f0](https://linux-hardware.org/?probe=fc04d131f0) | Jun 30, 2024 |
+| HP            | 1850                        | Desktop     | [b09fbce140](https://linux-hardware.org/?probe=b09fbce140) | Jun 29, 2024 |
+| Gigabyte      | H410M S2H V2                | Desktop     | [bc3d7aa23d](https://linux-hardware.org/?probe=bc3d7aa23d) | Jun 16, 2024 |
+| Gigabyte      | F2A68HM-H                   | Desktop     | [569af375ef](https://linux-hardware.org/?probe=569af375ef) | Jun 05, 2024 |
+| Dell          | 0H19HD A05                  | Server      | [9613d7043b](https://linux-hardware.org/?probe=9613d7043b) | Jun 04, 2024 |
+| Intel         | DH67CF AAG10215-201         | Desktop     | [56c76e67fc](https://linux-hardware.org/?probe=56c76e67fc) | Jun 02, 2024 |
+| Lenovo        | IdeaPad 110-15IBR 80T7      | Notebook    | [f8379977a9](https://linux-hardware.org/?probe=f8379977a9) | May 27, 2024 |
+| Shuttle       | XS35V3                      | Desktop     | [85715a2083](https://linux-hardware.org/?probe=85715a2083) | May 24, 2024 |
+| Acer          | Aspire F5-571               | Notebook    | [e448ae2f62](https://linux-hardware.org/?probe=e448ae2f62) | May 11, 2024 |
 | HP            | EliteBook 840 G2            | Notebook    | [76e6f087bb](https://linux-hardware.org/?probe=76e6f087bb) | May 08, 2024 |
 | Fujitsu Si... | LIFEBOOK E8410              | Notebook    | [30a913526e](https://linux-hardware.org/?probe=30a913526e) | May 07, 2024 |
 | ASUSTek       | M4A78T-E                    | Desktop     | [2cee8d14ab](https://linux-hardware.org/?probe=2cee8d14ab) | May 06, 2024 |

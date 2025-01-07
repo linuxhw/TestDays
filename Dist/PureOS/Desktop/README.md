@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 28
+Total: 29
 
 | Vendor   | Model           | Probe                                                      | Date         |
 |----------|-----------------|------------------------------------------------------------|--------------|
+| Wortmann | TERRA_PC        | [671f5d50a6](https://linux-hardware.org/?probe=671f5d50a6) | Dec 15, 2024 |
 | ASUSTek  | F2A85-M PRO     | [1a0e93d25f](https://linux-hardware.org/?probe=1a0e93d25f) | Apr 23, 2024 |
 | Wortmann | TERRA_PC        | [670f98f66b](https://linux-hardware.org/?probe=670f98f66b) | Jan 27, 2024 |
 | Wortmann | TERRA_PC        | [ef0c89a597](https://linux-hardware.org/?probe=ef0c89a597) | Jan 27, 2024 |
@@ -228,19 +229,20 @@ Version of the Linux kernel
 
 | Version              | Desktops | Percent |
 |----------------------|----------|---------|
-| 4.19.0-14-amd64      | 3        | 17.65%  |
-| 5.10.0-27-amd64      | 2        | 11.76%  |
-| 5.10.0-14-amd64      | 2        | 11.76%  |
-| 6.1.66-x64v2-xanmod1 | 1        | 5.88%   |
-| 5.10.0-28-amd64      | 1        | 5.88%   |
-| 5.10.0-26-amd64      | 1        | 5.88%   |
-| 5.10.0-23-amd64      | 1        | 5.88%   |
-| 5.10.0-21-amd64      | 1        | 5.88%   |
-| 5.10.0-20-amd64      | 1        | 5.88%   |
-| 5.10.0-19-amd64      | 1        | 5.88%   |
-| 5.10.0-16-amd64      | 1        | 5.88%   |
-| 5.10.0-15-amd64      | 1        | 5.88%   |
-| 5.10.0-11-amd64      | 1        | 5.88%   |
+| 4.19.0-14-amd64      | 3        | 16.67%  |
+| 5.10.0-27-amd64      | 2        | 11.11%  |
+| 5.10.0-14-amd64      | 2        | 11.11%  |
+| 6.1.66-x64v2-xanmod1 | 1        | 5.56%   |
+| 5.10.0-33-amd64      | 1        | 5.56%   |
+| 5.10.0-28-amd64      | 1        | 5.56%   |
+| 5.10.0-26-amd64      | 1        | 5.56%   |
+| 5.10.0-23-amd64      | 1        | 5.56%   |
+| 5.10.0-21-amd64      | 1        | 5.56%   |
+| 5.10.0-20-amd64      | 1        | 5.56%   |
+| 5.10.0-19-amd64      | 1        | 5.56%   |
+| 5.10.0-16-amd64      | 1        | 5.56%   |
+| 5.10.0-15-amd64      | 1        | 5.56%   |
+| 5.10.0-11-amd64      | 1        | 5.56%   |
 
 Kernel Family
 -------------
@@ -662,19 +664,20 @@ Geographic location (city)
 
 | City          | Desktops | Percent |
 |---------------|----------|---------|
-| Porto Alegre  | 2        | 14.29%  |
-| Yuzhnoural'sk | 1        | 7.14%   |
-| Wixom         | 1        | 7.14%   |
-| Troy          | 1        | 7.14%   |
-| Tomsk         | 1        | 7.14%   |
-| Stolberg      | 1        | 7.14%   |
-| Perth         | 1        | 7.14%   |
-| New York      | 1        | 7.14%   |
-| Milan         | 1        | 7.14%   |
-| Lenningen     | 1        | 7.14%   |
-| Forlì        | 1        | 7.14%   |
-| Charleston    | 1        | 7.14%   |
-| Athens        | 1        | 7.14%   |
+| Porto Alegre  | 2        | 13.33%  |
+| Yuzhnoural'sk | 1        | 6.67%   |
+| Wixom         | 1        | 6.67%   |
+| Troy          | 1        | 6.67%   |
+| Tomsk         | 1        | 6.67%   |
+| Stolberg      | 1        | 6.67%   |
+| Roetgen       | 1        | 6.67%   |
+| Perth         | 1        | 6.67%   |
+| New York      | 1        | 6.67%   |
+| Milan         | 1        | 6.67%   |
+| Lenningen     | 1        | 6.67%   |
+| Forlì        | 1        | 6.67%   |
+| Charleston    | 1        | 6.67%   |
+| Athens        | 1        | 6.67%   |
 
 Drives
 ------
@@ -700,7 +703,7 @@ Hard drive vendors
 | Intenso             | 1        | 2      | 5.56%   |
 | China               | 1        | 3      | 5.56%   |
 | ASMT                | 1        | 2      | 5.56%   |
-| Unknown             | 1        | 1      | 5.56%   |
+| Unknown             | 1        | 2      | 5.56%   |
 
 Drive Model
 -----------
@@ -714,7 +717,7 @@ Hard drive models
 |---------------------------------|----------|---------|
 | WDC WDBNCE2500PNC 250GB SSD     | 1        | 4.35%   |
 | WDC WD5000AZRX-00A8LB0 500GB    | 1        | 4.35%   |
-| Seagate ST480HM000-1G5162 480GB | 1        | 4.35%   |
+| Seagate ST480HM000-1G5162 506GB | 1        | 4.35%   |
 | Seagate ST3500630AS 500GB       | 1        | 4.35%   |
 | Seagate ST3320418AS 320GB       | 1        | 4.35%   |
 | Seagate ST3250410AS 250GB       | 1        | 4.35%   |
@@ -733,7 +736,7 @@ Hard drive models
 | Intenso SSD 128GB               | 1        | 4.35%   |
 | Intenso SSD 120GB               | 1        | 4.35%   |
 | China SATA SSD 128GB            | 1        | 4.35%   |
-| ASMT 2235 752GB                 | 1        | 4.35%   |
+| ASMT 2235 128GB SSD             | 1        | 4.35%   |
 | Unknown                         | 1        | 4.35%   |
 
 HDD Vendor
@@ -746,10 +749,9 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Seagate | 5        | 14     | 62.5%   |
-| WDC     | 1        | 1      | 12.5%   |
-| Maxtor  | 1        | 1      | 12.5%   |
-| ASMT    | 1        | 2      | 12.5%   |
+| Seagate | 5        | 14     | 71.43%  |
+| WDC     | 1        | 1      | 14.29%  |
+| Maxtor  | 1        | 1      | 14.29%  |
 
 SSD Vendor
 ----------
@@ -761,13 +763,14 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 2        | 3      | 25%     |
-| WDC                 | 1        | 2      | 12.5%   |
-| PNY                 | 1        | 2      | 12.5%   |
-| Patriot             | 1        | 1      | 12.5%   |
-| Kingston            | 1        | 1      | 12.5%   |
-| Intenso             | 1        | 2      | 12.5%   |
-| China               | 1        | 3      | 12.5%   |
+| Samsung Electronics | 2        | 3      | 22.22%  |
+| WDC                 | 1        | 2      | 11.11%  |
+| PNY                 | 1        | 2      | 11.11%  |
+| Patriot             | 1        | 1      | 11.11%  |
+| Kingston            | 1        | 1      | 11.11%  |
+| Intenso             | 1        | 2      | 11.11%  |
+| China               | 1        | 3      | 11.11%  |
+| ASMT                | 1        | 2      | 11.11%  |
 
 Drive Kind
 ----------
@@ -779,10 +782,10 @@ HDD or SSD
 
 | Kind    | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| SSD     | 8        | 14     | 50%     |
-| HDD     | 6        | 18     | 37.5%   |
+| SSD     | 8        | 16     | 50%     |
+| HDD     | 6        | 16     | 37.5%   |
 | NVMe    | 1        | 1      | 6.25%   |
-| Unknown | 1        | 1      | 6.25%   |
+| Unknown | 1        | 2      | 6.25%   |
 
 Drive Connector
 ---------------
@@ -794,7 +797,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 12       | 31     | 85.71%  |
+| SATA | 12       | 32     | 85.71%  |
 | SAS  | 1        | 2      | 7.14%   |
 | NVMe | 1        | 1      | 7.14%   |
 
@@ -808,8 +811,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 11       | 22     | 78.57%  |
-| 0.51-1.0   | 3        | 10     | 21.43%  |
+| 0.01-0.5   | 10       | 23     | 71.43%  |
+| 0.51-1.0   | 4        | 9      | 28.57%  |
 
 Space Total
 -----------
@@ -919,7 +922,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Detected | 8        | 21     | 47.06%  |
+| Detected | 8        | 22     | 47.06%  |
 | Works    | 6        | 8      | 35.29%  |
 | Malfunc  | 3        | 5      | 17.65%  |
 
@@ -964,7 +967,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 1        | 5.88%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                               | 1        | 5.88%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 1        | 5.88%   |
-| AMD FCH SATA Controller D                                                      | 1        | 5.88%   |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                   | 1        | 5.88%   |
 
 Storage Kind
 ------------
@@ -1286,11 +1289,12 @@ Diagonal size in inches
 |---------|----------|---------|
 | 28      | 2        | 15.38%  |
 | 22      | 2        | 15.38%  |
-| 21      | 2        | 15.38%  |
 | 72      | 1        | 7.69%   |
 | 31      | 1        | 7.69%   |
 | 27      | 1        | 7.69%   |
 | 24      | 1        | 7.69%   |
+| 23      | 1        | 7.69%   |
+| 21      | 1        | 7.69%   |
 | 20      | 1        | 7.69%   |
 | 19      | 1        | 7.69%   |
 | Unknown | 1        | 7.69%   |
@@ -1305,9 +1309,9 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 401-500     | 6        | 46.15%  |
+| 401-500     | 5        | 38.46%  |
 | 601-700     | 3        | 23.08%  |
-| 501-600     | 2        | 15.38%  |
+| 501-600     | 3        | 23.08%  |
 | 1501-2000   | 1        | 7.69%   |
 | Unknown     | 1        | 7.69%   |
 
@@ -1351,9 +1355,9 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 8        | 61.54%  |
+| 51-100  | 9        | 69.23%  |
 | 1-50    | 2        | 15.38%  |
-| 101-120 | 2        | 15.38%  |
+| 101-120 | 1        | 7.69%   |
 | Unknown | 1        | 7.69%   |
 
 Multiple Monitors
@@ -1605,7 +1609,7 @@ Sound card models
 | AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                           | 1        | 4.55%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 4.55%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 4.55%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 4.55%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 4.55%   |
 
 Memory
 ------
@@ -1635,17 +1639,17 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                 | Desktops | Percent |
-|-------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s             | 1        | 11.11%  |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s             | 1        | 11.11%  |
-| Unknown RAM Module 4GB DIMM 1600MT/s                  | 1        | 11.11%  |
-| Toshiba RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s | 1        | 11.11%  |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s  | 1        | 11.11%  |
-| SK hynix RAM HMP125U6EFR8C-S6 2GB DIMM DDR2 800MT/s   | 1        | 11.11%  |
-| Micron RAM 16HTF25664AZ-800H1 2GB DIMM DDR2 800MT/s   | 1        | 11.11%  |
-| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 11.11%  |
-| G.Skill RAM F3-14900CL8-4GBXM 4GB DIMM DDR3 1600MT/s  | 1        | 11.11%  |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 11.11%  |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s              | 1        | 11.11%  |
+| Unknown RAM Module 4GB DIMM 1600MT/s                   | 1        | 11.11%  |
+| Toshiba RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s  | 1        | 11.11%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s   | 1        | 11.11%  |
+| SK hynix RAM HMP125U6EFR8C-S6 2GB DIMM DDR2 800MT/s    | 1        | 11.11%  |
+| Micron RAM 16HTF25664AZ-800H1 2048MB DIMM DDR2 800MT/s | 1        | 11.11%  |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s  | 1        | 11.11%  |
+| G.Skill RAM F3-14900CL8-4GBXM 4GB DIMM DDR3 1600MT/s   | 1        | 11.11%  |
 
 Memory Kind
 -----------
@@ -1816,8 +1820,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 10       | 71.43%  |
-| 1     | 3        | 21.43%  |
+| 0     | 9        | 64.29%  |
+| 1     | 4        | 28.57%  |
 | 2     | 1        | 7.14%   |
 
 Unsupported Device Types
@@ -1830,7 +1834,7 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Net/wireless  | 2        | 50%     |
-| Graphics card | 1        | 25%     |
-| Bluetooth     | 1        | 25%     |
+| Net/wireless  | 2        | 40%     |
+| Graphics card | 2        | 40%     |
+| Bluetooth     | 1        | 20%     |
 

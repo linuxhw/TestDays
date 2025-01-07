@@ -1,10 +1,30 @@
 Ubuntu 23.04 - Test Cases (Notebooks)
 -------------------------------------
 
-Total: 1290
+Total: 1312
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| HP            | Notebook                    | [f69f443717](https://linux-hardware.org/?probe=f69f443717) | Nov 24, 2024 |
+| HP            | Notebook                    | [d7db4f31e7](https://linux-hardware.org/?probe=d7db4f31e7) | Nov 23, 2024 |
+| HP            | Laptop 15-da2xxx            | [2993fbf2fd](https://linux-hardware.org/?probe=2993fbf2fd) | Oct 23, 2024 |
+| ASUSTek       | ASUS EXPERTBOOK B1500CEA... | [03eebd41be](https://linux-hardware.org/?probe=03eebd41be) | Oct 18, 2024 |
+| HUAWEI        | KLVL-WXX9                   | [d6b18ca125](https://linux-hardware.org/?probe=d6b18ca125) | Oct 04, 2024 |
+| Dell          | Studio XPS 1340             | [f9c9d55cef](https://linux-hardware.org/?probe=f9c9d55cef) | Sep 23, 2024 |
+| Dell          | Studio XPS 1340             | [f0b700fa8a](https://linux-hardware.org/?probe=f0b700fa8a) | Sep 17, 2024 |
+| Apple         | MacBookPro10,1              | [36293285f3](https://linux-hardware.org/?probe=36293285f3) | Aug 21, 2024 |
+| Lenovo        | IdeaPad 5 Pro 16ARH7 82S... | [7297672016](https://linux-hardware.org/?probe=7297672016) | Aug 15, 2024 |
+| ASUSTek       | ZenBook UX535LI_UX535LI     | [2b45b0ddf3](https://linux-hardware.org/?probe=2b45b0ddf3) | Aug 14, 2024 |
+| HP            | Notebook                    | [923154387f](https://linux-hardware.org/?probe=923154387f) | Jul 23, 2024 |
+| Toshiba       | Satellite L750              | [402a15076f](https://linux-hardware.org/?probe=402a15076f) | Jul 01, 2024 |
+| ASUSTek       | X550CA                      | [807461b683](https://linux-hardware.org/?probe=807461b683) | Jul 01, 2024 |
+| HP            | EliteBook 8570p             | [d85522ab8f](https://linux-hardware.org/?probe=d85522ab8f) | Jun 27, 2024 |
+| TUXEDO        | N85_N87,HJ,HJ1,HK1          | [578491026d](https://linux-hardware.org/?probe=578491026d) | Jun 27, 2024 |
+| Lenovo        | ThinkPad X220 4290EC5       | [20fbc33751](https://linux-hardware.org/?probe=20fbc33751) | Jun 25, 2024 |
+| Lenovo        | ThinkPad X220 4290EC5       | [acd559a149](https://linux-hardware.org/?probe=acd559a149) | Jun 25, 2024 |
+| ASUSTek       | Zenbook UM5401QAB_UM5401... | [901ec74a46](https://linux-hardware.org/?probe=901ec74a46) | Jun 24, 2024 |
+| Acer          | Nitro AN515-44              | [1705a51bab](https://linux-hardware.org/?probe=1705a51bab) | Jun 19, 2024 |
+| Dell          | Inspiron 3543               | [bf9bc5df80](https://linux-hardware.org/?probe=bf9bc5df80) | May 23, 2024 |
 | Dell          | Latitude 5490               | [a8db3589fb](https://linux-hardware.org/?probe=a8db3589fb) | May 02, 2024 |
 | HP            | Notebook                    | [982806e31a](https://linux-hardware.org/?probe=982806e31a) | Apr 19, 2024 |
 | Acer          | Aspire E1-571               | [f7a83b5113](https://linux-hardware.org/?probe=f7a83b5113) | Apr 17, 2024 |
@@ -1036,6 +1056,7 @@ Total: 1290
 | HP            | Pavilion dv6                | [4fb1281981](https://linux-hardware.org/?probe=4fb1281981) | May 18, 2023 |
 | ASUSTek       | VivoBook_ASUSLaptop M140... | [7af74c5864](https://linux-hardware.org/?probe=7af74c5864) | May 18, 2023 |
 | Lenovo        | IdeaPad 3 15ITL6 82H8       | [161776168b](https://linux-hardware.org/?probe=161776168b) | May 18, 2023 |
+| ASUSTek       | Zenbook UX3402ZA            | [52ee676c29](https://linux-hardware.org/?probe=52ee676c29) | May 18, 2023 |
 | Lenovo        | IdeaPad Slim 7 Pro 14IHU... | [e17fc662cc](https://linux-hardware.org/?probe=e17fc662cc) | May 18, 2023 |
 | Lenovo        | ThinkPad T14s Gen 3 21BR... | [b5d454d4ec](https://linux-hardware.org/?probe=b5d454d4ec) | May 18, 2023 |
 | Lenovo        | ThinkPad T550 20CJS1XB00    | [d1569df0f6](https://linux-hardware.org/?probe=d1569df0f6) | May 18, 2023 |
@@ -1043,6 +1064,7 @@ Total: 1290
 | Dell          | Precision 5570              | [c9e52e6e8c](https://linux-hardware.org/?probe=c9e52e6e8c) | May 18, 2023 |
 | MSI           | GF63 Thin 11SC              | [89e05e4477](https://linux-hardware.org/?probe=89e05e4477) | May 17, 2023 |
 | Dell          | Latitude E6530              | [e6064ac95c](https://linux-hardware.org/?probe=e6064ac95c) | May 17, 2023 |
+| ASUSTek       | Zenbook UX3402ZA            | [9ea7971a18](https://linux-hardware.org/?probe=9ea7971a18) | May 16, 2023 |
 | Lenovo        | ThinkPad T480 20L50005GE    | [58b895e713](https://linux-hardware.org/?probe=58b895e713) | May 16, 2023 |
 | Toshiba       | IS 1413G                    | [df01be5efd](https://linux-hardware.org/?probe=df01be5efd) | May 16, 2023 |
 | HUAWEI        | KLVD-WXX9                   | [ba609eb1e6](https://linux-hardware.org/?probe=ba609eb1e6) | May 15, 2023 |

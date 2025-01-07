@@ -1,10 +1,38 @@
 Debian 10 - Test Cases
 ----------------------
 
-Total: 2613
+Total: 2641
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | K53SC                       | Notebook    | [60a52cbc6f](https://linux-hardware.org/?probe=60a52cbc6f) | Dec 01, 2024 |
+| Unknown       | Unknown                     | Desktop     | [9f933e3704](https://linux-hardware.org/?probe=9f933e3704) | Nov 22, 2024 |
+| Polaroid      | MP1464PR001                 | Notebook    | [3abfe5c9f6](https://linux-hardware.org/?probe=3abfe5c9f6) | Oct 07, 2024 |
+| Unknown       | Makerbase mks-pi            | Soc         | [4322fdb088](https://linux-hardware.org/?probe=4322fdb088) | Oct 07, 2024 |
+| Unknown       | Makerbase mks-pi            | Soc         | [3a6763bf0d](https://linux-hardware.org/?probe=3a6763bf0d) | Oct 07, 2024 |
+| Polaroid      | MP1464PR001                 | Notebook    | [10cbba3b2d](https://linux-hardware.org/?probe=10cbba3b2d) | Sep 27, 2024 |
+| Packard Be... | EasyNote LJ65               | Notebook    | [89b681de9c](https://linux-hardware.org/?probe=89b681de9c) | Sep 15, 2024 |
+| Lenovo        | IdeaPad 1 14AMN7 82VF       | Notebook    | [797d319058](https://linux-hardware.org/?probe=797d319058) | Sep 14, 2024 |
+| ASRock        | B250M Performance           | Desktop     | [f157e625f8](https://linux-hardware.org/?probe=f157e625f8) | Sep 13, 2024 |
+| ASUSTek       | K53SC                       | Notebook    | [e6267e83c6](https://linux-hardware.org/?probe=e6267e83c6) | Sep 11, 2024 |
+| Packard Be... | EasyNote SB87               | Notebook    | [42bd3d165c](https://linux-hardware.org/?probe=42bd3d165c) | Aug 28, 2024 |
+| Packard Be... | EasyNote SB87               | Notebook    | [e43949aaa9](https://linux-hardware.org/?probe=e43949aaa9) | Aug 28, 2024 |
+| Lenovo        | G700 20251                  | Notebook    | [171cf04034](https://linux-hardware.org/?probe=171cf04034) | Aug 21, 2024 |
+| Supermicro    | X9SCL/X9SCMA                | Desktop     | [bdcc9549b9](https://linux-hardware.org/?probe=bdcc9549b9) | Aug 12, 2024 |
+| Dell          | 0H21J3 A07                  | Server      | [152599ce84](https://linux-hardware.org/?probe=152599ce84) | Aug 08, 2024 |
+| Unknown       | Unknown                     | Desktop     | [a66eadcbfc](https://linux-hardware.org/?probe=a66eadcbfc) | Aug 06, 2024 |
+| Samsung       | 340XAA/350XAA/550XAA        | Notebook    | [5054565b58](https://linux-hardware.org/?probe=5054565b58) | Aug 03, 2024 |
+| AMI           | Aptio CRB                   | Mini pc     | [8e1042688b](https://linux-hardware.org/?probe=8e1042688b) | Jul 25, 2024 |
+| Alienware     | M11x R2                     | Notebook    | [e788979614](https://linux-hardware.org/?probe=e788979614) | Jul 05, 2024 |
+| Wincor Nix... | HU101                       | Desktop     | [39358ba4bb](https://linux-hardware.org/?probe=39358ba4bb) | Jun 26, 2024 |
+| Lenovo        | ThinkPad W500 4063CTO       | Notebook    | [0e997531b5](https://linux-hardware.org/?probe=0e997531b5) | Jun 19, 2024 |
+| ASUSTek       | Z97-P                       | Desktop     | [a15cc3044a](https://linux-hardware.org/?probe=a15cc3044a) | Jun 10, 2024 |
+| Supermicro    | X10SLL-F                    | Server      | [578c1f5048](https://linux-hardware.org/?probe=578c1f5048) | Jun 06, 2024 |
+| TYAN Compu... | S8225                       | Desktop     | [b94a2aaf90](https://linux-hardware.org/?probe=b94a2aaf90) | Jun 04, 2024 |
+| HP            | ProBook 445 G8 Notebook ... | Notebook    | [a2291158ce](https://linux-hardware.org/?probe=a2291158ce) | Jun 02, 2024 |
+| HP            | ProBook 445 G8 Notebook ... | Notebook    | [3c7d1c84a3](https://linux-hardware.org/?probe=3c7d1c84a3) | May 31, 2024 |
+| ECS           | X79R-AX                     | Desktop     | [1312c42784](https://linux-hardware.org/?probe=1312c42784) | May 26, 2024 |
+| ASUSTek       | P8Z77-V LX                  | Desktop     | [d439bfaa64](https://linux-hardware.org/?probe=d439bfaa64) | May 11, 2024 |
 | Unknown       | Unknown                     | Desktop     | [b8c681a7fb](https://linux-hardware.org/?probe=b8c681a7fb) | Apr 15, 2024 |
 | Dinson        | Unknown                     | Desktop     | [2aff8e107a](https://linux-hardware.org/?probe=2aff8e107a) | Apr 01, 2024 |
 | Panasonic     | CF-C1BTCREFF                | Notebook    | [bb492a4906](https://linux-hardware.org/?probe=bb492a4906) | Apr 01, 2024 |
@@ -1293,8 +1321,8 @@ Total: 2613
 | Apple         | Mac-8ED6AF5B48C039E1 Mac... | Mini pc     | [cd691b5963](https://linux-hardware.org/?probe=cd691b5963) | Dec 03, 2020 |
 | HP            | ProBook 4330s               | Notebook    | [d7d25ffae4](https://linux-hardware.org/?probe=d7d25ffae4) | Dec 03, 2020 |
 | ASUSTek       | X540LJ                      | Notebook    | [b3a5455685](https://linux-hardware.org/?probe=b3a5455685) | Dec 02, 2020 |
-| ZOTAC         | ZBOX-MI551/BOX-MI571 Rev... | Mini pc     | [d8b8ca1e48](https://linux-hardware.org/?probe=d8b8ca1e48) | Dec 02, 2020 |
-| ZOTAC         | ZBOX-MI551/BOX-MI571 Rev... | Mini pc     | [d0b60e413e](https://linux-hardware.org/?probe=d0b60e413e) | Dec 02, 2020 |
+| ZOTAC         | ZBOX-MI531/MI551/MI571 R... | Mini pc     | [d8b8ca1e48](https://linux-hardware.org/?probe=d8b8ca1e48) | Dec 02, 2020 |
+| ZOTAC         | ZBOX-MI531/MI551/MI571 R... | Mini pc     | [d0b60e413e](https://linux-hardware.org/?probe=d0b60e413e) | Dec 02, 2020 |
 | Lenovo        | ThinkPad T14 Gen 1 20UDC... | Notebook    | [483fc6afa3](https://linux-hardware.org/?probe=483fc6afa3) | Dec 02, 2020 |
 | Gigabyte      | X99-Gaming 7 WIFI           | Desktop     | [02f825c83c](https://linux-hardware.org/?probe=02f825c83c) | Dec 02, 2020 |
 | HP            | 2000                        | Notebook    | [27fed77b24](https://linux-hardware.org/?probe=27fed77b24) | Dec 02, 2020 |

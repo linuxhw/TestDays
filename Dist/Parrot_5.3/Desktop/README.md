@@ -817,7 +817,7 @@ Hard drive models
 | Seagate ST1000VT001-1RE172 1TB                        | 1        | 1.52%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                    | 1        | 1.52%   |
 | Seagate ST1000DM003-1SB102 1TB                        | 1        | 1.52%   |
-| Seagate BUP Slim SL 1TB                               | 1        | 1.52%   |
+| Seagate BUP Slim SL 2TB                               | 1        | 1.52%   |
 | Sandisk WD Blue SN570 1TB                             | 1        | 1.52%   |
 | Samsung SSD 980 PRO 1TB                               | 1        | 1.52%   |
 | Samsung SSD 980 1TB                                   | 1        | 1.52%   |
@@ -900,11 +900,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 14       | 21     | 37.84%  |
-| 0.01-0.5   | 14       | 27     | 37.84%  |
-| 1.01-2.0   | 5        | 5      | 13.51%  |
-| 3.01-4.0   | 2        | 3      | 5.41%   |
-| 2.01-3.0   | 2        | 4      | 5.41%   |
+| 0.51-1.0   | 14       | 20     | 36.84%  |
+| 0.01-0.5   | 14       | 27     | 36.84%  |
+| 1.01-2.0   | 6        | 6      | 15.79%  |
+| 3.01-4.0   | 2        | 3      | 5.26%   |
+| 2.01-3.0   | 2        | 4      | 5.26%   |
 
 Space Total
 -----------
@@ -1096,8 +1096,8 @@ Storage controller models
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                    | 1        | 1.72%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                               | 1        | 1.72%   |
 | Kingston Company OM8PGP4 NVMe PCIe SSD (DRAM-less)                                      | 1        | 1.72%   |
-| Kingston Company NV2 NVMe SSD E21T (DRAM-less)                                          | 1        | 1.72%   |
-| Kingston Company NV1 NVMe SSD SM2263XT (DRAM-less)                                      | 1        | 1.72%   |
+| Kingston Company NV2 NVMe SSD [E21T] (DRAM-less)                                        | 1        | 1.72%   |
+| Kingston Company NV1 NVMe SSD [SM2263XT] (DRAM-less)                                    | 1        | 1.72%   |
 | Intel SATA Controller [RAID mode]                                                       | 1        | 1.72%   |
 | Intel Raptor Lake SATA AHCI Controller                                                  | 1        | 1.72%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 1.72%   |
@@ -1468,25 +1468,25 @@ Monitor models
 | Samsung Electronics LCD Monitor SAM07BA 1920x1080 480x270mm 21.7-inch   | 1        | 2.94%   |
 | Philips PHL 241V8 PHLC212 1920x1080 527x296mm 23.8-inch                 | 1        | 2.94%   |
 | KON TV_MONITOR KON0030 3840x2160 708x398mm 32.0-inch                    | 1        | 2.94%   |
-| Iiyama PL3461WQ IVM7615 3440x1440 800x330mm 34.1-inch                   | 1        | 2.94%   |
+| Iiyama PL3461WQ IVM7615 3440x1440 800x335mm 34.1-inch                   | 1        | 2.94%   |
 | Hewlett-Packard w2408 HWP26CE 1920x1200 518x324mm 24.1-inch             | 1        | 2.94%   |
 | Hewlett-Packard L191s HWP2979 1280x1024 350x270mm 17.4-inch             | 1        | 2.94%   |
-| Hewlett-Packard E231 HWP3065 1920x1080 509x286mm 23.0-inch              | 1        | 2.94%   |
+| Hewlett-Packard E231 HWP3065 1920x1080 510x287mm 23.0-inch              | 1        | 2.94%   |
 | Hewlett-Packard E221 HWP3062 1920x1080 496x292mm 22.7-inch              | 1        | 2.94%   |
 | Goldstar ULTRAWIDE GSM7768 3440x1440 800x334mm 34.1-inch                | 1        | 2.94%   |
 | Goldstar ULTRAWIDE GSM7767 3440x1440 800x334mm 34.1-inch                | 1        | 2.94%   |
 | Dell S2721D DELA19A 2560x1440 597x336mm 27.0-inch                       | 1        | 2.94%   |
 | Dell S2419HGF DELD0E3 1920x1080 531x299mm 24.0-inch                     | 1        | 2.94%   |
 | Dell E2218HN DELF09E 1920x1080 476x268mm 21.5-inch                      | 1        | 2.94%   |
-| Dell 2001FP DELA008 1600x1200 410x310mm 20.2-inch                       | 1        | 2.94%   |
+| Dell 2001FP DELA008 1600x1200 367x275mm 18.1-inch                       | 1        | 2.94%   |
 | Dell 1907FP DEL4015 1280x1024 376x301mm 19.0-inch                       | 1        | 2.94%   |
 | BenQ EW277HDR BNQ7948 1920x1080 598x336mm 27.0-inch                     | 1        | 2.94%   |
 | BenQ EL2870U BNQ7949 3840x2160 621x341mm 27.9-inch                      | 1        | 2.94%   |
 | BBY LCD Monitor NS24ED310NA15                                           | 1        | 2.94%   |
 | ASUSTek Computer VG258 AUS25A4 1920x1080 544x303mm 24.5-inch            | 1        | 2.94%   |
-| AOC 27G2G3 AOC2702 1920x1080 598x336mm 27.0-inch                        | 1        | 2.94%   |
+| AOC Q27G2WG4 AOC2702 2560x1440 597x336mm 27.0-inch                      | 1        | 2.94%   |
 | Ancor Communications LCD Monitor ASUS VH236H 5200x1080                  | 1        | 2.94%   |
-| Acer V223W ACR001B 1680x1050 470x300mm 22.0-inch                        | 1        | 2.94%   |
+| Acer V223W ACR001B 1680x1050 474x296mm 22.0-inch                        | 1        | 2.94%   |
 | Acer SA230 ACR057E 1920x1080 509x286mm 23.0-inch                        | 1        | 2.94%   |
 | Acer LCD Monitor H236HL                                                 | 1        | 2.94%   |
 
@@ -1685,7 +1685,7 @@ Controller models
 | Ralink RT2870/RT3070 Wireless Adapter                                  | 1        | 1.64%   |
 | Ralink RT2561/RT61 802.11g PCI                                         | 1        | 1.64%   |
 | NetGear WG111v2 54 Mbps Wireless [RealTek RTL8187L]                    | 1        | 1.64%   |
-| Microchip MCP2221(a) UART/I2C Bridge                                   | 1        | 1.64%   |
+| Microchip MCP2221 USB-I2C/UART Combo                                   | 1        | 1.64%   |
 | Intel Wireless 7265                                                    | 1        | 1.64%   |
 | Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]              | 1        | 1.64%   |
 | Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 1        | 1.64%   |
@@ -1759,11 +1759,10 @@ Ethernet vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Intel                 | 18       | 50%     |
-| Realtek Semiconductor | 15       | 41.67%  |
-| Xiaomi                | 1        | 2.78%   |
-| Samsung Electronics   | 1        | 2.78%   |
-| ASIX Electronics      | 1        | 2.78%   |
+| Intel                 | 18       | 51.43%  |
+| Realtek Semiconductor | 15       | 42.86%  |
+| Xiaomi                | 1        | 2.86%   |
+| ASIX Electronics      | 1        | 2.86%   |
 
 Ethernet Model
 --------------
@@ -1775,23 +1774,22 @@ Ethernet models
 
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 13       | 35.14%  |
-| Realtek RTL8125 2.5GbE Controller                                      | 3        | 8.11%   |
-| Intel Ethernet Controller I225-V                                       | 3        | 8.11%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 3        | 8.11%   |
-| Intel I211 Gigabit Network Connection                                  | 2        | 5.41%   |
-| Intel 82579V Gigabit Network Connection                                | 2        | 5.41%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                         | 1        | 2.7%    |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)            | 1        | 2.7%    |
-| Intel Ethernet Controller I226-V                                       | 1        | 2.7%    |
-| Intel Ethernet Connection (2) I219-LM                                  | 1        | 2.7%    |
-| Intel Ethernet Connection (2) I218-V                                   | 1        | 2.7%    |
-| Intel Ethernet Connection (17) I219-V                                  | 1        | 2.7%    |
-| Intel Ethernet Connection (17) I219-LM                                 | 1        | 2.7%    |
-| Intel Ethernet Connection (11) I219-LM                                 | 1        | 2.7%    |
-| Intel 82571EB Gigabit Ethernet Controller                              | 1        | 2.7%    |
-| Intel 82562V-2 10/100 Network Connection                               | 1        | 2.7%    |
-| ASIX AX88772                                                           | 1        | 2.7%    |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 13       | 36.11%  |
+| Realtek RTL8125 2.5GbE Controller                                      | 3        | 8.33%   |
+| Intel Ethernet Controller I225-V                                       | 3        | 8.33%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 3        | 8.33%   |
+| Intel I211 Gigabit Network Connection                                  | 2        | 5.56%   |
+| Intel 82579V Gigabit Network Connection                                | 2        | 5.56%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                         | 1        | 2.78%   |
+| Intel Ethernet Controller I226-V                                       | 1        | 2.78%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1        | 2.78%   |
+| Intel Ethernet Connection (2) I218-V                                   | 1        | 2.78%   |
+| Intel Ethernet Connection (17) I219-V                                  | 1        | 2.78%   |
+| Intel Ethernet Connection (17) I219-LM                                 | 1        | 2.78%   |
+| Intel Ethernet Connection (11) I219-LM                                 | 1        | 2.78%   |
+| Intel 82571EB Gigabit Ethernet Controller                              | 1        | 2.78%   |
+| Intel 82562V-2 10/100 Network Connection                               | 1        | 2.78%   |
+| ASIX AX88772                                                           | 1        | 2.78%   |
 
 Net Controller Kind
 -------------------
@@ -1803,9 +1801,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 31       | 59.62%  |
-| WiFi     | 20       | 38.46%  |
-| Modem    | 1        | 1.92%   |
+| Ethernet | 31       | 58.49%  |
+| WiFi     | 20       | 37.74%  |
+| Modem    | 2        | 3.77%   |
 
 Used Controller
 ---------------
@@ -1910,10 +1908,10 @@ Sound card vendors
 | Nvidia                   | 11       | 19.3%   |
 | C-Media Electronics      | 3        | 5.26%   |
 | Corsair                  | 2        | 3.51%   |
-| USB-MIC                  | 1        | 1.75%   |
 | Razer USA                | 1        | 1.75%   |
 | Micro Star International | 1        | 1.75%   |
 | Kingston Technology      | 1        | 1.75%   |
+| GS3                      | 1        | 1.75%   |
 | GN Netcom                | 1        | 1.75%   |
 
 Sound Model
@@ -1929,7 +1927,7 @@ Sound card models
 | Intel Alder Lake-S HD Audio Controller                                            | 5        | 7.69%   |
 | Nvidia GA104 High Definition Audio Controller                                     | 4        | 6.15%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 4        | 6.15%   |
-| AMD Family 17h/19h HD Audio Controller                                            | 4        | 6.15%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                        | 4        | 6.15%   |
 | Nvidia GA106 High Definition Audio Controller                                     | 3        | 4.62%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller        | 3        | 4.62%   |
 | AMD Starship/Matisse HD Audio Controller                                          | 3        | 4.62%   |
@@ -1938,7 +1936,6 @@ Sound card models
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]           | 2        | 3.08%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                           | 2        | 3.08%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 2        | 3.08%   |
-| USB-MIC USB-MIC                                                                   | 1        | 1.54%   |
 | Razer USA Razer USB Sound Card                                                    | 1        | 1.54%   |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 1.54%   |
 | Nvidia GP107GL High Definition Audio Controller                                   | 1        | 1.54%   |
@@ -1955,11 +1952,12 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                                    | 1        | 1.54%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 1        | 1.54%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 1        | 1.54%   |
+| GS3 GS3                                                                           | 1        | 1.54%   |
 | GN Netcom Jabra LINK 230                                                          | 1        | 1.54%   |
 | Corsair VOID ELITE Wireless Gaming Dongle                                         | 1        | 1.54%   |
 | Corsair VIRTUOSO XT USB Gaming Headset                                            | 1        | 1.54%   |
-| C-Media Electronics USB PnP Audio Device                                          | 1        | 1.54%   |
 | C-Media Electronics USB Audio Device                                              | 1        | 1.54%   |
+| C-Media Electronics Auna Mic CM900                                                | 1        | 1.54%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                                 | 1        | 1.54%   |
 | AMD Rembrandt Radeon High Definition Audio Controller                             | 1        | 1.54%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                               | 1        | 1.54%   |
@@ -2001,17 +1999,17 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Kingston RAM KF3200C16D4/8GX 8192MB DIMM DDR4 3600MT/s  | 2        | 9.52%   |
+| Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3600MT/s     | 2        | 9.52%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3600MT/s   | 2        | 9.52%   |
 | Unknown RAM Module 8GB DIMM 667MT/s                     | 1        | 4.76%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2667MT/s            | 1        | 4.76%   |
 | SK hynix RAM HMCG88MEBSA092N 32GB SODIMM DDR5 4800MT/s  | 1        | 4.76%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s     | 1        | 4.76%   |
-| Samsung RAM M378B5773CH0-CH9 2048MB DIMM DDR3 1867MT/s  | 1        | 4.76%   |
+| Samsung RAM M378B5773DH0-CH9 2048MB DIMM DDR3 1333MT/s  | 1        | 4.76%   |
+| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1867MT/s     | 1        | 4.76%   |
 | Kingston RAM KF556C40-16 16GB DIMM DDR5 6800MT/s        | 1        | 4.76%   |
 | Kingston RAM CBD48S40BS8MA-16 16GB SODIMM DDR5 4800MT/s | 1        | 4.76%   |
 | Kingston RAM 9905584-023.A00LF 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3866MT/s     | 1        | 4.76%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 4000MT/s     | 1        | 4.76%   |
 | Crucial RAM BL8G36C16U4B.M8FE1 8GB DIMM DDR4 3733MT/s   | 1        | 4.76%   |
 | Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1800MT/s     | 1        | 4.76%   |
 | Corsair RAM CMZ16GX3M2A2400C10 8GB DIMM DDR3 2400MT/s   | 1        | 4.76%   |
@@ -2080,7 +2078,7 @@ Memory module speed
 | 4800  | 2        | 9.52%   |
 | 1600  | 2        | 9.52%   |
 | 6800  | 1        | 4.76%   |
-| 3866  | 1        | 4.76%   |
+| 4000  | 1        | 4.76%   |
 | 3800  | 1        | 4.76%   |
 | 3733  | 1        | 4.76%   |
 | 3534  | 1        | 4.76%   |
@@ -2150,8 +2148,7 @@ Camera device models
 
 | Model                      | Desktops | Percent |
 |----------------------------|----------|---------|
-| Generalplus GENERAL WEBCAM | 1        | 33.33%  |
-| Generalplus CAMERA - UVC   | 1        | 33.33%  |
+| Generalplus GENERAL WEBCAM | 2        | 66.67%  |
 | ARC International Camera   | 1        | 33.33%  |
 
 Security

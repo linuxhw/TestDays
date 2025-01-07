@@ -628,8 +628,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 12        | 54.55%  |
-| Yes       | 10        | 45.45%  |
+| No        | 13        | 59.09%  |
+| Yes       | 9         | 40.91%  |
 
 Has Ethernet
 ------------
@@ -778,7 +778,7 @@ Hard drive models
 | Transcend TS64GMSA230S 64GB SSD       | 1         | 3.33%   |
 | Toshiba MQ01ABF050M 500GB             | 1         | 3.33%   |
 | Seagate ST9320325AS 320GB             | 1         | 3.33%   |
-| Seagate Expansion+ Desk 4TB           | 1         | 3.33%   |
+| Seagate Expansion Desk 5TB            | 1         | 3.33%   |
 | SanDisk SSD U110 128GB                | 1         | 3.33%   |
 | SanDisk SSD PLUS 1000GB               | 1         | 3.33%   |
 | SanDisk SD9SN8W-128G-1006 128GB SSD   | 1         | 3.33%   |
@@ -876,8 +876,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 14        | 20     | 66.67%  |
 | 0.51-1.0   | 5         | 5      | 23.81%  |
-| 3.01-4.0   | 1         | 1      | 4.76%   |
 | 1.01-2.0   | 1         | 1      | 4.76%   |
+| 4.01-10.0  | 1         | 1      | 4.76%   |
 
 Space Total
 -----------
@@ -1325,22 +1325,22 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| Vizio E280i-A1 VIZ1002 1360x768 607x345mm 27.5-inch                      | 1         | 4.17%   |
+| Vizio E320i-A0 VIZ1002 1366x768 698x392mm 31.5-inch                      | 1         | 4.17%   |
 | Sharp LQ116M1JW02 SHP1440 1920x1080 256x144mm 11.6-inch                  | 1         | 4.17%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 344x194mm 15.5-inch     | 1         | 4.17%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 286x179mm 13.3-inch     | 1         | 4.17%   |
 | Samsung Electronics LCD Monitor SEC314C 1920x1080 344x194mm 15.5-inch    | 1         | 4.17%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 4.17%   |
-| Samsung Electronics LCD Monitor SDC415A 3840x2400 302x189mm 14.0-inch    | 1         | 4.17%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 4.17%   |
+| Samsung Electronics LCD Monitor SDC415A 3200x1800 293x165mm 13.2-inch    | 1         | 4.17%   |
 | Samsung Electronics LCD Monitor SDC3654 1600x900 382x215mm 17.3-inch     | 1         | 4.17%   |
 | LG Display LCD Monitor LGD062B 1920x1080 344x194mm 15.5-inch             | 1         | 4.17%   |
 | LG Display LCD Monitor LGD04DA 1920x1080 344x194mm 15.5-inch             | 1         | 4.17%   |
 | LG Display LCD Monitor LGD03E5 1366x768 309x174mm 14.0-inch              | 1         | 4.17%   |
 | LG Display LCD Monitor LGD03AB 1366x768 344x194mm 15.5-inch              | 1         | 4.17%   |
 | LG Display LCD Monitor LGD038E 1366x768 344x194mm 15.5-inch              | 1         | 4.17%   |
-| Goldstar 32LG3000 GSM75F0 1920x1080 700x390mm 31.5-inch                  | 1         | 4.17%   |
+| Goldstar 32LG5010 GSM75F0 1920x1080 700x390mm 31.5-inch                  | 1         | 4.17%   |
 | Chimei Innolux P130ZFA-BA1 CMN8201 2160x1440 275x183mm 13.0-inch         | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN1746 1600x900 382x214mm 17.2-inch          | 1         | 4.17%   |
-| Chimei Innolux LCD Monitor CMN15B8 1366x768 340x190mm 15.3-inch          | 1         | 4.17%   |
+| Chimei Innolux LCD Monitor CMN15B8 1366x768 344x193mm 15.5-inch          | 1         | 4.17%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 344x193mm 15.5-inch          | 1         | 4.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1680 1366x768 344x193mm 15.5-inch | 1         | 4.17%   |
 | BOE LCD Monitor BOE083C 1920x1080 309x173mm 13.9-inch                    | 1         | 4.17%   |
@@ -1704,10 +1704,9 @@ Controller models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
+| Intel Bluetooth wireless interface                  | 4         | 22.22%  |
 | Realtek Bluetooth Radio                             | 2         | 11.11%  |
-| Intel Bluetooth wireless interface                  | 2         | 11.11%  |
-| Intel Bluetooth Device                              | 2         | 11.11%  |
-| Realtek 802.11ac WLAN Adapter                       | 1         | 5.56%   |
+| Realtek  Bluetooth 4.2 Adapter                      | 1         | 5.56%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 5.56%   |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 5.56%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 5.56%   |
@@ -1751,7 +1750,7 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 3         | 8.82%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 3         | 8.82%   |
 | AMD Kabini HDMI/DP Audio                                                   | 3         | 8.82%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 3         | 8.82%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 3         | 8.82%   |
 | Intel Sunrise Point-LP HD Audio                                            | 2         | 5.88%   |
 | Intel Ice Lake-LP Smart Sound Technology Audio Controller                  | 2         | 5.88%   |
 | Intel 8 Series HD Audio Controller                                         | 2         | 5.88%   |
@@ -1799,7 +1798,7 @@ Memory module models
 |--------------------------------------------------------------|-----------|---------|
 | SK hynix RAM HMA851S6CJR6N-VK 4GB Row Of Chips DDR4 2667MT/s | 1         | 25%     |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s       | 1         | 25%     |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s        | 1         | 25%     |
+| Samsung RAM M471A5244CB0-CWE 4096MB SODIMM DDR4 3200MT/s     | 1         | 25%     |
 | Micron RAM 4ATF1G64HZ-3G2E2 8GB SODIMM DDR4 3200MT/s         | 1         | 25%     |
 
 Memory Kind

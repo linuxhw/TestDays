@@ -797,7 +797,7 @@ Hard drive models
 | Maxtor 6Y080L0 82GB                 | 2         | 4.08%   |
 | Maxtor 6L200M0 208GB                | 2         | 4.08%   |
 | LITEONIT LMT-128M6M mSATA 128GB SSD | 2         | 4.08%   |
-| KingSpec MT-128 128GB SSD           | 2         | 4.08%   |
+| KingSpec MT-128 128GB               | 2         | 4.08%   |
 | WDC WD40EFRX-68N32N0 4TB            | 1         | 2.04%   |
 | WDC WD2500BEVE-00A0HT0 250GB        | 1         | 2.04%   |
 | WDC WD2000JB-16FUA0 200GB           | 1         | 2.04%   |
@@ -1065,9 +1065,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 20        | 57.14%  |
-| IDE  | 10        | 28.57%  |
-| RAID | 5         | 14.29%  |
+| SATA | 21        | 58.33%  |
+| IDE  | 10        | 27.78%  |
+| RAID | 5         | 13.89%  |
 
 Processor
 ---------
@@ -1349,9 +1349,9 @@ Monitor models
 | Model                                                                   | Computers | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch     | 11        | 22.92%  |
-| ___ LCD TV ___0101 1920x1080                                            | 9         | 18.75%  |
+| ___ LCDTV16 ___0101 1920x1080                                           | 9         | 18.75%  |
 | Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5         | 10.42%  |
-| Philips 190S PHL082F 1280x1024 380x300mm 19.1-inch                      | 5         | 10.42%  |
+| Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5         | 10.42%  |
 | ViewSonic VA2226w-3 VSC2051 1680x1050 495x291mm 22.6-inch               | 4         | 8.33%   |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 4         | 8.33%   |
 | BenQ FP91G+ BNQ76A5 1280x1024 376x301mm 19.0-inch                       | 3         | 6.25%   |

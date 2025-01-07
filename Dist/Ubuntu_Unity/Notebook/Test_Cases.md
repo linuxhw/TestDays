@@ -1,10 +1,61 @@
 Ubuntu Unity - Test Cases (Notebooks)
 -------------------------------------
 
-Total: 889
+Total: 940
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Clevo         | W240HU/W250HUQ              | [fa4538a983](https://linux-hardware.org/?probe=fa4538a983) | Dec 29, 2024 |
+| Clevo         | W240HU/W250HUQ              | [a2f67a9324](https://linux-hardware.org/?probe=a2f67a9324) | Dec 25, 2024 |
+| Clevo         | W240HU/W250HUQ              | [a81e88cd1b](https://linux-hardware.org/?probe=a81e88cd1b) | Dec 25, 2024 |
+| Clevo         | W240HU/W250HUQ              | [7f63df74a6](https://linux-hardware.org/?probe=7f63df74a6) | Dec 24, 2024 |
+| Lenovo        | ThinkPad X250 20CLS21F00    | [bb120a943a](https://linux-hardware.org/?probe=bb120a943a) | Dec 21, 2024 |
+| Lenovo        | ThinkPad X250 20CLS64200    | [d92935db90](https://linux-hardware.org/?probe=d92935db90) | Dec 17, 2024 |
+| ASUSTek       | Zenbook UX3402VA_UX3402V... | [8d51a6d1e3](https://linux-hardware.org/?probe=8d51a6d1e3) | Dec 07, 2024 |
+| ASUSTek       | Zenbook UX3402VA_UX3402V... | [bc6e165df6](https://linux-hardware.org/?probe=bc6e165df6) | Dec 06, 2024 |
+| HP            | Compaq Mini 311-1000        | [da25f2f11a](https://linux-hardware.org/?probe=da25f2f11a) | Dec 01, 2024 |
+| Dell          | Vostro 3578                 | [2490918f08](https://linux-hardware.org/?probe=2490918f08) | Nov 24, 2024 |
+| Dell          | Latitude 7300               | [6371109a3f](https://linux-hardware.org/?probe=6371109a3f) | Nov 23, 2024 |
+| ASUSTek       | 1005HA                      | [39603774e5](https://linux-hardware.org/?probe=39603774e5) | Nov 20, 2024 |
+| HP            | Laptop 15-bs1xx             | [27cfaae835](https://linux-hardware.org/?probe=27cfaae835) | Nov 20, 2024 |
+| Dell          | Latitude D630               | [0b5738d0df](https://linux-hardware.org/?probe=0b5738d0df) | Nov 13, 2024 |
+| Toshiba       | Satellite L745              | [143975f623](https://linux-hardware.org/?probe=143975f623) | Nov 09, 2024 |
+| Toshiba       | Satellite C850-1G2          | [1a8e3e84b5](https://linux-hardware.org/?probe=1a8e3e84b5) | Nov 04, 2024 |
+| Acer          | Extensa 7630EZ              | [5c48b2f063](https://linux-hardware.org/?probe=5c48b2f063) | Nov 02, 2024 |
+| Unknown       | Unknown                     | [5e2c531d43](https://linux-hardware.org/?probe=5e2c531d43) | Oct 28, 2024 |
+| Acer          | Extensa 7630EZ              | [65c6658e55](https://linux-hardware.org/?probe=65c6658e55) | Oct 25, 2024 |
+| Unknown       | Unknown                     | [98d6d0497e](https://linux-hardware.org/?probe=98d6d0497e) | Oct 24, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [b18bcaafa6](https://linux-hardware.org/?probe=b18bcaafa6) | Oct 23, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [f371a56300](https://linux-hardware.org/?probe=f371a56300) | Oct 14, 2024 |
+| Notebook      | NP5x_NP6x_NP7xPNP           | [d60c92d4fc](https://linux-hardware.org/?probe=d60c92d4fc) | Oct 12, 2024 |
+| Notebook      | NP5x_NP6x_NP7xPNP           | [75f40c3c5e](https://linux-hardware.org/?probe=75f40c3c5e) | Oct 12, 2024 |
+| Lenovo        | ThinkPad X220 429136G       | [048e1b5215](https://linux-hardware.org/?probe=048e1b5215) | Oct 12, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [b7320420c9](https://linux-hardware.org/?probe=b7320420c9) | Oct 12, 2024 |
+| Dell          | Inspiron 15 3511            | [e4ae88eaec](https://linux-hardware.org/?probe=e4ae88eaec) | Oct 03, 2024 |
+| Lenovo        | ThinkBook 15 G2 ITL 20VE    | [86a9c5b481](https://linux-hardware.org/?probe=86a9c5b481) | Sep 30, 2024 |
+| HP            | ZBook Firefly 14 G7 Mobi... | [3ae4c69593](https://linux-hardware.org/?probe=3ae4c69593) | Sep 30, 2024 |
+| Lenovo        | IdeaPad 320-15IKB 81BG      | [db77b134d1](https://linux-hardware.org/?probe=db77b134d1) | Sep 24, 2024 |
+| Toshiba       | STI NI 1401                 | [3abf4867f1](https://linux-hardware.org/?probe=3abf4867f1) | Sep 22, 2024 |
+| Lenovo        | G500 20236                  | [6866916a20](https://linux-hardware.org/?probe=6866916a20) | Sep 21, 2024 |
+| Dell          | XPS 15 9510                 | [3b471e0e73](https://linux-hardware.org/?probe=3b471e0e73) | Sep 15, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [35da799420](https://linux-hardware.org/?probe=35da799420) | Sep 08, 2024 |
+| Lenovo        | ThinkPad X131e 33681Q1      | [f3e3569ea0](https://linux-hardware.org/?probe=f3e3569ea0) | Sep 03, 2024 |
+| Toshiba       | STI NI 1401                 | [43c42c00f4](https://linux-hardware.org/?probe=43c42c00f4) | Aug 30, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [7d0a8023b8](https://linux-hardware.org/?probe=7d0a8023b8) | Aug 30, 2024 |
+| Dell          | Latitude 5421               | [f1bb1223a1](https://linux-hardware.org/?probe=f1bb1223a1) | Aug 23, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [04284ff64d](https://linux-hardware.org/?probe=04284ff64d) | Aug 05, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [62354fe581](https://linux-hardware.org/?probe=62354fe581) | Jul 19, 2024 |
+| Apple         | MacBookPro12,1              | [7989202548](https://linux-hardware.org/?probe=7989202548) | Jul 11, 2024 |
+| Dell          | Precision 7540              | [54c96aa3f5](https://linux-hardware.org/?probe=54c96aa3f5) | Jul 08, 2024 |
+| Lenovo        | ThinkPad X13 Gen 1 20UGS... | [fa8f1445c6](https://linux-hardware.org/?probe=fa8f1445c6) | Jul 07, 2024 |
+| XIAOMI        | Redmi Book Pro 14 2024      | [de9d781d51](https://linux-hardware.org/?probe=de9d781d51) | Jul 06, 2024 |
+| HP            | G61                         | [e091151b6e](https://linux-hardware.org/?probe=e091151b6e) | Jun 13, 2024 |
+| Dell          | Inspiron MM061              | [b154563b73](https://linux-hardware.org/?probe=b154563b73) | Jun 08, 2024 |
+| Apple         | MacBookPro9,2               | [be344b10dc](https://linux-hardware.org/?probe=be344b10dc) | Jun 05, 2024 |
+| Lenovo        | ThinkPad R60 9459WJF        | [075b8e4949](https://linux-hardware.org/?probe=075b8e4949) | May 30, 2024 |
+| Lenovo        | ThinkPad T500 20827MG       | [812523cb5e](https://linux-hardware.org/?probe=812523cb5e) | May 29, 2024 |
+| Notebook      | W94_W95BU                   | [d252bada3c](https://linux-hardware.org/?probe=d252bada3c) | May 23, 2024 |
+| Matsushita... | CF-19HH205NW                | [3671ae4823](https://linux-hardware.org/?probe=3671ae4823) | May 20, 2024 |
 | Dell          | Inspiron N7010              | [538f6e2c91](https://linux-hardware.org/?probe=538f6e2c91) | May 06, 2024 |
 | Dell          | Precision 5530              | [373556c210](https://linux-hardware.org/?probe=373556c210) | May 02, 2024 |
 | ASUSTek       | ET2031I                     | [d27647c450](https://linux-hardware.org/?probe=d27647c450) | Apr 29, 2024 |

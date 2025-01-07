@@ -1,10 +1,20 @@
 Fedora 38 - Test Cases (Desktops)
 ---------------------------------
 
-Total: 1410
+Total: 1421
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| MSI           | MPG Z390 GAMING EDGE AC     | [08ef8b7453](https://linux-hardware.org/?probe=08ef8b7453) | Jan 01, 2025 |
+| ASUSTek       | ROG STRIX X670E-E GAMING... | [97743675bd](https://linux-hardware.org/?probe=97743675bd) | Aug 25, 2024 |
+| Gigabyte      | P85-D3                      | [963dc3b162](https://linux-hardware.org/?probe=963dc3b162) | Aug 17, 2024 |
+| Unknown       | Unknown                     | [d8180652d2](https://linux-hardware.org/?probe=d8180652d2) | Aug 05, 2024 |
+| Unknown       | Unknown                     | [0d86efd8cb](https://linux-hardware.org/?probe=0d86efd8cb) | Jul 08, 2024 |
+| ASUSTek       | Z87I-PRO                    | [408cf67898](https://linux-hardware.org/?probe=408cf67898) | Jun 06, 2024 |
+| Gigabyte      | GA-990X-Gaming SLI-CF       | [ccc9d03eb5](https://linux-hardware.org/?probe=ccc9d03eb5) | May 17, 2024 |
+| Lenovo        | 36D9 NO DPK                 | [7da2018a21](https://linux-hardware.org/?probe=7da2018a21) | May 14, 2024 |
+| ASUSTek       | PRIME B350M-A               | [37981baa1f](https://linux-hardware.org/?probe=37981baa1f) | May 14, 2024 |
+| Dell          | 06D7TR A00                  | [92c8cc8db0](https://linux-hardware.org/?probe=92c8cc8db0) | May 13, 2024 |
 | MSI           | MPG X570 GAMING PRO CARB... | [1be8775956](https://linux-hardware.org/?probe=1be8775956) | May 08, 2024 |
 | ASRock        | Z87 Extreme6                | [738b732d00](https://linux-hardware.org/?probe=738b732d00) | Apr 29, 2024 |
 | MSI           | MPG X570S CARBON MAX WIF... | [39557715aa](https://linux-hardware.org/?probe=39557715aa) | Apr 27, 2024 |
@@ -227,6 +237,7 @@ Total: 1410
 | MSI           | B550M PRO-VDH WIFI          | [6bb9b08c6e](https://linux-hardware.org/?probe=6bb9b08c6e) | Oct 20, 2023 |
 | MSI           | B450-A PRO MAX              | [17b8a78644](https://linux-hardware.org/?probe=17b8a78644) | Oct 20, 2023 |
 | MSI           | B550M PRO-VDH WIFI          | [3b1da376dc](https://linux-hardware.org/?probe=3b1da376dc) | Oct 19, 2023 |
+| ASUSTek       | PRIME X570-P                | [4506612f98](https://linux-hardware.org/?probe=4506612f98) | Oct 19, 2023 |
 | Gigabyte      | B75M-D3V                    | [b02f1b04e3](https://linux-hardware.org/?probe=b02f1b04e3) | Oct 19, 2023 |
 | MACHINIST     | X99 G7 V1.0                 | [caca14cc52](https://linux-hardware.org/?probe=caca14cc52) | Oct 19, 2023 |
 | MSI           | B550-A PRO                  | [77cf0c3af6](https://linux-hardware.org/?probe=77cf0c3af6) | Oct 18, 2023 |

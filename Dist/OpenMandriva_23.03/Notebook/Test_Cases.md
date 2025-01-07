@@ -1,10 +1,30 @@
 OpenMandriva 23.03 - Test Cases (Notebooks)
 -------------------------------------------
 
-Total: 989
+Total: 1009
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | VivoBook_ASUSLaptop X160... | [59a8c42150](https://linux-hardware.org/?probe=59a8c42150) | Jan 04, 2025 |
+| Dell          | Inspiron 13-5368            | [bc5f8753e8](https://linux-hardware.org/?probe=bc5f8753e8) | Jan 01, 2025 |
+| HP            | EliteBook 2570p             | [3c71e277f8](https://linux-hardware.org/?probe=3c71e277f8) | Dec 20, 2024 |
+| Dell          | Inspiron 13-5368            | [5bdedb520c](https://linux-hardware.org/?probe=5bdedb520c) | Dec 01, 2024 |
+| Toshiba       | Satellite L300D             | [a37d362084](https://linux-hardware.org/?probe=a37d362084) | Nov 23, 2024 |
+| Dell          | Inspiron 13-5368            | [b10e518561](https://linux-hardware.org/?probe=b10e518561) | Nov 01, 2024 |
+| Sony          | SVE15118FGB                 | [b18e981595](https://linux-hardware.org/?probe=b18e981595) | Oct 07, 2024 |
+| Dell          | Inspiron 1525               | [67424acbbc](https://linux-hardware.org/?probe=67424acbbc) | Oct 05, 2024 |
+| Samsung       | 550XED                      | [28d8731a31](https://linux-hardware.org/?probe=28d8731a31) | Oct 01, 2024 |
+| Dell          | Inspiron 13-5368            | [ca16c176d7](https://linux-hardware.org/?probe=ca16c176d7) | Oct 01, 2024 |
+| Dell          | Inspiron 13-5368            | [83c8a7748d](https://linux-hardware.org/?probe=83c8a7748d) | Sep 02, 2024 |
+| eMachines     | E520 V1.06                  | [5324543b62](https://linux-hardware.org/?probe=5324543b62) | Aug 25, 2024 |
+| Toshiba       | Satellite P200D             | [c7d2d0199b](https://linux-hardware.org/?probe=c7d2d0199b) | Aug 17, 2024 |
+| ASUSTek       | ASUS TUF Dash F15 FX517Z... | [3eeb2f6370](https://linux-hardware.org/?probe=3eeb2f6370) | Jul 31, 2024 |
+| Lenovo        | ThinkPad X200 74553WG       | [4440b1db58](https://linux-hardware.org/?probe=4440b1db58) | Jul 28, 2024 |
+| Packard Be... | EasyNote TJ75               | [33ffcb1329](https://linux-hardware.org/?probe=33ffcb1329) | Jul 06, 2024 |
+| HP            | EliteBook 8540p             | [eecfca3951](https://linux-hardware.org/?probe=eecfca3951) | Jul 06, 2024 |
+| Dell          | Inspiron 13-5368            | [7315f33997](https://linux-hardware.org/?probe=7315f33997) | Jul 01, 2024 |
+| Dell          | Latitude E5450              | [7292ecd153](https://linux-hardware.org/?probe=7292ecd153) | May 29, 2024 |
+| Lenovo        | ThinkPad T520 4243K86       | [8dde0460d1](https://linux-hardware.org/?probe=8dde0460d1) | May 21, 2024 |
 | HP            | ProBook 640 G1              | [012a8fbd0c](https://linux-hardware.org/?probe=012a8fbd0c) | May 05, 2024 |
 | Dell          | Inspiron 13-5368            | [ac125025cf](https://linux-hardware.org/?probe=ac125025cf) | May 01, 2024 |
 | HP            | EliteBook 8460p             | [6e1fd1f1b0](https://linux-hardware.org/?probe=6e1fd1f1b0) | Apr 04, 2024 |

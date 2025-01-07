@@ -1118,7 +1118,7 @@ Controller models
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
 | Netchip Linux-USB Ethernet/RNDIS Gadget | 1         | 33.33%  |
-| ICS Advent 10/100M LAN                  | 1         | 33.33%  |
+| ICS Advent USB 10/100 LAN               | 1         | 33.33%  |
 | ASIX AX88179 Gigabit Ethernet           | 1         | 33.33%  |
 
 Wireless Vendor
@@ -1160,7 +1160,7 @@ Ethernet models
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
 | Netchip Linux-USB Ethernet/RNDIS Gadget | 1         | 33.33%  |
-| ICS Advent 10/100M LAN                  | 1         | 33.33%  |
+| ICS Advent USB 10/100 LAN               | 1         | 33.33%  |
 | ASIX AX88179 Gigabit Ethernet           | 1         | 33.33%  |
 
 Net Controller Kind

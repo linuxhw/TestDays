@@ -902,10 +902,10 @@ Hard drive models
 | WDC WD10EADS-00P8B0 1TB                           | 1        | 1%      |
 | WDC WD10EADS-00M2B0 1TB                           | 1        | 1%      |
 | WDC WD1003FBYX-01Y7B0 1TB                         | 1        | 1%      |
-| WDC WD My Passport 25F3 512GB                     | 1        | 1%      |
+| WDC WD My Passport 25F3 1024GB                    | 1        | 1%      |
 | Unknown SD/MMC/MS PRO 128GB                       | 1        | 1%      |
 | Toshiba DT01ACA100 1TB                            | 1        | 1%      |
-| SPCC Sol id State Disk 128GB SSD                  | 1        | 1%      |
+| SPCC Sol id State Disk 256GB SSD                  | 1        | 1%      |
 | SK hynix HFS512GD9TNG-L2A0A 512GB                 | 1        | 1%      |
 | Silicon Motion SM2262/SM2262EN SSD Controller 2TB | 1        | 1%      |
 
@@ -991,10 +991,9 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 28       | 55     | 48.28%  |
-| 0.51-1.0   | 16       | 22     | 27.59%  |
+| 0.51-1.0   | 16       | 23     | 27.59%  |
 | 1.01-2.0   | 8        | 9      | 13.79%  |
-| 3.01-4.0   | 4        | 5      | 6.9%    |
-| 2.01-3.0   | 1        | 2      | 1.72%   |
+| 3.01-4.0   | 5        | 6      | 8.62%   |
 | 10.01-20.0 | 1        | 1      | 1.72%   |
 
 Space Total
@@ -1157,15 +1156,15 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 2        | 2.9%    |
 | Phison E12 NVMe Controller                                                              | 2        | 2.9%    |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                               | 2        | 2.9%    |
-| Kingston Company KC2000/KC2500 NVMe SSD SM2262EN                                        | 2        | 2.9%    |
-| Kingston Company A2000 NVMe SSD SM2263EN                                                | 2        | 2.9%    |
+| Kingston Company KC2000/KC2500 NVMe SSD [SM2262EN]                                      | 2        | 2.9%    |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                              | 2        | 2.9%    |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 2        | 2.9%    |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 2        | 2.9%    |
 | AMD FCH IDE Controller                                                                  | 2        | 2.9%    |
 | AMD 500 Series Chipset SATA Controller                                                  | 2        | 2.9%    |
 | SK hynix PC601 NVMe Solid State Drive                                                   | 1        | 1.45%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                           | 1        | 1.45%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 1.45%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)               | 1        | 1.45%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                       | 1        | 1.45%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 1        | 1.45%   |
 | Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                                        | 1        | 1.45%   |
@@ -1429,7 +1428,7 @@ Graphics card models
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 2        | 4.44%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller   | 2        | 4.44%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 2        | 4.44%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]               | 2        | 4.44%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                 | 2        | 4.44%   |
 | AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                     | 2        | 4.44%   |
 | AMD Kaveri [Radeon R7 Graphics]                                             | 2        | 4.44%   |
 | Nvidia GT218 [GeForce 210]                                                  | 1        | 2.22%   |
@@ -1546,7 +1545,7 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch                   | 3        | 6%      |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                     | 3        | 6%      |
 | Goldstar L227W GSM566E 1680x1050 474x296mm 22.0-inch                 | 2        | 4%      |
 | Unknown                                                              | 2        | 4%      |
 | Sharp LCD Monitor HDMI 1920x1080                                     | 1        | 2%      |
@@ -1554,7 +1553,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM029A 1920x1200 582x364mm 27.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 2%      |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch | 1        | 2%      |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1        | 2%      |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1        | 2%      |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1        | 2%      |
@@ -1563,28 +1562,28 @@ Monitor models
 | NEC Computers EA191M NEC673E 1280x1024 376x301mm 19.0-inch           | 1        | 2%      |
 | Microstep LCD Monitor MSI G241                                       | 1        | 2%      |
 | LG Electronics LCD Monitor E2241 1920x1080                           | 1        | 2%      |
-| Lenovo LEN LT2452pwC LEN1144 1920x1200 518x324mm 24.1-inch           | 1        | 2%      |
+| Lenovo LEN LT2452pwC LEN1144 1920x1080 518x324mm 24.1-inch           | 1        | 2%      |
 | Lenovo LEN L220xwC LEN1151 1920x1200 474x296mm 22.0-inch             | 1        | 2%      |
-| Hewlett-Packard 24yh HPN3504 1920x1080 528x297mm 23.9-inch           | 1        | 2%      |
+| Hewlett-Packard 24y HPN3504 1920x1080 528x297mm 23.9-inch            | 1        | 2%      |
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 2%      |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 2%      |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1        | 2%      |
 | Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                 | 1        | 2%      |
 | Goldstar E2050 GSM4EAE 1600x900 443x249mm 20.0-inch                  | 1        | 2%      |
 | Goldstar 19EN33 GSM4C18 1366x768 410x230mm 18.5-inch                 | 1        | 2%      |
-| Dell SE2419HR DELF113 1920x1080 530x300mm 24.0-inch                  | 1        | 2%      |
-| Dell S3222DGM DELD110 2560x1440 700x400mm 31.7-inch                  | 1        | 2%      |
+| Dell SE2419HR DELF113 1920x1080 527x296mm 23.8-inch                  | 1        | 2%      |
+| Dell S3222DGM DELD110 2560x1440 697x392mm 31.5-inch                  | 1        | 2%      |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1        | 2%      |
 | BenQ LCD Monitor T2200HD 5760x1080                                   | 1        | 2%      |
 | BenQ LCD Monitor T2200HD                                             | 1        | 2%      |
 | BenQ BL2405 BNQ8016 1920x1080 531x298mm 24.0-inch                    | 1        | 2%      |
-| ASUSTek Computer VG245 AUS24A3 1920x1080 530x300mm 24.0-inch         | 1        | 2%      |
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
+| ASUSTek Computer MG248 AUS24A3 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2%      |
-| AOC G2460PG AOC2460 1920x1080 531x299mm 24.0-inch                    | 1        | 2%      |
-| AOC 27G2G3 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
+| AOC Q27G2WG4 AOC2702 2560x1440 597x336mm 27.0-inch                   | 1        | 2%      |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2%      |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2%      |
+| AOC 2460G4 AOC2460 1920x1080 531x299mm 24.0-inch                     | 1        | 2%      |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2%      |
 
 Monitor Resolution
@@ -1788,7 +1787,7 @@ Controller models
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                           | 1        | 1.41%   |
 | Intel PRO/100 VE Network Connection                                                     | 1        | 1.41%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                        | 1        | 1.41%   |
-| Huawei VTR-L09                                                                          | 1        | 1.41%   |
+| Huawei FOA-LX9                                                                          | 1        | 1.41%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W]              | 1        | 1.41%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                            | 1        | 1.41%   |
 | Belkin Components F7D2102 802.11n N300 Micro Wireless Adapter v3000 [Realtek RTL8192CU] | 1        | 1.41%   |
@@ -1886,7 +1885,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 2.33%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 2.33%   |
 | Intel PRO/100 VE Network Connection                                    | 1        | 2.33%   |
-| Huawei VTR-L09                                                         | 1        | 2.33%   |
+| Huawei FOA-LX9                                                         | 1        | 2.33%   |
 
 Net Controller Kind
 -------------------
@@ -2021,7 +2020,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 6        | 7.23%   |
 | AMD Starship/Matisse HD Audio Controller                                   | 6        | 7.23%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 5        | 6.02%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 5        | 6.02%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 5        | 6.02%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 4        | 4.82%   |
 | AMD Renoir Radeon High Definition Audio Controller                         | 4        | 4.82%   |
 | AMD FCH Azalia Controller                                                  | 4        | 4.82%   |
@@ -2089,21 +2088,21 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                  | Desktops | Percent |
-|--------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 7.69%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 7.69%   |
-| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 7.69%   |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
-| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
-| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 7.69%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
-| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
-| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
-| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 7.69%   |
-| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s  | 1        | 7.69%   |
-| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 7.69%   |
+| Model                                                    | Desktops | Percent |
+|----------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 7.69%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                      | 1        | 7.69%   |
+| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s       | 1        | 7.69%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s        | 1        | 7.69%   |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
+| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s      | 1        | 7.69%   |
+| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s      | 1        | 7.69%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
+| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 7.69%   |
+| Crucial RAM CT51264BA160BJ.M8F 4096MB DIMM DDR3 1600MT/s | 1        | 7.69%   |
+| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s   | 1        | 7.69%   |
+| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 7.69%   |
+| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s              | 1        | 7.69%   |
 
 Memory Kind
 -----------
@@ -2238,15 +2237,14 @@ Camera device models
 
 | Model                                | Desktops | Percent |
 |--------------------------------------|----------|---------|
+| Logitech HD Pro Webcam C920          | 2        | 22.22%  |
 | MacroSilicon ShadowCast              | 1        | 11.11%  |
 | Logitech Webcam C270                 | 1        | 11.11%  |
-| Logitech HD Pro Webcam C920          | 1        | 11.11%  |
 | Logitech C922 Pro Stream Webcam      | 1        | 11.11%  |
-| Logitech C920 PRO HD Webcam          | 1        | 11.11%  |
 | LG Optimus (Various Models) MTP Mode | 1        | 11.11%  |
-| HP Webcam HD 2300                    | 1        | 11.11%  |
+| HP HP Webcam HD 2300                 | 1        | 11.11%  |
 | Bison LENOVO LBG 720P CAM            | 1        | 11.11%  |
-| A4Tech FHD 1080P PC Camera           | 1        | 11.11%  |
+| A4Tech A4tech FHD 1080P PC Camera    | 1        | 11.11%  |
 
 Security
 --------
@@ -2271,9 +2269,9 @@ Fingerprint sensor models
 ![Fingerprint Model](./images/pie_chart/fingerprint_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| Focal-systems.Corp FT9201Fingerprint. | 1        | 100%    |
+| Model                                     | Desktops | Percent |
+|-------------------------------------------|----------|---------|
+| Focal-systems.Corp FT9201Fingerprint.Ì | 1        | 100%    |
 
 Chipcard Vendor
 ---------------

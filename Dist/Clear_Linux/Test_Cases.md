@@ -1,10 +1,50 @@
 Clear Linux - Test Cases
 ------------------------
 
-Total: 1459
+Total: 1499
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Samsung       | 300V3A/300V4A/300V5A/200... | Notebook    | [ffa58b22a6](https://linux-hardware.org/?probe=ffa58b22a6) | Dec 29, 2024 |
+| Samsung       | 300V3A/300V4A/300V5A/200... | Notebook    | [c76825324c](https://linux-hardware.org/?probe=c76825324c) | Dec 28, 2024 |
+| Lenovo        | IdeaPad 320-15ISK 80XH      | Notebook    | [2bc9b23a42](https://linux-hardware.org/?probe=2bc9b23a42) | Dec 21, 2024 |
+| Dell          | Inspiron 3580               | Notebook    | [cd4f2164a0](https://linux-hardware.org/?probe=cd4f2164a0) | Dec 02, 2024 |
+| HP            | 18E7                        | Desktop     | [2e2890fa90](https://linux-hardware.org/?probe=2e2890fa90) | Nov 25, 2024 |
+| HP            | Laptop 14-dk1xxx            | Notebook    | [4ece0e89f1](https://linux-hardware.org/?probe=4ece0e89f1) | Nov 20, 2024 |
+| HP            | Laptop 14-dk1xxx            | Notebook    | [888308f02a](https://linux-hardware.org/?probe=888308f02a) | Nov 13, 2024 |
+| HP            | 18E7                        | Desktop     | [bb9d771e55](https://linux-hardware.org/?probe=bb9d771e55) | Nov 11, 2024 |
+| MECHREVO      | Kuangshi16Pro Series GM6... | Notebook    | [e0254a7e9a](https://linux-hardware.org/?probe=e0254a7e9a) | Nov 10, 2024 |
+| Gigabyte      | B660 DS3H AX DDR4           | Desktop     | [980e65b389](https://linux-hardware.org/?probe=980e65b389) | Nov 09, 2024 |
+| HUAWEI        | MDF-XX                      | Notebook    | [9f0d1d9bb2](https://linux-hardware.org/?probe=9f0d1d9bb2) | Nov 04, 2024 |
+| ASUSTek       | PRIME Z390-A                | Desktop     | [03f25d4aa0](https://linux-hardware.org/?probe=03f25d4aa0) | Oct 25, 2024 |
+| ASUSTek       | GL503VM                     | Notebook    | [667f613a0f](https://linux-hardware.org/?probe=667f613a0f) | Oct 21, 2024 |
+| ASUSTek       | GL503VM                     | Notebook    | [4b0399845f](https://linux-hardware.org/?probe=4b0399845f) | Oct 21, 2024 |
+| Microsoft     | Surface Pro 4               | Tablet      | [572c893f92](https://linux-hardware.org/?probe=572c893f92) | Oct 20, 2024 |
+| ASUSTek       | H110-PLUS                   | Desktop     | [1ed40dc81e](https://linux-hardware.org/?probe=1ed40dc81e) | Oct 06, 2024 |
+| HP            | ProLiant DL380e Gen8        | Server      | [735d113f73](https://linux-hardware.org/?probe=735d113f73) | Sep 20, 2024 |
+| Shenzhen M... | AHWSA                       | Desktop     | [b2095e6211](https://linux-hardware.org/?probe=b2095e6211) | Sep 16, 2024 |
+| Samsung       | 940XGK                      | Notebook    | [1be7f39bff](https://linux-hardware.org/?probe=1be7f39bff) | Sep 15, 2024 |
+| ASUSTek       | TUF Gaming B650M-PLUS       | Desktop     | [9cf000f67c](https://linux-hardware.org/?probe=9cf000f67c) | Sep 12, 2024 |
+| Shenzhen M... | AHWSA                       | Desktop     | [8279710a58](https://linux-hardware.org/?probe=8279710a58) | Sep 09, 2024 |
+| Gigabyte      | H87-HD3                     | Desktop     | [c080e185a8](https://linux-hardware.org/?probe=c080e185a8) | Sep 08, 2024 |
+| Positivo      | C14CR21                     | Notebook    | [1ee6ac63c7](https://linux-hardware.org/?probe=1ee6ac63c7) | Aug 30, 2024 |
+| ASUSTek       | TUF Gaming Z690-PLUS D4     | Desktop     | [de5916af69](https://linux-hardware.org/?probe=de5916af69) | Aug 28, 2024 |
+| ASUSTek       | TUF Gaming B650M-PLUS       | Desktop     | [3c0cd2dbe3](https://linux-hardware.org/?probe=3c0cd2dbe3) | Aug 22, 2024 |
+| Dell          | Latitude 5580               | Notebook    | [a1b30c87cb](https://linux-hardware.org/?probe=a1b30c87cb) | Aug 14, 2024 |
+| HP            | EliteBook 2540p             | Notebook    | [92819d0f8c](https://linux-hardware.org/?probe=92819d0f8c) | Aug 13, 2024 |
+| ASUSTek       | H110-PLUS                   | Desktop     | [d96d59b833](https://linux-hardware.org/?probe=d96d59b833) | Aug 03, 2024 |
+| Apple         | MacBookPro12,1              | Notebook    | [79c6d52e0b](https://linux-hardware.org/?probe=79c6d52e0b) | Jul 31, 2024 |
+| HP            | 8462                        | Desktop     | [4369a9a9e3](https://linux-hardware.org/?probe=4369a9a9e3) | Jul 29, 2024 |
+| ASUSTek       | H110-PLUS                   | Desktop     | [66abd24072](https://linux-hardware.org/?probe=66abd24072) | Jul 29, 2024 |
+| Chuwi         | Hi10 X                      | Tablet      | [ba2c5ebeb6](https://linux-hardware.org/?probe=ba2c5ebeb6) | Jul 28, 2024 |
+| Intel         | NUC8BEB J72692-307          | Mini pc     | [3d53b9ce1d](https://linux-hardware.org/?probe=3d53b9ce1d) | Jul 20, 2024 |
+| Gigabyte      | B760M AORUS ELITE AX        | Desktop     | [86cafd9087](https://linux-hardware.org/?probe=86cafd9087) | Jun 27, 2024 |
+| Intel         | NUC8BEB J72693-309          | Mini pc     | [fa847c686c](https://linux-hardware.org/?probe=fa847c686c) | Jun 23, 2024 |
+| ASUSTek       | VivoBook_ASUSLaptop X150... | Notebook    | [36f7e8a03a](https://linux-hardware.org/?probe=36f7e8a03a) | Jun 07, 2024 |
+| Acer          | Aspire E5-571PG             | Notebook    | [500ff80ad3](https://linux-hardware.org/?probe=500ff80ad3) | May 25, 2024 |
+| Dell          | Latitude 5424 Rugged        | Notebook    | [dde3595035](https://linux-hardware.org/?probe=dde3595035) | May 17, 2024 |
+| Lenovo        | IdeaPad 1 15ADA7 82R1       | Notebook    | [3a38ccbd81](https://linux-hardware.org/?probe=3a38ccbd81) | May 11, 2024 |
+| Lenovo        | V14 G2 ITL 82NM             | Notebook    | [bcd9091312](https://linux-hardware.org/?probe=bcd9091312) | May 11, 2024 |
 | Chuwi         | CoreBook X                  | Notebook    | [de2cd02e92](https://linux-hardware.org/?probe=de2cd02e92) | Apr 18, 2024 |
 | HP            | EliteBook 840 G3            | Notebook    | [fc3d11e3f3](https://linux-hardware.org/?probe=fc3d11e3f3) | Apr 18, 2024 |
 | ASUSTek       | Strix GL504GS_GL504GS       | Notebook    | [fafcb22109](https://linux-hardware.org/?probe=fafcb22109) | Apr 17, 2024 |

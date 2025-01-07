@@ -1,10 +1,74 @@
 Linux in Pakistan - Test Cases
 ------------------------------
 
-Total: 612
+Total: 676
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Dell          | Latitude E6430              | Notebook    | [0baf769dd2](https://linux-hardware.org/?probe=0baf769dd2) | Jan 02, 2025 |
+| HP            | 18E7                        | Desktop     | [b0312cea7a](https://linux-hardware.org/?probe=b0312cea7a) | Dec 30, 2024 |
+| Dell          | Vostro 3558                 | Notebook    | [b480d52ec1](https://linux-hardware.org/?probe=b480d52ec1) | Dec 29, 2024 |
+| Lenovo        | Slim Pro 7 14ARP8 83AX      | Notebook    | [d688d8a5e0](https://linux-hardware.org/?probe=d688d8a5e0) | Dec 27, 2024 |
+| GEEKOM        | A5                          | Desktop     | [2bdc0b3030](https://linux-hardware.org/?probe=2bdc0b3030) | Dec 26, 2024 |
+| Lenovo        | ThinkBook 16 G6 IRL 21KH    | Notebook    | [48353373ae](https://linux-hardware.org/?probe=48353373ae) | Dec 24, 2024 |
+| HP            | EliteBook 2540p             | Notebook    | [1f59b3e296](https://linux-hardware.org/?probe=1f59b3e296) | Dec 24, 2024 |
+| HP            | EliteBook 2540p             | Notebook    | [2729bde753](https://linux-hardware.org/?probe=2729bde753) | Dec 24, 2024 |
+| Lenovo        | ThinkPad T540p 20BFS0N20... | Notebook    | [f49f8d4c4c](https://linux-hardware.org/?probe=f49f8d4c4c) | Dec 22, 2024 |
+| Lenovo        | IdeaPad 3 15ITL6 82H8       | Notebook    | [8bef0b6a5c](https://linux-hardware.org/?probe=8bef0b6a5c) | Dec 16, 2024 |
+| Dell          | 0WMJ54 A01                  | Desktop     | [00c962b29d](https://linux-hardware.org/?probe=00c962b29d) | Dec 14, 2024 |
+| HP            | EliteBook 850 G6            | Notebook    | [69220eb1a5](https://linux-hardware.org/?probe=69220eb1a5) | Dec 13, 2024 |
+| Lenovo        | ThinkBook 16 G6 IRL 21KH    | Notebook    | [6f2a2ee5c7](https://linux-hardware.org/?probe=6f2a2ee5c7) | Dec 05, 2024 |
+| HP            | EliteBook 745 G3            | Notebook    | [e013f2d637](https://linux-hardware.org/?probe=e013f2d637) | Nov 25, 2024 |
+| HP            | EliteBook 745 G3            | Notebook    | [7b42cdd403](https://linux-hardware.org/?probe=7b42cdd403) | Nov 25, 2024 |
+| HP            | 245 14 inch G10 Notebook... | Notebook    | [c6da834ecc](https://linux-hardware.org/?probe=c6da834ecc) | Nov 16, 2024 |
+| ASUSTek       | ROG Zephyrus G14 GA402XV... | Notebook    | [6e7f58990a](https://linux-hardware.org/?probe=6e7f58990a) | Nov 08, 2024 |
+| HP            | EliteBook 2540p             | Notebook    | [0b808f5fdb](https://linux-hardware.org/?probe=0b808f5fdb) | Nov 04, 2024 |
+| HP            | EliteBook 2540p             | Notebook    | [ef768f0f93](https://linux-hardware.org/?probe=ef768f0f93) | Nov 04, 2024 |
+| Lenovo        | ThinkPad E14 20RA007TUE     | Notebook    | [ced7393b11](https://linux-hardware.org/?probe=ced7393b11) | Nov 02, 2024 |
+| Acer          | Aspire 5336                 | Notebook    | [134306528c](https://linux-hardware.org/?probe=134306528c) | Oct 28, 2024 |
+| Gigabyte      | H510M H                     | Desktop     | [25f0eaa3ca](https://linux-hardware.org/?probe=25f0eaa3ca) | Oct 27, 2024 |
+| Lenovo        | ThinkPad E14 20RA007TUE     | Notebook    | [6314a52501](https://linux-hardware.org/?probe=6314a52501) | Oct 24, 2024 |
+| Lenovo        | G50-80 80E5                 | Notebook    | [469f57f728](https://linux-hardware.org/?probe=469f57f728) | Oct 16, 2024 |
+| Dell          | Inspiron 3593               | Notebook    | [140f1ea95d](https://linux-hardware.org/?probe=140f1ea95d) | Oct 16, 2024 |
+| Lenovo        | G50-80 80E5                 | Notebook    | [fb506fb843](https://linux-hardware.org/?probe=fb506fb843) | Oct 14, 2024 |
+| Dell          | Inspiron 3593               | Notebook    | [cd5226593d](https://linux-hardware.org/?probe=cd5226593d) | Oct 12, 2024 |
+| HP            | 18E4                        | Desktop     | [121e713fcb](https://linux-hardware.org/?probe=121e713fcb) | Oct 11, 2024 |
+| Unknown       | Makerbase mks-pi            | Soc         | [4322fdb088](https://linux-hardware.org/?probe=4322fdb088) | Oct 07, 2024 |
+| Unknown       | Makerbase mks-pi            | Soc         | [3a6763bf0d](https://linux-hardware.org/?probe=3a6763bf0d) | Oct 07, 2024 |
+| Dell          | 0DR845                      | Desktop     | [0f42ddcf61](https://linux-hardware.org/?probe=0f42ddcf61) | Oct 04, 2024 |
+| ASUSTek       | TUF Gaming B650M-E WIFI     | Desktop     | [4c027e59fb](https://linux-hardware.org/?probe=4c027e59fb) | Sep 29, 2024 |
+| Apple         | MacBookAir5,2               | Notebook    | [e6ccabb39d](https://linux-hardware.org/?probe=e6ccabb39d) | Sep 27, 2024 |
+| Haier         | Y11B                        | Notebook    | [98938d2d4a](https://linux-hardware.org/?probe=98938d2d4a) | Sep 22, 2024 |
+| Lenovo        | ThinkPad E15 20TDS0GD00     | Notebook    | [d4d21efc8f](https://linux-hardware.org/?probe=d4d21efc8f) | Sep 16, 2024 |
+| HP            | 339A                        | Desktop     | [9300f2dd15](https://linux-hardware.org/?probe=9300f2dd15) | Sep 15, 2024 |
+| Lenovo        | ThinkPad E490 20N8005AAD    | Notebook    | [4e5ac9e97e](https://linux-hardware.org/?probe=4e5ac9e97e) | Sep 13, 2024 |
+| Lenovo        | ThinkPad T460 20FMS10H00    | Notebook    | [81f2f6298a](https://linux-hardware.org/?probe=81f2f6298a) | Sep 12, 2024 |
+| Lenovo        | 1038 SDK0K17763 WIN 1801... | Server      | [e43c302ba4](https://linux-hardware.org/?probe=e43c302ba4) | Sep 09, 2024 |
+| HP            | EliteBook 2540p             | Notebook    | [7c9759b951](https://linux-hardware.org/?probe=7c9759b951) | Sep 08, 2024 |
+| HP            | Laptop 15s-fq5xxx           | Notebook    | [47144b3c90](https://linux-hardware.org/?probe=47144b3c90) | Sep 06, 2024 |
+| HP            | Laptop 15s-fq5xxx           | Notebook    | [33d63d920b](https://linux-hardware.org/?probe=33d63d920b) | Sep 06, 2024 |
+| Dell          | 0DR845                      | Desktop     | [7385610ecd](https://linux-hardware.org/?probe=7385610ecd) | Sep 04, 2024 |
+| Lenovo        | ThinkPad W520 427637U       | Notebook    | [ca76b9cc1f](https://linux-hardware.org/?probe=ca76b9cc1f) | Sep 03, 2024 |
+| Sony          | SVE14118FXW                 | Notebook    | [04f43f6a24](https://linux-hardware.org/?probe=04f43f6a24) | Sep 02, 2024 |
+| Sony          | SVE14118FXW                 | Notebook    | [9405ca1f56](https://linux-hardware.org/?probe=9405ca1f56) | Sep 01, 2024 |
+| Clevo         | P170HMx                     | Notebook    | [6c3e4f5b5b](https://linux-hardware.org/?probe=6c3e4f5b5b) | Aug 24, 2024 |
+| Dell          | 048DY8 A00                  | Desktop     | [02cdadf60a](https://linux-hardware.org/?probe=02cdadf60a) | Aug 23, 2024 |
+| Dell          | Latitude E5570              | Notebook    | [59d394a98f](https://linux-hardware.org/?probe=59d394a98f) | Aug 17, 2024 |
+| HP            | ProBook 650 G4              | Notebook    | [5628e916a8](https://linux-hardware.org/?probe=5628e916a8) | Aug 16, 2024 |
+| HP            | ProBook 650 G4              | Notebook    | [0afb92533d](https://linux-hardware.org/?probe=0afb92533d) | Aug 16, 2024 |
+| HP            | EliteBook 2540p             | Notebook    | [1d1515aa10](https://linux-hardware.org/?probe=1d1515aa10) | Jul 28, 2024 |
+| HP            | 3048h                       | Desktop     | [0b0cbac609](https://linux-hardware.org/?probe=0b0cbac609) | Jul 22, 2024 |
+| HP            | 3048h                       | Desktop     | [4e0b68d2c5](https://linux-hardware.org/?probe=4e0b68d2c5) | Jul 15, 2024 |
+| HP            | 250 15.6 inch G10           | Notebook    | [40301b472f](https://linux-hardware.org/?probe=40301b472f) | Jul 04, 2024 |
+| Dell          | Inspiron N5010              | Notebook    | [60464251fe](https://linux-hardware.org/?probe=60464251fe) | Jul 01, 2024 |
+| HP            | EliteBook 845 G8 Noteboo... | Notebook    | [f635e2fafc](https://linux-hardware.org/?probe=f635e2fafc) | Jun 25, 2024 |
+| Dell          | OptiPlex 980                | Desktop     | [1ecb0bfbf0](https://linux-hardware.org/?probe=1ecb0bfbf0) | Jun 20, 2024 |
+| HP            | 0AE4h                       | Desktop     | [3eedb438d5](https://linux-hardware.org/?probe=3eedb438d5) | Jun 19, 2024 |
+| Google        | Auron_Yuna                  | Notebook    | [50c565d132](https://linux-hardware.org/?probe=50c565d132) | Jun 13, 2024 |
+| Dell          | Precision 7720              | Notebook    | [c2ab0e71a8](https://linux-hardware.org/?probe=c2ab0e71a8) | Jun 13, 2024 |
+| Dell          | Latitude 3400               | Notebook    | [46574249d6](https://linux-hardware.org/?probe=46574249d6) | Jun 12, 2024 |
+| Lenovo        | V14 G3 IAP 82TS             | Notebook    | [d97af6ad1b](https://linux-hardware.org/?probe=d97af6ad1b) | May 26, 2024 |
+| Lenovo        | V14 G3 IAP 82TS             | Notebook    | [da7f7726b9](https://linux-hardware.org/?probe=da7f7726b9) | May 24, 2024 |
 | Dell          | Inspiron 5547               | Notebook    | [b8dd9a912d](https://linux-hardware.org/?probe=b8dd9a912d) | May 07, 2024 |
 | Dell          | Inspiron 15 3520            | Notebook    | [c9bddc6d00](https://linux-hardware.org/?probe=c9bddc6d00) | May 06, 2024 |
 | HP            | 1000                        | Notebook    | [c2783cbe1f](https://linux-hardware.org/?probe=c2783cbe1f) | May 04, 2024 |
@@ -68,7 +132,7 @@ Total: 612
 | Dell          | Precision 7740              | Notebook    | [71b262696a](https://linux-hardware.org/?probe=71b262696a) | Nov 02, 2023 |
 | HP            | Laptop 15s-fq5xxx           | Notebook    | [18398fe53c](https://linux-hardware.org/?probe=18398fe53c) | Oct 31, 2023 |
 | HP            | Laptop 15s-fq5xxx           | Notebook    | [773814f03f](https://linux-hardware.org/?probe=773814f03f) | Oct 27, 2023 |
-| Acer          | Nitro AN515-55              | Notebook    | [e116ef83e9](https://linux-hardware.org/?probe=e116ef83e9) | Oct 27, 2023 |
+| Dell          | Inspiron 14 Plus 7440       | Notebook    | [e116ef83e9](https://linux-hardware.org/?probe=e116ef83e9) | Oct 27, 2023 |
 | HP            | ProBook 450 G4              | Notebook    | [d76b3901c7](https://linux-hardware.org/?probe=d76b3901c7) | Oct 26, 2023 |
 | HP            | ProBook 450 G4              | Notebook    | [58d1baf31c](https://linux-hardware.org/?probe=58d1baf31c) | Oct 26, 2023 |
 | Lenovo        | ThinkBook 15 G2 ITL 20VE    | Notebook    | [6259de67f2](https://linux-hardware.org/?probe=6259de67f2) | Oct 23, 2023 |

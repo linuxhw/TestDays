@@ -1,10 +1,40 @@
 Ubuntu 23.04 - Test Cases (Desktops)
 ------------------------------------
 
-Total: 719
+Total: 749
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | TUF Z390-PLUS GAMING        | [6462e457e9](https://linux-hardware.org/?probe=6462e457e9) | Dec 09, 2024 |
+| MSI           | MS-7369                     | [fbfb1c6e78](https://linux-hardware.org/?probe=fbfb1c6e78) | Dec 06, 2024 |
+| ASUSTek       | Rampage IV FORMULA          | [19d479aa20](https://linux-hardware.org/?probe=19d479aa20) | Nov 29, 2024 |
+| MSI           | B450M PRO-VDH MAX           | [eebf56fc6a](https://linux-hardware.org/?probe=eebf56fc6a) | Nov 27, 2024 |
+| MSI           | B450M PRO-VDH MAX           | [4a7b0a2801](https://linux-hardware.org/?probe=4a7b0a2801) | Nov 27, 2024 |
+| MSI           | B450M PRO-VDH MAX           | [451e240ca8](https://linux-hardware.org/?probe=451e240ca8) | Nov 22, 2024 |
+| Lenovo        | SHARKBAY SDK0E50510 WIN     | [d9617a8ee3](https://linux-hardware.org/?probe=d9617a8ee3) | Nov 09, 2024 |
+| ASUSTek       | STRIX Z270F GAMING          | [4408efdf19](https://linux-hardware.org/?probe=4408efdf19) | Oct 15, 2024 |
+| Lenovo        | SHARKBAY SDK0E50510 WIN     | [f45d5fb501](https://linux-hardware.org/?probe=f45d5fb501) | Oct 12, 2024 |
+| Lenovo        | SHARKBAY SDK0E50510 WIN     | [e6b4955912](https://linux-hardware.org/?probe=e6b4955912) | Oct 11, 2024 |
+| Gigabyte      | Z790 UD AX                  | [7e6ff11505](https://linux-hardware.org/?probe=7e6ff11505) | Sep 21, 2024 |
+| HP            | 8653 A                      | [7d784dded4](https://linux-hardware.org/?probe=7d784dded4) | Sep 12, 2024 |
+| ASRockRack    | E3C246D4U2-2T               | [8a90694fa1](https://linux-hardware.org/?probe=8a90694fa1) | Sep 11, 2024 |
+| ASUSTek       | ROG STRIX Z590-F GAMING ... | [b8ebd625a7](https://linux-hardware.org/?probe=b8ebd625a7) | Sep 07, 2024 |
+| ASRockRack    | E3C246D4U2-2T               | [5e5d56e397](https://linux-hardware.org/?probe=5e5d56e397) | Sep 03, 2024 |
+| Gigabyte      | B450M S2H                   | [e5f519edd5](https://linux-hardware.org/?probe=e5f519edd5) | Aug 03, 2024 |
+| MSI           | X570-A PRO                  | [0185457c65](https://linux-hardware.org/?probe=0185457c65) | Jul 30, 2024 |
+| Intel         | X99-P4 V5.1                 | [def260ec4e](https://linux-hardware.org/?probe=def260ec4e) | Jul 28, 2024 |
+| ASUSTek       | Z170 PRO GAMING             | [ffa823879e](https://linux-hardware.org/?probe=ffa823879e) | Jul 25, 2024 |
+| ASUSTek       | Z170 PRO GAMING             | [b3ded0b9fe](https://linux-hardware.org/?probe=b3ded0b9fe) | Jul 25, 2024 |
+| HP            | 843B                        | [5a704db5ca](https://linux-hardware.org/?probe=5a704db5ca) | Jun 22, 2024 |
+| Positivo      | POS-PIB150DT                | [7e1dc46d4f](https://linux-hardware.org/?probe=7e1dc46d4f) | Jun 11, 2024 |
+| MSI           | X570-A PRO                  | [9f5b783071](https://linux-hardware.org/?probe=9f5b783071) | Jun 08, 2024 |
+| HP            | 1998                        | [00c947e607](https://linux-hardware.org/?probe=00c947e607) | Jun 05, 2024 |
+| HP            | 1998                        | [04e116c090](https://linux-hardware.org/?probe=04e116c090) | Jun 05, 2024 |
+| HP            | 1998                        | [bf50a71cc6](https://linux-hardware.org/?probe=bf50a71cc6) | Jun 05, 2024 |
+| MSI           | MAG B560M MORTAR            | [d3b39f4086](https://linux-hardware.org/?probe=d3b39f4086) | Jun 05, 2024 |
+| ASUSTek       | TUF Gaming B760-PLUS WIF... | [dc23737df9](https://linux-hardware.org/?probe=dc23737df9) | May 12, 2024 |
+| ASUSTek       | TUF Gaming B760-PLUS WIF... | [775f9b664d](https://linux-hardware.org/?probe=775f9b664d) | May 12, 2024 |
+| Fujitsu       | D3402-B2 S26361-D3402-B2    | [57bfc992d9](https://linux-hardware.org/?probe=57bfc992d9) | May 10, 2024 |
 | ASRock        | B450M Pro4                  | [aded29632d](https://linux-hardware.org/?probe=aded29632d) | Apr 28, 2024 |
 | ASRock        | Z77 Extreme3                | [83083ad34f](https://linux-hardware.org/?probe=83083ad34f) | Apr 26, 2024 |
 | Gigabyte      | B760M AORUS ELITE           | [abd7f2bfbc](https://linux-hardware.org/?probe=abd7f2bfbc) | Apr 03, 2024 |
@@ -103,7 +133,7 @@ Total: 719
 | Foxconn       | 2ADA                        | [da4ea80916](https://linux-hardware.org/?probe=da4ea80916) | Oct 17, 2023 |
 | Gigabyte      | H110M-D2P-WG-CF             | [113b3d362d](https://linux-hardware.org/?probe=113b3d362d) | Oct 17, 2023 |
 | ASUSTek       | Maximus IX HERO             | [58e17c747d](https://linux-hardware.org/?probe=58e17c747d) | Oct 17, 2023 |
-| ASRock        | FM2A68M-HD+                 | [3597183b2f](https://linux-hardware.org/?probe=3597183b2f) | Oct 17, 2023 |
+| ASUSTek       | M5A78L/USB3                 | [3597183b2f](https://linux-hardware.org/?probe=3597183b2f) | Oct 17, 2023 |
 | ASUSTek       | Maximus IX HERO             | [fcd9389f36](https://linux-hardware.org/?probe=fcd9389f36) | Oct 17, 2023 |
 | Intel         | DH77KC AAG39641-401         | [abfbdc1640](https://linux-hardware.org/?probe=abfbdc1640) | Oct 17, 2023 |
 | ASUSTek       | TUF X299 MARK 2             | [52a3f75a39](https://linux-hardware.org/?probe=52a3f75a39) | Oct 16, 2023 |
@@ -248,7 +278,7 @@ Total: 719
 | Biostar       | TB360-BTC Expert            | [7bfb24d8e3](https://linux-hardware.org/?probe=7bfb24d8e3) | Sep 06, 2023 |
 | ASUSTek       | PRIME B550-PLUS             | [7fa390fcc4](https://linux-hardware.org/?probe=7fa390fcc4) | Sep 06, 2023 |
 | Biostar       | TB360-BTC Expert            | [650e71b107](https://linux-hardware.org/?probe=650e71b107) | Sep 05, 2023 |
-| ASRock        | FM2A68M-HD+                 | [5971b283b6](https://linux-hardware.org/?probe=5971b283b6) | Sep 05, 2023 |
+| ASUSTek       | M5A78L/USB3                 | [5971b283b6](https://linux-hardware.org/?probe=5971b283b6) | Sep 05, 2023 |
 | ASUSTek       | A88XM-E                     | [464ff29a95](https://linux-hardware.org/?probe=464ff29a95) | Sep 04, 2023 |
 | MSI           | B450M BAZOOKA MAX WIFI      | [06571c70a0](https://linux-hardware.org/?probe=06571c70a0) | Sep 04, 2023 |
 | Fujitsu       | D3223-C1 S26361-D3223-C1    | [75c1744e6f](https://linux-hardware.org/?probe=75c1744e6f) | Sep 03, 2023 |
@@ -394,7 +424,7 @@ Total: 719
 | Packard Be... | IMEDIA S2885                | [fa20588062](https://linux-hardware.org/?probe=fa20588062) | Jul 17, 2023 |
 | Lenovo        | SHARKBAY SDK0E50510 WIN     | [60280e0708](https://linux-hardware.org/?probe=60280e0708) | Jul 17, 2023 |
 | MSI           | FM2-A85XA-G65               | [8e6741f497](https://linux-hardware.org/?probe=8e6741f497) | Jul 17, 2023 |
-| ASRock        | FM2A68M-HD+                 | [5abf5fb1c3](https://linux-hardware.org/?probe=5abf5fb1c3) | Jul 16, 2023 |
+| ASUSTek       | M5A78L/USB3                 | [5abf5fb1c3](https://linux-hardware.org/?probe=5abf5fb1c3) | Jul 16, 2023 |
 | Gigabyte      | H61M-DS2                    | [5b68d7d6e2](https://linux-hardware.org/?probe=5b68d7d6e2) | Jul 16, 2023 |
 | Intel         | DH61BF AAG81311-102         | [bc2e347565](https://linux-hardware.org/?probe=bc2e347565) | Jul 16, 2023 |
 | Unknown       | EMB-BT1                     | [90dbc847d2](https://linux-hardware.org/?probe=90dbc847d2) | Jul 16, 2023 |
@@ -562,7 +592,7 @@ Total: 719
 | ASUSTek       | TUF Gaming B650-PLUS WIF... | [526503fef7](https://linux-hardware.org/?probe=526503fef7) | May 27, 2023 |
 | AAEON         | UP-CHCR1 V0.4               | [b77201e825](https://linux-hardware.org/?probe=b77201e825) | May 26, 2023 |
 | Dell          | 0MGK50 A02                  | [4572d76da5](https://linux-hardware.org/?probe=4572d76da5) | May 26, 2023 |
-| Gigabyte      | P43-ES3G                    | [9683a94030](https://linux-hardware.org/?probe=9683a94030) | May 26, 2023 |
+| Gigabyte      | EP45-UD3L                   | [9683a94030](https://linux-hardware.org/?probe=9683a94030) | May 26, 2023 |
 | Dell          | 0RY007                      | [6fb4081584](https://linux-hardware.org/?probe=6fb4081584) | May 25, 2023 |
 | ASUSTek       | PRIME B460M-K               | [e55e554596](https://linux-hardware.org/?probe=e55e554596) | May 25, 2023 |
 | ASUSTek       | A88XM-PLUS                  | [55790e804a](https://linux-hardware.org/?probe=55790e804a) | May 25, 2023 |
@@ -668,7 +698,7 @@ Total: 719
 | Shuttle       | FS35V4                      | [137fda9bc6](https://linux-hardware.org/?probe=137fda9bc6) | May 01, 2023 |
 | MSI           | A520M-A PRO                 | [aa8e8397f6](https://linux-hardware.org/?probe=aa8e8397f6) | May 01, 2023 |
 | Lenovo        | 3111 SDK0J40697 WIN 3305... | [705ff684a9](https://linux-hardware.org/?probe=705ff684a9) | Apr 30, 2023 |
-| ASRock        | FM2A68M-HD+                 | [467bb5ded2](https://linux-hardware.org/?probe=467bb5ded2) | Apr 30, 2023 |
+| ASUSTek       | M5A78L/USB3                 | [467bb5ded2](https://linux-hardware.org/?probe=467bb5ded2) | Apr 30, 2023 |
 | Lenovo        | 370A SDK0J40700 WIN 3258... | [9a1d443928](https://linux-hardware.org/?probe=9a1d443928) | Apr 30, 2023 |
 | Colorful T... | CVN B550M GAMING FROZEN ... | [233ea7cdd8](https://linux-hardware.org/?probe=233ea7cdd8) | Apr 30, 2023 |
 | Colorful T... | CVN B550M GAMING FROZEN ... | [177fe2fc00](https://linux-hardware.org/?probe=177fe2fc00) | Apr 30, 2023 |

@@ -1467,12 +1467,12 @@ Monitor models
 | ViewSonic VA2419 Series VSC7B32 1920x1080 527x296mm 23.8-inch         | 1         | 4%      |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 4%      |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 4%      |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1         | 4%      |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch | 1         | 4%      |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 4%      |
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
-| ITE DP2VGA V205 ITE6512 1920x1080 600x340mm 27.2-inch                 | 1         | 4%      |
+| ITE DP2VGA V173 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 4%      |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
-| Hewlett-Packard 24er HWP3320 1920x1080 527x296mm 23.8-inch            | 1         | 4%      |
+| Hewlett-Packard 24es HWP3320 1920x1080 527x296mm 23.8-inch            | 1         | 4%      |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1         | 4%      |
 | Dell U2917W DEL40F9 2560x1080 673x284mm 28.8-inch                     | 1         | 4%      |
 | Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 4%      |
@@ -1671,7 +1671,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 1.25%   |
 | QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.25%   |
 | Prolific USB-Serial Controller                                         | 1         | 1.25%   |
-| OPPO SM8350-MTP _SN:9338D66C                                           | 1         | 1.25%   |
+| OPPO OnePlus Nord 4                                                    | 1         | 1.25%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.25%   |
 | Intel Wi-Fi 6 AX200                                                    | 1         | 1.25%   |
 | Intel Ethernet Controller I225-LM                                      | 1         | 1.25%   |
@@ -1773,7 +1773,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                                 | 2         | 3.17%   |
 | Dell iDRAC Virtual NIC                                                 | 2         | 3.17%   |
 | QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.59%   |
-| OPPO SM8350-MTP _SN:9338D66C                                           | 1         | 1.59%   |
+| OPPO OnePlus Nord 4                                                    | 1         | 1.59%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.59%   |
 | Intel Ethernet Controller I225-LM                                      | 1         | 1.59%   |
 | Intel Ethernet Connection I219-LM                                      | 1         | 1.59%   |
@@ -1876,9 +1876,9 @@ Controller models
 
 | Model                                          | Computers | Percent |
 |------------------------------------------------|-----------|---------|
-| Intel Bluetooth Device                         | 5         | 50%     |
+| Intel Bluetooth wireless interface             | 5         | 50%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 2         | 20%     |
-| Realtek Bluetooth Radio                        | 1         | 10%     |
+| Realtek  Bluetooth 4.2 Adapter                 | 1         | 10%     |
 | Intel AX200 Bluetooth                          | 1         | 10%     |
 | ASUS Qualcomm Bluetooth 4.1                    | 1         | 10%     |
 
@@ -1931,7 +1931,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                               | 1         | 3.23%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 1         | 3.23%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 1         | 3.23%   |
-| C-Media Electronics Sharkoon B2                                                   | 1         | 3.23%   |
+| C-Media Electronics USB Advanced Audio Device                                     | 1         | 3.23%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1         | 3.23%   |
 
 Memory
@@ -1968,7 +1968,7 @@ Memory module models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMA81GU7AFR8N-UH 8192MB DIMM DDR4 2400MT/s | 4         | 9.76%   |
+| SK hynix RAM HMA81GU7AFR8N-UH 8GB DIMM DDR4 2400MT/s    | 4         | 9.76%   |
 | SK hynix RAM HMA81GR7AFR8N-VK 8192MB DIMM DDR4 2666MT/s | 3         | 7.32%   |
 | SK hynix RAM HMA42GR7MFR4N-TF 16GB DIMM DDR4 2133MT/s   | 3         | 7.32%   |
 | Unknown RAM Module 8192MB DIMM DDR3 1600MT/s            | 2         | 4.88%   |
@@ -2218,9 +2218,9 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 0     | 17        | 37.78%  |
-| 2     | 11        | 24.44%  |
+| 2     | 12        | 26.67%  |
 | 3     | 7         | 15.56%  |
-| 1     | 7         | 15.56%  |
+| 1     | 6         | 13.33%  |
 | 5     | 3         | 6.67%   |
 
 Unsupported Device Types

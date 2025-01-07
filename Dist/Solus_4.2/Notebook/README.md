@@ -690,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -717,14 +717,13 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Micron Technology   | 2         | 3      | 22.22%  |
-| WDC                 | 1         | 1      | 11.11%  |
-| Transcend           | 1         | 1      | 11.11%  |
-| SanDisk             | 1         | 1      | 11.11%  |
-| Samsung Electronics | 1         | 1      | 11.11%  |
-| Kingston            | 1         | 1      | 11.11%  |
-| Intel               | 1         | 1      | 11.11%  |
-| Gigabyte Technology | 1         | 1      | 11.11%  |
+| Micron Technology   | 2         | 3      | 25%     |
+| WDC                 | 1         | 1      | 12.5%   |
+| Transcend           | 1         | 1      | 12.5%   |
+| SanDisk             | 1         | 1      | 12.5%   |
+| Kingston            | 1         | 1      | 12.5%   |
+| Intel               | 1         | 1      | 12.5%   |
+| Gigabyte Technology | 1         | 1      | 12.5%   |
 
 Drive Kind
 ----------
@@ -736,9 +735,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 8         | 10     | 50%     |
-| HDD  | 6         | 7      | 37.5%   |
-| NVMe | 2         | 3      | 12.5%   |
+| SSD  | 7         | 9      | 46.67%  |
+| HDD  | 6         | 7      | 40%     |
+| NVMe | 2         | 4      | 13.33%  |
 
 Drive Connector
 ---------------
@@ -764,8 +763,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 9         | 11     | 64.29%  |
-| 0.51-1.0   | 5         | 6      | 35.71%  |
+| 0.01-0.5   | 8         | 10     | 61.54%  |
+| 0.51-1.0   | 5         | 6      | 38.46%  |
 
 Space Total
 -----------
@@ -1181,7 +1180,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 293x165mm 13.2-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1340,7 +1339,7 @@ Controller models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)         | 1         | 3.57%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1         | 3.57%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                  | 1         | 3.57%   |
-| OnePlus (Shenzhen) KB2000                                              | 1         | 3.57%   |
+| OnePlus (Shenzhen) BE2029                                              | 1         | 3.57%   |
 | Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller                | 1         | 3.57%   |
 | Intel Wireless 8260                                                    | 1         | 3.57%   |
 | Intel Wireless 7260                                                    | 1         | 3.57%   |
@@ -1512,13 +1511,12 @@ Controller models
 | Model                                            | Notebooks | Percent |
 |--------------------------------------------------|-----------|---------|
 | Intel Centrino Advanced-N 6230 Bluetooth adapter | 2         | 20%     |
+| Intel Bluetooth wireless interface               | 2         | 20%     |
 | Toshiba RT Bluetooth Radio                       | 1         | 10%     |
 | Realtek RTL8822BE Bluetooth 4.2 Adapter          | 1         | 10%     |
 | Qualcomm Atheros AR9462 Bluetooth                | 1         | 10%     |
 | Qualcomm Atheros AR3011 Bluetooth                | 1         | 10%     |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth       | 1         | 10%     |
-| Intel Bluetooth wireless interface               | 1         | 10%     |
-| Intel Bluetooth Device                           | 1         | 10%     |
 | Intel AX200 Bluetooth                            | 1         | 10%     |
 
 Sound
@@ -1591,7 +1589,7 @@ Memory module models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5273DH0-CK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 16.67%  |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 2400MT/s     | 1         | 16.67%  |
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
@@ -1608,8 +1606,8 @@ Memory module kinds
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| DDR4 | 2         | 50%     |
-| DDR3 | 2         | 50%     |
+| DDR4 | 3         | 60%     |
+| DDR3 | 2         | 40%     |
 
 Memory Form Factor
 ------------------
@@ -1633,10 +1631,9 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 2         | 40%     |
-| 32768 | 1         | 20%     |
-| 4096  | 1         | 20%     |
-| 2048  | 1         | 20%     |
+| 8192  | 2         | 50%     |
+| 32768 | 1         | 25%     |
+| 2048  | 1         | 25%     |
 
 Memory Speed
 ------------
@@ -1648,10 +1645,10 @@ Memory module speed
 
 | Speed | Notebooks | Percent |
 |-------|-----------|---------|
-| 3200  | 1         | 25%     |
-| 2400  | 1         | 25%     |
-| 1600  | 1         | 25%     |
-| 1334  | 1         | 25%     |
+| 2400  | 2         | 40%     |
+| 3200  | 1         | 20%     |
+| 1600  | 1         | 20%     |
+| 1334  | 1         | 20%     |
 
 Printers & scanners
 -------------------

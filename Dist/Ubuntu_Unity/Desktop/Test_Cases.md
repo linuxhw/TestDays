@@ -1,10 +1,41 @@
 Ubuntu Unity - Test Cases (Desktops)
 ------------------------------------
 
-Total: 685
+Total: 716
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| MSI           | 990XA-GD55                  | [5d282c8edc](https://linux-hardware.org/?probe=5d282c8edc) | Jan 04, 2025 |
+| ASUSTek       | PTGD2-VX                    | [0f9603dd40](https://linux-hardware.org/?probe=0f9603dd40) | Jan 03, 2025 |
+| ASUSTek       | PTGD2-VX                    | [c0ced145df](https://linux-hardware.org/?probe=c0ced145df) | Jan 03, 2025 |
+| ASUSTek       | P8H67-M PRO                 | [a9a7e396c0](https://linux-hardware.org/?probe=a9a7e396c0) | Dec 26, 2024 |
+| ASUSTek       | M5A78L-M LX PLUS            | [a8cc0ecb2b](https://linux-hardware.org/?probe=a8cc0ecb2b) | Dec 16, 2024 |
+| ASUSTek       | P8H77-M LE                  | [8c2c6856ce](https://linux-hardware.org/?probe=8c2c6856ce) | Nov 29, 2024 |
+| Acer          | Veriton M275                | [53a3e7c867](https://linux-hardware.org/?probe=53a3e7c867) | Nov 24, 2024 |
+| MSI           | PRO X670-P WIFI             | [9879b0bbdb](https://linux-hardware.org/?probe=9879b0bbdb) | Nov 21, 2024 |
+| ASUSTek       | H81M-PLUS                   | [6eaa536f2d](https://linux-hardware.org/?probe=6eaa536f2d) | Nov 08, 2024 |
+| ASUSTek       | P7P55D-E                    | [ef5c1d5086](https://linux-hardware.org/?probe=ef5c1d5086) | Nov 06, 2024 |
+| Acer          | Predator G5900              | [972eedb81e](https://linux-hardware.org/?probe=972eedb81e) | Oct 28, 2024 |
+| Supermicro    | X10DRG-OT+-CPU              | [d3df4c7b34](https://linux-hardware.org/?probe=d3df4c7b34) | Oct 14, 2024 |
+| ASRock        | H97 Pro4                    | [0e47df0629](https://linux-hardware.org/?probe=0e47df0629) | Oct 13, 2024 |
+| ASRock        | H97 Pro4                    | [92980dc6ab](https://linux-hardware.org/?probe=92980dc6ab) | Oct 12, 2024 |
+| Gigabyte      | H81M-S2PV                   | [8b11d57024](https://linux-hardware.org/?probe=8b11d57024) | Oct 02, 2024 |
+| Gigabyte      | H81M-S2PV                   | [984fd05d9c](https://linux-hardware.org/?probe=984fd05d9c) | Oct 02, 2024 |
+| Dell          | 0KWVT8 A03                  | [e03382a8f7](https://linux-hardware.org/?probe=e03382a8f7) | Sep 26, 2024 |
+| Dell          | 0KWVT8 A03                  | [1d86f2a6ce](https://linux-hardware.org/?probe=1d86f2a6ce) | Sep 26, 2024 |
+| MSI           | H81M-E33                    | [f78dc83941](https://linux-hardware.org/?probe=f78dc83941) | Sep 21, 2024 |
+| Intel         | DQ45CB AAE30148-206         | [85d296ee6a](https://linux-hardware.org/?probe=85d296ee6a) | Sep 20, 2024 |
+| MSI           | A68HM-E33                   | [2baf2fb3cc](https://linux-hardware.org/?probe=2baf2fb3cc) | Sep 12, 2024 |
+| Unknown       | adnasc01                    | [08e7fa1645](https://linux-hardware.org/?probe=08e7fa1645) | Sep 10, 2024 |
+| ASUSTek       | M5A78L-M LX PLUS            | [fa813d195b](https://linux-hardware.org/?probe=fa813d195b) | Aug 28, 2024 |
+| Intel         | H510                        | [f19b399ce4](https://linux-hardware.org/?probe=f19b399ce4) | Aug 08, 2024 |
+| ASUSTek       | PRIME B660M-A WIFI D4       | [0eb684ba65](https://linux-hardware.org/?probe=0eb684ba65) | Jul 30, 2024 |
+| ASUSTek       | A7N8X-E                     | [1ccdb4c80f](https://linux-hardware.org/?probe=1ccdb4c80f) | Jul 20, 2024 |
+| ASUSTek       | A7N8X-E                     | [70f27bc56a](https://linux-hardware.org/?probe=70f27bc56a) | Jul 15, 2024 |
+| Pegatron      | 2AD5                        | [aa9dbd9aef](https://linux-hardware.org/?probe=aa9dbd9aef) | Jun 24, 2024 |
+| ASUSTek       | A7N8X-E                     | [94e76f5f06](https://linux-hardware.org/?probe=94e76f5f06) | Jun 18, 2024 |
+| ECS           | MCP61M-M3                   | [444cf4c365](https://linux-hardware.org/?probe=444cf4c365) | May 10, 2024 |
+| ECS           | MCP61M-M3                   | [890042b3bc](https://linux-hardware.org/?probe=890042b3bc) | May 09, 2024 |
 | ECS           | MCP61M-M3                   | [4a66244a0d](https://linux-hardware.org/?probe=4a66244a0d) | May 08, 2024 |
 | ASUSTek       | TUF B450M-PRO GAMING        | [e442e79602](https://linux-hardware.org/?probe=e442e79602) | Apr 30, 2024 |
 | Gigabyte      | F2A88XN-WIFI                | [25d9669839](https://linux-hardware.org/?probe=25d9669839) | Mar 25, 2024 |

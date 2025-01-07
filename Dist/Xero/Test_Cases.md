@@ -1,10 +1,23 @@
 Xero - Test Cases
 -----------------
 
-Total: 601
+Total: 614
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Dell          | 0T0MHW A03                  | Desktop     | [eb50cfecc0](https://linux-hardware.org/?probe=eb50cfecc0) | Dec 13, 2024 |
+| Lenovo        | ThinkPad T14 Gen 1 20UD0... | Notebook    | [614c58469c](https://linux-hardware.org/?probe=614c58469c) | Dec 01, 2024 |
+| Dell          | XPS 13 9310                 | Notebook    | [7443fb3ad9](https://linux-hardware.org/?probe=7443fb3ad9) | Nov 13, 2024 |
+| Positivo      | C4128A-14                   | Notebook    | [50f4d77aed](https://linux-hardware.org/?probe=50f4d77aed) | Nov 10, 2024 |
+| Positivo      | C4128A-14                   | Notebook    | [49eddb2601](https://linux-hardware.org/?probe=49eddb2601) | Nov 10, 2024 |
+| Dell          | Latitude 3140               | Notebook    | [c6b81cfb77](https://linux-hardware.org/?probe=c6b81cfb77) | Oct 31, 2024 |
+| MSI           | Z97M GAMING                 | Desktop     | [ededbd4d75](https://linux-hardware.org/?probe=ededbd4d75) | Oct 14, 2024 |
+| Toshiba       | Satellite L755D             | Notebook    | [ca7930fdb0](https://linux-hardware.org/?probe=ca7930fdb0) | Sep 26, 2024 |
+| ASRock        | H170M Pro4                  | Desktop     | [5253f50483](https://linux-hardware.org/?probe=5253f50483) | Sep 20, 2024 |
+| ASUSTek       | VivoBook_ASUSLaptop X160... | Notebook    | [d156c6ec4c](https://linux-hardware.org/?probe=d156c6ec4c) | Sep 10, 2024 |
+| Dell          | Latitude 7480               | Notebook    | [d190ee0f7c](https://linux-hardware.org/?probe=d190ee0f7c) | Sep 09, 2024 |
+| HP            | Laptop 15-dw1xxx            | Notebook    | [3f40abc951](https://linux-hardware.org/?probe=3f40abc951) | Aug 25, 2024 |
+| HP            | Laptop 15-dw1xxx            | Notebook    | [cb2f55c33d](https://linux-hardware.org/?probe=cb2f55c33d) | Aug 18, 2024 |
 | Medion        | B360H4-EM V1.0              | Desktop     | [1dce3c5ac9](https://linux-hardware.org/?probe=1dce3c5ac9) | Apr 30, 2024 |
 | HP            | 2B47                        | Desktop     | [3a165a34a7](https://linux-hardware.org/?probe=3a165a34a7) | Apr 27, 2024 |
 | Dell          | 0773VG A02                  | Desktop     | [2db2c160ae](https://linux-hardware.org/?probe=2db2c160ae) | Apr 03, 2024 |

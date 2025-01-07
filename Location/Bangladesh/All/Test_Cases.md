@@ -1,10 +1,86 @@
 Linux in Bangladesh - Test Cases
 --------------------------------
 
-Total: 524
+Total: 600
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | VivoBook_ASUSLaptop X515... | Notebook    | [81230d7d43](https://linux-hardware.org/?probe=81230d7d43) | Dec 21, 2024 |
+| MSI           | MAG B760 TOMAHAWK WIFI      | Desktop     | [b19f32d4f6](https://linux-hardware.org/?probe=b19f32d4f6) | Dec 17, 2024 |
+| MSI           | Modern 15 A5M               | Notebook    | [9fd4e2660e](https://linux-hardware.org/?probe=9fd4e2660e) | Dec 17, 2024 |
+| HUAWEI        | RLEF-XX                     | Notebook    | [21f24f2e24](https://linux-hardware.org/?probe=21f24f2e24) | Dec 13, 2024 |
+| Gigabyte      | B450M S2H                   | Desktop     | [8d359551f2](https://linux-hardware.org/?probe=8d359551f2) | Dec 06, 2024 |
+| FriendlyEl... | NanoPC-T6                   | Soc         | [143735c29c](https://linux-hardware.org/?probe=143735c29c) | Dec 03, 2024 |
+| HP            | EliteBook 845 14 inch G1... | Notebook    | [76d2be874d](https://linux-hardware.org/?probe=76d2be874d) | Dec 03, 2024 |
+| Gigabyte      | B550M DS3H AC               | Desktop     | [84fd04ed74](https://linux-hardware.org/?probe=84fd04ed74) | Dec 03, 2024 |
+| ASUSTek       | VivoBook 15_ASUS Laptop ... | Notebook    | [c751e5836a](https://linux-hardware.org/?probe=c751e5836a) | Dec 01, 2024 |
+| Lenovo        | IdeaPad 1 15AMN7 82VG       | Notebook    | [1335a900cb](https://linux-hardware.org/?probe=1335a900cb) | Nov 28, 2024 |
+| Lenovo        | ThinkPad T480 20L6S3JG00    | Notebook    | [2936f6558e](https://linux-hardware.org/?probe=2936f6558e) | Nov 22, 2024 |
+| Lenovo        | ThinkPad T480 20L6S3JG00    | Notebook    | [3d39119429](https://linux-hardware.org/?probe=3d39119429) | Nov 21, 2024 |
+| ASUSTek       | K40IE                       | Notebook    | [1aa4497926](https://linux-hardware.org/?probe=1aa4497926) | Nov 18, 2024 |
+| Gigabyte      | H61M-DS2                    | Desktop     | [5067d1ba52](https://linux-hardware.org/?probe=5067d1ba52) | Nov 18, 2024 |
+| ASUSTek       | VivoBook_ASUSLaptop X150... | Notebook    | [aeea617a28](https://linux-hardware.org/?probe=aeea617a28) | Nov 15, 2024 |
+| HP            | EliteBook 845 14 inch G1... | Notebook    | [b7086817a8](https://linux-hardware.org/?probe=b7086817a8) | Nov 12, 2024 |
+| HP            | EliteBook 845 14 inch G1... | Notebook    | [9739937f81](https://linux-hardware.org/?probe=9739937f81) | Nov 12, 2024 |
+| Acer          | Predator PHN16-71           | Notebook    | [b20fbc39f9](https://linux-hardware.org/?probe=b20fbc39f9) | Nov 10, 2024 |
+| Acer          | Predator PHN16-71           | Notebook    | [f3b608f54f](https://linux-hardware.org/?probe=f3b608f54f) | Nov 10, 2024 |
+| Dell          | Inspiron 5505               | Notebook    | [e44d7f2f25](https://linux-hardware.org/?probe=e44d7f2f25) | Nov 08, 2024 |
+| ASUSTek       | VivoBook_ASUSLaptop X150... | Notebook    | [ac4d04734d](https://linux-hardware.org/?probe=ac4d04734d) | Nov 05, 2024 |
+| HP            | 8526 MVB, A                 | Desktop     | [0cf908694a](https://linux-hardware.org/?probe=0cf908694a) | Nov 04, 2024 |
+| HP            | 250 15.6 inch G9 Noteboo... | Notebook    | [9e438cb0e1](https://linux-hardware.org/?probe=9e438cb0e1) | Oct 30, 2024 |
+| HP            | 250 15.6 inch G9 Noteboo... | Notebook    | [dd9ac664ef](https://linux-hardware.org/?probe=dd9ac664ef) | Oct 30, 2024 |
+| Lenovo        | ThinkPad X1 Carbon 6th 2... | Notebook    | [0ba3e2a6cf](https://linux-hardware.org/?probe=0ba3e2a6cf) | Oct 28, 2024 |
+| Lenovo        | ThinkPad T480 20L6SA5Q1E    | Notebook    | [b36104396e](https://linux-hardware.org/?probe=b36104396e) | Oct 26, 2024 |
+| Intel         | BOX-J4105A V3.0             | Desktop     | [cfb97329fd](https://linux-hardware.org/?probe=cfb97329fd) | Oct 22, 2024 |
+| Intel         | BOX-J4105A V3.0             | Desktop     | [ac1ccf2eba](https://linux-hardware.org/?probe=ac1ccf2eba) | Oct 22, 2024 |
+| MSI           | Modern 14 B10MW             | Notebook    | [7f701f4c7e](https://linux-hardware.org/?probe=7f701f4c7e) | Oct 21, 2024 |
+| HP            | ProBook 440 14 inch G9 N... | Notebook    | [8f4ed9b69e](https://linux-hardware.org/?probe=8f4ed9b69e) | Oct 20, 2024 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [a10a4ae8fa](https://linux-hardware.org/?probe=a10a4ae8fa) | Oct 17, 2024 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [fdd792f39b](https://linux-hardware.org/?probe=fdd792f39b) | Oct 15, 2024 |
+| Lenovo        | V15 G2 ITL 82KB             | Notebook    | [b1fa5db79a](https://linux-hardware.org/?probe=b1fa5db79a) | Oct 14, 2024 |
+| Valve         | Jupiter                     | Notebook    | [dd814ebab8](https://linux-hardware.org/?probe=dd814ebab8) | Oct 11, 2024 |
+| MSI           | PRO B650-S WIFI             | Desktop     | [4df073db36](https://linux-hardware.org/?probe=4df073db36) | Sep 28, 2024 |
+| MSI           | A520M-A PRO                 | Desktop     | [bd364d0579](https://linux-hardware.org/?probe=bd364d0579) | Sep 25, 2024 |
+| MSI           | A520M-A PRO                 | Desktop     | [ac56f45474](https://linux-hardware.org/?probe=ac56f45474) | Sep 25, 2024 |
+| Lenovo        | ThinkPad L490 20Q6S31700    | Notebook    | [b63e05de61](https://linux-hardware.org/?probe=b63e05de61) | Sep 21, 2024 |
+| ASUSTek       | X550VX                      | Notebook    | [e3c621dc77](https://linux-hardware.org/?probe=e3c621dc77) | Sep 21, 2024 |
+| ASUSTek       | H81M-PLUS                   | Desktop     | [554ba54af3](https://linux-hardware.org/?probe=554ba54af3) | Sep 18, 2024 |
+| Biostar       | B550MX/E PRO                | Desktop     | [812dab488d](https://linux-hardware.org/?probe=812dab488d) | Sep 18, 2024 |
+| MSI           | Modern 14 B4MW              | Notebook    | [1e32af6401](https://linux-hardware.org/?probe=1e32af6401) | Sep 15, 2024 |
+| HP            | Victus by Laptop 16-d1xx... | Notebook    | [8238a64ba2](https://linux-hardware.org/?probe=8238a64ba2) | Sep 10, 2024 |
+| HP            | 242 G1                      | Notebook    | [b3dea9f0da](https://linux-hardware.org/?probe=b3dea9f0da) | Sep 08, 2024 |
+| Lenovo        | IdeaPad Slim 3 14ABR8 82... | Notebook    | [5ac6514b08](https://linux-hardware.org/?probe=5ac6514b08) | Sep 01, 2024 |
+| Lenovo        | IdeaPad Slim 3 14ABR8 82... | Notebook    | [04cd9930c8](https://linux-hardware.org/?probe=04cd9930c8) | Sep 01, 2024 |
+| HP            | Laptop 15s-eq2xxx           | Notebook    | [76050eee07](https://linux-hardware.org/?probe=76050eee07) | Aug 31, 2024 |
+| MSI           | MAG B760 TOMAHAWK WIFI      | Desktop     | [c2aa0b4bee](https://linux-hardware.org/?probe=c2aa0b4bee) | Aug 30, 2024 |
+| MSI           | B450 TOMAHAWK MAX           | Desktop     | [7de01582ba](https://linux-hardware.org/?probe=7de01582ba) | Aug 16, 2024 |
+| Gigabyte      | H81M-S1                     | Desktop     | [1681bb92b5](https://linux-hardware.org/?probe=1681bb92b5) | Aug 14, 2024 |
+| HUAWEI        | RLEF-XX                     | Notebook    | [01008e9053](https://linux-hardware.org/?probe=01008e9053) | Aug 13, 2024 |
+| Lenovo        | ThinkPad X1 Carbon 6th 2... | Notebook    | [ed0cfaf91b](https://linux-hardware.org/?probe=ed0cfaf91b) | Aug 12, 2024 |
+| OEM           | Intel H81                   | Desktop     | [94a2e82a82](https://linux-hardware.org/?probe=94a2e82a82) | Aug 10, 2024 |
+| ASUSTek       | TUF Gaming FX505DT_FX505... | Notebook    | [e6011d2739](https://linux-hardware.org/?probe=e6011d2739) | Aug 10, 2024 |
+| Lenovo        | ThinkPad X1 Carbon 6th 2... | Notebook    | [4bbef13098](https://linux-hardware.org/?probe=4bbef13098) | Aug 08, 2024 |
+| Lenovo        | IdeaPad S145-15AST 81N3     | Notebook    | [a83a2bfc4c](https://linux-hardware.org/?probe=a83a2bfc4c) | Aug 02, 2024 |
+| HUAWEI        | RLEF-XX                     | Notebook    | [a24b85d085](https://linux-hardware.org/?probe=a24b85d085) | Jul 29, 2024 |
+| MSI           | B550M PRO-VDH WIFI          | Desktop     | [31a5f645ab](https://linux-hardware.org/?probe=31a5f645ab) | Jul 27, 2024 |
+| Apple         | MacBookPro12,1              | Notebook    | [196be66fdf](https://linux-hardware.org/?probe=196be66fdf) | Jul 14, 2024 |
+| Gigabyte      | B150M-D3V-CF                | Desktop     | [a9981333cd](https://linux-hardware.org/?probe=a9981333cd) | Jul 12, 2024 |
+| Dell          | Inspiron 15 3520            | Notebook    | [c2bd74626f](https://linux-hardware.org/?probe=c2bd74626f) | Jul 08, 2024 |
+| Gigabyte      | B450M DS3H V2               | Desktop     | [913d40ec76](https://linux-hardware.org/?probe=913d40ec76) | Jul 03, 2024 |
+| Gigabyte      | B450M DS3H V2               | Desktop     | [bd5f3c6e26](https://linux-hardware.org/?probe=bd5f3c6e26) | Jul 03, 2024 |
+| MSI           | H110M PRO-VD PLUS           | Desktop     | [3bf15e63ac](https://linux-hardware.org/?probe=3bf15e63ac) | Jun 21, 2024 |
+| HP            | EliteBook 745 G2            | Notebook    | [ba647a0782](https://linux-hardware.org/?probe=ba647a0782) | Jun 19, 2024 |
+| MSI           | PRO B650M-P                 | Desktop     | [742072552d](https://linux-hardware.org/?probe=742072552d) | Jun 15, 2024 |
+| Dell          | Inspiron 5505               | Notebook    | [5496cf5716](https://linux-hardware.org/?probe=5496cf5716) | Jun 14, 2024 |
+| Qbits Tech... | S15-4D8G                    | Notebook    | [3287fbf77c](https://linux-hardware.org/?probe=3287fbf77c) | Jun 12, 2024 |
+| Qbits Tech... | S15-4D8G                    | Notebook    | [ad44765555](https://linux-hardware.org/?probe=ad44765555) | Jun 12, 2024 |
+| Lenovo        | IdeaPad 300-15ISK 80Q7      | Notebook    | [9e356b09e3](https://linux-hardware.org/?probe=9e356b09e3) | Jun 10, 2024 |
+| HP            | EliteBook 745 G2            | Notebook    | [dcb4b870bc](https://linux-hardware.org/?probe=dcb4b870bc) | Jun 04, 2024 |
+| Gigabyte      | H110M-S2PH-CF               | Desktop     | [0260200963](https://linux-hardware.org/?probe=0260200963) | Jun 02, 2024 |
+| Lenovo        | IdeaPad 5 Pro 14ACN6 82L... | Notebook    | [6358a86657](https://linux-hardware.org/?probe=6358a86657) | May 30, 2024 |
+| Dell          | Inspiron 15-7568            | Notebook    | [81a6415168](https://linux-hardware.org/?probe=81a6415168) | May 28, 2024 |
+| Dell          | Inspiron 5468               | Notebook    | [266dc7095b](https://linux-hardware.org/?probe=266dc7095b) | May 19, 2024 |
+| ASUSTek       | TUF Gaming B650M-E WIFI     | Desktop     | [5b4b1f382b](https://linux-hardware.org/?probe=5b4b1f382b) | May 11, 2024 |
 | Gigabyte      | B550M DS3H                  | Desktop     | [32fc232869](https://linux-hardware.org/?probe=32fc232869) | May 01, 2024 |
 | ASRock        | B550 Steel Legend           | Desktop     | [45c1449bf6](https://linux-hardware.org/?probe=45c1449bf6) | Apr 27, 2024 |
 | HP            | EliteBook 850 G4            | Notebook    | [1e562ccb80](https://linux-hardware.org/?probe=1e562ccb80) | Apr 27, 2024 |

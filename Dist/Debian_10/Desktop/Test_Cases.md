@@ -1,10 +1,19 @@
 Debian 10 - Test Cases (Desktops)
 ---------------------------------
 
-Total: 1091
+Total: 1100
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Unknown       | Unknown                     | [9f933e3704](https://linux-hardware.org/?probe=9f933e3704) | Nov 22, 2024 |
+| ASRock        | B250M Performance           | [f157e625f8](https://linux-hardware.org/?probe=f157e625f8) | Sep 13, 2024 |
+| Supermicro    | X9SCL/X9SCMA                | [bdcc9549b9](https://linux-hardware.org/?probe=bdcc9549b9) | Aug 12, 2024 |
+| Unknown       | Unknown                     | [a66eadcbfc](https://linux-hardware.org/?probe=a66eadcbfc) | Aug 06, 2024 |
+| Wincor Nix... | HU101                       | [39358ba4bb](https://linux-hardware.org/?probe=39358ba4bb) | Jun 26, 2024 |
+| ASUSTek       | Z97-P                       | [a15cc3044a](https://linux-hardware.org/?probe=a15cc3044a) | Jun 10, 2024 |
+| TYAN Compu... | S8225                       | [b94a2aaf90](https://linux-hardware.org/?probe=b94a2aaf90) | Jun 04, 2024 |
+| ECS           | X79R-AX                     | [1312c42784](https://linux-hardware.org/?probe=1312c42784) | May 26, 2024 |
+| ASUSTek       | P8Z77-V LX                  | [d439bfaa64](https://linux-hardware.org/?probe=d439bfaa64) | May 11, 2024 |
 | Unknown       | Unknown                     | [b8c681a7fb](https://linux-hardware.org/?probe=b8c681a7fb) | Apr 15, 2024 |
 | Dinson        | Unknown                     | [2aff8e107a](https://linux-hardware.org/?probe=2aff8e107a) | Apr 01, 2024 |
 | Unknown       | Unknown                     | [dcdb71e975](https://linux-hardware.org/?probe=dcdb71e975) | Mar 28, 2024 |

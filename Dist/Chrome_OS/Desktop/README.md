@@ -693,8 +693,8 @@ Hard drive models
 | Seagate ST3160812AS 41N3268 LEN 160GB | 1        | 6.67%   |
 | Samsung HD502IJ 500GB                 | 1        | 6.67%   |
 | Patriot Inferno 120GB SSD             | 1        | 6.67%   |
-| KingSpec NT-256 256GB SSD             | 1        | 6.67%   |
-| KingDian S200 60GB SSD                | 1        | 6.67%   |
+| KingSpec NT-256 256GB                 | 1        | 6.67%   |
+| KingDian S200 60GB                    | 1        | 6.67%   |
 | Intel SSDSC2BB300G4 304GB             | 1        | 6.67%   |
 | Crucial M4-CT128M4SSD2 128GB          | 1        | 6.67%   |
 | Crucial CT256MX100SSD1 256GB          | 1        | 6.67%   |
@@ -1201,7 +1201,7 @@ Monitor models
 | OUT HDMI OUT0240 1920x1200 341x256mm 16.8-inch                       | 1        | 7.69%   |
 | Lite-On R17AAC/S LTN023F 1280x1024 338x270mm 17.0-inch               | 1        | 7.69%   |
 | Goldstar W1952 GSM4B77 1440x900 410x260mm 19.1-inch                  | 1        | 7.69%   |
-| Goldstar E2260 GSM57DF 1920x1080 480x270mm 21.7-inch                 | 1        | 7.69%   |
+| Goldstar E2260 GSM57DF 1920x1080 477x268mm 21.5-inch                 | 1        | 7.69%   |
 | Gateway FPD1775W GWY06AF 1280x1024 373x209mm 16.8-inch               | 1        | 7.69%   |
 | Dell P2418HZm DELD0C4 1920x1080 527x296mm 23.8-inch                  | 1        | 7.69%   |
 | Dell 2407WFP DELA016 1920x1200 519x324mm 24.1-inch                   | 1        | 7.69%   |
@@ -1646,10 +1646,10 @@ Printer device models
 ![Printer Model](./images/pie_chart/printer_model.svg)
 
 
-| Model                      | Desktops | Percent |
-|----------------------------|----------|---------|
-| Seiko Epson ET-2710 Series | 1        | 50%     |
-| HP LaserJet 1012           | 1        | 50%     |
+| Model                    | Desktops | Percent |
+|--------------------------|----------|---------|
+| Seiko Epson L3150 Series | 1        | 50%     |
+| HP LaserJet 1012         | 1        | 50%     |
 
 Scanner Vendor
 --------------

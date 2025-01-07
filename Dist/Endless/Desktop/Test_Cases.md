@@ -1,10 +1,32 @@
 Endless - Test Cases (Desktops)
 -------------------------------
 
-Total: 1164
+Total: 1186
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Acer          | Aspire XC-830               | [1a9f6c2b88](https://linux-hardware.org/?probe=1a9f6c2b88) | Jan 05, 2025 |
+| Acer          | Aspire XC-830               | [35a7b3f08c](https://linux-hardware.org/?probe=35a7b3f08c) | Dec 25, 2024 |
+| ASUSTek       | P5KPL-AM-CKD-VISUM-SI       | [07da9c9689](https://linux-hardware.org/?probe=07da9c9689) | Dec 11, 2024 |
+| ASUSTek       | P5KPL-AM-CKD-VISUM-SI       | [30c1252fa2](https://linux-hardware.org/?probe=30c1252fa2) | Dec 10, 2024 |
+| Acer          | Aspire XC-830               | [3129a0d3da](https://linux-hardware.org/?probe=3129a0d3da) | Dec 01, 2024 |
+| ASUSTek       | M4A89GTD-PRO/USB3           | [08b58cdd9a](https://linux-hardware.org/?probe=08b58cdd9a) | Nov 20, 2024 |
+| Acer          | Revo RN76 V:1.2             | [8c94b62612](https://linux-hardware.org/?probe=8c94b62612) | Nov 10, 2024 |
+| Acer          | Revo RN76 V:1.2             | [e46481788a](https://linux-hardware.org/?probe=e46481788a) | Nov 10, 2024 |
+| Quanta        | 2AC7 011                    | [36d655acf6](https://linux-hardware.org/?probe=36d655acf6) | Oct 16, 2024 |
+| HP            | 1998                        | [f500d5fdb6](https://linux-hardware.org/?probe=f500d5fdb6) | Oct 15, 2024 |
+| ASUSTek       | ROG STRIX B550-F GAMING     | [cc9dd1c12e](https://linux-hardware.org/?probe=cc9dd1c12e) | Oct 12, 2024 |
+| Lenovo        | Bantry CRB SDK0J40705 WI... | [0af4bece40](https://linux-hardware.org/?probe=0af4bece40) | Sep 22, 2024 |
+| HP            | 83E8                        | [e2f0a2a950](https://linux-hardware.org/?probe=e2f0a2a950) | Sep 15, 2024 |
+| Unknown       | G41                         | [58106ba597](https://linux-hardware.org/?probe=58106ba597) | Sep 05, 2024 |
+| Pegatron      | 2AD5                        | [3c2e1a2fad](https://linux-hardware.org/?probe=3c2e1a2fad) | Sep 01, 2024 |
+| ASRock        | H61M-HG4                    | [4c69e9c1f0](https://linux-hardware.org/?probe=4c69e9c1f0) | Jul 23, 2024 |
+| ASRock        | H61M-HG4                    | [3f9d3d898c](https://linux-hardware.org/?probe=3f9d3d898c) | Jul 17, 2024 |
+| Gigabyte      | H110M-S2V-CF                | [ffc465b7ab](https://linux-hardware.org/?probe=ffc465b7ab) | Jul 14, 2024 |
+| ASUSTek       | P8Z68-V LX                  | [636e0f4a1b](https://linux-hardware.org/?probe=636e0f4a1b) | Jul 13, 2024 |
+| ASUSTek       | P5K                         | [e6c10c5e9a](https://linux-hardware.org/?probe=e6c10c5e9a) | Jun 08, 2024 |
+| Intel         | H110                        | [7790819dc4](https://linux-hardware.org/?probe=7790819dc4) | Jun 05, 2024 |
+| Pegatron      | 2A9A                        | [00fc6647ba](https://linux-hardware.org/?probe=00fc6647ba) | May 28, 2024 |
 | ASUSTek       | TUF Gaming X570-PLUS        | [f0e6546433](https://linux-hardware.org/?probe=f0e6546433) | May 05, 2024 |
 | ASRock        | A520M-HDV                   | [f0d3e66a28](https://linux-hardware.org/?probe=f0d3e66a28) | May 04, 2024 |
 | Dell          | 0PU052                      | [077bc56832](https://linux-hardware.org/?probe=077bc56832) | Apr 11, 2024 |

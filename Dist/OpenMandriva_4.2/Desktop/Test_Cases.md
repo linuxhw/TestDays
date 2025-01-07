@@ -1,10 +1,34 @@
 OpenMandriva 4.2 - Test Cases (Desktops)
 ----------------------------------------
 
-Total: 2424
+Total: 2448
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | H81M-D2V                    | [aadc1a0c13](https://linux-hardware.org/?probe=aadc1a0c13) | Jan 06, 2025 |
+| ASUSTek       | P8Z77-V LX                  | [69679c9a35](https://linux-hardware.org/?probe=69679c9a35) | Dec 31, 2024 |
+| Gigabyte      | GA-MA770-DS3                | [d18eb4cf0d](https://linux-hardware.org/?probe=d18eb4cf0d) | Dec 31, 2024 |
+| ASRock        | G31M-S                      | [983b928868](https://linux-hardware.org/?probe=983b928868) | Dec 23, 2024 |
+| HP            | 304Ah                       | [9c4499ff99](https://linux-hardware.org/?probe=9c4499ff99) | Nov 30, 2024 |
+| Gigabyte      | P35-DS3                     | [781f667e83](https://linux-hardware.org/?probe=781f667e83) | Nov 13, 2024 |
+| Fujitsu       | D2990-A1 S26361-D2990-A1    | [c96eaa6d8d](https://linux-hardware.org/?probe=c96eaa6d8d) | Oct 31, 2024 |
+| Gigabyte      | AB350M-Gaming 3-CF          | [ecd1036622](https://linux-hardware.org/?probe=ecd1036622) | Oct 01, 2024 |
+| Intel         | H61                         | [26ad2a6fdf](https://linux-hardware.org/?probe=26ad2a6fdf) | Sep 10, 2024 |
+| ASUSTek       | H81M-PLUS                   | [7c0778ad12](https://linux-hardware.org/?probe=7c0778ad12) | Sep 05, 2024 |
+| ASUSTek       | M5A97 EVO R2.0              | [00fa1b948c](https://linux-hardware.org/?probe=00fa1b948c) | Sep 04, 2024 |
+| Gigabyte      | B75-D3V                     | [8287219a10](https://linux-hardware.org/?probe=8287219a10) | Aug 23, 2024 |
+| ASUSTek       | TUF B360-PRO GAMING         | [c6abb7cd5f](https://linux-hardware.org/?probe=c6abb7cd5f) | Aug 21, 2024 |
+| Gigabyte      | EP45-UD3R                   | [0f9529c85f](https://linux-hardware.org/?probe=0f9529c85f) | Aug 06, 2024 |
+| ASUSTek       | P5KPL-AM                    | [7825be94bd](https://linux-hardware.org/?probe=7825be94bd) | Aug 02, 2024 |
+| MSI           | H410M-A PRO                 | [bdfd7784ad](https://linux-hardware.org/?probe=bdfd7784ad) | Jul 22, 2024 |
+| Gigabyte      | H81M-D2V                    | [bc079fea91](https://linux-hardware.org/?probe=bc079fea91) | Jul 05, 2024 |
+| Dell          | 0HHV7N A00                  | [9313e32d5f](https://linux-hardware.org/?probe=9313e32d5f) | Jul 05, 2024 |
+| MSI           | A78M-E45                    | [1a99381c4e](https://linux-hardware.org/?probe=1a99381c4e) | Jul 05, 2024 |
+| HP            | 1850                        | [b09fbce140](https://linux-hardware.org/?probe=b09fbce140) | Jun 29, 2024 |
+| Gigabyte      | H410M S2H V2                | [bc3d7aa23d](https://linux-hardware.org/?probe=bc3d7aa23d) | Jun 16, 2024 |
+| Gigabyte      | F2A68HM-H                   | [569af375ef](https://linux-hardware.org/?probe=569af375ef) | Jun 05, 2024 |
+| Intel         | DH67CF AAG10215-201         | [56c76e67fc](https://linux-hardware.org/?probe=56c76e67fc) | Jun 02, 2024 |
+| Shuttle       | XS35V3                      | [85715a2083](https://linux-hardware.org/?probe=85715a2083) | May 24, 2024 |
 | ASUSTek       | M4A78T-E                    | [2cee8d14ab](https://linux-hardware.org/?probe=2cee8d14ab) | May 06, 2024 |
 | Packard Be... | 1.XX                        | [2f25beb1a1](https://linux-hardware.org/?probe=2f25beb1a1) | Apr 12, 2024 |
 | ASRock        | G31M-S                      | [d9694d3f33](https://linux-hardware.org/?probe=d9694d3f33) | Apr 12, 2024 |

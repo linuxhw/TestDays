@@ -898,7 +898,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1        | 5.56%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1        | 5.56%   |
 | Marvell Group 88SE9128 PCIe SATA 6 Gb/s RAID controller with HyperDuo          | 1        | 5.56%   |
-| Kingston Company KC2000/KC2500 NVMe SSD SM2262EN                               | 1        | 5.56%   |
+| Kingston Company KC2000/KC2500 NVMe SSD [SM2262EN]                             | 1        | 5.56%   |
 | Intel SATA Controller [RAID mode]                                              | 1        | 5.56%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 1        | 5.56%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 5.56%   |
@@ -907,7 +907,7 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 1        | 5.56%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 1        | 5.56%   |
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 1        | 5.56%   |
-| AMD FCH SATA Controller D                                                      | 1        | 5.56%   |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                   | 1        | 5.56%   |
 | AMD 400 Series Chipset SATA Controller                                         | 1        | 5.56%   |
 
 Storage Kind
@@ -1203,15 +1203,15 @@ Monitor models
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch | 1        | 7.69%   |
 | LG Electronics LCD Monitor W1952 1440x900                        | 1        | 7.69%   |
 | JRY Analog JRY1950 1600x900 368x207mm 16.6-inch                  | 1        | 7.69%   |
-| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch            | 1        | 7.69%   |
+| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch            | 1        | 7.69%   |
 | Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch      | 1        | 7.69%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch            | 1        | 7.69%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                | 1        | 7.69%   |
-| AOC 24B1W1G5 AOC2401 1920x1080 527x296mm 23.8-inch               | 1        | 7.69%   |
+| AOC 24B1W1 AOC2401 1920x1080 527x296mm 23.8-inch                 | 1        | 7.69%   |
 | Ancor Communications VX228 ACI22C1 1920x1080 476x268mm 21.5-inch | 1        | 7.69%   |
 | Ancor Communications LCD Monitor VX229                           | 1        | 7.69%   |
 | Ancor Communications LCD Monitor MG248 1920x1080                 | 1        | 7.69%   |
-| Acer V226HQL ACR032D 1920x1080 480x270mm 21.7-inch               | 1        | 7.69%   |
+| Acer V226HQL ACR032D 1920x1080 477x268mm 21.5-inch               | 1        | 7.69%   |
 
 Monitor Resolution
 ------------------
@@ -1577,7 +1577,7 @@ Sound card models
 | BEHRINGER International UMC202HD 192k                                      | 1        | 4.35%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 4.35%   |
 | AMD Navi 10 HDMI Audio                                                     | 1        | 4.35%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 4.35%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 4.35%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 4.35%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 1        | 4.35%   |
 
@@ -1722,11 +1722,11 @@ Camera device models
 ![Camera Model](./images/pie_chart/camera_model.svg)
 
 
-| Model                           | Desktops | Percent |
-|---------------------------------|----------|---------|
-| Microsoft LifeCam HD-3000       | 1        | 33.33%  |
-| Logitech Logitech Webcam C160   | 1        | 33.33%  |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X | 1        | 33.33%  |
+| Model                              | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Microsoft LifeCam HD-3000          | 1        | 33.33%  |
+| Logitech Logitech Webcam C160      | 1        | 33.33%  |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR | 1        | 33.33%  |
 
 Security
 --------

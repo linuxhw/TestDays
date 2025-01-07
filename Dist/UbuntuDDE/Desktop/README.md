@@ -921,7 +921,7 @@ Hard drive models
 | WDC WD2500AAKX-001CA0 250GB        | 1        | 1.41%   |
 | WDC WD2002FAEX-007BA0 2TB          | 1        | 1.41%   |
 | WDC WD1003FZEX-00K3CA0 1TB         | 1        | 1.41%   |
-| Vaseky V800/128G 120GB SSD         | 1        | 1.41%   |
+| Vaseky V800/128G 128GB SSD         | 1        | 1.41%   |
 | Toshiba THNSFC128GBSJ SSD          | 1        | 1.41%   |
 | Toshiba MQ01ABD100 1TB             | 1        | 1.41%   |
 | Toshiba MK3275GSX 320GB            | 1        | 1.41%   |
@@ -1208,7 +1208,7 @@ Storage controller models
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1        | 1.35%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1        | 1.35%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1        | 1.35%   |
-| Kingston Company A2000 NVMe SSD SM2263EN                                         | 1        | 1.35%   |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                       | 1        | 1.35%   |
 | JMicron JMB363 SATA/IDE Controller                                               | 1        | 1.35%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 1        | 1.35%   |
 | Intel SATA Controller [RAID Mode]                                                | 1        | 1.35%   |
@@ -1224,8 +1224,8 @@ Storage controller models
 | AMD X370 Series Chipset SATA Controller                                          | 1        | 1.35%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [RAID5 mode]                               | 1        | 1.35%   |
 | AMD FCH SATA Controller [IDE mode]                                               | 1        | 1.35%   |
-| AMD FCH SATA Controller D                                                        | 1        | 1.35%   |
 | AMD FCH IDE Controller                                                           | 1        | 1.35%   |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                     | 1        | 1.35%   |
 
 Storage Kind
 ------------
@@ -1611,48 +1611,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart/mon_model.svg)
 
 
-| Model                                                                | Desktops | Percent |
-|----------------------------------------------------------------------|----------|---------|
-| Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch               | 1        | 2.27%   |
-| ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch        | 1        | 2.27%   |
-| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                        | 1        | 2.27%   |
-| Unknown LCD Monitor Sony 55R617 1920x1080                            | 1        | 2.27%   |
-| Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                      | 1        | 2.27%   |
-| SKY TV-monitor SKY0001 1360x768 890x500mm 40.2-inch                  | 1        | 2.27%   |
-| Samsung Electronics U32J59x SAM0F35 3840x2160 700x390mm 31.5-inch    | 1        | 2.27%   |
-| Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch    | 1        | 2.27%   |
-| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch    | 1        | 2.27%   |
-| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch | 1        | 2.27%   |
-| Samsung Electronics LCD Monitor SAM0E4C 1366x768 522x293mm 23.6-inch | 1        | 2.27%   |
-| Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch | 1        | 2.27%   |
-| Philips LCD Monitor 150C4 1024x768                                   | 1        | 2.27%   |
-| Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                   | 1        | 2.27%   |
-| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                    | 1        | 2.27%   |
-| Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch              | 1        | 2.27%   |
-| Insignia DX-15E220A12 BBY0032 1360x768 544x326mm 25.0-inch           | 1        | 2.27%   |
-| HPN LCD Monitor HP 24o 1920x1080                                     | 1        | 2.27%   |
-| Hewlett-Packard ZR2240w HWP2952 1920x1080 475x267mm 21.5-inch        | 1        | 2.27%   |
-| Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch          | 1        | 2.27%   |
-| Hewlett-Packard LA2306 HWP294A 1920x1080 509x286mm 23.0-inch         | 1        | 2.27%   |
-| Hewlett-Packard L1740 HWP2649 1280x1024 337x270mm 17.0-inch          | 1        | 2.27%   |
-| Hewlett-Packard 24fw HPN3545 1920x1080 527x296mm 23.8-inch           | 1        | 2.27%   |
-| HannStar iH282 HSD20E6 1920x1200 590x370mm 27.4-inch                 | 1        | 2.27%   |
-| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch             | 1        | 2.27%   |
-| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch              | 1        | 2.27%   |
-| Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                 | 1        | 2.27%   |
-| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                 | 1        | 2.27%   |
-| Fujitsu Siemens L20T-2 LED FUS07E3 1600x900 442x249mm 20.0-inch      | 1        | 2.27%   |
-| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                    | 1        | 2.27%   |
-| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                     | 1        | 2.27%   |
-| Dell S2722DGM DEL423A 2560x1440 597x336mm 27.0-inch                  | 1        | 2.27%   |
-| Dell LCD Monitor ST2220L 3840x1080                                   | 1        | 2.27%   |
-| Dell LCD Monitor ST2220L                                             | 1        | 2.27%   |
-| BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                    | 1        | 2.27%   |
-| BenQ EW2775ZH BNQ7944 1920x1080 598x336mm 27.0-inch                  | 1        | 2.27%   |
-| ASUSTek Computer VG249 AUS2421 1920x1080 527x296mm 23.8-inch         | 1        | 2.27%   |
-| ASUSTek Computer VC279 AUS27C4 1920x1080 598x336mm 27.0-inch         | 1        | 2.27%   |
-| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch     | 1        | 2.27%   |
-| Ancor Communications LCD Monitor ASUS VS247 3840x1080                | 1        | 2.27%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Vizio LCD Monitor VIZ0026 1360x768 580x320mm 26.1-inch                | 1        | 2.27%   |
+| ViewSonic VA912-4SERIES VSC721C 1280x1024 376x301mm 19.0-inch         | 1        | 2.27%   |
+| Vestel Elektronik 49FHD_LCD_TV VES3700 1920x1080 1280x720mm 57.8-inch | 1        | 2.27%   |
+| Unknown LCD Monitor Sony 55R617 1920x1080                             | 1        | 2.27%   |
+| Toshiba TV TSB0200 1360x768 409x230mm 18.5-inch                       | 1        | 2.27%   |
+| SKY TV-monitor SKY0001 1920x1080 885x498mm 40.0-inch                  | 1        | 2.27%   |
+| Samsung Electronics U32J59x SAM0F35 3840x2160 697x392mm 31.5-inch     | 1        | 2.27%   |
+| Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch     | 1        | 2.27%   |
+| Samsung Electronics U28E590 SAM0C4C 3840x2160 608x345mm 27.5-inch     | 1        | 2.27%   |
+| Samsung Electronics SyncMaster SAM011E 1280x1024 338x270mm 17.0-inch  | 1        | 2.27%   |
+| Samsung Electronics LCD Monitor SAM0E4C 1366x768 522x293mm 23.6-inch  | 1        | 2.27%   |
+| Samsung Electronics LCD Monitor SAM0A76 1280x720 949x543mm 43.0-inch  | 1        | 2.27%   |
+| Philips LCD Monitor 150C4 1024x768                                    | 1        | 2.27%   |
+| Philips 221V PHL0888 1920x1080 477x268mm 21.5-inch                    | 1        | 2.27%   |
+| LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                     | 1        | 2.27%   |
+| Lenovo LEN T2054pC LEN60D9 1440x900 419x262mm 19.5-inch               | 1        | 2.27%   |
+| Insignia NS-19E310A13 BBY0032 1680x1050 640x384mm 29.4-inch           | 1        | 2.27%   |
+| HPN LCD Monitor HP 24o 1920x1080                                      | 1        | 2.27%   |
+| Hewlett-Packard ZR2240w HWP2952 1920x1080 475x267mm 21.5-inch         | 1        | 2.27%   |
+| Hewlett-Packard w2408 HWP26CF 1920x1200 518x324mm 24.1-inch           | 1        | 2.27%   |
+| Hewlett-Packard LA2306 HWP294A 1920x1080 509x286mm 23.0-inch          | 1        | 2.27%   |
+| Hewlett-Packard L1740 HWP2649 1280x1024 337x270mm 17.0-inch           | 1        | 2.27%   |
+| Hewlett-Packard 24f HPN3545 1920x1080 527x296mm 23.8-inch             | 1        | 2.27%   |
+| HannStar iH282 HSD20E6 1920x1200 590x370mm 27.4-inch                  | 1        | 2.27%   |
+| Goldstar ULTRAWIDE GSM76F9 2560x1080 531x298mm 24.0-inch              | 1        | 2.27%   |
+| Goldstar Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch               | 1        | 2.27%   |
+| Goldstar E2742 GSM58C9 1920x1080 598x337mm 27.0-inch                  | 1        | 2.27%   |
+| Goldstar 20EN33 GSM4EE1 1600x900 443x249mm 20.0-inch                  | 1        | 2.27%   |
+| Fujitsu Siemens L20T-2 LED FUS07E3 1600x900 440x250mm 19.9-inch       | 1        | 2.27%   |
+| Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.27%   |
+| Dell U2410 DELF016 1920x1200 518x324mm 24.1-inch                      | 1        | 2.27%   |
+| Dell S2722DGM DEL423A 2560x1440 597x336mm 27.0-inch                   | 1        | 2.27%   |
+| Dell LCD Monitor ST2220L 3840x1080                                    | 1        | 2.27%   |
+| Dell LCD Monitor ST2220L                                              | 1        | 2.27%   |
+| BenQ G2020HD BNQ781F 1600x900 443x249mm 20.0-inch                     | 1        | 2.27%   |
+| BenQ EW2775ZH BNQ7944 1920x1080 598x336mm 27.0-inch                   | 1        | 2.27%   |
+| ASUSTek Computer VG249 AUS2421 1920x1080 527x296mm 23.8-inch          | 1        | 2.27%   |
+| ASUSTek Computer VC279 AUS27C4 1920x1080 598x336mm 27.0-inch          | 1        | 2.27%   |
+| Ancor Communications VS248 ACI2498 1920x1080 531x299mm 24.0-inch      | 1        | 2.27%   |
+| Ancor Communications LCD Monitor ASUS VS247 3840x1080                 | 1        | 2.27%   |
 
 Monitor Resolution
 ------------------
@@ -1664,8 +1664,8 @@ Monitor screen resolution
 
 | Resolution        | Desktops | Percent |
 |-------------------|----------|---------|
-| 1920x1080 (FHD)   | 14       | 32.56%  |
-| 3840x2160 (4K)    | 5        | 11.63%  |
+| 1920x1080 (FHD)   | 13       | 30.23%  |
+| 3840x2160 (4K)    | 6        | 13.95%  |
 | 1920x1200 (WUXGA) | 4        | 9.3%    |
 | 1600x900 (HD+)    | 3        | 6.98%   |
 | 1280x1024 (SXGA)  | 3        | 6.98%   |
@@ -2060,12 +2060,11 @@ Controller models
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 6        | 37.5%   |
-| Intel Bluetooth wireless interface                  | 3        | 18.75%  |
+| Intel Bluetooth wireless interface                  | 4        | 25%     |
 | Realtek  Bluetooth 4.2 Adapter                      | 1        | 6.25%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1        | 6.25%   |
 | Intel Wireless-AC 3168 Bluetooth                    | 1        | 6.25%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1        | 6.25%   |
-| Intel Bluetooth Device                              | 1        | 6.25%   |
 | Integrated System Solution Bluetooth Device         | 1        | 6.25%   |
 | Apple Bluetooth Host Controller                     | 1        | 6.25%   |
 
@@ -2187,11 +2186,11 @@ Memory module models
 | Samsung RAM 4D332037385432383633515A532D43463720 1GB DIMM DDR2 800MT/s  | 1        | 5.56%   |
 | Patriot RAM PSD432G32002 32GB DIMM DDR4 3200MT/s                        | 1        | 5.56%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR 49926MT/s                      | 1        | 5.56%   |
-| Micron RAM 8JTF25664HZ-1G6M1 2048MB SODIMM DDR3 1600MT/s                | 1        | 5.56%   |
+| Micron RAM 8JTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s                   | 1        | 5.56%   |
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                               | 1        | 5.56%   |
 | Kingston RAM 9905734-018.A00G 16GB DIMM DDR4 2667MT/s                   | 1        | 5.56%   |
 | Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1600MT/s                   | 1        | 5.56%   |
-| Kingston RAM 202020202020202020202020202020202020 2GB DIMM DDR2 800MT/s | 1        | 5.56%   |
+| Kingston RAM 202020202020202020202020202020202020 1GB DIMM DDR2 800MT/s | 1        | 5.56%   |
 | G.Skill RAM F3-19200C10-8GBZHD 8GB DIMM DDR3 1333MT/s                   | 1        | 5.56%   |
 | Crucial RAM CT25664A 2GB DIMM DDR2 800MT/s                              | 1        | 5.56%   |
 | Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3600MT/s                   | 1        | 5.56%   |
@@ -2236,11 +2235,11 @@ Memory module size
 | Size  | Desktops | Percent |
 |-------|----------|---------|
 | 2048  | 7        | 41.18%  |
+| 16384 | 3        | 17.65%  |
 | 4096  | 3        | 17.65%  |
-| 16384 | 2        | 11.76%  |
-| 8192  | 2        | 11.76%  |
 | 1024  | 2        | 11.76%  |
 | 32768 | 1        | 5.88%   |
+| 8192  | 1        | 5.88%   |
 
 Memory Speed
 ------------
@@ -2388,8 +2387,8 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 34       | 79.07%  |
-| 1     | 8        | 18.6%   |
+| 0     | 35       | 81.4%   |
+| 1     | 7        | 16.28%  |
 | 2     | 1        | 2.33%   |
 
 Unsupported Device Types
@@ -2402,7 +2401,7 @@ Types of unsupported devices
 
 | Type          | Desktops | Percent |
 |---------------|----------|---------|
-| Net/wireless  | 4        | 44.44%  |
-| Graphics card | 4        | 44.44%  |
-| Bluetooth     | 1        | 11.11%  |
+| Net/wireless  | 4        | 50%     |
+| Graphics card | 3        | 37.5%   |
+| Bluetooth     | 1        | 12.5%   |
 
