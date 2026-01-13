@@ -1,10 +1,39 @@
 Debian 10 - Test Cases
 ----------------------
 
-Total: 2641
+Total: 2670
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASRock        | H55M-LE                     | Desktop     | [4ef317d8bb](https://linux-hardware.org/?probe=4ef317d8bb) | Dec 26, 2025 |
+| ASUSTek       | PRIME H310I-PLUS R2.0       | Desktop     | [ad7fdaf936](https://linux-hardware.org/?probe=ad7fdaf936) | Dec 24, 2025 |
+| Toshiba       | SATE                        | Notebook    | [051e444724](https://linux-hardware.org/?probe=051e444724) | Dec 04, 2025 |
+| Sony          | SVE1511A1EW                 | Notebook    | [b3f7144ad3](https://linux-hardware.org/?probe=b3f7144ad3) | Nov 22, 2025 |
+| Sony          | SVE1511A1EW                 | Notebook    | [8b078f1b51](https://linux-hardware.org/?probe=8b078f1b51) | Nov 22, 2025 |
+| Unknown       | Unknown                     | Desktop     | [fe3dd90732](https://linux-hardware.org/?probe=fe3dd90732) | Nov 12, 2025 |
+| ASRock        | A300M-STX                   | Desktop     | [01c068cb49](https://linux-hardware.org/?probe=01c068cb49) | Sep 07, 2025 |
+| Toshiba       | Satellite A215              | Notebook    | [734669d678](https://linux-hardware.org/?probe=734669d678) | Aug 30, 2025 |
+| Acer          | AOD257                      | Notebook    | [06fd17894b](https://linux-hardware.org/?probe=06fd17894b) | Jul 27, 2025 |
+| Dell          | Latitude E4310              | Notebook    | [0726bf9666](https://linux-hardware.org/?probe=0726bf9666) | Jun 19, 2025 |
+| AMI           | Cherry Trail CR             | Desktop     | [4a52748111](https://linux-hardware.org/?probe=4a52748111) | Jun 15, 2025 |
+| ASUSTek       | B85M-K                      | Desktop     | [0382107fa6](https://linux-hardware.org/?probe=0382107fa6) | Jun 10, 2025 |
+| ASRock        | A300M-STX                   | Desktop     | [573ec7684d](https://linux-hardware.org/?probe=573ec7684d) | Jun 02, 2025 |
+| C&T Soluti... | RCO10X0 Series 100          | Desktop     | [b9fe1b6ae7](https://linux-hardware.org/?probe=b9fe1b6ae7) | Apr 09, 2025 |
+| TrekStor      | MiniPC W3                   | Notebook    | [1977c91c5b](https://linux-hardware.org/?probe=1977c91c5b) | Mar 27, 2025 |
+| HP            | 1489                        | All in one  | [d6783d3671](https://linux-hardware.org/?probe=d6783d3671) | Mar 23, 2025 |
+| Gateway       | M675PRR                     | Notebook    | [8aacba1dc6](https://linux-hardware.org/?probe=8aacba1dc6) | Mar 23, 2025 |
+| HP            | Pavilion 11 x360 PC         | Notebook    | [a244ea9f8b](https://linux-hardware.org/?probe=a244ea9f8b) | Mar 23, 2025 |
+| HP            | Pavilion Sleekbook 14 PC    | Notebook    | [49fa15d74f](https://linux-hardware.org/?probe=49fa15d74f) | Mar 23, 2025 |
+| ASUSTek       | P5K                         | Desktop     | [1c60f03936](https://linux-hardware.org/?probe=1c60f03936) | Mar 21, 2025 |
+| HP            | Pavilion dv6000 (GA378UA... | Notebook    | [5c80bc4f89](https://linux-hardware.org/?probe=5c80bc4f89) | Mar 08, 2025 |
+| HP            | Pavilion dv6000 (GA378UA... | Notebook    | [2b3d9f3c42](https://linux-hardware.org/?probe=2b3d9f3c42) | Mar 08, 2025 |
+| ASUSTek       | K53SC                       | Notebook    | [459b2b79f2](https://linux-hardware.org/?probe=459b2b79f2) | Feb 15, 2025 |
+| Gigabyte      | MC12-LE0-00 01000100        | Server      | [29d7b6ce49](https://linux-hardware.org/?probe=29d7b6ce49) | Feb 09, 2025 |
+| Acer          | Aspire 4745Z                | Notebook    | [56367d760b](https://linux-hardware.org/?probe=56367d760b) | Feb 06, 2025 |
+| Gigabyte      | H97M-HD3                    | Desktop     | [56f632aeab](https://linux-hardware.org/?probe=56f632aeab) | Jan 31, 2025 |
+| Lenovo        | G505s 20255                 | Notebook    | [d9bacf1c6e](https://linux-hardware.org/?probe=d9bacf1c6e) | Jan 22, 2025 |
+| Gigabyte      | H97M-HD3                    | Desktop     | [a0cb3f1da9](https://linux-hardware.org/?probe=a0cb3f1da9) | Jan 12, 2025 |
+| Gigabyte      | H97M-HD3                    | Desktop     | [9d7b4b7834](https://linux-hardware.org/?probe=9d7b4b7834) | Jan 06, 2025 |
 | ASUSTek       | K53SC                       | Notebook    | [60a52cbc6f](https://linux-hardware.org/?probe=60a52cbc6f) | Dec 01, 2024 |
 | Unknown       | Unknown                     | Desktop     | [9f933e3704](https://linux-hardware.org/?probe=9f933e3704) | Nov 22, 2024 |
 | Polaroid      | MP1464PR001                 | Notebook    | [3abfe5c9f6](https://linux-hardware.org/?probe=3abfe5c9f6) | Oct 07, 2024 |

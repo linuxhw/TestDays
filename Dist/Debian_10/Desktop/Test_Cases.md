@@ -1,10 +1,22 @@
 Debian 10 - Test Cases (Desktops)
 ---------------------------------
 
-Total: 1100
+Total: 1112
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASRock        | H55M-LE                     | [4ef317d8bb](https://linux-hardware.org/?probe=4ef317d8bb) | Dec 26, 2025 |
+| ASUSTek       | PRIME H310I-PLUS R2.0       | [ad7fdaf936](https://linux-hardware.org/?probe=ad7fdaf936) | Dec 24, 2025 |
+| Unknown       | Unknown                     | [fe3dd90732](https://linux-hardware.org/?probe=fe3dd90732) | Nov 12, 2025 |
+| ASRock        | A300M-STX                   | [01c068cb49](https://linux-hardware.org/?probe=01c068cb49) | Sep 07, 2025 |
+| AMI           | Cherry Trail CR             | [4a52748111](https://linux-hardware.org/?probe=4a52748111) | Jun 15, 2025 |
+| ASUSTek       | B85M-K                      | [0382107fa6](https://linux-hardware.org/?probe=0382107fa6) | Jun 10, 2025 |
+| ASRock        | A300M-STX                   | [573ec7684d](https://linux-hardware.org/?probe=573ec7684d) | Jun 02, 2025 |
+| C&T Soluti... | RCO10X0 Series 100          | [b9fe1b6ae7](https://linux-hardware.org/?probe=b9fe1b6ae7) | Apr 09, 2025 |
+| ASUSTek       | P5K                         | [1c60f03936](https://linux-hardware.org/?probe=1c60f03936) | Mar 21, 2025 |
+| Gigabyte      | H97M-HD3                    | [56f632aeab](https://linux-hardware.org/?probe=56f632aeab) | Jan 31, 2025 |
+| Gigabyte      | H97M-HD3                    | [a0cb3f1da9](https://linux-hardware.org/?probe=a0cb3f1da9) | Jan 12, 2025 |
+| Gigabyte      | H97M-HD3                    | [9d7b4b7834](https://linux-hardware.org/?probe=9d7b4b7834) | Jan 06, 2025 |
 | Unknown       | Unknown                     | [9f933e3704](https://linux-hardware.org/?probe=9f933e3704) | Nov 22, 2024 |
 | ASRock        | B250M Performance           | [f157e625f8](https://linux-hardware.org/?probe=f157e625f8) | Sep 13, 2024 |
 | Supermicro    | X9SCL/X9SCMA                | [bdcc9549b9](https://linux-hardware.org/?probe=bdcc9549b9) | Aug 12, 2024 |
