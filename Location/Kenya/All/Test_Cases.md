@@ -1,10 +1,71 @@
 Linux in Kenya - Test Cases
 ---------------------------
 
-Total: 513
+Total: 574
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| HP            | EliteBook 840 G5            | Notebook    | [6cc9c29ba1](https://linux-hardware.org/?probe=6cc9c29ba1) | Dec 30, 2025 |
+| HP            | EliteBook 840 G5            | Notebook    | [b50814f0fe](https://linux-hardware.org/?probe=b50814f0fe) | Dec 30, 2025 |
+| HP            | ProBook 4540s               | Notebook    | [efe3c0406d](https://linux-hardware.org/?probe=efe3c0406d) | Dec 27, 2025 |
+| MSI           | MAG X870 TOMAHAWK WIFI      | Desktop     | [c10f04886b](https://linux-hardware.org/?probe=c10f04886b) | Dec 12, 2025 |
+| ASUSTek       | ZenBook UX463FA_UX463FA     | Convertible | [13134d9da7](https://linux-hardware.org/?probe=13134d9da7) | Dec 08, 2025 |
+| ASUSTek       | ZenBook UX463FA_UX463FA     | Convertible | [22f1cd6ce3](https://linux-hardware.org/?probe=22f1cd6ce3) | Dec 08, 2025 |
+| Dell          | Latitude 3510               | Notebook    | [870c170439](https://linux-hardware.org/?probe=870c170439) | Nov 26, 2025 |
+| Lenovo        | ThinkPad X1 Carbon Gen 9... | Notebook    | [54225e4f3f](https://linux-hardware.org/?probe=54225e4f3f) | Nov 22, 2025 |
+| HP            | EliteBook x360 1040 G5      | Convertible | [1d9c3c8541](https://linux-hardware.org/?probe=1d9c3c8541) | Nov 20, 2025 |
+| HP            | ProBook x360 435 G8 Note... | Convertible | [e2e023ad8f](https://linux-hardware.org/?probe=e2e023ad8f) | Nov 17, 2025 |
+| HP            | EliteBook x360 1040 G5      | Convertible | [3e603ea699](https://linux-hardware.org/?probe=3e603ea699) | Nov 13, 2025 |
+| Lenovo        | ThinkPad X1 Carbon Gen 9... | Notebook    | [df2324b246](https://linux-hardware.org/?probe=df2324b246) | Oct 18, 2025 |
+| Lenovo        | ThinkPad X1 Yoga 2nd 20J... | Convertible | [125ec15e32](https://linux-hardware.org/?probe=125ec15e32) | Oct 06, 2025 |
+| Lenovo        | IdeaPad 3 14IIL05 81WD      | Notebook    | [5b23458051](https://linux-hardware.org/?probe=5b23458051) | Sep 28, 2025 |
+| Dell          | Vostro 3420                 | Notebook    | [26cbd343be](https://linux-hardware.org/?probe=26cbd343be) | Sep 25, 2025 |
+| Gigabyte      | B650M DS3H                  | Desktop     | [d868136c6f](https://linux-hardware.org/?probe=d868136c6f) | Sep 12, 2025 |
+| HP            | ENVY Laptop 16-h0xxx        | Notebook    | [f181067304](https://linux-hardware.org/?probe=f181067304) | Sep 09, 2025 |
+| Dell          | Latitude 7280               | Notebook    | [0ec6b0a54d](https://linux-hardware.org/?probe=0ec6b0a54d) | Aug 27, 2025 |
+| Dell          | Latitude 7280               | Notebook    | [63529d09a8](https://linux-hardware.org/?probe=63529d09a8) | Aug 27, 2025 |
+| HP            | 18E7                        | Desktop     | [6269efd6b1](https://linux-hardware.org/?probe=6269efd6b1) | Aug 21, 2025 |
+| HP            | 245 14 inch G10 Notebook... | Notebook    | [43d5b2db82](https://linux-hardware.org/?probe=43d5b2db82) | Aug 17, 2025 |
+| HP            | EliteBook 840 G1            | Notebook    | [dd3aa85220](https://linux-hardware.org/?probe=dd3aa85220) | Jul 22, 2025 |
+| Dell          | Precision 5530              | Notebook    | [9c04b30b38](https://linux-hardware.org/?probe=9c04b30b38) | Jul 17, 2025 |
+| HP            | EliteBook 8440p             | Notebook    | [977e01cfb6](https://linux-hardware.org/?probe=977e01cfb6) | Jul 14, 2025 |
+| Colorful T... | CVN B450M GAMING V14        | Desktop     | [fe34223992](https://linux-hardware.org/?probe=fe34223992) | Jul 14, 2025 |
+| Colorful T... | CVN B450M GAMING V14        | Desktop     | [077f3fc1f6](https://linux-hardware.org/?probe=077f3fc1f6) | Jul 14, 2025 |
+| Gigabyte      | B650M K                     | Desktop     | [755e2969c6](https://linux-hardware.org/?probe=755e2969c6) | Jul 09, 2025 |
+| Dell          | Latitude E6400              | Notebook    | [a32c34ab17](https://linux-hardware.org/?probe=a32c34ab17) | Jul 09, 2025 |
+| Dell          | Latitude E6400              | Notebook    | [62a8583a23](https://linux-hardware.org/?probe=62a8583a23) | Jul 09, 2025 |
+| HP            | EliteBook 830 G6            | Notebook    | [f0b2c77a35](https://linux-hardware.org/?probe=f0b2c77a35) | Jun 25, 2025 |
+| Lenovo        | ThinkPad T14s Gen 1 20UJ... | Notebook    | [57bdbc6c0a](https://linux-hardware.org/?probe=57bdbc6c0a) | Jun 20, 2025 |
+| HP            | EliteBook 820 G3            | Notebook    | [7425928cb9](https://linux-hardware.org/?probe=7425928cb9) | Jun 16, 2025 |
+| Dell          | G15 5530                    | Notebook    | [f91cfbf2c0](https://linux-hardware.org/?probe=f91cfbf2c0) | Jun 12, 2025 |
+| HP            | 815A                        | Mini pc     | [cc20e2207b](https://linux-hardware.org/?probe=cc20e2207b) | Jun 02, 2025 |
+| Lenovo        | ThinkPad T440s 20ARS2980... | Notebook    | [fe6788baff](https://linux-hardware.org/?probe=fe6788baff) | Jun 02, 2025 |
+| HP            | ENVY Laptop 16-h0xxx        | Notebook    | [ea01944914](https://linux-hardware.org/?probe=ea01944914) | May 25, 2025 |
+| HP            | EliteBook Folio 9470m       | Notebook    | [f5080090c9](https://linux-hardware.org/?probe=f5080090c9) | May 17, 2025 |
+| Lenovo        | ThinkPad T14s Gen 1 20UJ... | Notebook    | [57abebc292](https://linux-hardware.org/?probe=57abebc292) | May 16, 2025 |
+| HP            | Notebook                    | Notebook    | [926c89d26a](https://linux-hardware.org/?probe=926c89d26a) | Apr 27, 2025 |
+| Gigabyte      | B450 AORUS M                | Desktop     | [35bc3f038e](https://linux-hardware.org/?probe=35bc3f038e) | Apr 27, 2025 |
+| HP            | ENVY Laptop 16-h0xxx        | Notebook    | [df0fce7dd7](https://linux-hardware.org/?probe=df0fce7dd7) | Apr 25, 2025 |
+| Lenovo        | ThinkPad X1 Carbon Gen 9... | Notebook    | [611457c5a3](https://linux-hardware.org/?probe=611457c5a3) | Apr 24, 2025 |
+| HP            | 2B43                        | Desktop     | [c0c5b8ea1e](https://linux-hardware.org/?probe=c0c5b8ea1e) | Apr 17, 2025 |
+| Dell          | Latitude 7320               | Convertible | [7488a3da19](https://linux-hardware.org/?probe=7488a3da19) | Apr 15, 2025 |
+| Dell          | XPS 9320                    | Notebook    | [210fd65a00](https://linux-hardware.org/?probe=210fd65a00) | Apr 08, 2025 |
+| AZW           | Gemini T34                  | Desktop     | [d4cf24657d](https://linux-hardware.org/?probe=d4cf24657d) | Apr 06, 2025 |
+| HP            | Laptop 15-bs1xx             | Notebook    | [6a462d107b](https://linux-hardware.org/?probe=6a462d107b) | Mar 19, 2025 |
+| HP            | Laptop 15-bs1xx             | Notebook    | [638f91092d](https://linux-hardware.org/?probe=638f91092d) | Mar 19, 2025 |
+| Apple         | MacBookPro12,1              | Notebook    | [816accfc42](https://linux-hardware.org/?probe=816accfc42) | Mar 06, 2025 |
+| ASUSTek       | UX305CA                     | Notebook    | [97cda9f826](https://linux-hardware.org/?probe=97cda9f826) | Feb 28, 2025 |
+| HP            | ENVY x360 2-in-1 Laptop ... | Convertible | [4c0f1295a2](https://linux-hardware.org/?probe=4c0f1295a2) | Feb 18, 2025 |
+| HP            | ENVY Laptop 16-h0xxx        | Notebook    | [4a0b4ecde1](https://linux-hardware.org/?probe=4a0b4ecde1) | Feb 16, 2025 |
+| HP            | EliteBook 840 G6            | Notebook    | [5637a1738f](https://linux-hardware.org/?probe=5637a1738f) | Feb 13, 2025 |
+| HP            | ProBook 440 G8 Notebook ... | Notebook    | [14d7214f50](https://linux-hardware.org/?probe=14d7214f50) | Feb 09, 2025 |
+| HP            | ENVY x360 Convertible 15... | Convertible | [cbe8bc394e](https://linux-hardware.org/?probe=cbe8bc394e) | Feb 01, 2025 |
+| HP            | EliteBook 840 G5            | Notebook    | [47ce128cf7](https://linux-hardware.org/?probe=47ce128cf7) | Jan 25, 2025 |
+| Dell          | 0XR1GT A00                  | Desktop     | [455ec3b313](https://linux-hardware.org/?probe=455ec3b313) | Jan 20, 2025 |
+| Toshiba       | dynabook R73/H              | Notebook    | [8e9f89b0cf](https://linux-hardware.org/?probe=8e9f89b0cf) | Jan 17, 2025 |
+| HP            | ProBook 650 G2              | Notebook    | [473fc7db12](https://linux-hardware.org/?probe=473fc7db12) | Jan 14, 2025 |
+| Lenovo        | ThinkPad T470s W10DG 20J... | Notebook    | [83cadd4c99](https://linux-hardware.org/?probe=83cadd4c99) | Jan 13, 2025 |
+| Lenovo        | ThinkPad X280 20KES91F00    | Notebook    | [ba9b318a26](https://linux-hardware.org/?probe=ba9b318a26) | Jan 13, 2025 |
 | HP            | EliteBook 830 G8 Noteboo... | Notebook    | [dd7ea1bfca](https://linux-hardware.org/?probe=dd7ea1bfca) | Jan 03, 2025 |
 | Lenovo        | Yoga 9 14ITL5 82BG          | Convertible | [fa670e4eca](https://linux-hardware.org/?probe=fa670e4eca) | Dec 29, 2024 |
 | Acer          | Predator PT516-51s          | Notebook    | [ba15b5dd07](https://linux-hardware.org/?probe=ba15b5dd07) | Dec 27, 2024 |
