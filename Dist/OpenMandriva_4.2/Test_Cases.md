@@ -1,10 +1,63 @@
 OpenMandriva 4.2 - Test Cases
 -----------------------------
 
-Total: 4991
+Total: 5044
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Gigabyte      | AB350-Gaming 3-CF           | Desktop     | [1e1454f73b](https://linux-hardware.org/?probe=1e1454f73b) | Jan 02, 2026 |
+| Lenovo        | ThinkPad T490 20N3S88U0F    | Notebook    | [7abe7a0c77](https://linux-hardware.org/?probe=7abe7a0c77) | Jan 02, 2026 |
+| HP            | Compaq 6710b                | Notebook    | [f79af1b495](https://linux-hardware.org/?probe=f79af1b495) | Dec 28, 2025 |
+| MSI           | B450-A PRO MAX              | Desktop     | [206a197971](https://linux-hardware.org/?probe=206a197971) | Nov 11, 2025 |
+| Dell          | Latitude E6410              | Notebook    | [fe00cd65f6](https://linux-hardware.org/?probe=fe00cd65f6) | Nov 03, 2025 |
+| Lenovo        | 31900003 STD                | All in one  | [051649f64b](https://linux-hardware.org/?probe=051649f64b) | Nov 02, 2025 |
+| Acer          | TravelMate B117-M           | Notebook    | [c99cf12119](https://linux-hardware.org/?probe=c99cf12119) | Oct 19, 2025 |
+| Dell          | 0WR7PY A00                  | Desktop     | [e97f2b872c](https://linux-hardware.org/?probe=e97f2b872c) | Oct 15, 2025 |
+| Lenovo        | V145-15AST 81MT             | Notebook    | [047db68136](https://linux-hardware.org/?probe=047db68136) | Oct 10, 2025 |
+| Lenovo        | MAHOBAY 0C48431 PRO         | Desktop     | [ffdc8e5e83](https://linux-hardware.org/?probe=ffdc8e5e83) | Oct 05, 2025 |
+| Intel         | D33217CK G76541-302         | Desktop     | [cafb1c345f](https://linux-hardware.org/?probe=cafb1c345f) | Sep 30, 2025 |
+| Acer          | Aspire E5-511               | Notebook    | [44b053a607](https://linux-hardware.org/?probe=44b053a607) | Aug 19, 2025 |
+| Fujitsu Si... | D2824-A1 S26361-D2824-A1    | Desktop     | [c72c9c1087](https://linux-hardware.org/?probe=c72c9c1087) | Aug 14, 2025 |
+| Gigabyte      | X58-USB3                    | Desktop     | [18569c1d79](https://linux-hardware.org/?probe=18569c1d79) | Aug 12, 2025 |
+| ASUSTek       | M4A78 PRO                   | Desktop     | [6f300ae980](https://linux-hardware.org/?probe=6f300ae980) | Aug 05, 2025 |
+| Fujitsu       | D3230-A1 S26361-D3230-A1    | Desktop     | [8bd9918dc8](https://linux-hardware.org/?probe=8bd9918dc8) | Aug 03, 2025 |
+| Google        | Peppy                       | Notebook    | [db1e2d65c7](https://linux-hardware.org/?probe=db1e2d65c7) | Jul 21, 2025 |
+| HP            | 8265                        | Desktop     | [d33e774855](https://linux-hardware.org/?probe=d33e774855) | Jul 20, 2025 |
+| ASRock        | H61M-HVS                    | Desktop     | [c61dfe78e6](https://linux-hardware.org/?probe=c61dfe78e6) | Jul 05, 2025 |
+| Pegatron      | Eureka3                     | Desktop     | [8c6df69dce](https://linux-hardware.org/?probe=8c6df69dce) | Jun 17, 2025 |
+| Acer          | V5-131                      | Notebook    | [47733ed9fb](https://linux-hardware.org/?probe=47733ed9fb) | Jun 16, 2025 |
+| HP            | 304Bh                       | Desktop     | [e4e25b677a](https://linux-hardware.org/?probe=e4e25b677a) | Jun 15, 2025 |
+| Biostar       | J4125NHU                    | Desktop     | [54eabbb7b5](https://linux-hardware.org/?probe=54eabbb7b5) | May 22, 2025 |
+| Unknown       | Unknown                     | Notebook    | [9484af4050](https://linux-hardware.org/?probe=9484af4050) | May 20, 2025 |
+| HP            | Compaq 6530b (FG210EC#AC... | Notebook    | [8901c539cc](https://linux-hardware.org/?probe=8901c539cc) | May 20, 2025 |
+| ASUSTek       | K50IJ                       | Notebook    | [f2cb4b4cac](https://linux-hardware.org/?probe=f2cb4b4cac) | May 15, 2025 |
+| Apple         | MacBookPro6,1               | Notebook    | [edc4e4d8a3](https://linux-hardware.org/?probe=edc4e4d8a3) | May 06, 2025 |
+| ASUSTek       | M5A99FX PRO R2.0            | Desktop     | [96eb061441](https://linux-hardware.org/?probe=96eb061441) | May 01, 2025 |
+| Intel         | G41 Series                  | Desktop     | [c0efb2ef57](https://linux-hardware.org/?probe=c0efb2ef57) | May 01, 2025 |
+| Dell          | System Inspiron N7110       | Notebook    | [eb6f9fd551](https://linux-hardware.org/?probe=eb6f9fd551) | Apr 29, 2025 |
+| Dell          | Latitude E6530              | Notebook    | [2b221d2438](https://linux-hardware.org/?probe=2b221d2438) | Apr 27, 2025 |
+| Apple         | MacBookPro9,2               | Notebook    | [a8163593ff](https://linux-hardware.org/?probe=a8163593ff) | Apr 25, 2025 |
+| HP            | EliteBook 6930p             | Notebook    | [c260e6e6c5](https://linux-hardware.org/?probe=c260e6e6c5) | Apr 20, 2025 |
+| HP            | ProBook 5320m               | Notebook    | [5748eae772](https://linux-hardware.org/?probe=5748eae772) | Apr 19, 2025 |
+| Dell          | 0GDG8Y A00                  | Desktop     | [5e212f1bf1](https://linux-hardware.org/?probe=5e212f1bf1) | Apr 16, 2025 |
+| HP            | 250 G4 Notebook PC          | Notebook    | [08b18c5a9b](https://linux-hardware.org/?probe=08b18c5a9b) | Apr 12, 2025 |
+| Fujitsu       | D3003-A1 S26361-D3003-A1    | Desktop     | [f7a1249a3a](https://linux-hardware.org/?probe=f7a1249a3a) | Apr 10, 2025 |
+| HP            | 304Bh                       | Desktop     | [08caa40785](https://linux-hardware.org/?probe=08caa40785) | Apr 07, 2025 |
+| Acer          | EQ45M                       | Desktop     | [b0bffc28a8](https://linux-hardware.org/?probe=b0bffc28a8) | Apr 06, 2025 |
+| Sony          | VGN-FW21ZR                  | Notebook    | [7118743433](https://linux-hardware.org/?probe=7118743433) | Mar 15, 2025 |
+| ASUSTek       | M4A87TD                     | Desktop     | [c479513e2e](https://linux-hardware.org/?probe=c479513e2e) | Feb 14, 2025 |
+| Dell          | Latitude D830               | Notebook    | [5a49b870b8](https://linux-hardware.org/?probe=5a49b870b8) | Feb 10, 2025 |
+| HP            | EliteBook 840 G1            | Notebook    | [7bfec98999](https://linux-hardware.org/?probe=7bfec98999) | Feb 08, 2025 |
+| HP            | 625                         | Notebook    | [eed09d0393](https://linux-hardware.org/?probe=eed09d0393) | Feb 02, 2025 |
+| HP            | Pavilion g6                 | Notebook    | [8a5d6726cf](https://linux-hardware.org/?probe=8a5d6726cf) | Jan 31, 2025 |
+| ASUSTek       | X75VD                       | Notebook    | [a504059a73](https://linux-hardware.org/?probe=a504059a73) | Jan 23, 2025 |
+| Dell          | 0JVY7H A00                  | Desktop     | [7f1393d70f](https://linux-hardware.org/?probe=7f1393d70f) | Jan 22, 2025 |
+| Dell          | Latitude 3330               | Notebook    | [302fbb29cf](https://linux-hardware.org/?probe=302fbb29cf) | Jan 20, 2025 |
+| Unknown       | Unknown                     | Desktop     | [ebdb7727f3](https://linux-hardware.org/?probe=ebdb7727f3) | Jan 19, 2025 |
+| ASUSTek       | M4A87TD EVO                 | Desktop     | [62c865e215](https://linux-hardware.org/?probe=62c865e215) | Jan 16, 2025 |
+| Dell          | 0MN1TX A02                  | Desktop     | [a356273d0e](https://linux-hardware.org/?probe=a356273d0e) | Jan 15, 2025 |
+| Gigabyte      | GA-MA770-DS3                | Desktop     | [5e858c52a2](https://linux-hardware.org/?probe=5e858c52a2) | Jan 13, 2025 |
+| Apple         | Mac-27ADBB7B4CEE8E61 iMa... | All in one  | [b371db2db0](https://linux-hardware.org/?probe=b371db2db0) | Jan 10, 2025 |
 | Gigabyte      | H81M-D2V                    | Desktop     | [aadc1a0c13](https://linux-hardware.org/?probe=aadc1a0c13) | Jan 06, 2025 |
 | Dell          | Latitude E4310              | Notebook    | [68eec2c60e](https://linux-hardware.org/?probe=68eec2c60e) | Jan 04, 2025 |
 | ASUSTek       | P8Z77-V LX                  | Desktop     | [69679c9a35](https://linux-hardware.org/?probe=69679c9a35) | Dec 31, 2024 |
@@ -645,7 +698,7 @@ Total: 4991
 | Gigabyte      | H410M H                     | Desktop     | [1ca8a84549](https://linux-hardware.org/?probe=1ca8a84549) | Jan 25, 2022 |
 | HP            | 655                         | Notebook    | [68e37d8274](https://linux-hardware.org/?probe=68e37d8274) | Jan 25, 2022 |
 | Dell          | Latitude E5410              | Notebook    | [074ed63eb9](https://linux-hardware.org/?probe=074ed63eb9) | Jan 25, 2022 |
-| Lenovo        | V330-15IKB 81AX             | Notebook    | [3bcb1d5f53](https://linux-hardware.org/?probe=3bcb1d5f53) | Jan 25, 2022 |
+| Lenovo        | Unknown                     | Notebook    | [3bcb1d5f53](https://linux-hardware.org/?probe=3bcb1d5f53) | Jan 25, 2022 |
 | Timi          | TM1801                      | Notebook    | [349fdb5215](https://linux-hardware.org/?probe=349fdb5215) | Jan 25, 2022 |
 | HP            | Laptop 15-bs2xx             | Notebook    | [0210b11791](https://linux-hardware.org/?probe=0210b11791) | Jan 25, 2022 |
 | Dell          | Inspiron 5567               | Notebook    | [e0eb175311](https://linux-hardware.org/?probe=e0eb175311) | Jan 25, 2022 |
@@ -1148,7 +1201,7 @@ Total: 4991
 | Dell          | 0GM819                      | Desktop     | [4f630535ad](https://linux-hardware.org/?probe=4f630535ad) | Nov 11, 2021 |
 | Lenovo        | ThinkPad T61 64669YG        | Notebook    | [0cbad8aae1](https://linux-hardware.org/?probe=0cbad8aae1) | Nov 11, 2021 |
 | Acer          | Aspire X3995                | Desktop     | [351c694ae4](https://linux-hardware.org/?probe=351c694ae4) | Nov 11, 2021 |
-| Lenovo        | 370A SDK0J40700 WIN 3258... | Desktop     | [468d100cf4](https://linux-hardware.org/?probe=468d100cf4) | Nov 11, 2021 |
+| Lenovo        | 317C SDK0J40700 WIN 3258... | Desktop     | [468d100cf4](https://linux-hardware.org/?probe=468d100cf4) | Nov 11, 2021 |
 | INTELBRAS     | IE-G31TM7                   | Desktop     | [1b854398a1](https://linux-hardware.org/?probe=1b854398a1) | Nov 11, 2021 |
 | Sony          | VGN-FZ31Z                   | Notebook    | [fe8ba3f801](https://linux-hardware.org/?probe=fe8ba3f801) | Nov 11, 2021 |
 | ASUSTek       | P5G41-M LX                  | Desktop     | [05de777705](https://linux-hardware.org/?probe=05de777705) | Nov 10, 2021 |
@@ -1217,7 +1270,7 @@ Total: 4991
 | MSI           | GE70 2QE                    | Notebook    | [36acedb60b](https://linux-hardware.org/?probe=36acedb60b) | Nov 01, 2021 |
 | ASUSTek       | PRIME A320M-K/BR            | Desktop     | [24974be67e](https://linux-hardware.org/?probe=24974be67e) | Oct 31, 2021 |
 | eMachines     | E720                        | Notebook    | [82e0c7193f](https://linux-hardware.org/?probe=82e0c7193f) | Oct 31, 2021 |
-| Toshiba       | IS 1412                     | Notebook    | [c0faa178a2](https://linux-hardware.org/?probe=c0faa178a2) | Oct 31, 2021 |
+| Intel         | H61                         | Desktop     | [c0faa178a2](https://linux-hardware.org/?probe=c0faa178a2) | Oct 31, 2021 |
 | MSI           | 760GM-P34                   | Desktop     | [1161af8368](https://linux-hardware.org/?probe=1161af8368) | Oct 31, 2021 |
 | HP            | 3048h                       | Desktop     | [b62359fcb1](https://linux-hardware.org/?probe=b62359fcb1) | Oct 31, 2021 |
 | HP            | x2 Detachable 10-p0XX       | Tablet      | [091f7c8fae](https://linux-hardware.org/?probe=091f7c8fae) | Oct 31, 2021 |
@@ -3291,7 +3344,7 @@ Total: 4991
 | HP            | 8433 11                     | Desktop     | [e9742c8d9f](https://linux-hardware.org/?probe=e9742c8d9f) | Mar 31, 2021 |
 | Lenovo        | ThinkCentre M71e 3157H2U    | Desktop     | [6e0ad0f342](https://linux-hardware.org/?probe=6e0ad0f342) | Mar 31, 2021 |
 | Toshiba       | dynabook Satellite B552/... | Notebook    | [0a547ba59a](https://linux-hardware.org/?probe=0a547ba59a) | Mar 31, 2021 |
-| Gigabyte      | K8M800-8237                 | Desktop     | [a47db8ede5](https://linux-hardware.org/?probe=a47db8ede5) | Mar 31, 2021 |
+| ASUSTek       | M4A78 PRO                   | Desktop     | [a47db8ede5](https://linux-hardware.org/?probe=a47db8ede5) | Mar 31, 2021 |
 | ASUSTek       | B85-PLUS                    | Desktop     | [f6ac5358d0](https://linux-hardware.org/?probe=f6ac5358d0) | Mar 30, 2021 |
 | Gigabyte      | 970A-DS3P                   | Desktop     | [c1f8d5a818](https://linux-hardware.org/?probe=c1f8d5a818) | Mar 30, 2021 |
 | Foxconn       | 45CMX/45GMX/45CMX-K         | Desktop     | [e5fcb44711](https://linux-hardware.org/?probe=e5fcb44711) | Mar 30, 2021 |
@@ -4459,7 +4512,7 @@ Total: 4991
 | Samsung       | 270E5J/2570EJ               | Notebook    | [8bde493a98](https://linux-hardware.org/?probe=8bde493a98) | Feb 16, 2021 |
 | Fujitsu       | LIFEBOOK S710               | Notebook    | [67b5132bb5](https://linux-hardware.org/?probe=67b5132bb5) | Feb 16, 2021 |
 | ZOTAC         | ZBOX-ID81                   | Mini pc     | [0909932423](https://linux-hardware.org/?probe=0909932423) | Feb 16, 2021 |
-| Biostar       | H81MHV3                     | Desktop     | [dd2f04f1ee](https://linux-hardware.org/?probe=dd2f04f1ee) | Feb 16, 2021 |
+| MACHINIST     | H81M-PRO S1 V2.0            | Desktop     | [dd2f04f1ee](https://linux-hardware.org/?probe=dd2f04f1ee) | Feb 16, 2021 |
 | eMachines     | E725                        | Notebook    | [3b7dc88a13](https://linux-hardware.org/?probe=3b7dc88a13) | Feb 16, 2021 |
 | MSI           | B450 GAMING PLUS MAX        | Desktop     | [ba647431f2](https://linux-hardware.org/?probe=ba647431f2) | Feb 16, 2021 |
 | Apple         | MacBookPro7,1               | Notebook    | [cee5949e9c](https://linux-hardware.org/?probe=cee5949e9c) | Feb 16, 2021 |

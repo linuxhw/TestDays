@@ -1,10 +1,63 @@
 OpenMandriva 24.07 - Test Cases (Desktops)
 ------------------------------------------
 
-Total: 590
+Total: 644
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Intel         | B75                         | [f2db8ec2de](https://linux-hardware.org/?probe=f2db8ec2de) | Nov 12, 2025 |
+| MSI           | MPG Z490 GAMING PLUS        | [f09e9a7b63](https://linux-hardware.org/?probe=f09e9a7b63) | Oct 22, 2025 |
+| Gigabyte      | nForce                      | [8ea3cf2201](https://linux-hardware.org/?probe=8ea3cf2201) | Aug 31, 2025 |
+| ASUSTek       | M5A78L-M LE                 | [42af17a2b8](https://linux-hardware.org/?probe=42af17a2b8) | Aug 30, 2025 |
+| Gigabyte      | X570 AORUS ULTRA            | [03a39913e3](https://linux-hardware.org/?probe=03a39913e3) | Aug 16, 2025 |
+| Gigabyte      | GA-G41M-ES2L                | [837ac6f4db](https://linux-hardware.org/?probe=837ac6f4db) | Aug 12, 2025 |
+| Gigabyte      | G41M-ES2L                   | [7dcedd1751](https://linux-hardware.org/?probe=7dcedd1751) | Aug 10, 2025 |
+| MSI           | B550M-A PRO                 | [4c0f276180](https://linux-hardware.org/?probe=4c0f276180) | Aug 06, 2025 |
+| Lenovo        | MAHOBAY NO DPK              | [bd0842b62f](https://linux-hardware.org/?probe=bd0842b62f) | Jul 25, 2025 |
+| Gigabyte      | 970A-DS3P                   | [af126a92ca](https://linux-hardware.org/?probe=af126a92ca) | Jul 20, 2025 |
+| AZW           | MINI S                      | [ae0563af05](https://linux-hardware.org/?probe=ae0563af05) | Jul 19, 2025 |
+| Gigabyte      | B85M-D3H                    | [9dc6bf9b38](https://linux-hardware.org/?probe=9dc6bf9b38) | Jul 13, 2025 |
+| Gigabyte      | B760 DS3H AX DDR4           | [2461a88a30](https://linux-hardware.org/?probe=2461a88a30) | Jul 13, 2025 |
+| Ramsta        | RS-A320MP Ver:1.00          | [9a20e1a883](https://linux-hardware.org/?probe=9a20e1a883) | Jul 10, 2025 |
+| ASUSTek       | M3A                         | [775e16752c](https://linux-hardware.org/?probe=775e16752c) | Jul 01, 2025 |
+| ASUSTek       | B85M-G                      | [28ed8d29bb](https://linux-hardware.org/?probe=28ed8d29bb) | Jun 05, 2025 |
+| Gigabyte      | GA-990XA-UD3                | [0082c0231d](https://linux-hardware.org/?probe=0082c0231d) | Jun 03, 2025 |
+| Gigabyte      | B550M AORUS ELITE           | [19eb9ed495](https://linux-hardware.org/?probe=19eb9ed495) | Jun 03, 2025 |
+| Unknown       | Unknown                     | [adf51a98ae](https://linux-hardware.org/?probe=adf51a98ae) | Jun 01, 2025 |
+| ASUSTek       | PRIME B450M-A II            | [992927a2d8](https://linux-hardware.org/?probe=992927a2d8) | May 31, 2025 |
+| MSI           | B450M PRO-VDH MAX           | [b44f3f41a0](https://linux-hardware.org/?probe=b44f3f41a0) | May 28, 2025 |
+| ASRock        | AM1B-MH                     | [231846ed0e](https://linux-hardware.org/?probe=231846ed0e) | May 26, 2025 |
+| HP            | 1497                        | [1aa53c4113](https://linux-hardware.org/?probe=1aa53c4113) | May 08, 2025 |
+| ASUSTek       | M52AD_M12AD_A_F_K31AD       | [2257cd6ecd](https://linux-hardware.org/?probe=2257cd6ecd) | May 07, 2025 |
+| Gigabyte      | Z68X-UD3H-B3                | [21471345fb](https://linux-hardware.org/?probe=21471345fb) | May 05, 2025 |
+| ASRock        | X870E Nova WiFi             | [303deef8fc](https://linux-hardware.org/?probe=303deef8fc) | May 04, 2025 |
+| Gigabyte      | B550M DS3H                  | [008cb36a15](https://linux-hardware.org/?probe=008cb36a15) | Apr 29, 2025 |
+| Gigabyte      | H55M-USB3                   | [4e62ff3ea2](https://linux-hardware.org/?probe=4e62ff3ea2) | Apr 28, 2025 |
+| ASUSTek       | P8H77-I                     | [ed5929ee7b](https://linux-hardware.org/?probe=ed5929ee7b) | Apr 26, 2025 |
+| ASUSTek       | Rampage IV BLACK EDITION    | [43b82fc07a](https://linux-hardware.org/?probe=43b82fc07a) | Apr 25, 2025 |
+| ASUSTek       | ProArt X670E-CREATOR WIF... | [06db4aa634](https://linux-hardware.org/?probe=06db4aa634) | Apr 23, 2025 |
+| Gigabyte      | 990FXA-UD3 R5               | [e26e0cbcb0](https://linux-hardware.org/?probe=e26e0cbcb0) | Apr 20, 2025 |
+| BESSTAR Te... | HM80                        | [099f76e1c7](https://linux-hardware.org/?probe=099f76e1c7) | Apr 16, 2025 |
+| Intel         | DH55TC AAE70932-206         | [608d37fe3e](https://linux-hardware.org/?probe=608d37fe3e) | Apr 14, 2025 |
+| ASUSTek       | ROG STRIX X570-F GAMING     | [ba46e9c49e](https://linux-hardware.org/?probe=ba46e9c49e) | Apr 05, 2025 |
+| ASRock        | A320M Pro4                  | [923a4211f9](https://linux-hardware.org/?probe=923a4211f9) | Mar 18, 2025 |
+| MSI           | Z87-G45 GAMING              | [2f5f30dd2c](https://linux-hardware.org/?probe=2f5f30dd2c) | Mar 15, 2025 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [cd024baa40](https://linux-hardware.org/?probe=cd024baa40) | Mar 10, 2025 |
+| ASUSTek       | TUF Gaming B550-PLUS        | [903afa9561](https://linux-hardware.org/?probe=903afa9561) | Feb 23, 2025 |
+| MSI           | A520M-A PRO                 | [b0f12bdf92](https://linux-hardware.org/?probe=b0f12bdf92) | Feb 21, 2025 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [cc6b35c39b](https://linux-hardware.org/?probe=cc6b35c39b) | Feb 20, 2025 |
+| Gigabyte      | B450 AORUS ELITE            | [8bf2ff9347](https://linux-hardware.org/?probe=8bf2ff9347) | Feb 19, 2025 |
+| ASRock        | Z87 Extreme4                | [6df653a3a2](https://linux-hardware.org/?probe=6df653a3a2) | Feb 19, 2025 |
+| MSI           | E350IA-E45                  | [f21478cbb7](https://linux-hardware.org/?probe=f21478cbb7) | Feb 08, 2025 |
+| Gigabyte      | B450 AORUS PRO WIFI-CF      | [ea27ad03d5](https://linux-hardware.org/?probe=ea27ad03d5) | Feb 03, 2025 |
+| ASRock        | X670E PG Lightning          | [7c62104a80](https://linux-hardware.org/?probe=7c62104a80) | Feb 01, 2025 |
+| ASUSTek       | P5Q3                        | [fb60fc8b28](https://linux-hardware.org/?probe=fb60fc8b28) | Jan 24, 2025 |
+| Gigabyte      | X570 AORUS ULTRA            | [16eb2d304a](https://linux-hardware.org/?probe=16eb2d304a) | Jan 24, 2025 |
+| MSI           | B550M-A PRO                 | [e6ae4099b5](https://linux-hardware.org/?probe=e6ae4099b5) | Jan 24, 2025 |
+| HP            | 8265                        | [1a3578bed8](https://linux-hardware.org/?probe=1a3578bed8) | Jan 21, 2025 |
+| HP            | 213D A01                    | [4ef5f5c77b](https://linux-hardware.org/?probe=4ef5f5c77b) | Jan 14, 2025 |
+| Gigabyte      | X58A-UD3R                   | [a3139f8204](https://linux-hardware.org/?probe=a3139f8204) | Jan 14, 2025 |
+| PCChips       | A45G                        | [80806534be](https://linux-hardware.org/?probe=80806534be) | Jan 12, 2025 |
 | ASUSTek       | CM6330_CM6630_CM6730_CM6... | [e6075adfc0](https://linux-hardware.org/?probe=e6075adfc0) | Jan 02, 2025 |
 | Gigabyte      | GA-MA785GT-UD3H             | [bf30d86827](https://linux-hardware.org/?probe=bf30d86827) | Jan 01, 2025 |
 | Unknown       | Unknown                     | [9dc841041f](https://linux-hardware.org/?probe=9dc841041f) | Dec 25, 2024 |
@@ -236,6 +289,7 @@ Total: 590
 | Gigabyte      | H610M K DDR4                | [513a80a2df](https://linux-hardware.org/?probe=513a80a2df) | Aug 13, 2024 |
 | ASRock        | FM2A55M-DGS                 | [a5fa87c0d6](https://linux-hardware.org/?probe=a5fa87c0d6) | Aug 13, 2024 |
 | Dell          | 0N4YC8 A00                  | [065d3d77f8](https://linux-hardware.org/?probe=065d3d77f8) | Aug 12, 2024 |
+| HP            | 3397                        | [da2b320cd5](https://linux-hardware.org/?probe=da2b320cd5) | Aug 12, 2024 |
 | MSI           | PRO A620M-E                 | [89b83dcdb0](https://linux-hardware.org/?probe=89b83dcdb0) | Aug 12, 2024 |
 | ASUSTek       | P5G41T-M LX                 | [061482f47f](https://linux-hardware.org/?probe=061482f47f) | Aug 12, 2024 |
 | ASUSTek       | TUF Gaming B550-PLUS WIF... | [e867eec20b](https://linux-hardware.org/?probe=e867eec20b) | Aug 12, 2024 |

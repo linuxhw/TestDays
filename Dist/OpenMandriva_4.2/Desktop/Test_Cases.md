@@ -1,10 +1,36 @@
 OpenMandriva 4.2 - Test Cases (Desktops)
 ----------------------------------------
 
-Total: 2448
+Total: 2475
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | AB350-Gaming 3-CF           | [1e1454f73b](https://linux-hardware.org/?probe=1e1454f73b) | Jan 02, 2026 |
+| MSI           | B450-A PRO MAX              | [206a197971](https://linux-hardware.org/?probe=206a197971) | Nov 11, 2025 |
+| Dell          | 0WR7PY A00                  | [e97f2b872c](https://linux-hardware.org/?probe=e97f2b872c) | Oct 15, 2025 |
+| Lenovo        | MAHOBAY 0C48431 PRO         | [ffdc8e5e83](https://linux-hardware.org/?probe=ffdc8e5e83) | Oct 05, 2025 |
+| Intel         | D33217CK G76541-302         | [cafb1c345f](https://linux-hardware.org/?probe=cafb1c345f) | Sep 30, 2025 |
+| Fujitsu Si... | D2824-A1 S26361-D2824-A1    | [c72c9c1087](https://linux-hardware.org/?probe=c72c9c1087) | Aug 14, 2025 |
+| Gigabyte      | X58-USB3                    | [18569c1d79](https://linux-hardware.org/?probe=18569c1d79) | Aug 12, 2025 |
+| ASUSTek       | M4A78 PRO                   | [6f300ae980](https://linux-hardware.org/?probe=6f300ae980) | Aug 05, 2025 |
+| Fujitsu       | D3230-A1 S26361-D3230-A1    | [8bd9918dc8](https://linux-hardware.org/?probe=8bd9918dc8) | Aug 03, 2025 |
+| HP            | 8265                        | [d33e774855](https://linux-hardware.org/?probe=d33e774855) | Jul 20, 2025 |
+| ASRock        | H61M-HVS                    | [c61dfe78e6](https://linux-hardware.org/?probe=c61dfe78e6) | Jul 05, 2025 |
+| Pegatron      | Eureka3                     | [8c6df69dce](https://linux-hardware.org/?probe=8c6df69dce) | Jun 17, 2025 |
+| HP            | 304Bh                       | [e4e25b677a](https://linux-hardware.org/?probe=e4e25b677a) | Jun 15, 2025 |
+| Biostar       | J4125NHU                    | [54eabbb7b5](https://linux-hardware.org/?probe=54eabbb7b5) | May 22, 2025 |
+| ASUSTek       | M5A99FX PRO R2.0            | [96eb061441](https://linux-hardware.org/?probe=96eb061441) | May 01, 2025 |
+| Intel         | G41 Series                  | [c0efb2ef57](https://linux-hardware.org/?probe=c0efb2ef57) | May 01, 2025 |
+| Dell          | 0GDG8Y A00                  | [5e212f1bf1](https://linux-hardware.org/?probe=5e212f1bf1) | Apr 16, 2025 |
+| Fujitsu       | D3003-A1 S26361-D3003-A1    | [f7a1249a3a](https://linux-hardware.org/?probe=f7a1249a3a) | Apr 10, 2025 |
+| HP            | 304Bh                       | [08caa40785](https://linux-hardware.org/?probe=08caa40785) | Apr 07, 2025 |
+| Acer          | EQ45M                       | [b0bffc28a8](https://linux-hardware.org/?probe=b0bffc28a8) | Apr 06, 2025 |
+| ASUSTek       | M4A87TD                     | [c479513e2e](https://linux-hardware.org/?probe=c479513e2e) | Feb 14, 2025 |
+| Dell          | 0JVY7H A00                  | [7f1393d70f](https://linux-hardware.org/?probe=7f1393d70f) | Jan 22, 2025 |
+| Unknown       | Unknown                     | [ebdb7727f3](https://linux-hardware.org/?probe=ebdb7727f3) | Jan 19, 2025 |
+| ASUSTek       | M4A87TD EVO                 | [62c865e215](https://linux-hardware.org/?probe=62c865e215) | Jan 16, 2025 |
+| Dell          | 0MN1TX A02                  | [a356273d0e](https://linux-hardware.org/?probe=a356273d0e) | Jan 15, 2025 |
+| Gigabyte      | GA-MA770-DS3                | [5e858c52a2](https://linux-hardware.org/?probe=5e858c52a2) | Jan 13, 2025 |
 | Gigabyte      | H81M-D2V                    | [aadc1a0c13](https://linux-hardware.org/?probe=aadc1a0c13) | Jan 06, 2025 |
 | ASUSTek       | P8Z77-V LX                  | [69679c9a35](https://linux-hardware.org/?probe=69679c9a35) | Dec 31, 2024 |
 | Gigabyte      | GA-MA770-DS3                | [d18eb4cf0d](https://linux-hardware.org/?probe=d18eb4cf0d) | Dec 31, 2024 |
@@ -548,7 +574,7 @@ Total: 2448
 | Dell          | 0GXM1W A00                  | [98ee61cefe](https://linux-hardware.org/?probe=98ee61cefe) | Nov 11, 2021 |
 | Dell          | 0GM819                      | [4f630535ad](https://linux-hardware.org/?probe=4f630535ad) | Nov 11, 2021 |
 | Acer          | Aspire X3995                | [351c694ae4](https://linux-hardware.org/?probe=351c694ae4) | Nov 11, 2021 |
-| Lenovo        | 370A SDK0J40700 WIN 3258... | [468d100cf4](https://linux-hardware.org/?probe=468d100cf4) | Nov 11, 2021 |
+| Lenovo        | 317C SDK0J40700 WIN 3258... | [468d100cf4](https://linux-hardware.org/?probe=468d100cf4) | Nov 11, 2021 |
 | INTELBRAS     | IE-G31TM7                   | [1b854398a1](https://linux-hardware.org/?probe=1b854398a1) | Nov 11, 2021 |
 | ASUSTek       | P5G41-M LX                  | [05de777705](https://linux-hardware.org/?probe=05de777705) | Nov 10, 2021 |
 | Dell          | 0M5DCD A00                  | [afe9c5ca6f](https://linux-hardware.org/?probe=afe9c5ca6f) | Nov 10, 2021 |
@@ -587,6 +613,7 @@ Total: 2448
 | ASUSTek       | SABERTOOTH 990FX R2.0       | [d0a4db1348](https://linux-hardware.org/?probe=d0a4db1348) | Nov 01, 2021 |
 | ASRock        | N68-S                       | [eac798f714](https://linux-hardware.org/?probe=eac798f714) | Nov 01, 2021 |
 | ASUSTek       | PRIME A320M-K/BR            | [24974be67e](https://linux-hardware.org/?probe=24974be67e) | Oct 31, 2021 |
+| Intel         | H61                         | [c0faa178a2](https://linux-hardware.org/?probe=c0faa178a2) | Oct 31, 2021 |
 | MSI           | 760GM-P34                   | [1161af8368](https://linux-hardware.org/?probe=1161af8368) | Oct 31, 2021 |
 | HP            | 3048h                       | [b62359fcb1](https://linux-hardware.org/?probe=b62359fcb1) | Oct 31, 2021 |
 | ASUSTek       | P5G41T-M LE                 | [4e4e73ba37](https://linux-hardware.org/?probe=4e4e73ba37) | Oct 30, 2021 |
@@ -1619,7 +1646,7 @@ Total: 2448
 | ASUSTek       | PRIME N3060T                | [ca424e5a3d](https://linux-hardware.org/?probe=ca424e5a3d) | Mar 31, 2021 |
 | HP            | 8433 11                     | [e9742c8d9f](https://linux-hardware.org/?probe=e9742c8d9f) | Mar 31, 2021 |
 | Lenovo        | ThinkCentre M71e 3157H2U    | [6e0ad0f342](https://linux-hardware.org/?probe=6e0ad0f342) | Mar 31, 2021 |
-| Gigabyte      | K8M800-8237                 | [a47db8ede5](https://linux-hardware.org/?probe=a47db8ede5) | Mar 31, 2021 |
+| ASUSTek       | M4A78 PRO                   | [a47db8ede5](https://linux-hardware.org/?probe=a47db8ede5) | Mar 31, 2021 |
 | ASUSTek       | B85-PLUS                    | [f6ac5358d0](https://linux-hardware.org/?probe=f6ac5358d0) | Mar 30, 2021 |
 | Gigabyte      | 970A-DS3P                   | [c1f8d5a818](https://linux-hardware.org/?probe=c1f8d5a818) | Mar 30, 2021 |
 | Foxconn       | 45CMX/45GMX/45CMX-K         | [e5fcb44711](https://linux-hardware.org/?probe=e5fcb44711) | Mar 30, 2021 |
@@ -2179,7 +2206,7 @@ Total: 2448
 | ASUSTek       | TUF Gaming X570-PLUS        | [cd896e34fc](https://linux-hardware.org/?probe=cd896e34fc) | Feb 16, 2021 |
 | HP            | 3031h                       | [05d6f9c869](https://linux-hardware.org/?probe=05d6f9c869) | Feb 16, 2021 |
 | ASUSTek       | M5A78L-M PLUS/USB3          | [2a34d7c2e6](https://linux-hardware.org/?probe=2a34d7c2e6) | Feb 16, 2021 |
-| Biostar       | H81MHV3                     | [dd2f04f1ee](https://linux-hardware.org/?probe=dd2f04f1ee) | Feb 16, 2021 |
+| MACHINIST     | H81M-PRO S1 V2.0            | [dd2f04f1ee](https://linux-hardware.org/?probe=dd2f04f1ee) | Feb 16, 2021 |
 | MSI           | B450 GAMING PLUS MAX        | [ba647431f2](https://linux-hardware.org/?probe=ba647431f2) | Feb 16, 2021 |
 | Intel         | DH61WW AAG23116-206         | [446351d845](https://linux-hardware.org/?probe=446351d845) | Feb 15, 2021 |
 | Gigabyte      | GA-MA770T-UD3               | [5b28edae36](https://linux-hardware.org/?probe=5b28edae36) | Feb 15, 2021 |

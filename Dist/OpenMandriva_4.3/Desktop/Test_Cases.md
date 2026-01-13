@@ -1,10 +1,28 @@
 OpenMandriva 4.3 - Test Cases (Desktops)
 ----------------------------------------
 
-Total: 2311
+Total: 2329
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | STRIX B250G GAMING          | [e71d05d160](https://linux-hardware.org/?probe=e71d05d160) | Dec 26, 2025 |
+| ASUSTek       | B450M-DRAGON                | [64cbbe42f6](https://linux-hardware.org/?probe=64cbbe42f6) | Nov 02, 2025 |
+| ASUSTek       | TUF Gaming B550-PLUS        | [6e969f98cd](https://linux-hardware.org/?probe=6e969f98cd) | Sep 15, 2025 |
+| HP            | 3397                        | [ae80bb403a](https://linux-hardware.org/?probe=ae80bb403a) | Sep 05, 2025 |
+| Gigabyte      | Z590 GAMING X               | [2c93c664d6](https://linux-hardware.org/?probe=2c93c664d6) | Aug 02, 2025 |
+| Dell          | 0XCR8D A02                  | [9e67d345d7](https://linux-hardware.org/?probe=9e67d345d7) | Jul 28, 2025 |
+| Dell          | 0F6X5P A00                  | [a014601b9f](https://linux-hardware.org/?probe=a014601b9f) | Jul 16, 2025 |
+| HP            | 2129                        | [768b38ad68](https://linux-hardware.org/?probe=768b38ad68) | May 04, 2025 |
+| Gigabyte      | GA-MA78LMT-S2               | [b30373ea7e](https://linux-hardware.org/?probe=b30373ea7e) | Apr 11, 2025 |
+| Gigabyte      | GA-78LMT-S2                 | [efcce4a248](https://linux-hardware.org/?probe=efcce4a248) | Apr 05, 2025 |
+| ASUSTek       | TUF Gaming B550-PLUS        | [79d5c5aa09](https://linux-hardware.org/?probe=79d5c5aa09) | Mar 28, 2025 |
+| ASRock        | G31M-VS2                    | [3a2d188326](https://linux-hardware.org/?probe=3a2d188326) | Mar 20, 2025 |
+| Gigabyte      | X470 AORUS GAMING 5 WIFI... | [a6999afbbd](https://linux-hardware.org/?probe=a6999afbbd) | Feb 12, 2025 |
+| Gigabyte      | AX370-Gaming 3-CF           | [24491ddecf](https://linux-hardware.org/?probe=24491ddecf) | Feb 08, 2025 |
+| HP            | 1850                        | [48f359e08f](https://linux-hardware.org/?probe=48f359e08f) | Feb 04, 2025 |
+| MSI           | PRO X670-P WIFI             | [c614b756c1](https://linux-hardware.org/?probe=c614b756c1) | Jan 25, 2025 |
+| Dell          | 0NKW6Y A02                  | [4cb8319b76](https://linux-hardware.org/?probe=4cb8319b76) | Jan 16, 2025 |
+| Dell          | 0WMJ54 A00                  | [71f056601b](https://linux-hardware.org/?probe=71f056601b) | Jan 09, 2025 |
 | Unknown       | Unknown                     | [2815b29936](https://linux-hardware.org/?probe=2815b29936) | Dec 25, 2024 |
 | Intel         | H61                         | [3b41c83d54](https://linux-hardware.org/?probe=3b41c83d54) | Dec 22, 2024 |
 | MACHINIST     | E5-K9 V1.0                  | [0454705976](https://linux-hardware.org/?probe=0454705976) | Dec 19, 2024 |
