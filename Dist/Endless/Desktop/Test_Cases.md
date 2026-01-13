@@ -1,10 +1,29 @@
 Endless - Test Cases (Desktops)
 -------------------------------
 
-Total: 1186
+Total: 1205
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Dell          | 03NVJ6 A01                  | [6a06b3c989](https://linux-hardware.org/?probe=6a06b3c989) | Dec 09, 2025 |
+| Medion        | TJ4125                      | [73026ab6f5](https://linux-hardware.org/?probe=73026ab6f5) | Dec 01, 2025 |
+| MAXSUN        | MS-TZZ A520M                | [d65008bce9](https://linux-hardware.org/?probe=d65008bce9) | Nov 06, 2025 |
+| MAXSUN        | MS-TZZ A520M                | [96b5296f35](https://linux-hardware.org/?probe=96b5296f35) | Nov 03, 2025 |
+| HP            | 3397                        | [c2c10663cd](https://linux-hardware.org/?probe=c2c10663cd) | Sep 15, 2025 |
+| Gigabyte      | Z77X-UP4 TH                 | [d4ef591d65](https://linux-hardware.org/?probe=d4ef591d65) | Sep 14, 2025 |
+| ASRock        | X99 WS                      | [cccacdaf17](https://linux-hardware.org/?probe=cccacdaf17) | Sep 04, 2025 |
+| Pegatron      | 2AD5                        | [59333da22e](https://linux-hardware.org/?probe=59333da22e) | Jul 05, 2025 |
+| HP            | 1497                        | [f90f5ab185](https://linux-hardware.org/?probe=f90f5ab185) | Jun 29, 2025 |
+| Positivo      | POS-EIH610EX 11210377       | [16188feca3](https://linux-hardware.org/?probe=16188feca3) | Jun 28, 2025 |
+| MSI           | Z270-A PRO                  | [16faa0cccd](https://linux-hardware.org/?probe=16faa0cccd) | Jun 19, 2025 |
+| Medion        | TJ4125                      | [f940530a41](https://linux-hardware.org/?probe=f940530a41) | Apr 18, 2025 |
+| Intel         | H55                         | [7605ba8dad](https://linux-hardware.org/?probe=7605ba8dad) | Apr 12, 2025 |
+| Unknown       | FAY-002                     | [be524ef9e3](https://linux-hardware.org/?probe=be524ef9e3) | Mar 14, 2025 |
+| EVGA          | 132-BL-E758 Tylersburg      | [4f5c629157](https://linux-hardware.org/?probe=4f5c629157) | Mar 08, 2025 |
+| ASRock        | H77M                        | [4ae97924b1](https://linux-hardware.org/?probe=4ae97924b1) | Jan 27, 2025 |
+| ASRock        | H77M                        | [85fd38356c](https://linux-hardware.org/?probe=85fd38356c) | Jan 27, 2025 |
+| AMI           | Cherry Trail CR             | [c606f24860](https://linux-hardware.org/?probe=c606f24860) | Jan 14, 2025 |
+| Gigabyte      | 970A-D3P                    | [a1178b6d96](https://linux-hardware.org/?probe=a1178b6d96) | Jan 13, 2025 |
 | Acer          | Aspire XC-830               | [1a9f6c2b88](https://linux-hardware.org/?probe=1a9f6c2b88) | Jan 05, 2025 |
 | Acer          | Aspire XC-830               | [35a7b3f08c](https://linux-hardware.org/?probe=35a7b3f08c) | Dec 25, 2024 |
 | ASUSTek       | P5KPL-AM-CKD-VISUM-SI       | [07da9c9689](https://linux-hardware.org/?probe=07da9c9689) | Dec 11, 2024 |
