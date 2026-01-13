@@ -1,10 +1,33 @@
 Peppermint - Test Cases
 -----------------------
 
-Total: 510
+Total: 533
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| HP            | EliteBook 845 G8 Noteboo... | Notebook    | [a39ac706a0](https://linux-hardware.org/?probe=a39ac706a0) | Dec 08, 2025 |
+| Google        | Swanky                      | Notebook    | [cb52c6f09d](https://linux-hardware.org/?probe=cb52c6f09d) | Nov 17, 2025 |
+| HP            | ProBook 6460b               | Notebook    | [606b204389](https://linux-hardware.org/?probe=606b204389) | Nov 15, 2025 |
+| Toshiba       | STI 014349                  | Desktop     | [42dd80d41e](https://linux-hardware.org/?probe=42dd80d41e) | Oct 23, 2025 |
+| Dell          | 0PU052                      | Desktop     | [5b93a29d57](https://linux-hardware.org/?probe=5b93a29d57) | Sep 29, 2025 |
+| HP            | ProBook 6460b               | Notebook    | [25d31d78c1](https://linux-hardware.org/?probe=25d31d78c1) | Aug 21, 2025 |
+| Google        | Swanky                      | Notebook    | [db99f8824f](https://linux-hardware.org/?probe=db99f8824f) | Aug 20, 2025 |
+| Acer          | Aspire ES1-131              | Notebook    | [af66d541db](https://linux-hardware.org/?probe=af66d541db) | Aug 14, 2025 |
+| Lenovo        | MIIX 320-10ICR 80XF         | Tablet      | [623d9b43fe](https://linux-hardware.org/?probe=623d9b43fe) | Jul 30, 2025 |
+| Gigabyte      | B450M DS3H WIFI-CF          | Desktop     | [8b5a278c11](https://linux-hardware.org/?probe=8b5a278c11) | Jun 17, 2025 |
+| Dell          | Latitude D430               | Notebook    | [e85ebc5171](https://linux-hardware.org/?probe=e85ebc5171) | May 25, 2025 |
+| Dell          | Latitude D430               | Notebook    | [341d6d6d88](https://linux-hardware.org/?probe=341d6d6d88) | May 25, 2025 |
+| HP            | 18E9                        | Desktop     | [29d006f605](https://linux-hardware.org/?probe=29d006f605) | May 22, 2025 |
+| ASUSTek       | T100TA                      | Notebook    | [47de7fead3](https://linux-hardware.org/?probe=47de7fead3) | Apr 28, 2025 |
+| ASUSTek       | T100TA                      | Notebook    | [cf9f82f202](https://linux-hardware.org/?probe=cf9f82f202) | Apr 28, 2025 |
+| HP            | 86F3 00100                  | All in one  | [8c195d6a85](https://linux-hardware.org/?probe=8c195d6a85) | Apr 25, 2025 |
+| HP            | 86F3 00100                  | All in one  | [d39be6b488](https://linux-hardware.org/?probe=d39be6b488) | Apr 17, 2025 |
+| Acer          | Aspire E1-572               | Notebook    | [0fd8fe7c1f](https://linux-hardware.org/?probe=0fd8fe7c1f) | Apr 13, 2025 |
+| Acer          | Aspire E1-572               | Notebook    | [126874ad19](https://linux-hardware.org/?probe=126874ad19) | Apr 12, 2025 |
+| Dell          | Inspiron 11-3168            | Notebook    | [284ad48a90](https://linux-hardware.org/?probe=284ad48a90) | Mar 06, 2025 |
+| Dell          | Inspiron 11-3168            | Notebook    | [9a21629ba5](https://linux-hardware.org/?probe=9a21629ba5) | Mar 01, 2025 |
+| Lenovo        | MIIX 310-10ICR 80SG         | Tablet      | [e57320ae96](https://linux-hardware.org/?probe=e57320ae96) | Feb 24, 2025 |
+| HUAWEI        | HLY-WX9XX                   | Notebook    | [610127ca49](https://linux-hardware.org/?probe=610127ca49) | Feb 08, 2025 |
 | ASUSTek       | P8P67                       | Desktop     | [26e848809d](https://linux-hardware.org/?probe=26e848809d) | Jan 05, 2025 |
 | ECS           | A55F-M3                     | Desktop     | [1d2df44dd7](https://linux-hardware.org/?probe=1d2df44dd7) | Dec 21, 2024 |
 | HP            | 339A                        | Desktop     | [f12d4ef0f3](https://linux-hardware.org/?probe=f12d4ef0f3) | Dec 21, 2024 |
