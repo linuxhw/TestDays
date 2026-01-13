@@ -1,10 +1,35 @@
 Clear Linux - Test Cases
 ------------------------
 
-Total: 1499
+Total: 1524
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASRock        | N3050-NUC                   | Desktop     | [396ff4ac18](https://linux-hardware.org/?probe=396ff4ac18) | Dec 23, 2025 |
+| HUAWEI        | MDF-XX                      | Notebook    | [fe8121df14](https://linux-hardware.org/?probe=fe8121df14) | Nov 07, 2025 |
+| Dell          | Inspiron 3580               | Notebook    | [5d29146bf4](https://linux-hardware.org/?probe=5d29146bf4) | Sep 26, 2025 |
+| Unknown       | Unknown                     | Notebook    | [1594e25416](https://linux-hardware.org/?probe=1594e25416) | Jul 11, 2025 |
+| Apple         | MacBookPro14,1              | Notebook    | [bb2798316c](https://linux-hardware.org/?probe=bb2798316c) | Jun 27, 2025 |
+| Microsoft     | Surface Laptop Go           | Tablet      | [1e9cc63b54](https://linux-hardware.org/?probe=1e9cc63b54) | Jun 11, 2025 |
+| Lenovo        | ThinkPad T430 2349BW4       | Notebook    | [1a553b40fe](https://linux-hardware.org/?probe=1a553b40fe) | Jun 01, 2025 |
+| HP            | Spectre x360 2-in-1 Lapt... | Convertible | [4ac9dc480c](https://linux-hardware.org/?probe=4ac9dc480c) | May 17, 2025 |
+| Intel         | X99                         | Desktop     | [230ed0ad7d](https://linux-hardware.org/?probe=230ed0ad7d) | May 06, 2025 |
+| ASUSTek       | GL552JX                     | Notebook    | [893d54bdac](https://linux-hardware.org/?probe=893d54bdac) | May 02, 2025 |
+| Google        | Bluebird                    | Notebook    | [ff8140edbe](https://linux-hardware.org/?probe=ff8140edbe) | Apr 27, 2025 |
+| HP            | 8522 A01                    | Mini pc     | [71deba8df1](https://linux-hardware.org/?probe=71deba8df1) | Apr 15, 2025 |
+| Lenovo        | ThinkPad Z13 Gen 2 21JVC... | Notebook    | [f30b22a879](https://linux-hardware.org/?probe=f30b22a879) | Mar 30, 2025 |
+| Lenovo        | IdeaPad 1 15IAU7 82QD       | Notebook    | [4c2c270006](https://linux-hardware.org/?probe=4c2c270006) | Mar 23, 2025 |
+| HP            | Spectre x360 2-in-1 Lapt... | Convertible | [74c5976d61](https://linux-hardware.org/?probe=74c5976d61) | Mar 22, 2025 |
+| Lenovo        | 310B SDK0J40697 WIN 3305... | Mini pc     | [09dccc88e6](https://linux-hardware.org/?probe=09dccc88e6) | Mar 19, 2025 |
+| HP            | Pavilion Laptop 14-dv0xx... | Notebook    | [89aff1a1da](https://linux-hardware.org/?probe=89aff1a1da) | Mar 15, 2025 |
+| HP            | Pavilion Laptop 14-dv0xx... | Notebook    | [fe1b7bc9a7](https://linux-hardware.org/?probe=fe1b7bc9a7) | Mar 14, 2025 |
+| Lenovo        | ThinkPad Z13 Gen 2 21JVC... | Notebook    | [2d287ebd1f](https://linux-hardware.org/?probe=2d287ebd1f) | Mar 03, 2025 |
+| Acer          | Swift SF114-34              | Notebook    | [9b9e7402d6](https://linux-hardware.org/?probe=9b9e7402d6) | Mar 01, 2025 |
+| HP            | ProBook 455 15.6 inch G1... | Notebook    | [37b1f07694](https://linux-hardware.org/?probe=37b1f07694) | Feb 10, 2025 |
+| ASUSTek       | H110-PLUS                   | Desktop     | [5c6da39895](https://linux-hardware.org/?probe=5c6da39895) | Feb 10, 2025 |
+| ASUSTek       | X555LJ                      | Notebook    | [d881ae0dab](https://linux-hardware.org/?probe=d881ae0dab) | Jan 26, 2025 |
+| ONDA          | OBOOK 11                    | Notebook    | [2277cc1e81](https://linux-hardware.org/?probe=2277cc1e81) | Jan 11, 2025 |
+| ONDA          | OBOOK 11                    | Notebook    | [15d82580c6](https://linux-hardware.org/?probe=15d82580c6) | Jan 11, 2025 |
 | Samsung       | 300V3A/300V4A/300V5A/200... | Notebook    | [ffa58b22a6](https://linux-hardware.org/?probe=ffa58b22a6) | Dec 29, 2024 |
 | Samsung       | 300V3A/300V4A/300V5A/200... | Notebook    | [c76825324c](https://linux-hardware.org/?probe=c76825324c) | Dec 28, 2024 |
 | Lenovo        | IdeaPad 320-15ISK 80XH      | Notebook    | [2bc9b23a42](https://linux-hardware.org/?probe=2bc9b23a42) | Dec 21, 2024 |

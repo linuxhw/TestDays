@@ -782,7 +782,7 @@ Hard drive models
 | Samsung SSD 840 PRO Series 128GB    | 2        | 4.17%   |
 | Samsung SSD 840 EVO 250GB           | 2        | 4.17%   |
 | Samsung HD103UJ 1TB                 | 2        | 4.17%   |
-| Maxtor 6Y080L0 82GB                 | 2        | 4.17%   |
+| Maxtor 6Y080L0 81GB                 | 2        | 4.17%   |
 | Maxtor 6L200M0 208GB                | 2        | 4.17%   |
 | LITEONIT LMT-128M6M mSATA 128GB SSD | 2        | 4.17%   |
 | KingSpec MT-128 128GB               | 2        | 4.17%   |
@@ -790,7 +790,7 @@ Hard drive models
 | WDC WD2500BEVE-00A0HT0 250GB        | 1        | 2.08%   |
 | WDC WD2000JB-16FUA0 200GB           | 1        | 2.08%   |
 | WDC WD1200JB-00EVA0 120GB           | 1        | 2.08%   |
-| Vaseky V850/64G 64GB SSD            | 1        | 2.08%   |
+| Vaseky V850-64G                     | 1        | 2.08%   |
 | Samsung HM250JI 250GB               | 1        | 2.08%   |
 | KingSpec V-32 32GB SSD              | 1        | 2.08%   |
 | Intel SSDSC2CT120A3 120GB           | 1        | 2.08%   |
@@ -913,7 +913,7 @@ Drive models with a malfunction
 
 | Model                           | Desktops | Drives | Percent |
 |---------------------------------|----------|--------|---------|
-| Maxtor 6Y080L0 82GB             | 2        | 4      | 25%     |
+| Maxtor 6Y080L0 81GB             | 2        | 4      | 25%     |
 | Maxtor 6L200M0 208GB            | 2        | 3      | 25%     |
 | Seagate ST31000333AS 1TB        | 1        | 3      | 12.5%   |
 | Samsung Electronics HD103UJ 1TB | 1        | 12     | 12.5%   |
@@ -1048,9 +1048,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 20       | 58.82%  |
-| IDE  | 10       | 29.41%  |
-| RAID | 4        | 11.76%  |
+| SATA | 19       | 59.38%  |
+| IDE  | 10       | 31.25%  |
+| RAID | 3        | 9.38%   |
 
 Processor
 ---------
@@ -1241,7 +1241,7 @@ Graphics card models
 | AMD RV370 [Radeon X300 SE]                                              | 3        | 10.71%  |
 | Nvidia G72 [GeForce 7300 GS]                                            | 2        | 7.14%   |
 | AMD RS780 [Radeon HD 3200]                                              | 2        | 7.14%   |
-| Intel HD Graphics 630                                                   | 1        | 3.57%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                 | 1        | 3.57%   |
 | Intel Atom Processor D2xxx/N2xxx Integrated Graphics Controller         | 1        | 3.57%   |
 | Intel 82945G/GZ Integrated Graphics Controller                          | 1        | 3.57%   |
 | AMD RV380 [Radeon X300/X550/X1050 Series] (Secondary)                   | 1        | 3.57%   |
@@ -1323,11 +1323,11 @@ Monitor models
 
 | Model                                                                   | Desktops | Percent |
 |-------------------------------------------------------------------------|----------|---------|
-| Samsung Electronics SyncMaster SAM01D3 1440x900 408x225mm 18.3-inch     | 11       | 23.91%  |
-| ___ LCDTV16 ___0101 1920x1080                                           | 9        | 19.57%  |
-| Samsung Electronics LCD Monitor SAM2C35 1024x768 280x210mm 13.8-inch    | 5        | 10.87%  |
+| Samsung Electronics SyncMaster SAM01D3 1440x900 410x260mm 19.1-inch     | 11       | 23.91%  |
+| ___ LCD TV ___0101 1360x768                                             | 9        | 19.57%  |
+| Samsung Electronics SAMTRON 5EI SAM2C35 1024x768 267x200mm 13.1-inch    | 5        | 10.87%  |
 | Philips 190S PHL082F 1280x1024 338x270mm 17.0-inch                      | 5        | 10.87%  |
-| ViewSonic VA2226w-3 VSC2051 1680x1050 495x291mm 22.6-inch               | 4        | 8.7%    |
+| ViewSonic VA2226w-3 VSC2051 1680x1050 490x290mm 22.4-inch               | 4        | 8.7%    |
 | Unknown LCDTV16 0101 1920x1080 1600x900mm 72.3-inch                     | 4        | 8.7%    |
 | BenQ FP91G+ BNQ76A5 1280x1024 376x301mm 19.0-inch                       | 3        | 6.52%   |
 | Lenovo LEN L1711pC LEN13B7 1280x1024 338x270mm 17.0-inch                | 2        | 4.35%   |
@@ -1740,7 +1740,7 @@ Memory module models
 | pqi RAM Module 1024MB DIMM DDR2 800MT/s               | 1        | 3.23%   |
 | Nanya RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 3.23%   |
 | Kingston RAM Module 2048MB DIMM DDR2 533MT/s          | 1        | 3.23%   |
-| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1600MT/s | 1        | 3.23%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM 1600MT/s      | 1        | 3.23%   |
 | Kingston RAM 99P5471-002.A 2048MB DIMM DDR3 667MT/s   | 1        | 3.23%   |
 | Corsair RAM CMK16GX4M2A2400C16 8GB DIMM DDR4 2933MT/s | 1        | 3.23%   |
 

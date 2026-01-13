@@ -961,7 +961,7 @@ Hard drive models
 |---------------------------------------------------|-----------|---------|
 | Kingston SA400S37240G 240GB SSD                   | 3         | 3.16%   |
 | Toshiba TR200 240GB SSD                           | 2         | 2.11%   |
-| StoreJet Transcend 320GB                          | 2         | 2.11%   |
+| StoreJet Transcend 1TB                            | 2         | 2.11%   |
 | Seagate BUP Slim 2TB                              | 2         | 2.11%   |
 | Samsung NVMe SSD Controller SM981/PM981 2TB       | 2         | 2.11%   |
 | WDC WD7500BPVX-00JC3T0 752GB                      | 1         | 1.05%   |
@@ -997,7 +997,7 @@ Hard drive models
 | Seagate ST1000LM048-2E7172 1TB                    | 1         | 1.05%   |
 | Seagate ST1000LM035-1RK172 1TB                    | 1         | 1.05%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB                | 1         | 1.05%   |
-| Seagate Expansion 1TB                             | 1         | 1.05%   |
+| Seagate Expansion 2TB                             | 1         | 1.05%   |
 | Sandisk WDC PC SN730 SDB 512GB                    | 1         | 1.05%   |
 
 HDD Vendor
@@ -1086,9 +1086,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 51        | 62     | 71.83%  |
-| 0.51-1.0   | 17        | 17     | 23.94%  |
-| 1.01-2.0   | 2         | 2      | 2.82%   |
+| 0.01-0.5   | 49        | 60     | 69.01%  |
+| 0.51-1.0   | 18        | 18     | 25.35%  |
+| 1.01-2.0   | 3         | 3      | 4.23%   |
 | 3.01-4.0   | 1         | 1      | 1.41%   |
 
 Space Total
@@ -1288,15 +1288,15 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                         | 2         | 2.25%   |
 | Toshiba America Info Systems XG6 NVMe SSD Controller                                   | 1         | 1.12%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                                   | 1         | 1.12%   |
+| SanDisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                           | 1         | 1.12%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                             | 1         | 1.12%   |
 | SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                                  | 1         | 1.12%   |
-| SanDisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                | 1         | 1.12%   |
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD                   | 1         | 1.12%   |
 | SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                            | 1         | 1.12%   |
 | Nvidia MCP79 SATA Controller                                                           | 1         | 1.12%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                             | 1         | 1.12%   |
 | Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                          | 1         | 1.12%   |
-| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                         | 1         | 1.12%   |
+| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD [E8]                                    | 1         | 1.12%   |
 | Intel Volume Management Device NVMe RAID Controller                                    | 1         | 1.12%   |
 | Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                                       | 1         | 1.12%   |
 | Intel Mobile PM965/GM965 PT IDER Controller                                            | 1         | 1.12%   |
@@ -1570,19 +1570,19 @@ Graphics card models
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller             | 9         | 8.82%   |
 | Intel 3rd Gen Core processor Graphics Controller                                      | 6         | 5.88%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                      | 5         | 4.9%    |
-| Intel UHD Graphics 620                                                                | 4         | 3.92%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                             | 4         | 3.92%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                              | 4         | 3.92%   |
 | Intel Core Processor Integrated Graphics Controller                                   | 4         | 3.92%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                   | 3         | 2.94%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                 | 3         | 2.94%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                   | 3         | 2.94%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                     | 3         | 2.94%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                          | 3         | 2.94%   |
-| Intel HD Graphics 630                                                                 | 3         | 2.94%   |
-| Intel HD Graphics 620                                                                 | 3         | 2.94%   |
+| Intel Kaby Lake-H GT2 [HD Graphics 630]                                               | 3         | 2.94%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                             | 3         | 2.94%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                           | 3         | 2.94%   |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                            | 2         | 1.96%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                            | 2         | 1.96%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                               | 2         | 1.96%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                                  | 2         | 1.96%   |
 | AMD Whistler [Radeon HD 6630M/6650M/6750M/7670M/7690M]                                | 2         | 1.96%   |
 | AMD Topaz XT [Radeon R7 M260/M265 / M340/M360 / M440/M445 / 530/535 / 620/625 Mobile] | 2         | 1.96%   |
@@ -1706,7 +1706,7 @@ Monitor models
 | Sharp LCD Monitor SHP144D 3840x2160 276x156mm 12.5-inch               | 1         | 1.22%   |
 | Samsung Electronics SA300/SA350 SAM078E 1920x1080 477x268mm 21.5-inch | 1         | 1.22%   |
 | Samsung Electronics S24D300 SAM0B43 1920x1080 531x299mm 24.0-inch     | 1         | 1.22%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 286x179mm 13.3-inch  | 1         | 1.22%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch  | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SEC4D45 1280x800 331x207mm 15.4-inch  | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SEC4C42 1280x800 303x190mm 14.1-inch  | 1         | 1.22%   |
 | Samsung Electronics LCD Monitor SEC325A 1366x768 344x194mm 15.5-inch  | 1         | 1.22%   |
@@ -1716,7 +1716,7 @@ Monitor models
 | PANDA LCD Monitor NCP0036 1920x1080 344x194mm 15.5-inch               | 1         | 1.22%   |
 | PANDA LCD Monitor NCP0033 1920x1080 344x194mm 15.5-inch               | 1         | 1.22%   |
 | MIT LCD Monitor MIT2011 3840x2160 1150x650mm 52.0-inch                | 1         | 1.22%   |
-| MIT HDMI Matrix MIT2011 1920x1080 708x398mm 32.0-inch                 | 1         | 1.22%   |
+| MIT HDMI Matrix MIT2011 1920x1200 708x398mm 32.0-inch                 | 1         | 1.22%   |
 | LG Philips LCD Monitor LPLC700 1280x800 331x207mm 15.4-inch           | 1         | 1.22%   |
 | LG Display LCD Monitor LGD6616 1366x768 277x156mm 12.5-inch           | 1         | 1.22%   |
 | LG Display LCD Monitor LGD05D4 1920x1080 344x194mm 15.5-inch          | 1         | 1.22%   |
@@ -1727,14 +1727,14 @@ Monitor models
 | LG Display LCD Monitor LGD0450 1366x768 277x156mm 12.5-inch           | 1         | 1.22%   |
 | LG Display LCD Monitor LGD03B7 1366x768 309x174mm 14.0-inch           | 1         | 1.22%   |
 | LG Display LCD Monitor LGD036C 1366x768 277x156mm 12.5-inch           | 1         | 1.22%   |
-| LG Display LCD Monitor LGD032C 1920x1080 344x194mm 15.5-inch          | 1         | 1.22%   |
+| LG Display LCD Monitor LGD032C 1920x1080 340x190mm 15.3-inch          | 1         | 1.22%   |
 | LG Display LCD Monitor LGD02FC 1920x1080 380x210mm 17.1-inch          | 1         | 1.22%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 344x194mm 15.5-inch          | 1         | 1.22%   |
 | LG Display LCD Monitor LGD02C5 1920x1080 382x215mm 17.3-inch          | 1         | 1.22%   |
 | LG Display LCD Monitor LGD0290 1366x768 293x165mm 13.2-inch           | 1         | 1.22%   |
 | LG Display LCD Monitor LGD0289 1600x900 382x215mm 17.3-inch           | 1         | 1.22%   |
 | Lenovo T24i-10 LEN61A6 1920x1080 527x296mm 23.8-inch                  | 1         | 1.22%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 344x193mm 15.5-inch               | 1         | 1.22%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 345x194mm 15.6-inch               | 1         | 1.22%   |
 | Lenovo LCD Monitor LEN4011 1280x800 261x163mm 12.1-inch               | 1         | 1.22%   |
 | Lenovo LCD Monitor LEN4010 1280x800 261x163mm 12.1-inch               | 1         | 1.22%   |
 | Lenovo LCD Monitor LEN4000 1024x768 246x185mm 12.1-inch               | 1         | 1.22%   |
@@ -2209,7 +2209,7 @@ Controller models
 | Lite-On Bluetooth Device                                                            | 1         | 1.79%   |
 | Lite-On Atheros AR3012 Bluetooth                                                    | 1         | 1.79%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 1.79%   |
-| Intel AX211 Bluetooth                                                               | 1         | 1.79%   |
+| Intel Bluetooth Device                                                              | 1         | 1.79%   |
 | IMC Networks Bluetooth Device                                                       | 1         | 1.79%   |
 | Foxconn / Hon Hai Foxconn T77H114 BCM2070 [Single-Chip Bluetooth 2.1 + EDR Adapter] | 1         | 1.79%   |
 | Dell BCM20702A0 Bluetooth Module                                                    | 1         | 1.79%   |
@@ -2284,10 +2284,10 @@ Sound card models
 | Intel Alder Lake PCH-P High Definition Audio Controller                                           | 1         | 1.04%   |
 | GN Netcom Jabra SPEAK 510 USB                                                                     | 1         | 1.04%   |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                                         | 1         | 1.04%   |
-| AMD Renoir Radeon High Definition Audio Controller                                                | 1         | 1.04%   |
+| AMD Ryzen HD Audio Controller                                                                     | 1         | 1.04%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                       | 1         | 1.04%   |
 | AMD Redwood HDMI Audio [Radeon HD 5000 Series]                                                    | 1         | 1.04%   |
 | AMD IXP SB4x0 High Definition Audio Controller                                                    | 1         | 1.04%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 1         | 1.04%   |
 
 Memory
 ------
@@ -2326,13 +2326,13 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 2.9%    |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 2         | 2.9%    |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 3         | 4.35%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 2667MT/s       | 2         | 2.9%    |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s       | 2         | 2.9%    |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 2         | 2.9%    |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1600MT/s        | 2         | 2.9%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3266MT/s        | 2         | 2.9%    |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s       | 2         | 2.9%    |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s        | 2         | 2.9%    |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 8400MT/s        | 2         | 2.9%    |
 | Wilk RAM GR3200S464L22/16G 16GB SODIMM DDR4 3200MT/s         | 1         | 1.45%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1067MT/s                  | 1         | 1.45%   |
 | Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s               | 1         | 1.45%   |
@@ -2343,7 +2343,6 @@ Memory module models
 | Transcend RAM JM2666HSB-16G 16GB SODIMM DDR4 2667MT/s        | 1         | 1.45%   |
 | SK hynix RAM Module 8192MB SODIMM DDR4 2133MT/s              | 1         | 1.45%   |
 | SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.45%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4096MB SODIMM DDR3 1600MT/s    | 1         | 1.45%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.45%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.45%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 1.45%   |
@@ -2357,7 +2356,7 @@ Memory module models
 | Samsung RAM Module 2048MB SODIMM DDR2 667MT/s                | 1         | 1.45%   |
 | Samsung RAM Module 16384MB SODIMM DDR4 3200MT/s              | 1         | 1.45%   |
 | Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                | 1         | 1.45%   |
-| Samsung RAM M471B5273EB0-CK0 4096MB SODIMM DDR3 4199MT/s     | 1         | 1.45%   |
+| Samsung RAM M471B5273EB0-CK0 4GB SODIMM DDR3 4199MT/s        | 1         | 1.45%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 1.45%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.45%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s        | 1         | 1.45%   |
@@ -2366,6 +2365,7 @@ Memory module models
 | Samsung RAM K4E6E304EE-EGCE 4096MB SODIMM LPDDR3 1600MT/s    | 1         | 1.45%   |
 | Samsung RAM K4E6E304EB-EGCG 4GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.45%   |
 | Ramaxel RAM RMSA3260MB78HAF2400 8GB SODIMM DDR4 2400MT/s     | 1         | 1.45%   |
+| Nanya RAM NT4GC64B8HB0NS-CG 4GB SODIMM DDR3 1334MT/s         | 1         | 1.45%   |
 
 Memory Kind
 -----------
@@ -2377,11 +2377,11 @@ Memory module kinds
 
 | Kind   | Notebooks | Percent |
 |--------|-----------|---------|
-| DDR3   | 25        | 43.86%  |
+| DDR3   | 24        | 42.11%  |
 | DDR4   | 23        | 40.35%  |
 | DDR2   | 4         | 7.02%   |
+| SDRAM  | 2         | 3.51%   |
 | LPDDR3 | 2         | 3.51%   |
-| SDRAM  | 1         | 1.75%   |
 | DRAM   | 1         | 1.75%   |
 | DDR5   | 1         | 1.75%   |
 
@@ -2425,20 +2425,21 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 15        | 23.44%  |
-| 2667    | 14        | 21.88%  |
-| 3200    | 8         | 12.5%   |
-| 1333    | 7         | 10.94%  |
-| 1334    | 4         | 6.25%   |
-| 2400    | 3         | 4.69%   |
-| 667     | 3         | 4.69%   |
-| 3266    | 2         | 3.13%   |
-| 2133    | 2         | 3.13%   |
-| Unknown | 2         | 3.13%   |
-| 4800    | 1         | 1.56%   |
-| 4199    | 1         | 1.56%   |
-| 1067    | 1         | 1.56%   |
-| 800     | 1         | 1.56%   |
+| 1600    | 15        | 22.73%  |
+| 2667    | 14        | 21.21%  |
+| 3200    | 8         | 12.12%  |
+| 1333    | 7         | 10.61%  |
+| 2400    | 3         | 4.55%   |
+| 1334    | 3         | 4.55%   |
+| 667     | 3         | 4.55%   |
+| 8400    | 2         | 3.03%   |
+| 4199    | 2         | 3.03%   |
+| 3266    | 2         | 3.03%   |
+| 2133    | 2         | 3.03%   |
+| Unknown | 2         | 3.03%   |
+| 4800    | 1         | 1.52%   |
+| 1067    | 1         | 1.52%   |
+| 800     | 1         | 1.52%   |
 
 Printers & scanners
 -------------------
@@ -2651,9 +2652,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 27        | 35.53%  |
+| 1     | 29        | 38.16%  |
 | 0     | 27        | 35.53%  |
-| 2     | 15        | 19.74%  |
+| 2     | 13        | 17.11%  |
 | 4     | 4         | 5.26%   |
 | 5     | 2         | 2.63%   |
 | 3     | 1         | 1.32%   |
@@ -2668,15 +2669,15 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Graphics card            | 25        | 32.05%  |
-| Fingerprint reader       | 18        | 23.08%  |
-| Communication controller | 10        | 12.82%  |
-| Net/wireless             | 7         | 8.97%   |
-| Chipcard                 | 6         | 7.69%   |
-| Sound                    | 4         | 5.13%   |
-| Net/ethernet             | 3         | 3.85%   |
-| Storage                  | 2         | 2.56%   |
-| Storage/raid             | 1         | 1.28%   |
-| Multimedia controller    | 1         | 1.28%   |
-| Card reader              | 1         | 1.28%   |
+| Graphics card            | 24        | 31.17%  |
+| Fingerprint reader       | 18        | 23.38%  |
+| Communication controller | 10        | 12.99%  |
+| Net/wireless             | 7         | 9.09%   |
+| Chipcard                 | 6         | 7.79%   |
+| Sound                    | 4         | 5.19%   |
+| Net/ethernet             | 3         | 3.9%    |
+| Storage                  | 2         | 2.6%    |
+| Storage/raid             | 1         | 1.3%    |
+| Multimedia controller    | 1         | 1.3%    |
+| Card reader              | 1         | 1.3%    |
 

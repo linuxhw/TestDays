@@ -1,10 +1,27 @@
 Clear Linux - Test Cases (Notebooks)
 ------------------------------------
 
-Total: 815
+Total: 832
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| HUAWEI        | MDF-XX                      | [fe8121df14](https://linux-hardware.org/?probe=fe8121df14) | Nov 07, 2025 |
+| Dell          | Inspiron 3580               | [5d29146bf4](https://linux-hardware.org/?probe=5d29146bf4) | Sep 26, 2025 |
+| Unknown       | Unknown                     | [1594e25416](https://linux-hardware.org/?probe=1594e25416) | Jul 11, 2025 |
+| Apple         | MacBookPro14,1              | [bb2798316c](https://linux-hardware.org/?probe=bb2798316c) | Jun 27, 2025 |
+| Lenovo        | ThinkPad T430 2349BW4       | [1a553b40fe](https://linux-hardware.org/?probe=1a553b40fe) | Jun 01, 2025 |
+| ASUSTek       | GL552JX                     | [893d54bdac](https://linux-hardware.org/?probe=893d54bdac) | May 02, 2025 |
+| Google        | Bluebird                    | [ff8140edbe](https://linux-hardware.org/?probe=ff8140edbe) | Apr 27, 2025 |
+| Lenovo        | ThinkPad Z13 Gen 2 21JVC... | [f30b22a879](https://linux-hardware.org/?probe=f30b22a879) | Mar 30, 2025 |
+| Lenovo        | IdeaPad 1 15IAU7 82QD       | [4c2c270006](https://linux-hardware.org/?probe=4c2c270006) | Mar 23, 2025 |
+| HP            | Pavilion Laptop 14-dv0xx... | [89aff1a1da](https://linux-hardware.org/?probe=89aff1a1da) | Mar 15, 2025 |
+| HP            | Pavilion Laptop 14-dv0xx... | [fe1b7bc9a7](https://linux-hardware.org/?probe=fe1b7bc9a7) | Mar 14, 2025 |
+| Lenovo        | ThinkPad Z13 Gen 2 21JVC... | [2d287ebd1f](https://linux-hardware.org/?probe=2d287ebd1f) | Mar 03, 2025 |
+| Acer          | Swift SF114-34              | [9b9e7402d6](https://linux-hardware.org/?probe=9b9e7402d6) | Mar 01, 2025 |
+| HP            | ProBook 455 15.6 inch G1... | [37b1f07694](https://linux-hardware.org/?probe=37b1f07694) | Feb 10, 2025 |
+| ASUSTek       | X555LJ                      | [d881ae0dab](https://linux-hardware.org/?probe=d881ae0dab) | Jan 26, 2025 |
+| ONDA          | OBOOK 11                    | [2277cc1e81](https://linux-hardware.org/?probe=2277cc1e81) | Jan 11, 2025 |
+| ONDA          | OBOOK 11                    | [15d82580c6](https://linux-hardware.org/?probe=15d82580c6) | Jan 11, 2025 |
 | Samsung       | 300V3A/300V4A/300V5A/200... | [ffa58b22a6](https://linux-hardware.org/?probe=ffa58b22a6) | Dec 29, 2024 |
 | Samsung       | 300V3A/300V4A/300V5A/200... | [c76825324c](https://linux-hardware.org/?probe=c76825324c) | Dec 28, 2024 |
 | Lenovo        | IdeaPad 320-15ISK 80XH      | [2bc9b23a42](https://linux-hardware.org/?probe=2bc9b23a42) | Dec 21, 2024 |
