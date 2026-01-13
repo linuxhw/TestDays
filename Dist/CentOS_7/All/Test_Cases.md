@@ -1,10 +1,77 @@
 CentOS 7 - Test Cases
 ---------------------
 
-Total: 556
+Total: 623
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| OEM           | OEM                         | Desktop     | [ee2ca53267](https://linux-hardware.org/?probe=ee2ca53267) | Dec 05, 2025 |
+| Biostar       | TB85                        | Desktop     | [6a90604419](https://linux-hardware.org/?probe=6a90604419) | Oct 19, 2025 |
+| Gigabyte      | H61M-S2PV                   | Desktop     | [22991cb906](https://linux-hardware.org/?probe=22991cb906) | Oct 06, 2025 |
+| Gigabyte      | H61M-S2PV                   | Desktop     | [69417b2c40](https://linux-hardware.org/?probe=69417b2c40) | Oct 06, 2025 |
+| Lenovo        | ThinkCentre M91 4514A17     | Desktop     | [f686edc259](https://linux-hardware.org/?probe=f686edc259) | Aug 06, 2025 |
+| MSI           | B760 GAMING PLUS WIFI       | Desktop     | [ba8983be94](https://linux-hardware.org/?probe=ba8983be94) | Jun 30, 2025 |
+| Dell          | 05XKKK A08                  | Server      | [a40d99466e](https://linux-hardware.org/?probe=a40d99466e) | Jun 26, 2025 |
+| MSI           | B760 GAMING PLUS WIFI       | Desktop     | [87a044c46e](https://linux-hardware.org/?probe=87a044c46e) | Jun 26, 2025 |
+| Supermicro    | H8DM8-2                     | Desktop     | [758a1a42b6](https://linux-hardware.org/?probe=758a1a42b6) | Jun 25, 2025 |
+| Dell          | 08HT8T A01                  | Server      | [04600854ea](https://linux-hardware.org/?probe=04600854ea) | Jun 11, 2025 |
+| Dell          | 07NDJ2 A01                  | Server      | [4e48269f14](https://linux-hardware.org/?probe=4e48269f14) | May 28, 2025 |
+| Gigabyte      | H81M-S2PV                   | Desktop     | [84d5da6113](https://linux-hardware.org/?probe=84d5da6113) | May 26, 2025 |
+| MSI           | B360M PRO-VH                | Desktop     | [c09f75a3c4](https://linux-hardware.org/?probe=c09f75a3c4) | May 26, 2025 |
+| ASUSTek       | H110M-K                     | Desktop     | [8239ce60f7](https://linux-hardware.org/?probe=8239ce60f7) | May 26, 2025 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [0031078ca5](https://linux-hardware.org/?probe=0031078ca5) | May 26, 2025 |
+| MSI           | B250M PRO-VH                | Desktop     | [dc1eecbed9](https://linux-hardware.org/?probe=dc1eecbed9) | May 26, 2025 |
+| MSI           | B360M PRO-VH                | Desktop     | [c471ec8871](https://linux-hardware.org/?probe=c471ec8871) | May 26, 2025 |
+| MSI           | B360M PRO-VH                | Desktop     | [545c9004ac](https://linux-hardware.org/?probe=545c9004ac) | May 26, 2025 |
+| MSI           | B360M PRO-VH                | Desktop     | [8fe2da3613](https://linux-hardware.org/?probe=8fe2da3613) | May 26, 2025 |
+| MSI           | B360M PRO-VH                | Desktop     | [9fc0d33d0d](https://linux-hardware.org/?probe=9fc0d33d0d) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [3914f81eab](https://linux-hardware.org/?probe=3914f81eab) | May 26, 2025 |
+| MSI           | B360M PRO-VH                | Desktop     | [fa5b869e60](https://linux-hardware.org/?probe=fa5b869e60) | May 26, 2025 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [66a0218d15](https://linux-hardware.org/?probe=66a0218d15) | May 26, 2025 |
+| MSI           | B250M PRO-VH                | Desktop     | [03f03bc5b2](https://linux-hardware.org/?probe=03f03bc5b2) | May 26, 2025 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [1bbbe3a59d](https://linux-hardware.org/?probe=1bbbe3a59d) | May 26, 2025 |
+| Intel         | S1200RP_SE G62252-408       | Server      | [b0ecc4677c](https://linux-hardware.org/?probe=b0ecc4677c) | May 26, 2025 |
+| Gigabyte      | H81M-S2PV                   | Desktop     | [bcf905ca2c](https://linux-hardware.org/?probe=bcf905ca2c) | May 26, 2025 |
+| ASUSTek       | M5A78L-M LX V2              | Desktop     | [ca88605b60](https://linux-hardware.org/?probe=ca88605b60) | May 26, 2025 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [04833456bf](https://linux-hardware.org/?probe=04833456bf) | May 26, 2025 |
+| MSI           | B250M PRO-VH                | Desktop     | [f8659033e3](https://linux-hardware.org/?probe=f8659033e3) | May 26, 2025 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [4301966886](https://linux-hardware.org/?probe=4301966886) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [d1f2fb5323](https://linux-hardware.org/?probe=d1f2fb5323) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [8891268e27](https://linux-hardware.org/?probe=8891268e27) | May 26, 2025 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [f1a19c97f2](https://linux-hardware.org/?probe=f1a19c97f2) | May 26, 2025 |
+| MSI           | B250M PRO-VH                | Desktop     | [0ffd837b57](https://linux-hardware.org/?probe=0ffd837b57) | May 26, 2025 |
+| MSI           | B250M PRO-VH                | Desktop     | [8a6af89b86](https://linux-hardware.org/?probe=8a6af89b86) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [a68fc1976a](https://linux-hardware.org/?probe=a68fc1976a) | May 26, 2025 |
+| MSI           | H110M PRO-VH PLUS           | Desktop     | [f32916ad8f](https://linux-hardware.org/?probe=f32916ad8f) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [4c64acc642](https://linux-hardware.org/?probe=4c64acc642) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [1ac1a756fc](https://linux-hardware.org/?probe=1ac1a756fc) | May 26, 2025 |
+| Gigabyte      | H81M-DS2                    | Desktop     | [c9a0b32efd](https://linux-hardware.org/?probe=c9a0b32efd) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [41acea4a64](https://linux-hardware.org/?probe=41acea4a64) | May 26, 2025 |
+| Gigabyte      | H81M-DS2                    | Desktop     | [af49c97530](https://linux-hardware.org/?probe=af49c97530) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [0dff8a8d71](https://linux-hardware.org/?probe=0dff8a8d71) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [c2d0e60cc8](https://linux-hardware.org/?probe=c2d0e60cc8) | May 26, 2025 |
+| Gigabyte      | B560M AORUS PRO             | Desktop     | [259d6904d6](https://linux-hardware.org/?probe=259d6904d6) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [31741688a3](https://linux-hardware.org/?probe=31741688a3) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [35905098c1](https://linux-hardware.org/?probe=35905098c1) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [eda94bffbe](https://linux-hardware.org/?probe=eda94bffbe) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [337b2b92d2](https://linux-hardware.org/?probe=337b2b92d2) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [02257bc5c9](https://linux-hardware.org/?probe=02257bc5c9) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [92bfc4525f](https://linux-hardware.org/?probe=92bfc4525f) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [e7ba18ec48](https://linux-hardware.org/?probe=e7ba18ec48) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [86c87c2067](https://linux-hardware.org/?probe=86c87c2067) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [6dfc4547ba](https://linux-hardware.org/?probe=6dfc4547ba) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [00ac3502fc](https://linux-hardware.org/?probe=00ac3502fc) | May 26, 2025 |
+| Gigabyte      | H81M-S2H                    | Desktop     | [5cf622038b](https://linux-hardware.org/?probe=5cf622038b) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [608b484f4a](https://linux-hardware.org/?probe=608b484f4a) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [9c11b886ae](https://linux-hardware.org/?probe=9c11b886ae) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [40b5e9355c](https://linux-hardware.org/?probe=40b5e9355c) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [a87540c0d5](https://linux-hardware.org/?probe=a87540c0d5) | May 26, 2025 |
+| MSI           | B365M PRO-VH                | Desktop     | [1cb3a15ee6](https://linux-hardware.org/?probe=1cb3a15ee6) | May 26, 2025 |
+| Dell          | 0F0XJ6 A13                  | Server      | [c88ea24ee2](https://linux-hardware.org/?probe=c88ea24ee2) | Jan 27, 2025 |
+| Dell          | 073H50 A04                  | Server      | [fa6296d84f](https://linux-hardware.org/?probe=fa6296d84f) | Jan 21, 2025 |
+| IBM           | I/O Port                    | Server      | [64b57d9aa0](https://linux-hardware.org/?probe=64b57d9aa0) | Jan 16, 2025 |
+| Dell          | 00NDRY A02                  | Server      | [2c12d13bf1](https://linux-hardware.org/?probe=2c12d13bf1) | Jan 14, 2025 |
+| Huanan        | X99-F8D V2.4                | Desktop     | [ba66043a86](https://linux-hardware.org/?probe=ba66043a86) | Jan 10, 2025 |
 | Dell          | 0F0XJ6 A06                  | Server      | [a2b12b6da3](https://linux-hardware.org/?probe=a2b12b6da3) | Dec 26, 2024 |
 | Dell          | 0F0XJ6 A13                  | Server      | [d9cd6f312b](https://linux-hardware.org/?probe=d9cd6f312b) | Dec 23, 2024 |
 | Dell          | 0F0XJ6 A13                  | Server      | [fdda286b83](https://linux-hardware.org/?probe=fdda286b83) | Dec 23, 2024 |
