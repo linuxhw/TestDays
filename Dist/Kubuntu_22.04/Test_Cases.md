@@ -1,10 +1,85 @@
 Kubuntu 22.04 - Test Cases
 --------------------------
 
-Total: 2223
+Total: 2298
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Gigabyte      | B250M-DS3H-CF               | Desktop     | [0377551a1d](https://linux-hardware.org/?probe=0377551a1d) | Dec 31, 2025 |
+| HP            | Notebook                    | Notebook    | [440344f56e](https://linux-hardware.org/?probe=440344f56e) | Dec 07, 2025 |
+| ASUSTek       | Maximus VII HERO            | Desktop     | [b4cc2d8ce7](https://linux-hardware.org/?probe=b4cc2d8ce7) | Nov 30, 2025 |
+| ASUSTek       | Rampage V EDITION 10        | Desktop     | [e0df66fb15](https://linux-hardware.org/?probe=e0df66fb15) | Nov 21, 2025 |
+| Dell          | 0PTTT9 A00                  | Desktop     | [3a7d455a64](https://linux-hardware.org/?probe=3a7d455a64) | Nov 18, 2025 |
+| ASUSTek       | X555LD                      | Notebook    | [bf13868650](https://linux-hardware.org/?probe=bf13868650) | Nov 13, 2025 |
+| ASUSTek       | PRIME Z490-A                | Desktop     | [be8398bed8](https://linux-hardware.org/?probe=be8398bed8) | Nov 08, 2025 |
+| Lenovo        | 3098 NOK                    | Desktop     | [e5599695aa](https://linux-hardware.org/?probe=e5599695aa) | Nov 07, 2025 |
+| Lenovo        | Yoga Slim 7 Pro 16IAH7 8... | Notebook    | [cb5f77e634](https://linux-hardware.org/?probe=cb5f77e634) | Oct 27, 2025 |
+| ASUSTek       | ROG Zephyrus M16 GU603HE... | Notebook    | [0220a6ff38](https://linux-hardware.org/?probe=0220a6ff38) | Oct 06, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [af1b1ea629](https://linux-hardware.org/?probe=af1b1ea629) | Oct 01, 2025 |
+| Lenovo        | ThinkPad T450 20BUS0EU0N    | Notebook    | [0538b48579](https://linux-hardware.org/?probe=0538b48579) | Sep 26, 2025 |
+| Lenovo        | ThinkPad T450 20BUS0EU0N    | Notebook    | [475e6c61ea](https://linux-hardware.org/?probe=475e6c61ea) | Sep 26, 2025 |
+| Acer          | Aspire 5732Z                | Notebook    | [d5767ffbca](https://linux-hardware.org/?probe=d5767ffbca) | Sep 13, 2025 |
+| Lenovo        | ThinkPad T560 20FHCTO1WW    | Notebook    | [25033eb0f7](https://linux-hardware.org/?probe=25033eb0f7) | Sep 03, 2025 |
+| ASUSTek       | ROG STRIX B650E-F GAMING... | Desktop     | [f69a8160e7](https://linux-hardware.org/?probe=f69a8160e7) | Sep 03, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [9daa61d505](https://linux-hardware.org/?probe=9daa61d505) | Sep 01, 2025 |
+| Dell          | 0JMK61 A00                  | Server      | [a413700338](https://linux-hardware.org/?probe=a413700338) | Aug 24, 2025 |
+| Lenovo        | IdeaPad 3 15IAU7 82RK       | Notebook    | [bc9f634f50](https://linux-hardware.org/?probe=bc9f634f50) | Aug 05, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [d44288b73b](https://linux-hardware.org/?probe=d44288b73b) | Aug 01, 2025 |
+| Lenovo        | Yoga 920-13IKB 80Y7         | Convertible | [523c363e20](https://linux-hardware.org/?probe=523c363e20) | Jul 30, 2025 |
+| MSI           | MPG B550 GAMING PLUS        | Desktop     | [3ff141ccc1](https://linux-hardware.org/?probe=3ff141ccc1) | Jul 28, 2025 |
+| HP            | ProBook x360 435 G7         | Convertible | [d76646a994](https://linux-hardware.org/?probe=d76646a994) | Jul 24, 2025 |
+| Unknown       | Unknown                     | Desktop     | [2d8ef16a26](https://linux-hardware.org/?probe=2d8ef16a26) | Jul 22, 2025 |
+| Lenovo        | ThinkPad P15 Gen 2i 20YR... | Notebook    | [c38deb84dd](https://linux-hardware.org/?probe=c38deb84dd) | Jul 04, 2025 |
+| HP            | ZBook 17                    | Notebook    | [25c873aa6a](https://linux-hardware.org/?probe=25c873aa6a) | Jul 03, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [944c87a6a6](https://linux-hardware.org/?probe=944c87a6a6) | Jul 01, 2025 |
+| ASUSTek       | ROG STRIX B650E-F GAMING... | Desktop     | [5bd6b6b75a](https://linux-hardware.org/?probe=5bd6b6b75a) | Jul 01, 2025 |
+| Fujitsu       | D3430-U1 S26361-D3430-U1    | Desktop     | [c6c01dcbee](https://linux-hardware.org/?probe=c6c01dcbee) | Jun 25, 2025 |
+| Unknown       | ROUTER                      | Desktop     | [fcd55b143d](https://linux-hardware.org/?probe=fcd55b143d) | Jun 15, 2025 |
+| ASRock        | Z690M-ITX/ax                | Desktop     | [562f056fe8](https://linux-hardware.org/?probe=562f056fe8) | Jun 15, 2025 |
+| ASUSTek       | B85M-E                      | Desktop     | [27155f6e4c](https://linux-hardware.org/?probe=27155f6e4c) | Jun 10, 2025 |
+| Gigabyte      | B450M S2H                   | Desktop     | [475088d246](https://linux-hardware.org/?probe=475088d246) | Jun 06, 2025 |
+| HP            | ZBook 17                    | Notebook    | [8709a2e908](https://linux-hardware.org/?probe=8709a2e908) | Jun 06, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [c4fbf4aed7](https://linux-hardware.org/?probe=c4fbf4aed7) | Jun 01, 2025 |
+| Pegatron      | 2AB6                        | Desktop     | [a1682ea927](https://linux-hardware.org/?probe=a1682ea927) | May 30, 2025 |
+| ASUSTek       | P9X79 DELUXE                | Desktop     | [f1a4de23f2](https://linux-hardware.org/?probe=f1a4de23f2) | May 27, 2025 |
+| ASUSTek       | P9X79 DELUXE                | Desktop     | [7b442413c7](https://linux-hardware.org/?probe=7b442413c7) | May 26, 2025 |
+| ASRock        | B550M Pro4                  | Desktop     | [6fcf82d89d](https://linux-hardware.org/?probe=6fcf82d89d) | May 05, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [08e99b43a6](https://linux-hardware.org/?probe=08e99b43a6) | May 01, 2025 |
+| Samsung       | Galaxy TabPro S             | Tablet      | [6bc0114f80](https://linux-hardware.org/?probe=6bc0114f80) | Apr 27, 2025 |
+| MECHREVO      | WUJIE15XA                   | Notebook    | [567d285f72](https://linux-hardware.org/?probe=567d285f72) | Apr 26, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop M150... | Notebook    | [e82e4d327a](https://linux-hardware.org/?probe=e82e4d327a) | Apr 19, 2025 |
+| MSI           | Stealth 15M B12UE           | Notebook    | [360de723dd](https://linux-hardware.org/?probe=360de723dd) | Apr 18, 2025 |
+| Pegatron      | 2AB6                        | Desktop     | [dc10e45914](https://linux-hardware.org/?probe=dc10e45914) | Apr 15, 2025 |
+| AZW           | MINI S                      | Mini pc     | [217e28127b](https://linux-hardware.org/?probe=217e28127b) | Apr 12, 2025 |
+| HUAWEI        | BOHB-WAX9                   | Notebook    | [f5f0a7dac2](https://linux-hardware.org/?probe=f5f0a7dac2) | Apr 09, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [91ac5cc82f](https://linux-hardware.org/?probe=91ac5cc82f) | Apr 01, 2025 |
+| HP            | 250 G7 Notebook PC          | Notebook    | [b6f0a5bf65](https://linux-hardware.org/?probe=b6f0a5bf65) | Mar 27, 2025 |
+| HP            | Pavilion Gaming Laptop 1... | Notebook    | [8899848987](https://linux-hardware.org/?probe=8899848987) | Mar 23, 2025 |
+| Lenovo        | ThinkPad T14 Gen 1 20UD0... | Notebook    | [d3b5e9a0a2](https://linux-hardware.org/?probe=d3b5e9a0a2) | Mar 20, 2025 |
+| ASUSTek       | NUC14RVB 60AS0080-MB7A05    | Mini pc     | [3fbe0a4b93](https://linux-hardware.org/?probe=3fbe0a4b93) | Mar 16, 2025 |
+| Gigabyte      | B660M DS3H DDR4             | Desktop     | [9a99fbc772](https://linux-hardware.org/?probe=9a99fbc772) | Mar 10, 2025 |
+| Unknown       | In-S_reserve                | Desktop     | [099579e7e8](https://linux-hardware.org/?probe=099579e7e8) | Mar 09, 2025 |
+| Apple         | MacBookPro11,3              | Notebook    | [c9f9a67dfc](https://linux-hardware.org/?probe=c9f9a67dfc) | Mar 03, 2025 |
+| PC Special... | Elimina 15 Spark            | Notebook    | [dbb98f9d57](https://linux-hardware.org/?probe=dbb98f9d57) | Mar 03, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [9b0ae87e25](https://linux-hardware.org/?probe=9b0ae87e25) | Mar 02, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop M140... | Notebook    | [f4f79666f2](https://linux-hardware.org/?probe=f4f79666f2) | Mar 01, 2025 |
+| Fujitsu       | D3230-A1 S26361-D3230-A1    | Desktop     | [84f9e0fd0b](https://linux-hardware.org/?probe=84f9e0fd0b) | Mar 01, 2025 |
+| ASRock        | B550M-HDV                   | Desktop     | [113575c717](https://linux-hardware.org/?probe=113575c717) | Feb 28, 2025 |
+| Dell          | Precision M4600             | Notebook    | [d404119ecc](https://linux-hardware.org/?probe=d404119ecc) | Feb 19, 2025 |
+| MSI           | X58 Pro-E                   | Desktop     | [0ab1806406](https://linux-hardware.org/?probe=0ab1806406) | Feb 10, 2025 |
+| MSI           | X58 Pro-E                   | Desktop     | [505d32acdb](https://linux-hardware.org/?probe=505d32acdb) | Feb 10, 2025 |
+| MSI           | MAG B550M MORTAR            | Desktop     | [fdb94de5da](https://linux-hardware.org/?probe=fdb94de5da) | Feb 05, 2025 |
+| Lenovo        | ThinkBook 15 G3 ITL 21A5    | Notebook    | [8f97f0cce3](https://linux-hardware.org/?probe=8f97f0cce3) | Feb 05, 2025 |
+| Gigabyte      | AX370-Gaming K7             | Desktop     | [694b12c7b0](https://linux-hardware.org/?probe=694b12c7b0) | Feb 02, 2025 |
+| HP            | ProBook 450 G6              | Notebook    | [4cba0d5a03](https://linux-hardware.org/?probe=4cba0d5a03) | Jan 24, 2025 |
+| Apple         | Mac-81E3E92DD6088272 iMa... | All in one  | [4757827eb4](https://linux-hardware.org/?probe=4757827eb4) | Jan 24, 2025 |
+| Dell          | Precision 5470              | Notebook    | [9c8e16a0b5](https://linux-hardware.org/?probe=9c8e16a0b5) | Jan 22, 2025 |
+| ASUSTek       | SABERTOOTH P67              | Desktop     | [4e846379a4](https://linux-hardware.org/?probe=4e846379a4) | Jan 15, 2025 |
+| Gateway       | FX6850                      | Desktop     | [95f89fad69](https://linux-hardware.org/?probe=95f89fad69) | Jan 13, 2025 |
+| Gateway       | FX6850                      | Desktop     | [974490ee08](https://linux-hardware.org/?probe=974490ee08) | Jan 13, 2025 |
+| ASUSTek       | M5A97 R2.0                  | Desktop     | [024920416d](https://linux-hardware.org/?probe=024920416d) | Jan 12, 2025 |
+| HP            | 8580                        | Desktop     | [d3f46a2098](https://linux-hardware.org/?probe=d3f46a2098) | Jan 07, 2025 |
+| ASUSTek       | 970 PRO GAMING/AURA         | Desktop     | [b105855f62](https://linux-hardware.org/?probe=b105855f62) | Jan 06, 2025 |
 | ASRock        | Z690M-ITX/ax                | Desktop     | [bbbb62d243](https://linux-hardware.org/?probe=bbbb62d243) | Jan 05, 2025 |
 | Dell          | Inspiron 15-3567            | Notebook    | [96419f9337](https://linux-hardware.org/?probe=96419f9337) | Jan 05, 2025 |
 | Gigabyte      | AX370-Gaming K7             | Desktop     | [50b5770d28](https://linux-hardware.org/?probe=50b5770d28) | Jan 02, 2025 |
@@ -68,7 +143,7 @@ Total: 2223
 | Dell          | Inspiron 15-3567            | Notebook    | [eea09c3fff](https://linux-hardware.org/?probe=eea09c3fff) | Oct 01, 2024 |
 | ASRock        | H410M-HDV                   | Desktop     | [e8a196d76d](https://linux-hardware.org/?probe=e8a196d76d) | Oct 01, 2024 |
 | ASUSTek       | P6TD DELUXE                 | Desktop     | [b0b13c581e](https://linux-hardware.org/?probe=b0b13c581e) | Sep 30, 2024 |
-| Unknown       | Beelink GT1                 | Soc         | [e8c673f13a](https://linux-hardware.org/?probe=e8c673f13a) | Sep 28, 2024 |
+| Unknown       | Unknown                     | Soc         | [e8c673f13a](https://linux-hardware.org/?probe=e8c673f13a) | Sep 28, 2024 |
 | HP            | EliteBook 840 14 inch G1... | Notebook    | [b25c87e79e](https://linux-hardware.org/?probe=b25c87e79e) | Sep 27, 2024 |
 | HP            | 15                          | Notebook    | [6c9df8c1e4](https://linux-hardware.org/?probe=6c9df8c1e4) | Sep 27, 2024 |
 | Pegatron      | 2AB6                        | Desktop     | [621eefa747](https://linux-hardware.org/?probe=621eefa747) | Sep 26, 2024 |
@@ -1149,7 +1224,7 @@ Total: 2223
 | ASUSTek       | M5A97 PLUS                  | Desktop     | [a062cb2ab6](https://linux-hardware.org/?probe=a062cb2ab6) | May 07, 2023 |
 | Lenovo        | ThinkPad T460s 20F9CTO1W... | Notebook    | [4229be0afa](https://linux-hardware.org/?probe=4229be0afa) | May 07, 2023 |
 | Dell          | XPS 13 9300                 | Notebook    | [7bbdc5e568](https://linux-hardware.org/?probe=7bbdc5e568) | May 07, 2023 |
-| Samsung       | Galaxy Book 12              | Tablet      | [167229560a](https://linux-hardware.org/?probe=167229560a) | May 05, 2023 |
+| Samsung       | Galaxy TabPro S             | Tablet      | [167229560a](https://linux-hardware.org/?probe=167229560a) | May 05, 2023 |
 | Razer         | Blade Pro 17 (2019)         | Notebook    | [4b2265c354](https://linux-hardware.org/?probe=4b2265c354) | May 05, 2023 |
 | ASRock        | FM2A88X Extreme6+           | Desktop     | [00a1158a86](https://linux-hardware.org/?probe=00a1158a86) | May 04, 2023 |
 | ASUSTek       | X750JB                      | Notebook    | [02a5481254](https://linux-hardware.org/?probe=02a5481254) | May 03, 2023 |

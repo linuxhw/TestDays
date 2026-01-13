@@ -1,10 +1,52 @@
 Kubuntu 22.04 - Test Cases (Desktops)
 -------------------------------------
 
-Total: 848
+Total: 890
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Gigabyte      | B250M-DS3H-CF               | [0377551a1d](https://linux-hardware.org/?probe=0377551a1d) | Dec 31, 2025 |
+| ASUSTek       | Maximus VII HERO            | [b4cc2d8ce7](https://linux-hardware.org/?probe=b4cc2d8ce7) | Nov 30, 2025 |
+| ASUSTek       | Rampage V EDITION 10        | [e0df66fb15](https://linux-hardware.org/?probe=e0df66fb15) | Nov 21, 2025 |
+| Dell          | 0PTTT9 A00                  | [3a7d455a64](https://linux-hardware.org/?probe=3a7d455a64) | Nov 18, 2025 |
+| ASUSTek       | PRIME Z490-A                | [be8398bed8](https://linux-hardware.org/?probe=be8398bed8) | Nov 08, 2025 |
+| Lenovo        | 3098 NOK                    | [e5599695aa](https://linux-hardware.org/?probe=e5599695aa) | Nov 07, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [af1b1ea629](https://linux-hardware.org/?probe=af1b1ea629) | Oct 01, 2025 |
+| ASUSTek       | ROG STRIX B650E-F GAMING... | [f69a8160e7](https://linux-hardware.org/?probe=f69a8160e7) | Sep 03, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [9daa61d505](https://linux-hardware.org/?probe=9daa61d505) | Sep 01, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [d44288b73b](https://linux-hardware.org/?probe=d44288b73b) | Aug 01, 2025 |
+| MSI           | MPG B550 GAMING PLUS        | [3ff141ccc1](https://linux-hardware.org/?probe=3ff141ccc1) | Jul 28, 2025 |
+| Unknown       | Unknown                     | [2d8ef16a26](https://linux-hardware.org/?probe=2d8ef16a26) | Jul 22, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [944c87a6a6](https://linux-hardware.org/?probe=944c87a6a6) | Jul 01, 2025 |
+| ASUSTek       | ROG STRIX B650E-F GAMING... | [5bd6b6b75a](https://linux-hardware.org/?probe=5bd6b6b75a) | Jul 01, 2025 |
+| Fujitsu       | D3430-U1 S26361-D3430-U1    | [c6c01dcbee](https://linux-hardware.org/?probe=c6c01dcbee) | Jun 25, 2025 |
+| Unknown       | ROUTER                      | [fcd55b143d](https://linux-hardware.org/?probe=fcd55b143d) | Jun 15, 2025 |
+| ASRock        | Z690M-ITX/ax                | [562f056fe8](https://linux-hardware.org/?probe=562f056fe8) | Jun 15, 2025 |
+| ASUSTek       | B85M-E                      | [27155f6e4c](https://linux-hardware.org/?probe=27155f6e4c) | Jun 10, 2025 |
+| Gigabyte      | B450M S2H                   | [475088d246](https://linux-hardware.org/?probe=475088d246) | Jun 06, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [c4fbf4aed7](https://linux-hardware.org/?probe=c4fbf4aed7) | Jun 01, 2025 |
+| Pegatron      | 2AB6                        | [a1682ea927](https://linux-hardware.org/?probe=a1682ea927) | May 30, 2025 |
+| ASUSTek       | P9X79 DELUXE                | [f1a4de23f2](https://linux-hardware.org/?probe=f1a4de23f2) | May 27, 2025 |
+| ASUSTek       | P9X79 DELUXE                | [7b442413c7](https://linux-hardware.org/?probe=7b442413c7) | May 26, 2025 |
+| ASRock        | B550M Pro4                  | [6fcf82d89d](https://linux-hardware.org/?probe=6fcf82d89d) | May 05, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [08e99b43a6](https://linux-hardware.org/?probe=08e99b43a6) | May 01, 2025 |
+| Pegatron      | 2AB6                        | [dc10e45914](https://linux-hardware.org/?probe=dc10e45914) | Apr 15, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [91ac5cc82f](https://linux-hardware.org/?probe=91ac5cc82f) | Apr 01, 2025 |
+| Gigabyte      | B660M DS3H DDR4             | [9a99fbc772](https://linux-hardware.org/?probe=9a99fbc772) | Mar 10, 2025 |
+| Unknown       | In-S_reserve                | [099579e7e8](https://linux-hardware.org/?probe=099579e7e8) | Mar 09, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [9b0ae87e25](https://linux-hardware.org/?probe=9b0ae87e25) | Mar 02, 2025 |
+| Fujitsu       | D3230-A1 S26361-D3230-A1    | [84f9e0fd0b](https://linux-hardware.org/?probe=84f9e0fd0b) | Mar 01, 2025 |
+| ASRock        | B550M-HDV                   | [113575c717](https://linux-hardware.org/?probe=113575c717) | Feb 28, 2025 |
+| MSI           | X58 Pro-E                   | [0ab1806406](https://linux-hardware.org/?probe=0ab1806406) | Feb 10, 2025 |
+| MSI           | X58 Pro-E                   | [505d32acdb](https://linux-hardware.org/?probe=505d32acdb) | Feb 10, 2025 |
+| MSI           | MAG B550M MORTAR            | [fdb94de5da](https://linux-hardware.org/?probe=fdb94de5da) | Feb 05, 2025 |
+| Gigabyte      | AX370-Gaming K7             | [694b12c7b0](https://linux-hardware.org/?probe=694b12c7b0) | Feb 02, 2025 |
+| ASUSTek       | SABERTOOTH P67              | [4e846379a4](https://linux-hardware.org/?probe=4e846379a4) | Jan 15, 2025 |
+| Gateway       | FX6850                      | [95f89fad69](https://linux-hardware.org/?probe=95f89fad69) | Jan 13, 2025 |
+| Gateway       | FX6850                      | [974490ee08](https://linux-hardware.org/?probe=974490ee08) | Jan 13, 2025 |
+| ASUSTek       | M5A97 R2.0                  | [024920416d](https://linux-hardware.org/?probe=024920416d) | Jan 12, 2025 |
+| HP            | 8580                        | [d3f46a2098](https://linux-hardware.org/?probe=d3f46a2098) | Jan 07, 2025 |
+| ASUSTek       | 970 PRO GAMING/AURA         | [b105855f62](https://linux-hardware.org/?probe=b105855f62) | Jan 06, 2025 |
 | ASRock        | Z690M-ITX/ax                | [bbbb62d243](https://linux-hardware.org/?probe=bbbb62d243) | Jan 05, 2025 |
 | Gigabyte      | AX370-Gaming K7             | [50b5770d28](https://linux-hardware.org/?probe=50b5770d28) | Jan 02, 2025 |
 | ASUSTek       | 970 PRO GAMING/AURA         | [4885d454da](https://linux-hardware.org/?probe=4885d454da) | Dec 23, 2024 |
