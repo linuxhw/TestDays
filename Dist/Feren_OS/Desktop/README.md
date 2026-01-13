@@ -633,19 +633,19 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2017 | 6        | 14.63%  |
-| 2011 | 5        | 12.2%   |
 | 2014 | 4        | 9.76%   |
 | 2013 | 4        | 9.76%   |
 | 2012 | 4        | 9.76%   |
+| 2011 | 4        | 9.76%   |
 | 2020 | 3        | 7.32%   |
 | 2019 | 3        | 7.32%   |
 | 2018 | 3        | 7.32%   |
+| 2010 | 2        | 4.88%   |
 | 2009 | 2        | 4.88%   |
 | 2008 | 2        | 4.88%   |
 | 2022 | 1        | 2.44%   |
 | 2016 | 1        | 2.44%   |
 | 2015 | 1        | 2.44%   |
-| 2010 | 1        | 2.44%   |
 | 2006 | 1        | 2.44%   |
 
 Form Factor
@@ -923,7 +923,7 @@ Hard drive models
 | Kingston SA400S37480G 480GB SSD             | 2        | 2.47%   |
 | Hitachi HUA723020ALA640 2TB                 | 2        | 2.47%   |
 | Hitachi HDS721010CLA332 1TB                 | 2        | 2.47%   |
-| WDC WDS500G2B0A-00SM50 500GB SSD            | 1        | 1.23%   |
+| WDC WDS500G2B0A-00SM50 500GB                | 1        | 1.23%   |
 | WDC WDS240G2G0A-00JH30 240GB SSD            | 1        | 1.23%   |
 | WDC WDS100T2B0C-00PXH0 1TB                  | 1        | 1.23%   |
 | WDC WDS100T2B0A-00SM50 1TB SSD              | 1        | 1.23%   |
@@ -948,7 +948,7 @@ Hard drive models
 | WDC WD10EURX-83UY4Y0 1TB                    | 1        | 1.23%   |
 | WDC WD Blue SA510 2.5 500GB                 | 1        | 1.23%   |
 | Verbatim Vi550 S3 SSD 512GB                 | 1        | 1.23%   |
-| Unknown SD/MMC/MS PRO 128GB                 | 1        | 1.23%   |
+| Unknown SD/MMC/MS PRO 2GB                   | 1        | 1.23%   |
 | Toshiba THNSNJ256GCST 256GB SSD             | 1        | 1.23%   |
 | Toshiba MK3275GSX 320GB                     | 1        | 1.23%   |
 | Toshiba MK1234GSX 120GB                     | 1        | 1.23%   |
@@ -1633,10 +1633,10 @@ Monitor models
 | Samsung Electronics S27E510 SAM0C5F 1920x1080 598x336mm 27.0-inch     | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor U28E590 7680x2160                     | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor U28E590                               | 1        | 2.27%   |
-| Samsung Electronics LCD Monitor SAM0900 1366x768 700x390mm 31.5-inch  | 1        | 2.27%   |
+| Samsung Electronics LCD Monitor SAM0900 1366x768 580x320mm 26.1-inch  | 1        | 2.27%   |
 | Samsung Electronics LCD Monitor SAM07C5 1920x1080 890x500mm 40.2-inch | 1        | 2.27%   |
-| Samsung Electronics C27F591 SAM0D37 1920x1080 598x336mm 27.0-inch     | 1        | 2.27%   |
-| Samsung Electronics C27F390 SAM0D32 1920x1080 600x340mm 27.2-inch     | 1        | 2.27%   |
+| Samsung Electronics C27F591 SAM0D37 1920x1080 600x340mm 27.2-inch     | 1        | 2.27%   |
+| Samsung Electronics C27F390 SAM0D32 1920x1080 598x336mm 27.0-inch     | 1        | 2.27%   |
 | Samsung Electronics C24F390 SAM0D2D 1920x1080 521x293mm 23.5-inch     | 1        | 2.27%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1        | 2.27%   |
 | Ruijiang RJT HDMI RJT1200 1920x1080 320x180mm 14.5-inch               | 1        | 2.27%   |
@@ -1645,7 +1645,7 @@ Monitor models
 | Onkyo TX-NR535 ONK0E51 1920x1080 698x392mm 31.5-inch                  | 1        | 2.27%   |
 | Medion MD 20094 MED3610 1920x1080 550x344mm 25.5-inch                 | 1        | 2.27%   |
 | LG Electronics LCD Monitor MP59HT 1920x1080                           | 1        | 2.27%   |
-| Lenovo LEN L171 LEN240B 1280x1024 340x270mm 17.1-inch                 | 1        | 2.27%   |
+| Lenovo LEN L171 LEN240B 1280x1024 337x270mm 17.0-inch                 | 1        | 2.27%   |
 | Lenovo L24q-10 LEN65CF 2560x1440 527x296mm 23.8-inch                  | 1        | 2.27%   |
 | Lenovo H61 LEN520B 1600x900 410x230mm 18.5-inch                       | 1        | 2.27%   |
 | Lenovo Group Limited LCD Monitor L24q-10 2560x1440                    | 1        | 2.27%   |
@@ -1655,7 +1655,7 @@ Monitor models
 | Hewlett-Packard 2509 HWP283A 1920x1080 553x311mm 25.0-inch            | 1        | 2.27%   |
 | Goldstar E2242 GSM58BE 1920x1080 477x268mm 21.5-inch                  | 1        | 2.27%   |
 | FNI LCD Monitor LCD TV 1920x1080                                      | 1        | 2.27%   |
-| Dell UP3017 DEL40FA 2560x1600 640x400mm 29.7-inch                     | 1        | 2.27%   |
+| Dell UP3017 DEL40FA 2560x1600 641x401mm 29.8-inch                     | 1        | 2.27%   |
 | Dell U2412M DELA07A 1920x1200 518x324mm 24.1-inch                     | 1        | 2.27%   |
 | Dell SP1908FP DEL4030 1280x1024 376x301mm 19.0-inch                   | 1        | 2.27%   |
 | Dell S2715H DEL40BB 1920x1080 598x336mm 27.0-inch                     | 1        | 2.27%   |
@@ -2113,7 +2113,7 @@ Sound card models
 | Nvidia GF108 High Definition Audio Controller                                                   | 3        | 3.8%    |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 3        | 3.8%    |
 | Intel 200 Series PCH HD Audio                                                                   | 3        | 3.8%    |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                      | 3        | 3.8%    |
+| AMD Ryzen HD Audio Controller                                                                   | 3        | 3.8%    |
 | Nvidia GP104 High Definition Audio Controller                                                   | 2        | 2.53%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                                   | 2        | 2.53%   |
 | Nvidia GK107 HDMI Audio Controller                                                              | 2        | 2.53%   |
@@ -2121,7 +2121,7 @@ Sound card models
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 2        | 2.53%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 2        | 2.53%   |
 | AMD Starship/Matisse HD Audio Controller                                                        | 2        | 2.53%   |
-| AMD Renoir Radeon High Definition Audio Controller                                              | 2        | 2.53%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                     | 2        | 2.53%   |
 | AMD FCH Azalia Controller                                                                       | 2        | 2.53%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                      | 2        | 2.53%   |
 | Texas Instruments PCM2902C Audio CODEC                                                          | 1        | 1.27%   |
@@ -2144,7 +2144,7 @@ Sound card models
 | Intel 82801JD/DO (ICH10 Family) HD Audio Controller                                             | 1        | 1.27%   |
 | Intel 82801G (ICH7 Family) AC'97 Audio Controller                                               | 1        | 1.27%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.27%   |
-| Hewlett-Packard S101 Speaker Bar                                                                | 1        | 1.27%   |
+| Hewlett-Packard HP S101 Speaker Bar                                                             | 1        | 1.27%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                                                   | 1        | 1.27%   |
 | C-Media Electronics Auna Mic CM900                                                              | 1        | 1.27%   |
 
@@ -2187,7 +2187,7 @@ Memory module models
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 2000MT/s            | 1        | 8.33%   |
 | Samsung RAM M378B5173DB0-CK0 4096MB DIMM DDR3 1600MT/s         | 1        | 8.33%   |
 | Nanya RAM NT2GT64U8HD0BY-AD 2GB DIMM DDR2 2048MT/s             | 1        | 8.33%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1800MT/s            | 1        | 8.33%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1867MT/s            | 1        | 8.33%   |
 | HP RAM 7EH65AA# 16384MB DIMM DDR4 2666MT/s                     | 1        | 8.33%   |
 | G.Skill RAM F3-14900CL9-4GBSR 4GB DIMM DDR3 1867MT/s           | 1        | 8.33%   |
 | G.Skill RAM F3-12800CL9-4GBSR 4GB DIMM DDR3 1600MT/s           | 1        | 8.33%   |
@@ -2233,10 +2233,10 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 4096  | 3        | 33.33%  |
-| 16384 | 2        | 22.22%  |
-| 8192  | 2        | 22.22%  |
-| 2048  | 2        | 22.22%  |
+| 8192  | 3        | 30%     |
+| 4096  | 3        | 30%     |
+| 16384 | 2        | 20%     |
+| 2048  | 2        | 20%     |
 
 Memory Speed
 ------------
@@ -2353,7 +2353,7 @@ Camera device models
 |------------------------------------------|----------|---------|
 | Z-Star WebCam SC-03FFL11739P             | 2        | 15.38%  |
 | Z-Star Integrated Camera                 | 1        | 7.69%   |
-| Novatek J1455                            | 1        | 7.69%   |
+| Novatek CARDV                            | 1        | 7.69%   |
 | Microsoft LifeCam VX-5000                | 1        | 7.69%   |
 | Microsoft LifeCam VX-500 [1357]          | 1        | 7.69%   |
 | Microdia USB 2.0 Camera                  | 1        | 7.69%   |
@@ -2420,10 +2420,9 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 32       | 76.19%  |
-| 1     | 8        | 19.05%  |
-| 3     | 1        | 2.38%   |
-| 2     | 1        | 2.38%   |
+| 0     | 33       | 78.57%  |
+| 1     | 6        | 14.29%  |
+| 2     | 3        | 7.14%   |
 
 Unsupported Device Types
 ------------------------
