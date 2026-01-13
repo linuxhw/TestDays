@@ -1,10 +1,77 @@
 OpenMandriva 23.08 - Test Cases (Desktops)
 ------------------------------------------
 
-Total: 1133
+Total: 1200
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Intel         | X79-SERVER V1.1             | [b39495b335](https://linux-hardware.org/?probe=b39495b335) | Dec 24, 2025 |
+| OE            | B75 Ver:1.51                | [cb67b893d9](https://linux-hardware.org/?probe=cb67b893d9) | Dec 22, 2025 |
+| OEM           | PB-1900-A                   | [495d273691](https://linux-hardware.org/?probe=495d273691) | Dec 18, 2025 |
+| Gigabyte      | A520M K V2                  | [ba9ffb859e](https://linux-hardware.org/?probe=ba9ffb859e) | Dec 18, 2025 |
+| Gigabyte      | P55A-UD3                    | [67a6cdab27](https://linux-hardware.org/?probe=67a6cdab27) | Dec 17, 2025 |
+| Gigabyte      | H410M S2H V2                | [dc55be6862](https://linux-hardware.org/?probe=dc55be6862) | Dec 16, 2025 |
+| Intel         | H81                         | [68787f2b50](https://linux-hardware.org/?probe=68787f2b50) | Nov 10, 2025 |
+| MSI           | MPG Z390 GAMING PLUS        | [c1c93e6c44](https://linux-hardware.org/?probe=c1c93e6c44) | Nov 01, 2025 |
+| Gigabyte      | AB350N-Gaming WIFI-CF       | [161c3f4fc6](https://linux-hardware.org/?probe=161c3f4fc6) | Oct 28, 2025 |
+| Positivo      | POS-ECIG41BSA               | [a6c3c8f68d](https://linux-hardware.org/?probe=a6c3c8f68d) | Oct 25, 2025 |
+| Intel         | H110                        | [38c0fd96ce](https://linux-hardware.org/?probe=38c0fd96ce) | Oct 24, 2025 |
+| Intel         | H61                         | [9fbbaac6f4](https://linux-hardware.org/?probe=9fbbaac6f4) | Oct 24, 2025 |
+| Dell          | 07N90W A00                  | [5f2dd0fe56](https://linux-hardware.org/?probe=5f2dd0fe56) | Oct 15, 2025 |
+| Foxconn       | G31MV/G31MV-K FAB           | [6d0a9115bc](https://linux-hardware.org/?probe=6d0a9115bc) | Oct 15, 2025 |
+| Dell          | 0YXT71 A03                  | [cd65870da5](https://linux-hardware.org/?probe=cd65870da5) | Oct 03, 2025 |
+| ASRock        | H81M-HDS R2.0               | [8ef6b66d7c](https://linux-hardware.org/?probe=8ef6b66d7c) | Sep 23, 2025 |
+| Lenovo        | MAHOBAY                     | [9c9d66fb22](https://linux-hardware.org/?probe=9c9d66fb22) | Sep 21, 2025 |
+| Gigabyte      | Z590 AORUS ELITE AX         | [3ebcfe13e5](https://linux-hardware.org/?probe=3ebcfe13e5) | Sep 18, 2025 |
+| HP            | 1494                        | [9de6ae42ce](https://linux-hardware.org/?probe=9de6ae42ce) | Sep 14, 2025 |
+| Fujitsu       | D3313-E1 S26361-D3313-E1    | [f6481d6114](https://linux-hardware.org/?probe=f6481d6114) | Sep 08, 2025 |
+| ASRock        | X370 Gaming K4              | [ad55b58518](https://linux-hardware.org/?probe=ad55b58518) | Sep 07, 2025 |
+| ASRock        | H470M-HDV/M.2               | [587f34a876](https://linux-hardware.org/?probe=587f34a876) | Sep 05, 2025 |
+| ASUSTek       | M4N68T-M LE                 | [fbf37c4602](https://linux-hardware.org/?probe=fbf37c4602) | Aug 23, 2025 |
+| ASUSTek       | M4A88TD-V EVO/USB3          | [ebc6312c94](https://linux-hardware.org/?probe=ebc6312c94) | Aug 10, 2025 |
+| AZW           | Green G3                    | [17802cd0e4](https://linux-hardware.org/?probe=17802cd0e4) | Jul 19, 2025 |
+| HP            | 83F2                        | [58768de8fa](https://linux-hardware.org/?probe=58768de8fa) | Jul 11, 2025 |
+| Gigabyte      | G41M-Combo                  | [97d0d9ab65](https://linux-hardware.org/?probe=97d0d9ab65) | Jun 29, 2025 |
+| ASUSTek       | Rampage III GENE            | [ff1648e05b](https://linux-hardware.org/?probe=ff1648e05b) | Jun 27, 2025 |
+| MSI           | H110M PRO-D                 | [6221e60ba0](https://linux-hardware.org/?probe=6221e60ba0) | May 19, 2025 |
+| ASUSTek       | H110M-R                     | [48cf8253f7](https://linux-hardware.org/?probe=48cf8253f7) | May 14, 2025 |
+| Packard Be... | IMEDIA S2110A               | [59366f9ac9](https://linux-hardware.org/?probe=59366f9ac9) | May 12, 2025 |
+| Gigabyte      | Z690 UD AX                  | [876e026a35](https://linux-hardware.org/?probe=876e026a35) | May 02, 2025 |
+| MSI           | 2AE0                        | [fe3b3af8f0](https://linux-hardware.org/?probe=fe3b3af8f0) | Apr 27, 2025 |
+| HP            | 1497                        | [82f816f609](https://linux-hardware.org/?probe=82f816f609) | Apr 10, 2025 |
+| MSI           | G41M-E43                    | [4c93bca35f](https://linux-hardware.org/?probe=4c93bca35f) | Apr 08, 2025 |
+| Gigabyte      | H170-D3HP-CF                | [c989e4a14a](https://linux-hardware.org/?probe=c989e4a14a) | Mar 31, 2025 |
+| Dell          | 02YRK5 A02                  | [e2daa3cd61](https://linux-hardware.org/?probe=e2daa3cd61) | Mar 29, 2025 |
+| OEM           | Intel H81                   | [3db1e329ea](https://linux-hardware.org/?probe=3db1e329ea) | Mar 15, 2025 |
+| Gigabyte      | M68MT-S2                    | [2692031b95](https://linux-hardware.org/?probe=2692031b95) | Mar 14, 2025 |
+| MSI           | H77MA-G43                   | [1adf7d4b88](https://linux-hardware.org/?probe=1adf7d4b88) | Mar 12, 2025 |
+| AMI           | Intel                       | [c19ddfc065](https://linux-hardware.org/?probe=c19ddfc065) | Mar 10, 2025 |
+| Dell          | 088DT1 A01                  | [cd97b0b4bf](https://linux-hardware.org/?probe=cd97b0b4bf) | Mar 09, 2025 |
+| Biostar       | A320MH                      | [b1a89f13fa](https://linux-hardware.org/?probe=b1a89f13fa) | Feb 27, 2025 |
+| Acer          | Veriton N4640G              | [3c39bd1f1e](https://linux-hardware.org/?probe=3c39bd1f1e) | Feb 26, 2025 |
+| Intel         | DQ57TM AAE70931-403         | [7a908522fb](https://linux-hardware.org/?probe=7a908522fb) | Feb 21, 2025 |
+| Gigabyte      | B650 EAGLE AX               | [358d0304dc](https://linux-hardware.org/?probe=358d0304dc) | Feb 17, 2025 |
+| ASUSTek       | PRIME B760M-K               | [a3200946c9](https://linux-hardware.org/?probe=a3200946c9) | Feb 11, 2025 |
+| Dell          | 0XFWHV A00                  | [6c7b9ae61d](https://linux-hardware.org/?probe=6c7b9ae61d) | Feb 09, 2025 |
+| Dell          | 02YYK5 A01                  | [34df1838f8](https://linux-hardware.org/?probe=34df1838f8) | Feb 09, 2025 |
+| BESSTAR Te... | UM700                       | [19e4ca1daa](https://linux-hardware.org/?probe=19e4ca1daa) | Feb 09, 2025 |
+| ASRock        | A520M-HVS                   | [9319f87279](https://linux-hardware.org/?probe=9319f87279) | Feb 04, 2025 |
+| Intel         | D34010WYK H14771-302        | [b4294292b5](https://linux-hardware.org/?probe=b4294292b5) | Feb 02, 2025 |
+| Gigabyte      | H510M H V2                  | [8c2cbda31c](https://linux-hardware.org/?probe=8c2cbda31c) | Jan 31, 2025 |
+| MSI           | MAG B650M MORTAR WIFI       | [ae3326de42](https://linux-hardware.org/?probe=ae3326de42) | Jan 29, 2025 |
+| Gigabyte      | H510M S2H V2                | [bd73d384b7](https://linux-hardware.org/?probe=bd73d384b7) | Jan 29, 2025 |
+| ASUSTek       | P8Z68-V LX                  | [9d3ab9fe07](https://linux-hardware.org/?probe=9d3ab9fe07) | Jan 23, 2025 |
+| Dell          | 04Y8V0 A02                  | [e1f743a64e](https://linux-hardware.org/?probe=e1f743a64e) | Jan 19, 2025 |
+| Acer          | TPDS03                      | [a2880368f6](https://linux-hardware.org/?probe=a2880368f6) | Jan 18, 2025 |
+| Dell          | 0D28YY A03                  | [7ca351f7c2](https://linux-hardware.org/?probe=7ca351f7c2) | Jan 15, 2025 |
+| Biostar       | H510MHP                     | [2b13c6cb40](https://linux-hardware.org/?probe=2b13c6cb40) | Jan 14, 2025 |
+| Lenovo        | MAHOBAY                     | [e9c4e8df86](https://linux-hardware.org/?probe=e9c4e8df86) | Jan 14, 2025 |
+| ASUSTek       | PRIME B250M-A               | [9e7bfc1a79](https://linux-hardware.org/?probe=9e7bfc1a79) | Jan 08, 2025 |
+| ASUSTek       | TUF B450-PLUS GAMING        | [08fe93de5e](https://linux-hardware.org/?probe=08fe93de5e) | Jan 08, 2025 |
+| Gigabyte      | MZBSWAP-00                  | [5e36b2cdba](https://linux-hardware.org/?probe=5e36b2cdba) | Jan 08, 2025 |
+| ASRock        | B550 Phantom Gaming-ITX/... | [6cdf8af1ac](https://linux-hardware.org/?probe=6cdf8af1ac) | Jan 07, 2025 |
+| Lenovo        | ThinkCentre M81 5048W4K     | [49285e67cd](https://linux-hardware.org/?probe=49285e67cd) | Jan 07, 2025 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [2ca54bfccd](https://linux-hardware.org/?probe=2ca54bfccd) | Jan 07, 2025 |
 | MSI           | A55M-E33                    | [491adf615a](https://linux-hardware.org/?probe=491adf615a) | Jan 04, 2025 |
 | HP            | 2AF3                        | [27a5a9b662](https://linux-hardware.org/?probe=27a5a9b662) | Jan 01, 2025 |
 | MSI           | Z97 GAMING 5                | [40b22f7ebe](https://linux-hardware.org/?probe=40b22f7ebe) | Dec 30, 2024 |

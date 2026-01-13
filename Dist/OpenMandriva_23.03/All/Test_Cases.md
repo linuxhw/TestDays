@@ -1,10 +1,48 @@
 OpenMandriva 23.03 - Test Cases
 -------------------------------
 
-Total: 2069
+Total: 2107
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | P8H77-M LE                  | Desktop     | [73dbe60577](https://linux-hardware.org/?probe=73dbe60577) | Dec 24, 2025 |
+| Gigabyte      | B550M AORUS ELITE AX        | Desktop     | [416c9912bf](https://linux-hardware.org/?probe=416c9912bf) | Dec 23, 2025 |
+| Lenovo        | G570 20079                  | Notebook    | [17d52291c0](https://linux-hardware.org/?probe=17d52291c0) | Dec 18, 2025 |
+| Samsung       | 550XED                      | Notebook    | [d958c5ab09](https://linux-hardware.org/?probe=d958c5ab09) | Nov 11, 2025 |
+| Dell          | Inspiron 13-5368            | Notebook    | [92eed3089b](https://linux-hardware.org/?probe=92eed3089b) | Oct 13, 2025 |
+| Lenovo        | 3129 SDK0J40700 WIN 3258... | Desktop     | [1e7ad781af](https://linux-hardware.org/?probe=1e7ad781af) | Sep 30, 2025 |
+| Dell          | Inspiron 1110               | Notebook    | [2fa1c4d19f](https://linux-hardware.org/?probe=2fa1c4d19f) | Sep 11, 2025 |
+| Lenovo        | G560e 1050                  | Notebook    | [7a4f71c175](https://linux-hardware.org/?probe=7a4f71c175) | Sep 10, 2025 |
+| MACHINIST     | X99-k9 V1.0                 | Desktop     | [5e78434b35](https://linux-hardware.org/?probe=5e78434b35) | Sep 05, 2025 |
+| Sony          | VPCEE42FX                   | Notebook    | [2c3b349687](https://linux-hardware.org/?probe=2c3b349687) | Aug 27, 2025 |
+| Dell          | Inspiron 13-5368            | Notebook    | [aff20e6643](https://linux-hardware.org/?probe=aff20e6643) | Jul 29, 2025 |
+| ASUSTek       | K70IC                       | Notebook    | [f6500b64b1](https://linux-hardware.org/?probe=f6500b64b1) | Jul 20, 2025 |
+| Apple         | MacBookAir6,1               | Notebook    | [1627220d47](https://linux-hardware.org/?probe=1627220d47) | Jul 14, 2025 |
+| Google        | Bloog                       | Notebook    | [961e45d888](https://linux-hardware.org/?probe=961e45d888) | Jul 09, 2025 |
+| HP            | 8299                        | Desktop     | [a185dc6289](https://linux-hardware.org/?probe=a185dc6289) | Jul 01, 2025 |
+| HP            | Laptop 17-by3xxx            | Notebook    | [99c985476a](https://linux-hardware.org/?probe=99c985476a) | Jul 01, 2025 |
+| Dell          | Inspiron 13-5368            | Notebook    | [9cae755338](https://linux-hardware.org/?probe=9cae755338) | Jul 01, 2025 |
+| Lenovo        | ThinkPad L480 20LS0018MX    | Notebook    | [938237a22a](https://linux-hardware.org/?probe=938237a22a) | Jun 13, 2025 |
+| Unknown       | Unknown                     | Desktop     | [da5dce9e31](https://linux-hardware.org/?probe=da5dce9e31) | Jun 10, 2025 |
+| Dell          | Inspiron 13-5368            | Notebook    | [5ae789d931](https://linux-hardware.org/?probe=5ae789d931) | Jun 01, 2025 |
+| HP            | EliteBook 6930p             | Notebook    | [9cd7ad9dd5](https://linux-hardware.org/?probe=9cd7ad9dd5) | May 31, 2025 |
+| ASUSTek       | K501LX                      | Notebook    | [3a44736080](https://linux-hardware.org/?probe=3a44736080) | May 30, 2025 |
+| HP            | ProBook 450 G3              | Notebook    | [14ddb87250](https://linux-hardware.org/?probe=14ddb87250) | May 28, 2025 |
+| Acer          | Aspire A515-56              | Notebook    | [f772139bcd](https://linux-hardware.org/?probe=f772139bcd) | May 27, 2025 |
+| Gigabyte      | B550M AORUS ELITE AX        | Desktop     | [6a6f8d02a5](https://linux-hardware.org/?probe=6a6f8d02a5) | May 20, 2025 |
+| Acer          | WMCP78M                     | Desktop     | [0a57299c64](https://linux-hardware.org/?probe=0a57299c64) | May 09, 2025 |
+| Dell          | Inspiron 13-5368            | Notebook    | [535bb29d4d](https://linux-hardware.org/?probe=535bb29d4d) | May 01, 2025 |
+| Packard Be... | EN Butterfly s              | Notebook    | [bce5c90b50](https://linux-hardware.org/?probe=bce5c90b50) | Apr 23, 2025 |
+| Dell          | Latitude E5500              | Notebook    | [cebe46efcd](https://linux-hardware.org/?probe=cebe46efcd) | Apr 13, 2025 |
+| Dell          | Inspiron 13-5368            | Notebook    | [164b040508](https://linux-hardware.org/?probe=164b040508) | Apr 01, 2025 |
+| Gigabyte      | Z77M-D3H                    | Desktop     | [edf5cb6673](https://linux-hardware.org/?probe=edf5cb6673) | Mar 27, 2025 |
+| Dell          | Inspiron 13-5368            | Notebook    | [fa788d2ef7](https://linux-hardware.org/?probe=fa788d2ef7) | Mar 26, 2025 |
+| ASRock        | A320M-ITX                   | Desktop     | [4f9f4c1fc1](https://linux-hardware.org/?probe=4f9f4c1fc1) | Mar 24, 2025 |
+| ASRock        | B550 Phantom Gaming-ITX/... | Desktop     | [04079d0eec](https://linux-hardware.org/?probe=04079d0eec) | Feb 26, 2025 |
+| Dell          | Latitude E6320              | Notebook    | [1ffe33a372](https://linux-hardware.org/?probe=1ffe33a372) | Feb 06, 2025 |
+| Lenovo        | G50-30 80G0                 | Notebook    | [75b3eee2d5](https://linux-hardware.org/?probe=75b3eee2d5) | Feb 04, 2025 |
+| Gigabyte      | B450M DS3H WIFI-CF          | Desktop     | [7de8475fb2](https://linux-hardware.org/?probe=7de8475fb2) | Feb 02, 2025 |
+| ASUSTek       | X580VD                      | Notebook    | [2841166fe7](https://linux-hardware.org/?probe=2841166fe7) | Jan 07, 2025 |
 | Gigabyte      | GA-970A-D3                  | Desktop     | [cd33aa866c](https://linux-hardware.org/?probe=cd33aa866c) | Jan 05, 2025 |
 | ASUSTek       | VivoBook_ASUSLaptop X160... | Notebook    | [59a8c42150](https://linux-hardware.org/?probe=59a8c42150) | Jan 04, 2025 |
 | Gigabyte      | G31M-S2L                    | Desktop     | [c04f5f8431](https://linux-hardware.org/?probe=c04f5f8431) | Jan 03, 2025 |

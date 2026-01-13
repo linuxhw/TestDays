@@ -1,10 +1,22 @@
 OpenMandriva 23.03 - Test Cases (Desktops)
 ------------------------------------------
 
-Total: 936
+Total: 948
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | P8H77-M LE                  | [73dbe60577](https://linux-hardware.org/?probe=73dbe60577) | Dec 24, 2025 |
+| Gigabyte      | B550M AORUS ELITE AX        | [416c9912bf](https://linux-hardware.org/?probe=416c9912bf) | Dec 23, 2025 |
+| Lenovo        | 3129 SDK0J40700 WIN 3258... | [1e7ad781af](https://linux-hardware.org/?probe=1e7ad781af) | Sep 30, 2025 |
+| MACHINIST     | X99-k9 V1.0                 | [5e78434b35](https://linux-hardware.org/?probe=5e78434b35) | Sep 05, 2025 |
+| HP            | 8299                        | [a185dc6289](https://linux-hardware.org/?probe=a185dc6289) | Jul 01, 2025 |
+| Unknown       | Unknown                     | [da5dce9e31](https://linux-hardware.org/?probe=da5dce9e31) | Jun 10, 2025 |
+| Gigabyte      | B550M AORUS ELITE AX        | [6a6f8d02a5](https://linux-hardware.org/?probe=6a6f8d02a5) | May 20, 2025 |
+| Acer          | WMCP78M                     | [0a57299c64](https://linux-hardware.org/?probe=0a57299c64) | May 09, 2025 |
+| Gigabyte      | Z77M-D3H                    | [edf5cb6673](https://linux-hardware.org/?probe=edf5cb6673) | Mar 27, 2025 |
+| ASRock        | A320M-ITX                   | [4f9f4c1fc1](https://linux-hardware.org/?probe=4f9f4c1fc1) | Mar 24, 2025 |
+| ASRock        | B550 Phantom Gaming-ITX/... | [04079d0eec](https://linux-hardware.org/?probe=04079d0eec) | Feb 26, 2025 |
+| Gigabyte      | B450M DS3H WIFI-CF          | [7de8475fb2](https://linux-hardware.org/?probe=7de8475fb2) | Feb 02, 2025 |
 | Gigabyte      | GA-970A-D3                  | [cd33aa866c](https://linux-hardware.org/?probe=cd33aa866c) | Jan 05, 2025 |
 | Gigabyte      | G31M-S2L                    | [c04f5f8431](https://linux-hardware.org/?probe=c04f5f8431) | Jan 03, 2025 |
 | ASUSTek       | P8Z77-V PRO                 | [c8a33130de](https://linux-hardware.org/?probe=c8a33130de) | Dec 11, 2024 |
