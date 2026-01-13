@@ -155,10 +155,11 @@ Contents
 Test Cases
 ----------
 
-Total: 19
+Total: 20
 
 | Vendor        | Model               | Probe                                                      | Date         |
 |---------------|---------------------|------------------------------------------------------------|--------------|
+| Pine Micro... | Pine64 Pinebook Pro | [e7ceb2d130](https://linux-hardware.org/?probe=e7ceb2d130) | May 08, 2025 |
 | Pine Micro... | Pine64 Pinebook Pro | [fe721c2b8b](https://linux-hardware.org/?probe=fe721c2b8b) | Mar 27, 2024 |
 | Pine Micro... | Pine64 Pinebook Pro | [961dddc49e](https://linux-hardware.org/?probe=961dddc49e) | Dec 22, 2023 |
 | Pine Micro... | Pine64 Pinebook Pro | [1b0dd94e69](https://linux-hardware.org/?probe=1b0dd94e69) | Nov 30, 2023 |
@@ -301,12 +302,12 @@ Desktop Environment
 
 | Name       | Notebooks | Percent |
 |------------|-----------|---------|
-| KDE5       | 6         | 37.5%   |
-| XFCE       | 3         | 18.75%  |
-| KDE        | 3         | 18.75%  |
-| GNOME      | 2         | 12.5%   |
-| X-Cinnamon | 1         | 6.25%   |
-| dwl        | 1         | 6.25%   |
+| KDE5       | 7         | 41.18%  |
+| XFCE       | 3         | 17.65%  |
+| KDE        | 3         | 17.65%  |
+| GNOME      | 2         | 11.76%  |
+| X-Cinnamon | 1         | 5.88%   |
+| dwl        | 1         | 5.88%   |
 
 Display Server
 --------------
@@ -526,10 +527,10 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1.01-2.0 | 9         | 56.25%  |
-| 2.01-3.0 | 5         | 31.25%  |
-| 3.01-4.0 | 1         | 6.25%   |
-| 0.51-1.0 | 1         | 6.25%   |
+| 1.01-2.0 | 10        | 58.82%  |
+| 2.01-3.0 | 5         | 29.41%  |
+| 3.01-4.0 | 1         | 5.88%   |
+| 0.51-1.0 | 1         | 5.88%   |
 
 Total Drives
 ------------
@@ -653,7 +654,7 @@ Hard drive vendors
 
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Unknown | 16        | 18     | 84.21%  |
+| Unknown | 16        | 19     | 84.21%  |
 | Toshiba | 1         | 1      | 5.26%   |
 | Phison  | 1         | 1      | 5.26%   |
 | Intel   | 1         | 1      | 5.26%   |
@@ -699,7 +700,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| MMC  | 16        | 18     | 84.21%  |
+| MMC  | 16        | 19     | 84.21%  |
 | NVMe | 3         | 3      | 15.79%  |
 
 Drive Connector
@@ -712,7 +713,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| MMC  | 16        | 18     | 84.21%  |
+| MMC  | 16        | 19     | 84.21%  |
 | NVMe | 3         | 3      | 15.79%  |
 
 Drive Size
@@ -804,7 +805,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Detected | 15        | 20     | 93.75%  |
+| Detected | 15        | 21     | 93.75%  |
 | Works    | 1         | 1      | 6.25%   |
 
 Storage controller
@@ -1118,7 +1119,7 @@ Controller models
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
 | Netchip Linux-USB Ethernet/RNDIS Gadget | 1         | 33.33%  |
-| ICS Advent USB 10/100 LAN               | 1         | 33.33%  |
+| ICS Advent 10/100M LAN                  | 1         | 33.33%  |
 | ASIX AX88179 Gigabit Ethernet           | 1         | 33.33%  |
 
 Wireless Vendor
@@ -1160,7 +1161,7 @@ Ethernet models
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
 | Netchip Linux-USB Ethernet/RNDIS Gadget | 1         | 33.33%  |
-| ICS Advent USB 10/100 LAN               | 1         | 33.33%  |
+| ICS Advent 10/100M LAN                  | 1         | 33.33%  |
 | ASIX AX88179 Gigabit Ethernet           | 1         | 33.33%  |
 
 Net Controller Kind
