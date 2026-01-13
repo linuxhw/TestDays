@@ -1,10 +1,41 @@
 openSUSE Leap-15.5 - Test Cases
 -------------------------------
 
-Total: 540
+Total: 571
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | PRIME B360-PLUS             | Desktop     | [60a56dbd2a](https://linux-hardware.org/?probe=60a56dbd2a) | Dec 30, 2025 |
+| Gigabyte      | M57SLI-S4                   | Desktop     | [5e836caa12](https://linux-hardware.org/?probe=5e836caa12) | Dec 26, 2025 |
+| Sony          | VPCCW1S1R                   | Notebook    | [f71d59a1a5](https://linux-hardware.org/?probe=f71d59a1a5) | Dec 19, 2025 |
+| Intel         | NUC11PABi5 K90634-302       | Mini pc     | [0063113a90](https://linux-hardware.org/?probe=0063113a90) | Sep 12, 2025 |
+| Toshiba       | dynabook Satellite B552/... | Notebook    | [369bd41c30](https://linux-hardware.org/?probe=369bd41c30) | Aug 17, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop X712... | Notebook    | [06190e5180](https://linux-hardware.org/?probe=06190e5180) | Jul 26, 2025 |
+| Acer          | Aspire X1900                | Desktop     | [f6ecb29a33](https://linux-hardware.org/?probe=f6ecb29a33) | Jul 15, 2025 |
+| HP            | 18E7                        | Desktop     | [23177af3cc](https://linux-hardware.org/?probe=23177af3cc) | Jul 03, 2025 |
+| HP            | 3033h                       | Desktop     | [be66226e3c](https://linux-hardware.org/?probe=be66226e3c) | Jun 25, 2025 |
+| HP            | 3033h                       | Desktop     | [1bd612ad75](https://linux-hardware.org/?probe=1bd612ad75) | Jun 25, 2025 |
+| Gigabyte      | Q77M-D2H                    | Desktop     | [7b44c17fc8](https://linux-hardware.org/?probe=7b44c17fc8) | Jun 20, 2025 |
+| HP            | G62                         | Notebook    | [6a0322a5ab](https://linux-hardware.org/?probe=6a0322a5ab) | May 30, 2025 |
+| Acer          | Aspire 7741                 | Notebook    | [2af5d6fd28](https://linux-hardware.org/?probe=2af5d6fd28) | Apr 23, 2025 |
+| Supermicro    | X11SSA-F                    | Server      | [f5ffac5798](https://linux-hardware.org/?probe=f5ffac5798) | Apr 07, 2025 |
+| Dell          | System Inspiron N7110       | Notebook    | [b02db47dad](https://linux-hardware.org/?probe=b02db47dad) | Apr 07, 2025 |
+| Supermicro    | X11SSA-F                    | Server      | [8e0effb213](https://linux-hardware.org/?probe=8e0effb213) | Mar 31, 2025 |
+| VALE          | Notebook Classic C150       | Notebook    | [7fff17ecdd](https://linux-hardware.org/?probe=7fff17ecdd) | Mar 23, 2025 |
+| VALE          | Notebook Classic C150       | Notebook    | [52703c9457](https://linux-hardware.org/?probe=52703c9457) | Mar 22, 2025 |
+| Lenovo        | ThinkPad W520 4282A34       | Notebook    | [ff2833eb02](https://linux-hardware.org/?probe=ff2833eb02) | Mar 17, 2025 |
+| ASUSTek       | H110M-A/M.2                 | Desktop     | [37433501ff](https://linux-hardware.org/?probe=37433501ff) | Mar 11, 2025 |
+| ASUSTek       | H110M-A/M.2                 | Desktop     | [e4b77dd143](https://linux-hardware.org/?probe=e4b77dd143) | Mar 10, 2025 |
+| HP            | 3033h                       | Desktop     | [1711bd8fe8](https://linux-hardware.org/?probe=1711bd8fe8) | Mar 07, 2025 |
+| HP            | 3033h                       | Desktop     | [9a18f4fb45](https://linux-hardware.org/?probe=9a18f4fb45) | Mar 06, 2025 |
+| Gigabyte      | Q77M-D2H                    | Desktop     | [7b93063347](https://linux-hardware.org/?probe=7b93063347) | Feb 24, 2025 |
+| Acer          | Aspire E1-522               | Notebook    | [58bf5cc684](https://linux-hardware.org/?probe=58bf5cc684) | Feb 15, 2025 |
+| Acer          | Nitro AN517-51              | Notebook    | [ea998b937e](https://linux-hardware.org/?probe=ea998b937e) | Jan 30, 2025 |
+| HP            | 2AF7                        | Desktop     | [b8c3e68123](https://linux-hardware.org/?probe=b8c3e68123) | Jan 28, 2025 |
+| HP            | 2AF7                        | Desktop     | [9182779a6f](https://linux-hardware.org/?probe=9182779a6f) | Jan 28, 2025 |
+| Intel         | NUC11PABi5 K90634-302       | Mini pc     | [f67c294a33](https://linux-hardware.org/?probe=f67c294a33) | Jan 19, 2025 |
+| Chatreey      | AC1-DP                      | Desktop     | [68a2c044bd](https://linux-hardware.org/?probe=68a2c044bd) | Jan 11, 2025 |
+| Lenovo        | IdeaPad 3 15IIL05 81WE      | Notebook    | [5ea80e9289](https://linux-hardware.org/?probe=5ea80e9289) | Jan 07, 2025 |
 | ASUSTek       | TUF Gaming FX505GT_FX505... | Notebook    | [4690fd028c](https://linux-hardware.org/?probe=4690fd028c) | Jan 01, 2025 |
 | ASUSTek       | X751SA                      | Notebook    | [11d8d9b891](https://linux-hardware.org/?probe=11d8d9b891) | Dec 30, 2024 |
 | ASUSTek       | X751SA                      | Notebook    | [2f216406f5](https://linux-hardware.org/?probe=2f216406f5) | Dec 28, 2024 |
