@@ -805,7 +805,7 @@ Hard drive models
 | Samsung NVMe SSD Drive 512GB                        | 2         | 2.6%    |
 | HP LOGICAL VOLUME 160GB                             | 2         | 2.6%    |
 | Western Digital WUS3BA176C7P3E3 8TB                 | 1         | 1.3%    |
-| WDC WDS500G2B0A-00SM50 500GB SSD                    | 1         | 1.3%    |
+| WDC WDS500G2B0A-00SM50 500GB                        | 1         | 1.3%    |
 | WDC WD5000HHTZ-04N21V0 500GB                        | 1         | 1.3%    |
 | WDC WD4000FYYZ-01UL1B1 4TB                          | 1         | 1.3%    |
 | WDC WD20EZRX-00DC0B0 2TB                            | 1         | 1.3%    |
@@ -818,7 +818,7 @@ Hard drive models
 | Toshiba NVMe SSD Drive 1024GB                       | 1         | 1.3%    |
 | Toshiba MQ01ACF032 320GB                            | 1         | 1.3%    |
 | Toshiba America Info Systems KXG50ZNV256G NVM 256GB | 1         | 1.3%    |
-| SK hynix SC311 SATA 256GB SSD                       | 1         | 1.3%    |
+| SK hynix SC311 SATA 256GB                           | 1         | 1.3%    |
 | Seagate ST9500620NS 500GB                           | 1         | 1.3%    |
 | Seagate ST6000NM0024-1HT17Z 6TB                     | 1         | 1.3%    |
 | Seagate ST4000NM0085-1YY107 4TB                     | 1         | 1.3%    |
@@ -1353,7 +1353,7 @@ Graphics card models
 | Matrox Electronics Systems MGA G200EH                                       | 2         | 4.08%   |
 | Matrox Electronics Systems Integrated Matrox G200eW3 Graphics Controller    | 2         | 4.08%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                  | 2         | 4.08%   |
-| Intel HD Graphics 530                                                       | 2         | 4.08%   |
+| Intel Skylake-H GT2 [HD Graphics 530]                                       | 2         | 4.08%   |
 | Nvidia GP108M [GeForce MX250]                                               | 1         | 2.04%   |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                     | 1         | 2.04%   |
 | Nvidia GP107GLM [Quadro P1000 Mobile]                                       | 1         | 2.04%   |
@@ -1367,11 +1367,11 @@ Graphics card models
 | Nvidia GF108GL [Quadro 600]                                                 | 1         | 2.04%   |
 | Matrox Electronics Systems MGA G200e [Pilot] ServerEngines (SEP1)           | 1         | 2.04%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 1         | 2.04%   |
-| Intel UHD Graphics 620                                                      | 1         | 2.04%   |
 | Intel TigerLake-H GT1 [UHD Graphics]                                        | 1         | 2.04%   |
-| Intel Skylake GT2 [HD Graphics 520]                                         | 1         | 2.04%   |
-| Intel HD Graphics 630                                                       | 1         | 2.04%   |
-| Intel HD Graphics 620                                                       | 1         | 2.04%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                       | 1         | 2.04%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                     | 1         | 2.04%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                    | 1         | 2.04%   |
+| Intel Kaby Lake-H GT2 [HD Graphics 630]                                     | 1         | 2.04%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                        | 1         | 2.04%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                       | 1         | 2.04%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 1         | 2.04%   |
@@ -1467,10 +1467,10 @@ Monitor models
 | ViewSonic VA2419 Series VSC7B32 1920x1080 527x296mm 23.8-inch         | 1         | 4%      |
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 4%      |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 4%      |
-| Samsung Electronics LCD Monitor SAM0B30 1920x1080 480x270mm 21.7-inch | 1         | 4%      |
+| Samsung Electronics LCD Monitor SAM0B30 1920x1080 885x498mm 40.0-inch | 1         | 4%      |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 4%      |
 | LG Display LCD Monitor LGD04AA 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
-| ITE DP2VGA V173 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 4%      |
+| ITE DP2VGA V152 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 4%      |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 4%      |
 | Hewlett-Packard 24es HWP3320 1920x1080 527x296mm 23.8-inch            | 1         | 4%      |
 | Goldstar HDR WFHD GSM7715 2560x1080 798x334mm 34.1-inch               | 1         | 4%      |
@@ -1671,7 +1671,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 1.25%   |
 | QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.25%   |
 | Prolific USB-Serial Controller                                         | 1         | 1.25%   |
-| OPPO OnePlus Nord 4                                                    | 1         | 1.25%   |
+| OPPO Ace 3V                                                            | 1         | 1.25%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.25%   |
 | Intel Wi-Fi 6 AX200                                                    | 1         | 1.25%   |
 | Intel Ethernet Controller I225-LM                                      | 1         | 1.25%   |
@@ -1725,7 +1725,7 @@ Wireless models
 | Intel Wi-Fi 6 AX200                                        | 1         | 6.67%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                   | 1         | 6.67%   |
 | Intel Cannon Lake PCH CNVi WiFi                            | 1         | 6.67%   |
-| Dell DW5811e Snapdragonâ¢ X7 LTE                       | 1         | 6.67%   |
+| Dell DW5811e Snapdragon X7 LTE                             | 1         | 6.67%   |
 
 Ethernet Vendor
 ---------------
@@ -1773,7 +1773,7 @@ Ethernet models
 | Intel 82576 Gigabit Network Connection                                 | 2         | 3.17%   |
 | Dell iDRAC Virtual NIC                                                 | 2         | 3.17%   |
 | QLogic cLOM8214 1/10GbE Controller                                     | 1         | 1.59%   |
-| OPPO OnePlus Nord 4                                                    | 1         | 1.59%   |
+| OPPO Ace 3V                                                            | 1         | 1.59%   |
 | Mellanox MT27710 Family [ConnectX-4 Lx]                                | 1         | 1.59%   |
 | Intel Ethernet Controller I225-LM                                      | 1         | 1.59%   |
 | Intel Ethernet Connection I219-LM                                      | 1         | 1.59%   |
@@ -2219,8 +2219,8 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 0     | 17        | 37.78%  |
 | 2     | 12        | 26.67%  |
-| 3     | 7         | 15.56%  |
-| 1     | 6         | 13.33%  |
+| 1     | 7         | 15.56%  |
+| 3     | 6         | 13.33%  |
 | 5     | 3         | 6.67%   |
 
 Unsupported Device Types
@@ -2233,13 +2233,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 18        | 31.58%  |
-| Unassigned class         | 14        | 24.56%  |
-| Graphics card            | 14        | 24.56%  |
-| Fingerprint reader       | 6         | 10.53%  |
-| Storage/raid             | 1         | 1.75%   |
-| Net/wireless             | 1         | 1.75%   |
-| Net/ethernet             | 1         | 1.75%   |
-| Card reader              | 1         | 1.75%   |
-| Camera                   | 1         | 1.75%   |
+| Communication controller | 18        | 32.14%  |
+| Unassigned class         | 14        | 25%     |
+| Graphics card            | 13        | 23.21%  |
+| Fingerprint reader       | 6         | 10.71%  |
+| Storage/raid             | 1         | 1.79%   |
+| Net/wireless             | 1         | 1.79%   |
+| Net/ethernet             | 1         | 1.79%   |
+| Card reader              | 1         | 1.79%   |
+| Camera                   | 1         | 1.79%   |
 

@@ -1030,15 +1030,15 @@ Graphics card models
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                | 2         | 13.33%  |
-| Intel HD Graphics 530                                                     | 2         | 13.33%  |
+| Intel Skylake-H GT2 [HD Graphics 530]                                     | 2         | 13.33%  |
 | Nvidia GP108M [GeForce MX250]                                             | 1         | 6.67%   |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                   | 1         | 6.67%   |
 | Nvidia GP107GLM [Quadro P1000 Mobile]                                     | 1         | 6.67%   |
 | Nvidia GM108M [GeForce 940MX]                                             | 1         | 6.67%   |
 | Nvidia GM107GLM [Quadro M1000M]                                           | 1         | 6.67%   |
-| Intel UHD Graphics 620                                                    | 1         | 6.67%   |
-| Intel HD Graphics 630                                                     | 1         | 6.67%   |
-| Intel HD Graphics 620                                                     | 1         | 6.67%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 1         | 6.67%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                  | 1         | 6.67%   |
+| Intel Kaby Lake-H GT2 [HD Graphics 630]                                   | 1         | 6.67%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                      | 1         | 6.67%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 1         | 6.67%   |
 | AMD Mars [Radeon HD 8670A/8670M/8750M / R7 M370]                          | 1         | 6.67%   |
@@ -1122,7 +1122,7 @@ Monitor models
 | Sharp LCD Monitor SHP1453 1920x1080 346x194mm 15.6-inch               | 1         | 7.69%   |
 | Samsung Electronics LCD Monitor SDC894F 1920x1080 344x194mm 15.5-inch | 1         | 7.69%   |
 | Samsung Electronics C24F390 SAM0D2C 1920x1080 521x293mm 23.5-inch     | 1         | 7.69%   |
-| ITE DP2VGA V173 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 7.69%   |
+| ITE DP2VGA V152 ITE6512 1680x1050 600x340mm 27.2-inch                 | 1         | 7.69%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 309x174mm 14.0-inch          | 1         | 7.69%   |
 | Dell P2217H DELA0D9 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
 | Dell P2217H DELA0D8 1920x1080 476x267mm 21.5-inch                     | 1         | 7.69%   |
@@ -1280,7 +1280,7 @@ Controller models
 | Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 4.35%   |
 | Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 4.35%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 4.35%   |
-| OPPO OnePlus Nord 4                                                    | 1         | 4.35%   |
+| OPPO Ace 3V                                                            | 1         | 4.35%   |
 | Intel Wi-Fi 6 AX200                                                    | 1         | 4.35%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1         | 4.35%   |
 | Intel Ethernet Connection (6) I219-LM                                  | 1         | 4.35%   |
@@ -1291,7 +1291,7 @@ Controller models
 | Intel Cannon Point-LP CNVi [Wireless-AC]                               | 1         | 4.35%   |
 | Intel Cannon Lake PCH CNVi WiFi                                        | 1         | 4.35%   |
 | Ericsson Business Mobile Networks H5321 gw Mobile Broadband Module     | 1         | 4.35%   |
-| Dell DW5811e Snapdragonâ¢ X7 LTE                                   | 1         | 4.35%   |
+| Dell DW5811e Snapdragon X7 LTE                                         | 1         | 4.35%   |
 
 Wireless Vendor
 ---------------
@@ -1325,7 +1325,7 @@ Wireless models
 | Intel Wi-Fi 6 AX200                              | 1         | 9.09%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]         | 1         | 9.09%   |
 | Intel Cannon Lake PCH CNVi WiFi                  | 1         | 9.09%   |
-| Dell DW5811e Snapdragonâ¢ X7 LTE             | 1         | 9.09%   |
+| Dell DW5811e Snapdragon X7 LTE                   | 1         | 9.09%   |
 
 Ethernet Vendor
 ---------------
@@ -1354,7 +1354,7 @@ Ethernet models
 | Intel Ethernet Connection (6) I219-V                                   | 2         | 18.18%  |
 | Realtek RTL8153 Gigabit Ethernet Adapter                               | 1         | 9.09%   |
 | Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 9.09%   |
-| OPPO OnePlus Nord 4                                                    | 1         | 9.09%   |
+| OPPO Ace 3V                                                            | 1         | 9.09%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1         | 9.09%   |
 | Intel Ethernet Connection (6) I219-LM                                  | 1         | 9.09%   |
 | Intel Ethernet Connection (5) I219-LM                                  | 1         | 9.09%   |
