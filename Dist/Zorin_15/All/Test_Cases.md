@@ -1,10 +1,26 @@
 Zorin 15 - Test Cases
 ---------------------
 
-Total: 2538
+Total: 2554
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Egreat        | I6                          | Notebook    | [293025b2cf](https://linux-hardware.org/?probe=293025b2cf) | Nov 09, 2025 |
+| HP            | Unknown                     | Notebook    | [bad4801691](https://linux-hardware.org/?probe=bad4801691) | Jun 28, 2025 |
+| Lenovo        | ThinkPad W541 20EF0011IX    | Notebook    | [c388f58f1a](https://linux-hardware.org/?probe=c388f58f1a) | Jun 25, 2025 |
+| eMachines     | G625                        | Notebook    | [1eed82ddd6](https://linux-hardware.org/?probe=1eed82ddd6) | Jun 10, 2025 |
+| ASUSTek       | M4A88TD-M EVO               | Desktop     | [5ab3a7ecff](https://linux-hardware.org/?probe=5ab3a7ecff) | May 14, 2025 |
+| Lenovo        | ThinkPad SL510 2847DEG      | Notebook    | [252c2a0b14](https://linux-hardware.org/?probe=252c2a0b14) | May 02, 2025 |
+| Lenovo        | ThinkPad SL510 2847DEG      | Notebook    | [530d708851](https://linux-hardware.org/?probe=530d708851) | May 01, 2025 |
+| Fujitsu Si... | AMILO PRO V3515             | Notebook    | [c618b11e25](https://linux-hardware.org/?probe=c618b11e25) | Apr 11, 2025 |
+| Fujitsu Si... | AMILO PRO V3515             | Notebook    | [be3f703ad7](https://linux-hardware.org/?probe=be3f703ad7) | Apr 11, 2025 |
+| Apple         | MacBook2,1                  | Notebook    | [3f9608fb85](https://linux-hardware.org/?probe=3f9608fb85) | Mar 26, 2025 |
+| GPU Compan... | GWAP42424                   | All in one  | [bb261485c8](https://linux-hardware.org/?probe=bb261485c8) | Mar 02, 2025 |
+| ASUSTek       | 1000HD                      | Notebook    | [ee3f1e3fe8](https://linux-hardware.org/?probe=ee3f1e3fe8) | Feb 25, 2025 |
+| ASUSTek       | 1000HG                      | Notebook    | [784da38f11](https://linux-hardware.org/?probe=784da38f11) | Feb 23, 2025 |
+| HP            | Pavilion dv6000 (GA378UA... | Notebook    | [ebb25f4b24](https://linux-hardware.org/?probe=ebb25f4b24) | Feb 20, 2025 |
+| Samsung       | N150/N210/N220              | Notebook    | [7648517797](https://linux-hardware.org/?probe=7648517797) | Jan 18, 2025 |
+| Dell          | Latitude D610               | Notebook    | [7cc7c2eca9](https://linux-hardware.org/?probe=7cc7c2eca9) | Jan 12, 2025 |
 | Toshiba       | Satellite A110              | Notebook    | [1d2307c817](https://linux-hardware.org/?probe=1d2307c817) | Dec 16, 2024 |
 | Lenovo        | ThinkPad W541 20EF0011IX    | Notebook    | [b0508a61eb](https://linux-hardware.org/?probe=b0508a61eb) | Dec 05, 2024 |
 | Lenovo        | ThinkCentre A55 870577G     | Desktop     | [88f7652696](https://linux-hardware.org/?probe=88f7652696) | Dec 03, 2024 |
@@ -1132,8 +1148,8 @@ Total: 2538
 | ASRock        | FM2A75 Pro4+                | Desktop     | [d12dc95e76](https://linux-hardware.org/?probe=d12dc95e76) | Dec 03, 2020 |
 | Gigabyte      | H87M-HD3                    | Desktop     | [72fe4852f5](https://linux-hardware.org/?probe=72fe4852f5) | Dec 03, 2020 |
 | HP            | 2820h                       | Desktop     | [660de2a3e5](https://linux-hardware.org/?probe=660de2a3e5) | Dec 02, 2020 |
-| Philco        | 14A4                        | Desktop     | [2c64de874c](https://linux-hardware.org/?probe=2c64de874c) | Dec 02, 2020 |
-| Philco        | 14A4                        | Desktop     | [387d4bea10](https://linux-hardware.org/?probe=387d4bea10) | Dec 02, 2020 |
+| Sragon        | LNS-35                      | Notebook    | [2c64de874c](https://linux-hardware.org/?probe=2c64de874c) | Dec 02, 2020 |
+| Sragon        | LNS-35                      | Notebook    | [387d4bea10](https://linux-hardware.org/?probe=387d4bea10) | Dec 02, 2020 |
 | Dell          | 0RY007                      | Desktop     | [8762bbb2b6](https://linux-hardware.org/?probe=8762bbb2b6) | Dec 02, 2020 |
 | Fujitsu       | CELSIUS H710                | Notebook    | [03fea3325c](https://linux-hardware.org/?probe=03fea3325c) | Dec 01, 2020 |
 | ASUSTek       | M5A78L-M/USB3               | Desktop     | [ef728fc5d7](https://linux-hardware.org/?probe=ef728fc5d7) | Dec 01, 2020 |

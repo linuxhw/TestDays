@@ -1,10 +1,24 @@
 Zorin 15 - Test Cases (Notebooks)
 ---------------------------------
 
-Total: 1560
+Total: 1576
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Egreat        | I6                          | [293025b2cf](https://linux-hardware.org/?probe=293025b2cf) | Nov 09, 2025 |
+| HP            | Unknown                     | [bad4801691](https://linux-hardware.org/?probe=bad4801691) | Jun 28, 2025 |
+| Lenovo        | ThinkPad W541 20EF0011IX    | [c388f58f1a](https://linux-hardware.org/?probe=c388f58f1a) | Jun 25, 2025 |
+| eMachines     | G625                        | [1eed82ddd6](https://linux-hardware.org/?probe=1eed82ddd6) | Jun 10, 2025 |
+| Lenovo        | ThinkPad SL510 2847DEG      | [252c2a0b14](https://linux-hardware.org/?probe=252c2a0b14) | May 02, 2025 |
+| Lenovo        | ThinkPad SL510 2847DEG      | [530d708851](https://linux-hardware.org/?probe=530d708851) | May 01, 2025 |
+| Fujitsu Si... | AMILO PRO V3515             | [c618b11e25](https://linux-hardware.org/?probe=c618b11e25) | Apr 11, 2025 |
+| Fujitsu Si... | AMILO PRO V3515             | [be3f703ad7](https://linux-hardware.org/?probe=be3f703ad7) | Apr 11, 2025 |
+| Apple         | MacBook2,1                  | [3f9608fb85](https://linux-hardware.org/?probe=3f9608fb85) | Mar 26, 2025 |
+| ASUSTek       | 1000HD                      | [ee3f1e3fe8](https://linux-hardware.org/?probe=ee3f1e3fe8) | Feb 25, 2025 |
+| ASUSTek       | 1000HG                      | [784da38f11](https://linux-hardware.org/?probe=784da38f11) | Feb 23, 2025 |
+| HP            | Pavilion dv6000 (GA378UA... | [ebb25f4b24](https://linux-hardware.org/?probe=ebb25f4b24) | Feb 20, 2025 |
+| Samsung       | N150/N210/N220              | [7648517797](https://linux-hardware.org/?probe=7648517797) | Jan 18, 2025 |
+| Dell          | Latitude D610               | [7cc7c2eca9](https://linux-hardware.org/?probe=7cc7c2eca9) | Jan 12, 2025 |
 | Toshiba       | Satellite A110              | [1d2307c817](https://linux-hardware.org/?probe=1d2307c817) | Dec 16, 2024 |
 | Lenovo        | ThinkPad W541 20EF0011IX    | [b0508a61eb](https://linux-hardware.org/?probe=b0508a61eb) | Dec 05, 2024 |
 | HP            | Pavilion g6                 | [5b93f09faa](https://linux-hardware.org/?probe=5b93f09faa) | Nov 15, 2024 |
@@ -688,6 +702,8 @@ Total: 1560
 | HP            | Laptop 15s-eq0xxx           | [411cb199ce](https://linux-hardware.org/?probe=411cb199ce) | Dec 04, 2020 |
 | Acer          | V5-131                      | [bfdf441399](https://linux-hardware.org/?probe=bfdf441399) | Dec 03, 2020 |
 | HP            | EliteBook 2560p             | [704777ce16](https://linux-hardware.org/?probe=704777ce16) | Dec 03, 2020 |
+| Sragon        | LNS-35                      | [2c64de874c](https://linux-hardware.org/?probe=2c64de874c) | Dec 02, 2020 |
+| Sragon        | LNS-35                      | [387d4bea10](https://linux-hardware.org/?probe=387d4bea10) | Dec 02, 2020 |
 | Fujitsu       | CELSIUS H710                | [03fea3325c](https://linux-hardware.org/?probe=03fea3325c) | Dec 01, 2020 |
 | Fujitsu       | CELSIUS H710                | [1214e804ff](https://linux-hardware.org/?probe=1214e804ff) | Dec 01, 2020 |
 | Dell          | Latitude E6410              | [073ae61394](https://linux-hardware.org/?probe=073ae61394) | Nov 30, 2020 |

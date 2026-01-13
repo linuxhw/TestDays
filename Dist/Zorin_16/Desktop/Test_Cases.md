@@ -1,10 +1,43 @@
 Zorin 16 - Test Cases (Desktops)
 --------------------------------
 
-Total: 2390
+Total: 2423
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | PRIME B850M-F               | [1d8d21ca70](https://linux-hardware.org/?probe=1d8d21ca70) | Dec 10, 2025 |
+| Intel         | DQ67SW AAG12527-310         | [32db532870](https://linux-hardware.org/?probe=32db532870) | Dec 10, 2025 |
+| Intel         | DQ67SW AAG12527-310         | [9180926153](https://linux-hardware.org/?probe=9180926153) | Dec 09, 2025 |
+| ASUSTek       | M5A97 LE R2.0               | [4d97bd82c7](https://linux-hardware.org/?probe=4d97bd82c7) | Oct 26, 2025 |
+| MSI           | Z390-A PRO                  | [6189cfe61c](https://linux-hardware.org/?probe=6189cfe61c) | Oct 19, 2025 |
+| ASRock        | H77M-ITX                    | [9e3b4e4651](https://linux-hardware.org/?probe=9e3b4e4651) | Oct 08, 2025 |
+| ASRock        | H77M-ITX                    | [9d1f04b695](https://linux-hardware.org/?probe=9d1f04b695) | Sep 20, 2025 |
+| Pegatron      | 2A99                        | [e69ed0fb2f](https://linux-hardware.org/?probe=e69ed0fb2f) | Aug 09, 2025 |
+| Dell          | 0YXT71 A03                  | [ab40c37e42](https://linux-hardware.org/?probe=ab40c37e42) | Jul 13, 2025 |
+| Gigabyte      | B760 DS3H AC                | [35905b252e](https://linux-hardware.org/?probe=35905b252e) | Jun 14, 2025 |
+| Gigabyte      | B760 DS3H AC                | [420035b397](https://linux-hardware.org/?probe=420035b397) | Jun 14, 2025 |
+| MSI           | 2A9C                        | [9ac5e1276c](https://linux-hardware.org/?probe=9ac5e1276c) | Jun 01, 2025 |
+| MSI           | Z390-A PRO                  | [aff1245dcc](https://linux-hardware.org/?probe=aff1245dcc) | May 17, 2025 |
+| ASUSTek       | ROG Maximus XIII HERO       | [317bc99b1e](https://linux-hardware.org/?probe=317bc99b1e) | May 16, 2025 |
+| ASRock        | AB350 Pro4                  | [4abba8c09a](https://linux-hardware.org/?probe=4abba8c09a) | May 04, 2025 |
+| Colorful T... | H410M-K PRO V20             | [49be1b2559](https://linux-hardware.org/?probe=49be1b2559) | May 04, 2025 |
+| ASUSTek       | PRIME B560M-A               | [c8c25fbd9e](https://linux-hardware.org/?probe=c8c25fbd9e) | Mar 30, 2025 |
+| Pegatron      | EVANS                       | [a584a230ff](https://linux-hardware.org/?probe=a584a230ff) | Mar 26, 2025 |
+| ASUSTek       | M5A97 LE R2.0               | [8b331ff9ed](https://linux-hardware.org/?probe=8b331ff9ed) | Mar 22, 2025 |
+| ASUSTek       | M5A97 LE R2.0               | [2b9b3ff556](https://linux-hardware.org/?probe=2b9b3ff556) | Mar 19, 2025 |
+| Dell          | 042P49 A01                  | [63d501b1d0](https://linux-hardware.org/?probe=63d501b1d0) | Mar 03, 2025 |
+| Dell          | 042P49 A01                  | [e6a3f69cca](https://linux-hardware.org/?probe=e6a3f69cca) | Mar 03, 2025 |
+| HP            | 8076                        | [1da734f50f](https://linux-hardware.org/?probe=1da734f50f) | Feb 22, 2025 |
+| HP            | 8076                        | [060f295c86](https://linux-hardware.org/?probe=060f295c86) | Feb 22, 2025 |
+| Gigabyte      | H61M-DS2                    | [0f495a1d35](https://linux-hardware.org/?probe=0f495a1d35) | Feb 16, 2025 |
+| Gigabyte      | A320M-S2H-CF                | [c66abd7bbe](https://linux-hardware.org/?probe=c66abd7bbe) | Jan 22, 2025 |
+| Intel         | DQ67SW AAG12527-310         | [28e3797805](https://linux-hardware.org/?probe=28e3797805) | Jan 21, 2025 |
+| HP            | 8076                        | [60ae0cbe8a](https://linux-hardware.org/?probe=60ae0cbe8a) | Jan 18, 2025 |
+| AMI           | Cherry Trail CR             | [4f6089ecf6](https://linux-hardware.org/?probe=4f6089ecf6) | Jan 14, 2025 |
+| Intel         | DQ67SW AAG12527-310         | [709d8d899c](https://linux-hardware.org/?probe=709d8d899c) | Jan 11, 2025 |
+| Dell          | 03D1TV A00                  | [2abc70cf32](https://linux-hardware.org/?probe=2abc70cf32) | Jan 11, 2025 |
+| Gigabyte      | H110M-S2H-CF                | [cfddb04481](https://linux-hardware.org/?probe=cfddb04481) | Jan 11, 2025 |
+| Biostar       | TA970 Plus                  | [afb51cfe18](https://linux-hardware.org/?probe=afb51cfe18) | Jan 06, 2025 |
 | Intel         | H61 V1.6B                   | [699b915313](https://linux-hardware.org/?probe=699b915313) | Jan 03, 2025 |
 | Gigabyte      | A320M-S2H-CF                | [0e08cf46c1](https://linux-hardware.org/?probe=0e08cf46c1) | Dec 22, 2024 |
 | Fujitsu       | D2990-A2 S26361-D2990-A2    | [f6869ae032](https://linux-hardware.org/?probe=f6869ae032) | Dec 21, 2024 |
