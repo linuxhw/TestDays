@@ -1,10 +1,26 @@
 Xubuntu 20.04 - Test Cases (Desktops)
 -------------------------------------
 
-Total: 1347
+Total: 1363
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | P8H61-MX R2.0               | [b53f06d531](https://linux-hardware.org/?probe=b53f06d531) | Dec 21, 2025 |
+| Supermicro    | C2SBX                       | [d6bf8337f2](https://linux-hardware.org/?probe=d6bf8337f2) | Nov 01, 2025 |
+| Fujitsu       | D3400-A1 S26361-D3400-A1    | [d901055e32](https://linux-hardware.org/?probe=d901055e32) | May 26, 2025 |
+| Acer          | Aspire X1935                | [f0a8b7cc45](https://linux-hardware.org/?probe=f0a8b7cc45) | May 15, 2025 |
+| Dell          | 06FW8P A01                  | [5a944461e8](https://linux-hardware.org/?probe=5a944461e8) | May 06, 2025 |
+| Gigabyte      | C1037UN                     | [a78fd78a9b](https://linux-hardware.org/?probe=a78fd78a9b) | Apr 25, 2025 |
+| HP            | 1589                        | [6efae2511d](https://linux-hardware.org/?probe=6efae2511d) | Mar 21, 2025 |
+| ASUSTek       | ROG STRIX B550-E GAMING     | [ebbbf372d8](https://linux-hardware.org/?probe=ebbbf372d8) | Mar 11, 2025 |
+| Gateway       | SX2855                      | [d3488ce0cd](https://linux-hardware.org/?probe=d3488ce0cd) | Mar 09, 2025 |
+| Dell          | 0G214D A00                  | [50cd9ada73](https://linux-hardware.org/?probe=50cd9ada73) | Mar 04, 2025 |
+| Vorke         | V1 Plus                     | [20d9f96adf](https://linux-hardware.org/?probe=20d9f96adf) | Feb 17, 2025 |
+| Vorke         | V1 Plus                     | [1aaecffd7f](https://linux-hardware.org/?probe=1aaecffd7f) | Feb 16, 2025 |
+| Lenovo        | MAHOBAY NO DPK              | [45cf86508c](https://linux-hardware.org/?probe=45cf86508c) | Feb 03, 2025 |
+| Dell          | 08NPPY A00                  | [82995409cb](https://linux-hardware.org/?probe=82995409cb) | Jan 18, 2025 |
+| ASUSTek       | P5Q PRO TURBO               | [61e32f6b33](https://linux-hardware.org/?probe=61e32f6b33) | Jan 10, 2025 |
+| HP            | 3397                        | [a6f9ed17b7](https://linux-hardware.org/?probe=a6f9ed17b7) | Jan 08, 2025 |
 | Unknown       | Unknown                     | [57ac1cff4f](https://linux-hardware.org/?probe=57ac1cff4f) | Dec 17, 2024 |
 | Unknown       | Unknown                     | [d64bb975dd](https://linux-hardware.org/?probe=d64bb975dd) | Dec 16, 2024 |
 | Unknown       | Unknown                     | [add57541c1](https://linux-hardware.org/?probe=add57541c1) | Dec 16, 2024 |
