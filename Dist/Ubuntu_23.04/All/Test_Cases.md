@@ -1,10 +1,26 @@
 Ubuntu 23.04 - Test Cases
 -------------------------
 
-Total: 2365
+Total: 2381
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Dell          | Latitude 5285               | Tablet      | [9a9b4a5979](https://linux-hardware.org/?probe=9a9b4a5979) | Sep 23, 2025 |
+| ASUSTek       | ROG STRIX B450-F GAMING     | Desktop     | [f191f87d7d](https://linux-hardware.org/?probe=f191f87d7d) | Sep 05, 2025 |
+| Panasonic     | CF-SX1WEVHR                 | Notebook    | [2e0813494e](https://linux-hardware.org/?probe=2e0813494e) | Jul 29, 2025 |
+| Pegatron      | A15                         | Notebook    | [5b0b8980a4](https://linux-hardware.org/?probe=5b0b8980a4) | Jul 28, 2025 |
+| KUU           | Andes II                    | Notebook    | [fc5f731545](https://linux-hardware.org/?probe=fc5f731545) | Jul 27, 2025 |
+| Foxconn       | 2AB1                        | Desktop     | [c5631aa660](https://linux-hardware.org/?probe=c5631aa660) | May 26, 2025 |
+| ASUSTek       | P9D-I Series                | Server      | [2d9837a264](https://linux-hardware.org/?probe=2d9837a264) | Mar 17, 2025 |
+| ASUSTek       | P9D-I Series                | Server      | [a67c20717f](https://linux-hardware.org/?probe=a67c20717f) | Mar 17, 2025 |
+| Gigabyte      | Z97-HD3                     | Desktop     | [0d7ede0a93](https://linux-hardware.org/?probe=0d7ede0a93) | Feb 12, 2025 |
+| Dell          | Latitude 5285               | Tablet      | [ac7333f2f2](https://linux-hardware.org/?probe=ac7333f2f2) | Feb 11, 2025 |
+| Gigabyte      | H270N-WIFI-CF               | Desktop     | [5c48a6cbc6](https://linux-hardware.org/?probe=5c48a6cbc6) | Feb 10, 2025 |
+| Lenovo        | Z50-75 80EC                 | Notebook    | [b886c494b6](https://linux-hardware.org/?probe=b886c494b6) | Feb 07, 2025 |
+| Lenovo        | 30C0 SDK0J40697 WIN 3305... | Desktop     | [0231737737](https://linux-hardware.org/?probe=0231737737) | Jan 18, 2025 |
+| MSI           | B550M PRO-VDH WIFI          | Desktop     | [2abcf6cc31](https://linux-hardware.org/?probe=2abcf6cc31) | Jan 10, 2025 |
+| MSI           | B550M PRO-VDH WIFI          | Desktop     | [39f87e2ae9](https://linux-hardware.org/?probe=39f87e2ae9) | Jan 10, 2025 |
+| Panasonic     | CF-SX1WEVHR                 | Notebook    | [73563fa71e](https://linux-hardware.org/?probe=73563fa71e) | Jan 09, 2025 |
 | ASUSTek       | TUF Z390-PLUS GAMING        | Desktop     | [6462e457e9](https://linux-hardware.org/?probe=6462e457e9) | Dec 09, 2024 |
 | MSI           | MS-7369                     | Desktop     | [fbfb1c6e78](https://linux-hardware.org/?probe=fbfb1c6e78) | Dec 06, 2024 |
 | ASUSTek       | Rampage IV FORMULA          | Desktop     | [19d479aa20](https://linux-hardware.org/?probe=19d479aa20) | Nov 29, 2024 |
@@ -372,7 +388,7 @@ Total: 2365
 | ASRock        | A320M-HDV R4.0              | Desktop     | [70c2a81f9f](https://linux-hardware.org/?probe=70c2a81f9f) | Oct 14, 2023 |
 | HUAWEI        | BOHK-WAX9X                  | Notebook    | [d83bb1e709](https://linux-hardware.org/?probe=d83bb1e709) | Oct 14, 2023 |
 | ASRock        | X399 Taichi                 | Desktop     | [10b572c94a](https://linux-hardware.org/?probe=10b572c94a) | Oct 14, 2023 |
-| Lenovo        | 3111 SDK0J40697 WIN 3305... | Desktop     | [1d1e26c1fe](https://linux-hardware.org/?probe=1d1e26c1fe) | Oct 14, 2023 |
+| Lenovo        | 3111 SDK0J40697 WIN 3305... | Mini pc     | [1d1e26c1fe](https://linux-hardware.org/?probe=1d1e26c1fe) | Oct 14, 2023 |
 | Dell          | Inspiron 3521               | Notebook    | [a4ed11bb84](https://linux-hardware.org/?probe=a4ed11bb84) | Oct 14, 2023 |
 | Dell          | 0K3CM7 A00                  | Desktop     | [35d569ea79](https://linux-hardware.org/?probe=35d569ea79) | Oct 14, 2023 |
 | Lenovo        | ThinkPad W500 4063JR4       | Notebook    | [5b0b094b32](https://linux-hardware.org/?probe=5b0b094b32) | Oct 14, 2023 |
@@ -2130,7 +2146,7 @@ Total: 2365
 | HP            | EliteBook 840 G3            | Notebook    | [c490c44357](https://linux-hardware.org/?probe=c490c44357) | May 01, 2023 |
 | Lenovo        | Legion S7 15IMH5 82BC       | Notebook    | [a57d01b946](https://linux-hardware.org/?probe=a57d01b946) | May 01, 2023 |
 | ASUSTek       | Zenbook UM5302TA_UM5302T... | Notebook    | [4bec088d90](https://linux-hardware.org/?probe=4bec088d90) | Apr 30, 2023 |
-| Lenovo        | 3111 SDK0J40697 WIN 3305... | Desktop     | [705ff684a9](https://linux-hardware.org/?probe=705ff684a9) | Apr 30, 2023 |
+| Lenovo        | 3111 SDK0J40697 WIN 3305... | Mini pc     | [705ff684a9](https://linux-hardware.org/?probe=705ff684a9) | Apr 30, 2023 |
 | Dell          | XPS 15 9500                 | Notebook    | [93fef964a7](https://linux-hardware.org/?probe=93fef964a7) | Apr 30, 2023 |
 | ASUSTek       | M5A78L/USB3                 | Desktop     | [467bb5ded2](https://linux-hardware.org/?probe=467bb5ded2) | Apr 30, 2023 |
 | Lenovo        | 370A SDK0J40700 WIN 3258... | Desktop     | [9a1d443928](https://linux-hardware.org/?probe=9a1d443928) | Apr 30, 2023 |
@@ -2352,7 +2368,7 @@ Total: 2365
 | Fanless Mi... | Rev JSL1                    | Mini pc     | [99dda6c06c](https://linux-hardware.org/?probe=99dda6c06c) | Feb 09, 2023 |
 | Acer          | Aspire V5-552G              | Notebook    | [2750863407](https://linux-hardware.org/?probe=2750863407) | Feb 02, 2023 |
 | Lenovo        | 3309 SDK0T76530 WIN 3556... | Mini pc     | [dc858e1b6d](https://linux-hardware.org/?probe=dc858e1b6d) | Jan 23, 2023 |
-| HP            | ProBook 6560b               | Notebook    | [a9eba68b79](https://linux-hardware.org/?probe=a9eba68b79) | Jan 14, 2023 |
+| HP            | Unknown                     | Notebook    | [a9eba68b79](https://linux-hardware.org/?probe=a9eba68b79) | Jan 14, 2023 |
 | Samsung       | SBB-DA                      | Notebook    | [a4c6b4f454](https://linux-hardware.org/?probe=a4c6b4f454) | Jan 07, 2023 |
 | Fujitsu Si... | D2420 S26361-D2420          | Desktop     | [9e8c937daa](https://linux-hardware.org/?probe=9e8c937daa) | Dec 31, 2022 |
 | Fujitsu Si... | D2420 S26361-D2420          | Desktop     | [019236854d](https://linux-hardware.org/?probe=019236854d) | Dec 30, 2022 |

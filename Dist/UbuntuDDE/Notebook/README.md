@@ -966,7 +966,7 @@ Hard drive models
 | Toshiba MQ01ABD075 752GB            | 1         | 1.45%   |
 | Toshiba MK7559GSXP 752GB            | 1         | 1.45%   |
 | Toshiba MK5059GSXP 500GB            | 1         | 1.45%   |
-| Timetec M.2 SATA 256GB              | 1         | 1.45%   |
+| Timetec M.2 SATA 256GB SSD          | 1         | 1.45%   |
 | SK hynix PC401 NVMe 1TB             | 1         | 1.45%   |
 | SK hynix NVMe SSD Drive 1024GB      | 1         | 1.45%   |
 | Seagate ST500LT015-1DJ142 500GB     | 1         | 1.45%   |
@@ -1501,12 +1501,12 @@ Graphics card models
 |------------------------------------------------------------------------------------------|-----------|---------|
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 6         | 8%      |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 5         | 6.67%   |
-| Intel HD Graphics 5500                                                                   | 4         | 5.33%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 4         | 5.33%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                                 | 4         | 5.33%   |
 | Intel 3rd Gen Core processor Graphics Controller                                         | 4         | 5.33%   |
 | Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                                               | 3         | 4%      |
-| Intel UHD Graphics 620                                                                   | 3         | 4%      |
-| Intel HD Graphics 620                                                                    | 3         | 4%      |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 3         | 4%      |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                                 | 3         | 4%      |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 3         | 4%      |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 3         | 4%      |
 | Nvidia GP108M [GeForce MX150]                                                            | 2         | 2.67%   |
@@ -1525,7 +1525,7 @@ Graphics card models
 | Nvidia GM107M [GeForce GTX 850M]                                                         | 1         | 1.33%   |
 | Nvidia GK208M [GeForce GT 740M]                                                          | 1         | 1.33%   |
 | Nvidia GF108M [GeForce GT 540M]                                                          | 1         | 1.33%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 1         | 1.33%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 1         | 1.33%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 1         | 1.33%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 1         | 1.33%   |
 | Intel Meteor Lake-P [Intel Arc Graphics]                                                 | 1         | 1.33%   |
@@ -1636,12 +1636,12 @@ Monitor models
 | Samsung Electronics U32J59x SAM0F33 3840x2160 697x392mm 31.5-inch        | 1         | 1.59%   |
 | Samsung Electronics T22B300 SAM092D 1920x1080 477x268mm 21.5-inch        | 1         | 1.59%   |
 | Samsung Electronics S27E500 SAM0D0D 1920x1080 598x336mm 27.0-inch        | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 286x179mm 13.3-inch     | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 331x207mm 15.4-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC454C 1366x768 309x174mm 14.0-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 309x174mm 14.0-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC3942 1366x768 309x174mm 14.0-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SEC3157 1280x800 303x190mm 14.1-inch     | 1         | 1.59%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 309x174mm 14.0-inch     | 1         | 1.59%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 353x198mm 15.9-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 344x194mm 15.5-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SDC4347 1366x768 344x193mm 15.5-inch     | 1         | 1.59%   |
 | Samsung Electronics LCD Monitor SDC419D 2880x1800 302x189mm 14.0-inch    | 1         | 1.59%   |
@@ -1665,7 +1665,7 @@ Monitor models
 | Eizo EV2450 ENC2532 1920x1080 528x297mm 23.9-inch                        | 1         | 1.59%   |
 | Eizo EV2450 ENC2531 1920x1080 528x297mm 23.9-inch                        | 1         | 1.59%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 344x193mm 15.5-inch         | 1         | 1.59%   |
-| Chimei Innolux LCD Monitor CMN1489 1366x768 309x174mm 14.0-inch          | 1         | 1.59%   |
+| Chimei Innolux LCD Monitor CMN1489 1366x768 309x173mm 13.9-inch          | 1         | 1.59%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A2 1366x768 344x193mm 15.5-inch | 1         | 1.59%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1469 1366x768 309x174mm 14.0-inch | 1         | 1.59%   |
 | BOE LCD Monitor BOE0B09 1920x1080 309x174mm 14.0-inch                    | 1         | 1.59%   |
@@ -1812,20 +1812,21 @@ Controller vendors
 
 | Vendor                           | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| Realtek Semiconductor            | 27        | 31.03%  |
-| Intel                            | 27        | 31.03%  |
-| Qualcomm Atheros                 | 16        | 18.39%  |
-| Broadcom                         | 6         | 6.9%    |
-| Ralink                           | 2         | 2.3%    |
-| Xiaomi                           | 1         | 1.15%   |
-| Silicon Integrated Systems [SiS] | 1         | 1.15%   |
-| Ralink Technology                | 1         | 1.15%   |
-| MediaTek                         | 1         | 1.15%   |
-| Marvell Technology Group         | 1         | 1.15%   |
-| Hewlett-Packard                  | 1         | 1.15%   |
-| Dell                             | 1         | 1.15%   |
-| Broadcom Limited                 | 1         | 1.15%   |
-| ASUSTek Computer                 | 1         | 1.15%   |
+| Realtek Semiconductor            | 27        | 30.68%  |
+| Intel                            | 27        | 30.68%  |
+| Qualcomm Atheros                 | 16        | 18.18%  |
+| Broadcom                         | 6         | 6.82%   |
+| Ralink                           | 2         | 2.27%   |
+| Xiaomi                           | 1         | 1.14%   |
+| Silicon Integrated Systems [SiS] | 1         | 1.14%   |
+| Shenzhen Goodix Technology       | 1         | 1.14%   |
+| Ralink Technology                | 1         | 1.14%   |
+| MediaTek                         | 1         | 1.14%   |
+| Marvell Technology Group         | 1         | 1.14%   |
+| Hewlett-Packard                  | 1         | 1.14%   |
+| Dell                             | 1         | 1.14%   |
+| Broadcom Limited                 | 1         | 1.14%   |
+| ASUSTek Computer                 | 1         | 1.14%   |
 
 Net Controller Model
 --------------------
@@ -1837,46 +1838,46 @@ Controller models
 
 | Model                                                                   | Notebooks | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller  | 15        | 14.29%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                   | 7         | 6.67%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 5         | 4.76%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter              | 4         | 3.81%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                   | 4         | 3.81%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 3         | 2.86%   |
-| Realtek RTL8153 Gigabit Ethernet Adapter                                | 3         | 2.86%   |
-| Intel Wireless 7265                                                     | 3         | 2.86%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 3         | 2.86%   |
-| Realtek RTL8723DE Wireless Network Adapter                              | 2         | 1.9%    |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 1.9%    |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 1.9%    |
-| Intel Wireless 3160                                                     | 2         | 1.9%    |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                           | 2         | 1.9%    |
-| Intel Centrino Advanced-N 6200                                          | 2         | 1.9%    |
-| Broadcom BCM43228 802.11a/b/g/n                                         | 2         | 1.9%    |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 2         | 1.9%    |
-| Xiaomi Mi/Redmi series (RNDIS)                                          | 1         | 0.95%   |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter           | 1         | 0.95%   |
-| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                | 1         | 0.95%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                   | 1         | 0.95%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                               | 1         | 0.95%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 0.95%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 0.95%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller               | 1         | 0.95%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller               | 1         | 0.95%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                                   | 1         | 0.95%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                              | 1         | 0.95%   |
-| Qualcomm Atheros AR8152 v1.1 Fast Ethernet                              | 1         | 0.95%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                           | 1         | 0.95%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 0.95%   |
-| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter           | 1         | 0.95%   |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                    | 1         | 0.95%   |
-| Intel Wireless 8265 / 8275                                              | 1         | 0.95%   |
-| Intel Wireless 8260                                                     | 1         | 0.95%   |
-| Intel Wireless 7260                                                     | 1         | 0.95%   |
-| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]               | 1         | 0.95%   |
-| Intel Wi-Fi 6 AX201                                                     | 1         | 0.95%   |
-| Intel Ultimate N WiFi Link 5300                                         | 1         | 0.95%   |
-| Intel Meteor Lake PCH CNVi WiFi                                         | 1         | 0.95%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller  | 15        | 14.15%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                   | 7         | 6.6%    |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 5         | 4.72%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter              | 4         | 3.77%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                   | 4         | 3.77%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 3         | 2.83%   |
+| Realtek RTL8153 Gigabit Ethernet Adapter                                | 3         | 2.83%   |
+| Intel Wireless 7265                                                     | 3         | 2.83%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 3         | 2.83%   |
+| Realtek RTL8723DE Wireless Network Adapter                              | 2         | 1.89%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                         | 2         | 1.89%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 2         | 1.89%   |
+| Intel Wireless 3160                                                     | 2         | 1.89%   |
+| Intel Centrino Wireless-N 1030 [Rainbow Peak]                           | 2         | 1.89%   |
+| Intel Centrino Advanced-N 6200                                          | 2         | 1.89%   |
+| Broadcom BCM43228 802.11a/b/g/n                                         | 2         | 1.89%   |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 2         | 1.89%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                          | 1         | 0.94%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter           | 1         | 0.94%   |
+| Shenzhen Goodix Fingerprint Reader                                      | 1         | 0.94%   |
+| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter                | 1         | 0.94%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                   | 1         | 0.94%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                               | 1         | 0.94%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                               | 1         | 0.94%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 1         | 0.94%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller               | 1         | 0.94%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller               | 1         | 0.94%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                                   | 1         | 0.94%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                              | 1         | 0.94%   |
+| Qualcomm Atheros AR8152 v1.1 Fast Ethernet                              | 1         | 0.94%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                           | 1         | 0.94%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 0.94%   |
+| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter           | 1         | 0.94%   |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                    | 1         | 0.94%   |
+| Intel Wireless 8265 / 8275                                              | 1         | 0.94%   |
+| Intel Wireless 8260                                                     | 1         | 0.94%   |
+| Intel Wireless 7260                                                     | 1         | 0.94%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]               | 1         | 0.94%   |
+| Intel Wi-Fi 6 AX201                                                     | 1         | 0.94%   |
+| Intel Ultimate N WiFi Link 5300                                         | 1         | 0.94%   |
 
 Wireless Vendor
 ---------------
@@ -2007,9 +2008,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 55        | 54.46%  |
-| Ethernet | 45        | 44.55%  |
-| Modem    | 1         | 0.99%   |
+| WiFi     | 55        | 53.92%  |
+| Ethernet | 45        | 44.12%  |
+| Modem    | 2         | 1.96%   |
 
 Used Controller
 ---------------
@@ -2099,7 +2100,7 @@ Controller models
 | Ralink Motorola BC4 Bluetooth 3.0+HS Adapter        | 1         | 2.27%   |
 | Ralink RT3290 Bluetooth                             | 1         | 2.27%   |
 | Qualcomm Atheros  Bluetooth Device                  | 1         | 2.27%   |
-| Intel AX211 Bluetooth                               | 1         | 2.27%   |
+| Intel Bluetooth Device                              | 1         | 2.27%   |
 | Intel AX210 Bluetooth                               | 1         | 2.27%   |
 | IMC Networks Bluetooth USB Host Controller          | 1         | 2.27%   |
 | HP Broadcom 2070 Bluetooth Combo                    | 1         | 2.27%   |
@@ -2165,7 +2166,7 @@ Sound card models
 | Razer USA Kraken 7.1 V2                                                                           | 1         | 1.28%   |
 | Nvidia TU104 HD Audio Controller                                                                  | 1         | 1.28%   |
 | Nvidia GF108 High Definition Audio Controller                                                     | 1         | 1.28%   |
-| Logitech Speaker Lapdesk N700                                                                     | 1         | 1.28%   |
+| Logitech Logitech Speaker Lapdesk N700                                                            | 1         | 1.28%   |
 | Licensed by Sony Computer Entertainment America Wireless Stereo Headset                           | 1         | 1.28%   |
 | Intel Meteor Lake-P HD Audio Controller                                                           | 1         | 1.28%   |
 | Intel Comet Lake PCH-LP cAVS                                                                      | 1         | 1.28%   |
@@ -2174,11 +2175,11 @@ Sound card models
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1         | 1.28%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 1         | 1.28%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1         | 1.28%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                                             | 1         | 1.28%   |
+| AMD Ryzen HD Audio Controller                                                                     | 1         | 1.28%   |
+| AMD Radeon High Definition Audio Controller                                                       | 1         | 1.28%   |
 | AMD Kabini HDMI/DP Audio                                                                          | 1         | 1.28%   |
 | AMD High Definition Audio Controller                                                              | 1         | 1.28%   |
 | AMD FCH Azalia Controller                                                                         | 1         | 1.28%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 1         | 1.28%   |
 
 Memory
 ------
@@ -2215,34 +2216,34 @@ Memory module models
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 6.25%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR3 2400MT/s | 1         | 3.13%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 3.13%   |
 | Unknown (2C0B) RAM Module 16GB SODIMM DDR4 2133MT/s              | 1         | 3.13%   |
-| Teikon RAM TMT251S6CFR8C-PBHC 4096MB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
+| Teikon RAM TMT251S6CFR8C-PBHC 4GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 2667MT/s           | 1         | 3.13%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 1         | 3.13%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM 1334MT/s                | 1         | 3.13%   |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 3.13%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2667MT/s           | 1         | 3.13%   |
 | SK hynix RAM H9CCNNN8GTMLAR-NUD 2GB LPDDR3 1600MT/s              | 1         | 3.13%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 3.13%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 3.13%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB SODIMM DDR3 1600MT/s         | 1         | 3.13%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 3.13%   |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2667MT/s            | 1         | 3.13%   |
 | Samsung RAM M471A5244BB0-CPB 4GB SODIMM DDR4 2400MT/s            | 1         | 3.13%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s           | 1         | 3.13%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s            | 1         | 3.13%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s            | 1         | 3.13%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 8400MT/s            | 1         | 3.13%   |
 | Samsung RAM K4EBE304ED-EGCG 8GB Row Of Chips LPDDR3 2133MT/s     | 1         | 3.13%   |
 | Ramaxel RAM RMSA3270MB86H9F2400 4GB SODIMM DDR4 2400MT/s         | 1         | 3.13%   |
-| Micron RAM MT62F2G32D4DS-026 WT 8GB SODIMM LPDDR5 7500MT/s       | 1         | 3.13%   |
-| Micron RAM MT62F2G32D4DS-026 4GB Row Of Chips LPDDR5 7467MT/s    | 1         | 3.13%   |
+| Micron RAM MT62F2G32D4DS-026 WT 8GiB SODIMM LPDDR5 7500MT/s      | 1         | 3.13%   |
+| Micron RAM MT62F2G32D4DS-026 4GB Row Of Chips LPDDR5 7500MT/s    | 1         | 3.13%   |
 | Micron RAM Module 4GB SODIMM DDR3 1600MT/s                       | 1         | 3.13%   |
 | Micron RAM 8ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2400MT/s             | 1         | 3.13%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s            | 1         | 3.13%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s           | 1         | 3.13%   |
 | Kingston RAM KHX2133C13S4/4G 4GB SODIMM DDR4 2133MT/s            | 1         | 3.13%   |
-| Kingston RAM KHX1600C9S3L/8G 8192MB SODIMM DDR3 1600MT/s         | 1         | 3.13%   |
+| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s            | 1         | 3.13%   |
 | Elpida RAM EBJ40UG8BBU0-GN-F 4GB SODIMM DDR3 1600MT/s            | 1         | 3.13%   |
 | Crucial RAM CT16G4SFRA32A.M16FRS 16GB SODIMM DDR4 3200MT/s       | 1         | 3.13%   |
 
@@ -2301,14 +2302,14 @@ Memory module speed
 
 | Speed | Notebooks | Percent |
 |-------|-----------|---------|
-| 1600  | 10        | 35.71%  |
-| 2667  | 5         | 17.86%  |
-| 2400  | 4         | 14.29%  |
-| 3200  | 3         | 10.71%  |
-| 2133  | 3         | 10.71%  |
-| 7500  | 1         | 3.57%   |
-| 7467  | 1         | 3.57%   |
-| 1334  | 1         | 3.57%   |
+| 1600  | 9         | 31.03%  |
+| 2667  | 6         | 20.69%  |
+| 2400  | 4         | 13.79%  |
+| 3200  | 3         | 10.34%  |
+| 2133  | 3         | 10.34%  |
+| 7500  | 2         | 6.9%    |
+| 8400  | 1         | 3.45%   |
+| 1334  | 1         | 3.45%   |
 
 Printers & scanners
 -------------------
@@ -2358,12 +2359,11 @@ Camera device vendors
 | Microdia                      | 6         | 12.24%  |
 | Suyin                         | 4         | 8.16%   |
 | Sunplus Innovation Technology | 4         | 8.16%   |
+| Bison Electronics             | 4         | 8.16%   |
 | Realtek Semiconductor         | 3         | 6.12%   |
 | Quanta                        | 3         | 6.12%   |
 | IMC Networks                  | 3         | 6.12%   |
 | Silicon Motion                | 2         | 4.08%   |
-| Bison Electronics             | 2         | 4.08%   |
-| Acer                          | 2         | 4.08%   |
 | Syntek                        | 1         | 2.04%   |
 | Shinetech                     | 1         | 2.04%   |
 | Luxvisions Innotech Limited   | 1         | 2.04%   |
@@ -2495,8 +2495,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 38        | 69.09%  |
-| 1     | 14        | 25.45%  |
+| 0     | 36        | 65.45%  |
+| 1     | 16        | 29.09%  |
 | 2     | 3         | 5.45%   |
 
 Unsupported Device Types
@@ -2509,10 +2509,10 @@ Types of unsupported devices
 
 | Type               | Notebooks | Percent |
 |--------------------|-----------|---------|
-| Fingerprint reader | 7         | 38.89%  |
-| Graphics card      | 5         | 27.78%  |
-| Chipcard           | 3         | 16.67%  |
-| Network            | 1         | 5.56%   |
-| Net/ethernet       | 1         | 5.56%   |
-| Bluetooth          | 1         | 5.56%   |
+| Graphics card      | 7         | 35%     |
+| Fingerprint reader | 7         | 35%     |
+| Chipcard           | 3         | 15%     |
+| Network            | 1         | 5%      |
+| Net/ethernet       | 1         | 5%      |
+| Bluetooth          | 1         | 5%      |
 
