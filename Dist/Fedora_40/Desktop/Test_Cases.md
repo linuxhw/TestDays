@@ -1,10 +1,69 @@
 Fedora 40 - Test Cases (Desktops)
 ---------------------------------
 
-Total: 1735
+Total: 1794
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | 1064 NOK                    | [edea700c18](https://linux-hardware.org/?probe=edea700c18) | Dec 11, 2025 |
+| Gigabyte      | B360M H                     | [5369c60a61](https://linux-hardware.org/?probe=5369c60a61) | Sep 27, 2025 |
+| ASUSTek       | TUF Gaming B550-PLUS WIF... | [a8900a4bb4](https://linux-hardware.org/?probe=a8900a4bb4) | Sep 02, 2025 |
+| Intel         | H61                         | [bec37789f8](https://linux-hardware.org/?probe=bec37789f8) | Sep 01, 2025 |
+| Intel         | G41                         | [659c5f79b1](https://linux-hardware.org/?probe=659c5f79b1) | Aug 17, 2025 |
+| ASRock        | Z590 Pro4                   | [44baa950a1](https://linux-hardware.org/?probe=44baa950a1) | Aug 17, 2025 |
+| OEM           | G41 775 ICH7 8712           | [19f8aae6b9](https://linux-hardware.org/?probe=19f8aae6b9) | Aug 04, 2025 |
+| OEM           | G41 775 ICH7 8712           | [bbe671d670](https://linux-hardware.org/?probe=bbe671d670) | Aug 03, 2025 |
+| Intel         | G41                         | [3f1948295b](https://linux-hardware.org/?probe=3f1948295b) | Jul 23, 2025 |
+| MSI           | MEG X570 UNIFY              | [041c4cf8e8](https://linux-hardware.org/?probe=041c4cf8e8) | Jul 04, 2025 |
+| Intel         | X99                         | [d981550a0c](https://linux-hardware.org/?probe=d981550a0c) | Jun 24, 2025 |
+| Itautec       | ST 4265                     | [c3f6bd0e19](https://linux-hardware.org/?probe=c3f6bd0e19) | Jun 11, 2025 |
+| Gigabyte      | A320M-S2H-CF                | [5e6b0cf765](https://linux-hardware.org/?probe=5e6b0cf765) | May 30, 2025 |
+| ASRock        | AMD BC-250                  | [a8409e3c53](https://linux-hardware.org/?probe=a8409e3c53) | May 26, 2025 |
+| ASRock        | AMD BC-250                  | [81a5b570fa](https://linux-hardware.org/?probe=81a5b570fa) | May 12, 2025 |
+| ASRock        | AMD BC-250                  | [aefd9054be](https://linux-hardware.org/?probe=aefd9054be) | May 12, 2025 |
+| Itautec       | ST 4265                     | [92e6d2908a](https://linux-hardware.org/?probe=92e6d2908a) | May 06, 2025 |
+| ASUSTek       | PRIME H510M-K               | [637f269507](https://linux-hardware.org/?probe=637f269507) | May 05, 2025 |
+| Huanan        | X99-8M-F V1.1               | [6b6565721e](https://linux-hardware.org/?probe=6b6565721e) | May 01, 2025 |
+| ASRock        | Z87 Extreme6                | [80310c53e2](https://linux-hardware.org/?probe=80310c53e2) | Apr 23, 2025 |
+| Colorful T... | DJ C.A320M-K PRO V14        | [8923e88ab4](https://linux-hardware.org/?probe=8923e88ab4) | Apr 23, 2025 |
+| ASUSTek       | PRIME B550-PLUS             | [066ff67f73](https://linux-hardware.org/?probe=066ff67f73) | Apr 21, 2025 |
+| ASUSTek       | PRIME X670-P WIFI           | [7bf90d17e1](https://linux-hardware.org/?probe=7bf90d17e1) | Apr 13, 2025 |
+| MSI           | MAG B650 TOMAHAWK WIFI      | [676d10d398](https://linux-hardware.org/?probe=676d10d398) | Apr 10, 2025 |
+| ASUSTek       | TUF Gaming X570-PLUS        | [6ca9787590](https://linux-hardware.org/?probe=6ca9787590) | Apr 08, 2025 |
+| ASUSTek       | P8Q77-M                     | [5ca699fbbe](https://linux-hardware.org/?probe=5ca699fbbe) | Apr 08, 2025 |
+| Dell          | 0X501H A02                  | [81e3a82195](https://linux-hardware.org/?probe=81e3a82195) | Apr 06, 2025 |
+| ASUSTek       | SABERTOOTH Z77              | [d4dc0698ec](https://linux-hardware.org/?probe=d4dc0698ec) | Apr 05, 2025 |
+| ASUSTek       | M4A89GTD-PRO/USB3           | [f5cc051425](https://linux-hardware.org/?probe=f5cc051425) | Apr 05, 2025 |
+| ASUSTek       | TUF Gaming B550-PLUS        | [dd17f53405](https://linux-hardware.org/?probe=dd17f53405) | Apr 03, 2025 |
+| ASRock        | B650E PG-ITX WiFi           | [18d8b267ce](https://linux-hardware.org/?probe=18d8b267ce) | Mar 29, 2025 |
+| ASUSTek       | PRIME A320M-K               | [2d403367cf](https://linux-hardware.org/?probe=2d403367cf) | Mar 26, 2025 |
+| ASUSTek       | PRIME Z590-A                | [67f8c402ec](https://linux-hardware.org/?probe=67f8c402ec) | Mar 10, 2025 |
+| ASUSTek       | PRIME Z590-A                | [729eb995f4](https://linux-hardware.org/?probe=729eb995f4) | Mar 10, 2025 |
+| GMKtec        | NucBox M6                   | [589e930123](https://linux-hardware.org/?probe=589e930123) | Mar 08, 2025 |
+| ASUSTek       | Maximus IV Extreme          | [39d292df01](https://linux-hardware.org/?probe=39d292df01) | Mar 03, 2025 |
+| Gigabyte      | P35-DS3P                    | [c4bd97c371](https://linux-hardware.org/?probe=c4bd97c371) | Mar 01, 2025 |
+| ASUSTek       | PRIME X670-P WIFI           | [ab0653a5c0](https://linux-hardware.org/?probe=ab0653a5c0) | Feb 25, 2025 |
+| ASRock        | Z390 Phantom Gaming 4-CB    | [9b9e6438bb](https://linux-hardware.org/?probe=9b9e6438bb) | Feb 20, 2025 |
+| Gigabyte      | P85-D3                      | [82b71a3a20](https://linux-hardware.org/?probe=82b71a3a20) | Feb 18, 2025 |
+| Itautec       | ST 4265 ST-4265 Padrao 0... | [1e80b51331](https://linux-hardware.org/?probe=1e80b51331) | Feb 17, 2025 |
+| ASRock        | B550M Steel Legend          | [99157147de](https://linux-hardware.org/?probe=99157147de) | Feb 17, 2025 |
+| Foxconn       | A7GM-S FAB-A                | [4fa90005d3](https://linux-hardware.org/?probe=4fa90005d3) | Feb 17, 2025 |
+| ASUSTek       | PRIME H610I-PLUS D4         | [fa17fffb96](https://linux-hardware.org/?probe=fa17fffb96) | Feb 16, 2025 |
+| ASUSTek       | M5A78L-M/USB3               | [0dae04f493](https://linux-hardware.org/?probe=0dae04f493) | Feb 16, 2025 |
+| MSI           | MPG X570 GAMING EDGE WIF... | [270970c5a2](https://linux-hardware.org/?probe=270970c5a2) | Feb 14, 2025 |
+| Gigabyte      | H87-HD3                     | [d0ecac4e5c](https://linux-hardware.org/?probe=d0ecac4e5c) | Feb 08, 2025 |
+| ASUSTek       | PRIME B450M-A               | [49998ad82d](https://linux-hardware.org/?probe=49998ad82d) | Feb 05, 2025 |
+| Gigabyte      | B85M-D3H                    | [1fac88ae29](https://linux-hardware.org/?probe=1fac88ae29) | Feb 04, 2025 |
+| ASUSTek       | PRIME B650M-A AX II         | [c2d92a1c7c](https://linux-hardware.org/?probe=c2d92a1c7c) | Jan 26, 2025 |
+| ASUSTek       | PRIME B650M-A AX II         | [00c9f3280f](https://linux-hardware.org/?probe=00c9f3280f) | Jan 25, 2025 |
+| ASUSTek       | CM6731_CM6431_CM6331        | [4ab98c5cdf](https://linux-hardware.org/?probe=4ab98c5cdf) | Jan 18, 2025 |
+| Gigabyte      | B660M DS3H DDR4             | [52ebc117b4](https://linux-hardware.org/?probe=52ebc117b4) | Jan 16, 2025 |
+| ASUSTek       | Maximus IV Extreme          | [58f68159e5](https://linux-hardware.org/?probe=58f68159e5) | Jan 15, 2025 |
+| Gigabyte      | Z370N WIFI-CF               | [32cad85d9c](https://linux-hardware.org/?probe=32cad85d9c) | Jan 11, 2025 |
+| MSI           | MAG Z690 TOMAHAWK WIFI D... | [ab0a6cc352](https://linux-hardware.org/?probe=ab0a6cc352) | Jan 09, 2025 |
+| HP            | 1998                        | [93b60e816b](https://linux-hardware.org/?probe=93b60e816b) | Jan 07, 2025 |
+| ASUSTek       | PRIME B650M-A AX II         | [dead8f40dd](https://linux-hardware.org/?probe=dead8f40dd) | Jan 07, 2025 |
+| ASUSTek       | P5B-VM                      | [3ab840e997](https://linux-hardware.org/?probe=3ab840e997) | Jan 06, 2025 |
 | ASUSTek       | PRIME B650M-A AX II         | [7fea0bb2a1](https://linux-hardware.org/?probe=7fea0bb2a1) | Jan 06, 2025 |
 | AMI           | Intel                       | [a5d99b38fe](https://linux-hardware.org/?probe=a5d99b38fe) | Jan 03, 2025 |
 | ASUSTek       | PRIME H510M-K               | [2a6b25b609](https://linux-hardware.org/?probe=2a6b25b609) | Jan 02, 2025 |

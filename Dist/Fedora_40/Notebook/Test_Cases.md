@@ -1,10 +1,89 @@
 Fedora 40 - Test Cases (Notebooks)
 ----------------------------------
 
-Total: 2743
+Total: 2822
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| DEXP          | Atlas M15-I3W300            | [2ae95813de](https://linux-hardware.org/?probe=2ae95813de) | Dec 08, 2025 |
+| Dell          | Inspiron 1545               | [b5638a32bb](https://linux-hardware.org/?probe=b5638a32bb) | Nov 23, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop X160... | [ebafd2d928](https://linux-hardware.org/?probe=ebafd2d928) | Nov 14, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop X160... | [a448ab0649](https://linux-hardware.org/?probe=a448ab0649) | Nov 14, 2025 |
+| Dell          | Inspiron 1545               | [1e9900453b](https://linux-hardware.org/?probe=1e9900453b) | Nov 11, 2025 |
+| Apple         | MacBookAir7,2               | [ce9867b679](https://linux-hardware.org/?probe=ce9867b679) | Oct 29, 2025 |
+| Lenovo        | IdeaPad 3 15IIL05 U 81WE    | [d21c085a9e](https://linux-hardware.org/?probe=d21c085a9e) | Sep 22, 2025 |
+| Acer          | Aspire A115-32              | [3b4ee190cf](https://linux-hardware.org/?probe=3b4ee190cf) | Sep 18, 2025 |
+| Framework     | Laptop (12th Gen Intel C... | [203bb730cb](https://linux-hardware.org/?probe=203bb730cb) | Aug 30, 2025 |
+| Lenovo        | ThinkPad T14 Gen 4 21HDS... | [d69462d966](https://linux-hardware.org/?probe=d69462d966) | Aug 27, 2025 |
+| Apple         | MacBookPro13,2              | [27f49efbdc](https://linux-hardware.org/?probe=27f49efbdc) | Aug 24, 2025 |
+| HP            | Presario C700               | [044a6a8cab](https://linux-hardware.org/?probe=044a6a8cab) | Aug 20, 2025 |
+| Apple         | MacBookPro5,5               | [70f38c0b74](https://linux-hardware.org/?probe=70f38c0b74) | Aug 12, 2025 |
+| Dell          | Inspiron N4020              | [360c68885d](https://linux-hardware.org/?probe=360c68885d) | Aug 08, 2025 |
+| Lenovo        | ThinkPad P1 Gen 7 21KWS0... | [50840ef175](https://linux-hardware.org/?probe=50840ef175) | Jul 31, 2025 |
+| Lenovo        | V15 G3 ABA 82TV             | [f85b5a4fe2](https://linux-hardware.org/?probe=f85b5a4fe2) | Jul 31, 2025 |
+| HP            | ProBook 450 G2              | [0e7a66c399](https://linux-hardware.org/?probe=0e7a66c399) | Jul 17, 2025 |
+| Lenovo        | ThinkPad P1 Gen 4i 20Y4S... | [89f9b071e1](https://linux-hardware.org/?probe=89f9b071e1) | Jun 23, 2025 |
+| Google        | Careena                     | [5ec052164a](https://linux-hardware.org/?probe=5ec052164a) | Jun 14, 2025 |
+| Lenovo        | LOQ 15ARP9 83JC             | [6fcede302c](https://linux-hardware.org/?probe=6fcede302c) | Jun 14, 2025 |
+| Lenovo        | ThinkPad S1 Yoga 12 20DK... | [d7d234d702](https://linux-hardware.org/?probe=d7d234d702) | Jun 09, 2025 |
+| HUAWEI        | KLVL-WXX9                   | [7981c5a410](https://linux-hardware.org/?probe=7981c5a410) | Jun 07, 2025 |
+| HP            | Notebook                    | [367471f041](https://linux-hardware.org/?probe=367471f041) | Jun 05, 2025 |
+| Medion        | Deputy P60                  | [de230fe1d6](https://linux-hardware.org/?probe=de230fe1d6) | May 26, 2025 |
+| Dell          | XPS 15 7590                 | [e1c61a7c7b](https://linux-hardware.org/?probe=e1c61a7c7b) | May 14, 2025 |
+| Dell          | Inspiron 1545               | [71ac3e03aa](https://linux-hardware.org/?probe=71ac3e03aa) | Apr 30, 2025 |
+| ASUSTek       | ROG Zephyrus G14 GA401QM... | [e4549abb85](https://linux-hardware.org/?probe=e4549abb85) | Apr 28, 2025 |
+| Dell          | Precision 7720              | [9f5f86b613](https://linux-hardware.org/?probe=9f5f86b613) | Apr 28, 2025 |
+| MSI           | Prestige 16Evo A13M         | [61519e24f5](https://linux-hardware.org/?probe=61519e24f5) | Apr 16, 2025 |
+| Fujitsu       | FMVU28021                   | [987e66d20b](https://linux-hardware.org/?probe=987e66d20b) | Apr 12, 2025 |
+| Fujitsu       | FMVU28021                   | [8d352a1e20](https://linux-hardware.org/?probe=8d352a1e20) | Apr 11, 2025 |
+| HP            | ProBook 6570b               | [6d623f6102](https://linux-hardware.org/?probe=6d623f6102) | Apr 06, 2025 |
+| HP            | Notebook                    | [f3aec55dd2](https://linux-hardware.org/?probe=f3aec55dd2) | Apr 05, 2025 |
+| Lenovo        | ThinkPad P1 20MES05502      | [b41a0d1484](https://linux-hardware.org/?probe=b41a0d1484) | Apr 04, 2025 |
+| Dell          | Precision 7720              | [e5ea230d02](https://linux-hardware.org/?probe=e5ea230d02) | Apr 04, 2025 |
+| Lenovo        | Y520-15IKBN 80WK            | [881b1fdf64](https://linux-hardware.org/?probe=881b1fdf64) | Apr 03, 2025 |
+| Dell          | XPS 13 9343                 | [a8965fbb1c](https://linux-hardware.org/?probe=a8965fbb1c) | Mar 30, 2025 |
+| Apple         | MacBookPro14,1              | [025234280a](https://linux-hardware.org/?probe=025234280a) | Mar 29, 2025 |
+| Dell          | Precision M4800             | [ffdd988575](https://linux-hardware.org/?probe=ffdd988575) | Mar 26, 2025 |
+| Intel         | SandyBridge Platform        | [35b7673578](https://linux-hardware.org/?probe=35b7673578) | Mar 20, 2025 |
+| Dell          | Inspiron 15-7568            | [3c877efc3c](https://linux-hardware.org/?probe=3c877efc3c) | Mar 20, 2025 |
+| Dell          | Precision 7720              | [03a0e0ad5e](https://linux-hardware.org/?probe=03a0e0ad5e) | Mar 19, 2025 |
+| Fujitsu       | FMVU28021                   | [534b846d85](https://linux-hardware.org/?probe=534b846d85) | Mar 18, 2025 |
+| Acer          | Aspire A515-57              | [5db038a6d9](https://linux-hardware.org/?probe=5db038a6d9) | Mar 17, 2025 |
+| Fujitsu       | FMVU28021                   | [f4a2de4d6f](https://linux-hardware.org/?probe=f4a2de4d6f) | Mar 17, 2025 |
+| Acer          | TravelMate 5760             | [c80302200a](https://linux-hardware.org/?probe=c80302200a) | Mar 15, 2025 |
+| Lenovo        | IdeaPad Pro 5 14AHP9 83D... | [97faee3e83](https://linux-hardware.org/?probe=97faee3e83) | Mar 12, 2025 |
+| ASUSTek       | ROG Strix G713PU_G713PU     | [0dd2fe4800](https://linux-hardware.org/?probe=0dd2fe4800) | Mar 11, 2025 |
+| Lenovo        | ThinkBook 14 G6 IRL 21KG    | [39c5b36ece](https://linux-hardware.org/?probe=39c5b36ece) | Mar 10, 2025 |
+| Lenovo        | IdeaPad 3 15ITL6 82H8       | [fbfa14685f](https://linux-hardware.org/?probe=fbfa14685f) | Mar 07, 2025 |
+| ASUSTek       | T100TA                      | [34656c0496](https://linux-hardware.org/?probe=34656c0496) | Mar 07, 2025 |
+| ASUSTek       | X510URR                     | [b079fb18d9](https://linux-hardware.org/?probe=b079fb18d9) | Feb 22, 2025 |
+| HP            | ENVY Laptop 13-ah0xxx       | [f1436d32a5](https://linux-hardware.org/?probe=f1436d32a5) | Feb 22, 2025 |
+| Google        | Grabbiter                   | [2f12debd0c](https://linux-hardware.org/?probe=2f12debd0c) | Feb 22, 2025 |
+| HP            | Presario CQ43               | [996b08ec2c](https://linux-hardware.org/?probe=996b08ec2c) | Feb 19, 2025 |
+| HP            | ProBook 430 G5              | [7e9ab299a8](https://linux-hardware.org/?probe=7e9ab299a8) | Feb 17, 2025 |
+| Lenovo        | Legion 5 15ACH6H 82JU       | [c7fca945c6](https://linux-hardware.org/?probe=c7fca945c6) | Feb 17, 2025 |
+| MSI           | GF63 Thin 10SC              | [11418afff1](https://linux-hardware.org/?probe=11418afff1) | Feb 16, 2025 |
+| HP            | ProBook 430 G5              | [424773932a](https://linux-hardware.org/?probe=424773932a) | Feb 16, 2025 |
+| Dell          | XPS 15 7590                 | [dffd61d3b7](https://linux-hardware.org/?probe=dffd61d3b7) | Feb 05, 2025 |
+| Lenovo        | ThinkPad T420 4236PRG       | [69c74f6066](https://linux-hardware.org/?probe=69c74f6066) | Feb 03, 2025 |
+| Lenovo        | ThinkBook 14 G6 IRL 21KG    | [579b806434](https://linux-hardware.org/?probe=579b806434) | Feb 03, 2025 |
+| Lenovo        | IdeaPad Gaming 3 15ACH6 ... | [39355dab25](https://linux-hardware.org/?probe=39355dab25) | Feb 01, 2025 |
+| Apple         | MacBookPro8,1               | [07f3872d7f](https://linux-hardware.org/?probe=07f3872d7f) | Feb 01, 2025 |
+| Apple         | MacBookPro8,1               | [9374d548fd](https://linux-hardware.org/?probe=9374d548fd) | Feb 01, 2025 |
+| Lenovo        | ThinkPad T420 4236PRG       | [57cfd46ba2](https://linux-hardware.org/?probe=57cfd46ba2) | Jan 28, 2025 |
+| HP            | EliteBook 865 16 inch G9... | [0524da9e18](https://linux-hardware.org/?probe=0524da9e18) | Jan 28, 2025 |
+| HP            | EliteBook 845 14 inch G9... | [880767b966](https://linux-hardware.org/?probe=880767b966) | Jan 27, 2025 |
+| Lenovo        | Yoga Slim 7 14ARE05 82A2    | [95c591b26a](https://linux-hardware.org/?probe=95c591b26a) | Jan 27, 2025 |
+| Fujitsu       | LIFEBOOK E5511              | [ed6b9511d2](https://linux-hardware.org/?probe=ed6b9511d2) | Jan 20, 2025 |
+| Sony          | SVE1112M1RB                 | [01e7d734e2](https://linux-hardware.org/?probe=01e7d734e2) | Jan 20, 2025 |
+| Dell          | Inspiron 1545               | [bbf50be634](https://linux-hardware.org/?probe=bbf50be634) | Jan 19, 2025 |
+| HP            | ProBook 430 G5              | [6cdf0308f2](https://linux-hardware.org/?probe=6cdf0308f2) | Jan 18, 2025 |
+| ASUSTek       | ROG Strix G531GV_G531GV     | [b4588d047f](https://linux-hardware.org/?probe=b4588d047f) | Jan 18, 2025 |
+| Lenovo        | Legion Slim 5 14APH8 82Y... | [d3314e6ed9](https://linux-hardware.org/?probe=d3314e6ed9) | Jan 18, 2025 |
+| Unknown       | Unknown                     | [3d54b6dceb](https://linux-hardware.org/?probe=3d54b6dceb) | Jan 13, 2025 |
+| HP            | Laptop 14-dq4xxx            | [29d67f3c8c](https://linux-hardware.org/?probe=29d67f3c8c) | Jan 13, 2025 |
+| Dell          | Inspiron 1545               | [d852e85b23](https://linux-hardware.org/?probe=d852e85b23) | Jan 10, 2025 |
+| Lenovo        | ThinkPad L480 20LSS0N800    | [ff409f23cd](https://linux-hardware.org/?probe=ff409f23cd) | Jan 07, 2025 |
 | HP            | ZHAN 66 Pro A 14 G4 Note... | [0c0d5510fc](https://linux-hardware.org/?probe=0c0d5510fc) | Jan 05, 2025 |
 | Lenovo        | ThinkPad P14s Gen 5 21G2... | [f1a3b79f94](https://linux-hardware.org/?probe=f1a3b79f94) | Dec 26, 2024 |
 | Lenovo        | ThinkPad T14s Gen 3 21CQ... | [a16e1a46ec](https://linux-hardware.org/?probe=a16e1a46ec) | Dec 25, 2024 |

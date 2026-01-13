@@ -1,11 +1,28 @@
 Fedora 39 - Test Cases (Notebooks)
 ----------------------------------
 
-Total: 2448
+Total: 2463
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
-| Gigabyte      | Z97N-WIFI                   | [94525b433d](https://linux-hardware.org/?probe=94525b433d) | Jan 04, 2025 |
+| Unknown       | Apple MacBook Pro (13-in... | [5dade98d0d](https://linux-hardware.org/?probe=5dade98d0d) | Nov 26, 2025 |
+| Unknown       | Apple MacBook Pro (13-in... | [3192dda645](https://linux-hardware.org/?probe=3192dda645) | Nov 01, 2025 |
+| Lenovo        | ThinkPad T480 20L6S5QH00    | [ff23dbffa8](https://linux-hardware.org/?probe=ff23dbffa8) | Oct 19, 2025 |
+| Lenovo        | IdeaPad 320-15IKB 80XL      | [3b3512eece](https://linux-hardware.org/?probe=3b3512eece) | Oct 12, 2025 |
+| Samsung       | 300E4Z/300E5Z/300E7Z        | [ae5495785c](https://linux-hardware.org/?probe=ae5495785c) | Jul 24, 2025 |
+| Apple         | MacBookPro5,5               | [ffa61b61af](https://linux-hardware.org/?probe=ffa61b61af) | May 21, 2025 |
+| Lenovo        | ThinkPad L14 Gen 1 20U6S... | [e32495d294](https://linux-hardware.org/?probe=e32495d294) | May 12, 2025 |
+| Toshiba       | QOSMIO X70-A                | [efc0340fe9](https://linux-hardware.org/?probe=efc0340fe9) | Apr 22, 2025 |
+| Apple         | MacBookPro12,1              | [5a8ab3612c](https://linux-hardware.org/?probe=5a8ab3612c) | Apr 19, 2025 |
+| Lenovo        | ThinkBook 15 G4 IAP 21DJ    | [52ce2b2e0b](https://linux-hardware.org/?probe=52ce2b2e0b) | Apr 02, 2025 |
+| Dell          | Precision M4700             | [2d92662026](https://linux-hardware.org/?probe=2d92662026) | Apr 01, 2025 |
+| Dell          | XPS 13 9305                 | [17554240ba](https://linux-hardware.org/?probe=17554240ba) | Mar 17, 2025 |
+| Apple         | MacBookPro9,1               | [73e46df738](https://linux-hardware.org/?probe=73e46df738) | Mar 16, 2025 |
+| Apple         | MacBookPro9,1               | [feebf8360e](https://linux-hardware.org/?probe=feebf8360e) | Mar 16, 2025 |
+| HP            | ProBook 6570b               | [a1515e4db9](https://linux-hardware.org/?probe=a1515e4db9) | Mar 11, 2025 |
+| ASUSTek       | ASUS TUF Dash F15 FX516P... | [eec47c4bc4](https://linux-hardware.org/?probe=eec47c4bc4) | Feb 10, 2025 |
+| HP            | EliteBook 2740p             | [8cbe6c093a](https://linux-hardware.org/?probe=8cbe6c093a) | Jan 20, 2025 |
+| HP            | ZBook 15 G2                 | [07f507d68c](https://linux-hardware.org/?probe=07f507d68c) | Jan 12, 2025 |
 | Lenovo        | IdeaPad Slim 3 15ABR8 82... | [f453563b1e](https://linux-hardware.org/?probe=f453563b1e) | Jan 02, 2025 |
 | Dell          | Latitude E6430              | [3bbd75ec42](https://linux-hardware.org/?probe=3bbd75ec42) | Dec 28, 2024 |
 | HP            | ENVY m6                     | [4060abf5de](https://linux-hardware.org/?probe=4060abf5de) | Dec 18, 2024 |
@@ -804,8 +821,6 @@ Total: 2448
 | Acer          | Aspire E5-574G              | [e2b9eeaf50](https://linux-hardware.org/?probe=e2b9eeaf50) | Mar 08, 2024 |
 | ECT           | ONE GAMING Laptop Agent ... | [5de8ec763e](https://linux-hardware.org/?probe=5de8ec763e) | Mar 08, 2024 |
 | ASUSTek       | Zenbook UX8402VU_UX8402V... | [11541992d2](https://linux-hardware.org/?probe=11541992d2) | Mar 08, 2024 |
-| Acer          | Nitro AN515-44              | [0371716016](https://linux-hardware.org/?probe=0371716016) | Mar 08, 2024 |
-| Acer          | Nitro AN515-44              | [d1ff7df797](https://linux-hardware.org/?probe=d1ff7df797) | Mar 08, 2024 |
 | HP            | ZBook 14 G2                 | [7136267ed7](https://linux-hardware.org/?probe=7136267ed7) | Mar 08, 2024 |
 | Acer          | Aspire A515-57              | [4767e446b4](https://linux-hardware.org/?probe=4767e446b4) | Mar 08, 2024 |
 | Lenovo        | IdeaPad 3 15IIL05 81WE      | [3a321a169b](https://linux-hardware.org/?probe=3a321a169b) | Mar 08, 2024 |
@@ -1754,7 +1769,7 @@ Total: 2448
 | Lenovo        | ThinkPad W530 24474LG       | [180b4817c4](https://linux-hardware.org/?probe=180b4817c4) | Dec 26, 2023 |
 | Apple         | MacBookPro13,1              | [63344458c9](https://linux-hardware.org/?probe=63344458c9) | Dec 26, 2023 |
 | Framework     | Laptop 13 (AMD Ryzen 704... | [3fd8513ee7](https://linux-hardware.org/?probe=3fd8513ee7) | Dec 26, 2023 |
-| HP            | OMEN by Gaming Laptop 16... | [c436ff8cab](https://linux-hardware.org/?probe=c436ff8cab) | Dec 26, 2023 |
+| HP            | Unknown                     | [c436ff8cab](https://linux-hardware.org/?probe=c436ff8cab) | Dec 26, 2023 |
 | Dell          | XPS 13 9343                 | [8ba85bdc8c](https://linux-hardware.org/?probe=8ba85bdc8c) | Dec 26, 2023 |
 | Lenovo        | ThinkPad T14s Gen 2a 20X... | [ef91ce6df3](https://linux-hardware.org/?probe=ef91ce6df3) | Dec 26, 2023 |
 | Acer          | Nitro AN16-41               | [ae0d837def](https://linux-hardware.org/?probe=ae0d837def) | Dec 26, 2023 |
@@ -1809,7 +1824,7 @@ Total: 2448
 | Lenovo        | ThinkPad P14s Gen 4 21K6... | [d53640436b](https://linux-hardware.org/?probe=d53640436b) | Dec 22, 2023 |
 | Lenovo        | ThinkPad T550 20CK0002MZ    | [dbfd9ef700](https://linux-hardware.org/?probe=dbfd9ef700) | Dec 22, 2023 |
 | Dell          | Latitude 7300               | [8792895835](https://linux-hardware.org/?probe=8792895835) | Dec 22, 2023 |
-| HP            | OMEN by Gaming Laptop 16... | [d36af9d69e](https://linux-hardware.org/?probe=d36af9d69e) | Dec 22, 2023 |
+| HP            | Unknown                     | [d36af9d69e](https://linux-hardware.org/?probe=d36af9d69e) | Dec 22, 2023 |
 | Acer          | Nitro AN515-58              | [c7a31a4dab](https://linux-hardware.org/?probe=c7a31a4dab) | Dec 22, 2023 |
 | ASUSTek       | Unknown                     | [60e10649cc](https://linux-hardware.org/?probe=60e10649cc) | Dec 22, 2023 |
 | Dell          | Latitude 14 Rugged (5404... | [084f663c15](https://linux-hardware.org/?probe=084f663c15) | Dec 22, 2023 |

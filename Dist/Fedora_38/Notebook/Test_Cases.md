@@ -1,10 +1,18 @@
 Fedora 38 - Test Cases (Notebooks)
 ----------------------------------
 
-Total: 2488
+Total: 2496
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Acer          | Aspire A314-22G             | [2ac768ff96](https://linux-hardware.org/?probe=2ac768ff96) | Aug 21, 2025 |
+| HP            | EliteBook 840 G3            | [6f483d8715](https://linux-hardware.org/?probe=6f483d8715) | Apr 17, 2025 |
+| Acer          | Aspire A314-22G             | [19db56c8f2](https://linux-hardware.org/?probe=19db56c8f2) | Apr 03, 2025 |
+| HP            | EliteBook 2540p             | [047c427ffe](https://linux-hardware.org/?probe=047c427ffe) | Mar 26, 2025 |
+| HP            | EliteBook 2540p             | [530501d58b](https://linux-hardware.org/?probe=530501d58b) | Mar 26, 2025 |
+| Lenovo        | ThinkPad X1 Carbon 6th 2... | [e4743be95b](https://linux-hardware.org/?probe=e4743be95b) | Feb 28, 2025 |
+| HP            | Laptop 15-db0xxx            | [9afd6e6f8c](https://linux-hardware.org/?probe=9afd6e6f8c) | Feb 09, 2025 |
+| Lenovo        | ThinkPad T15 Gen 2i 20W4... | [2d32649177](https://linux-hardware.org/?probe=2d32649177) | Jan 06, 2025 |
 | Dell          | Latitude 5290 2-in-1        | [0b277582ac](https://linux-hardware.org/?probe=0b277582ac) | Jan 03, 2025 |
 | Toshiba       | PORTEGE R700                | [71c89a13ef](https://linux-hardware.org/?probe=71c89a13ef) | Dec 18, 2024 |
 | Lenovo        | ThinkPad X1 Carbon 2nd 2... | [e494fd0d75](https://linux-hardware.org/?probe=e494fd0d75) | Dec 04, 2024 |

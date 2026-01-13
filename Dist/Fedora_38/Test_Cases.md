@@ -1,10 +1,25 @@
 Fedora 38 - Test Cases
 ----------------------
 
-Total: 4324
+Total: 4339
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Acer          | Aspire Z5610                | All in one  | [cd5d5f1ee4](https://linux-hardware.org/?probe=cd5d5f1ee4) | Dec 02, 2025 |
+| Acer          | One S1003                   | Tablet      | [7c6faa1f6d](https://linux-hardware.org/?probe=7c6faa1f6d) | Nov 23, 2025 |
+| Lenovo        | NOK                         | Desktop     | [4b6bcb2054](https://linux-hardware.org/?probe=4b6bcb2054) | Nov 02, 2025 |
+| Acer          | Aspire A314-22G             | Notebook    | [2ac768ff96](https://linux-hardware.org/?probe=2ac768ff96) | Aug 21, 2025 |
+| Apple         | Mac-A369DDC4E67F1C45 iMa... | All in one  | [4591e51c57](https://linux-hardware.org/?probe=4591e51c57) | Aug 19, 2025 |
+| HP            | EliteBook 840 G3            | Notebook    | [6f483d8715](https://linux-hardware.org/?probe=6f483d8715) | Apr 17, 2025 |
+| Gigabyte      | H610M S2H DDR4              | Desktop     | [5f9d5bdd10](https://linux-hardware.org/?probe=5f9d5bdd10) | Apr 09, 2025 |
+| Acer          | Aspire A314-22G             | Notebook    | [19db56c8f2](https://linux-hardware.org/?probe=19db56c8f2) | Apr 03, 2025 |
+| Intel         | NUC13ANBi5 M89647-202       | Mini pc     | [44ff2de02b](https://linux-hardware.org/?probe=44ff2de02b) | Apr 01, 2025 |
+| HP            | EliteBook 2540p             | Notebook    | [047c427ffe](https://linux-hardware.org/?probe=047c427ffe) | Mar 26, 2025 |
+| HP            | EliteBook 2540p             | Notebook    | [530501d58b](https://linux-hardware.org/?probe=530501d58b) | Mar 26, 2025 |
+| Lenovo        | ThinkPad X1 Carbon 6th 2... | Notebook    | [e4743be95b](https://linux-hardware.org/?probe=e4743be95b) | Feb 28, 2025 |
+| HP            | Laptop 15-db0xxx            | Notebook    | [9afd6e6f8c](https://linux-hardware.org/?probe=9afd6e6f8c) | Feb 09, 2025 |
+| ASRock        | AB350 Pro4                  | Desktop     | [012f84c209](https://linux-hardware.org/?probe=012f84c209) | Jan 14, 2025 |
+| Lenovo        | ThinkPad T15 Gen 2i 20W4... | Notebook    | [2d32649177](https://linux-hardware.org/?probe=2d32649177) | Jan 06, 2025 |
 | Dell          | Latitude 5290 2-in-1        | Notebook    | [0b277582ac](https://linux-hardware.org/?probe=0b277582ac) | Jan 03, 2025 |
 | MSI           | MPG Z390 GAMING EDGE AC     | Desktop     | [08ef8b7453](https://linux-hardware.org/?probe=08ef8b7453) | Jan 01, 2025 |
 | Toshiba       | PORTEGE R700                | Notebook    | [71c89a13ef](https://linux-hardware.org/?probe=71c89a13ef) | Dec 18, 2024 |
@@ -1720,7 +1735,7 @@ Total: 4324
 | ASUSTek       | Strix 17 GL703GE            | Notebook    | [b2ad72336f](https://linux-hardware.org/?probe=b2ad72336f) | Aug 26, 2023 |
 | HP            | OMEN by Laptop              | Notebook    | [df71a92503](https://linux-hardware.org/?probe=df71a92503) | Aug 26, 2023 |
 | Acer          | Aspire A715-72G             | Notebook    | [cbbaecabb1](https://linux-hardware.org/?probe=cbbaecabb1) | Aug 26, 2023 |
-| Samsung       | Galaxy Book 12              | Tablet      | [c2efac4748](https://linux-hardware.org/?probe=c2efac4748) | Aug 26, 2023 |
+| Samsung       | Galaxy TabPro S             | Tablet      | [c2efac4748](https://linux-hardware.org/?probe=c2efac4748) | Aug 26, 2023 |
 | ASUSTek       | Z170-P                      | Desktop     | [9e90f8b308](https://linux-hardware.org/?probe=9e90f8b308) | Aug 26, 2023 |
 | ASUSTek       | X542BP                      | Notebook    | [58cc535a58](https://linux-hardware.org/?probe=58cc535a58) | Aug 26, 2023 |
 | AZW           | U59                         | Desktop     | [ea7bf087cc](https://linux-hardware.org/?probe=ea7bf087cc) | Aug 26, 2023 |
@@ -2765,7 +2780,7 @@ Total: 4324
 | Lenovo        | Yoga Slim 7 Carbon 13ITL... | Notebook    | [638d99b4f8](https://linux-hardware.org/?probe=638d99b4f8) | Jul 02, 2023 |
 | HP            | Compaq 6910p                | Notebook    | [d72eacd7ea](https://linux-hardware.org/?probe=d72eacd7ea) | Jul 02, 2023 |
 | Gigabyte      | A320M-S2H-CF                | Desktop     | [d0ab54293f](https://linux-hardware.org/?probe=d0ab54293f) | Jul 02, 2023 |
-| Samsung       | Galaxy Book 12              | Tablet      | [a53eeb72a6](https://linux-hardware.org/?probe=a53eeb72a6) | Jul 02, 2023 |
+| Samsung       | Galaxy TabPro S             | Tablet      | [a53eeb72a6](https://linux-hardware.org/?probe=a53eeb72a6) | Jul 02, 2023 |
 | Lenovo        | ThinkPad E14 Gen 3 20Y70... | Notebook    | [05394ee8a5](https://linux-hardware.org/?probe=05394ee8a5) | Jul 02, 2023 |
 | Dell          | Latitude E6420              | Notebook    | [aae88e9000](https://linux-hardware.org/?probe=aae88e9000) | Jul 01, 2023 |
 | Apple         | Mac-F2268CC8                | All in one  | [3bafd84f65](https://linux-hardware.org/?probe=3bafd84f65) | Jul 01, 2023 |

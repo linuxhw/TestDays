@@ -1,10 +1,31 @@
 Fedora 39 - Test Cases (Desktops)
 ---------------------------------
 
-Total: 1401
+Total: 1422
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| ASUSTek       | P6T6 WS REVOLUTION          | [fcd38b29d8](https://linux-hardware.org/?probe=fcd38b29d8) | Aug 27, 2025 |
+| AFOX          | IH81-MA5                    | [e4daf0dc75](https://linux-hardware.org/?probe=e4daf0dc75) | May 28, 2025 |
+| MSI           | PRO B760-P DDR4 II          | [c594811a71](https://linux-hardware.org/?probe=c594811a71) | May 04, 2025 |
+| Intel         | X79G-A V2.0                 | [0626c24cd5](https://linux-hardware.org/?probe=0626c24cd5) | May 02, 2025 |
+| MSI           | PRO H610M-E DDR4            | [68ba6ae421](https://linux-hardware.org/?probe=68ba6ae421) | Apr 23, 2025 |
+| MSI           | MS-7142                     | [67b96b40ba](https://linux-hardware.org/?probe=67b96b40ba) | Apr 18, 2025 |
+| Intel         | H55                         | [7d725788f7](https://linux-hardware.org/?probe=7d725788f7) | Apr 11, 2025 |
+| Intel         | X79G-A V2.0                 | [bf696cb803](https://linux-hardware.org/?probe=bf696cb803) | Apr 11, 2025 |
+| Intel         | X79G-A V2.0                 | [548a0a77bd](https://linux-hardware.org/?probe=548a0a77bd) | Apr 06, 2025 |
+| Intel         | X79G-A V2.0                 | [de5d11cf3a](https://linux-hardware.org/?probe=de5d11cf3a) | Mar 21, 2025 |
+| Intel         | X79G-A V2.0                 | [dd1c77debf](https://linux-hardware.org/?probe=dd1c77debf) | Mar 18, 2025 |
+| BESSTAR Te... | TH50                        | [fdd2e91625](https://linux-hardware.org/?probe=fdd2e91625) | Feb 26, 2025 |
+| ASUSTek       | ROG STRIX X670E-A GAMING... | [88cc810a2d](https://linux-hardware.org/?probe=88cc810a2d) | Feb 10, 2025 |
+| ASRock        | H81M-HDS                    | [7cfa1348bd](https://linux-hardware.org/?probe=7cfa1348bd) | Jan 28, 2025 |
+| HP            | 8643 SMVB                   | [ca9f4fb194](https://linux-hardware.org/?probe=ca9f4fb194) | Jan 25, 2025 |
+| ASRock        | Z77 Extreme4                | [797fa65c73](https://linux-hardware.org/?probe=797fa65c73) | Jan 23, 2025 |
+| ASUSTek       | CG8480                      | [7b1431a800](https://linux-hardware.org/?probe=7b1431a800) | Jan 22, 2025 |
+| Dell          | 0KWVT8 A00                  | [e160f659f6](https://linux-hardware.org/?probe=e160f659f6) | Jan 19, 2025 |
+| Gigabyte      | Z97N-WIFI                   | [2b49fe98b3](https://linux-hardware.org/?probe=2b49fe98b3) | Jan 12, 2025 |
+| ASUSTek       | P5Q SE/R                    | [a2d7cfe0a0](https://linux-hardware.org/?probe=a2d7cfe0a0) | Jan 09, 2025 |
+| Gigabyte      | Z97N-WIFI                   | [94525b433d](https://linux-hardware.org/?probe=94525b433d) | Jan 04, 2025 |
 | Pegatron      | Benicia                     | [e061c1cadc](https://linux-hardware.org/?probe=e061c1cadc) | Dec 28, 2024 |
 | Dell          | 0Y9655                      | [02dddf8f3b](https://linux-hardware.org/?probe=02dddf8f3b) | Dec 10, 2024 |
 | ASRock        | B360M Pro4                  | [110b5c92b3](https://linux-hardware.org/?probe=110b5c92b3) | Dec 05, 2024 |

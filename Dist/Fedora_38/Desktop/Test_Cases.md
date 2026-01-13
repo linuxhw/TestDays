@@ -1,10 +1,13 @@
 Fedora 38 - Test Cases (Desktops)
 ---------------------------------
 
-Total: 1421
+Total: 1424
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | NOK                         | [4b6bcb2054](https://linux-hardware.org/?probe=4b6bcb2054) | Nov 02, 2025 |
+| Gigabyte      | H610M S2H DDR4              | [5f9d5bdd10](https://linux-hardware.org/?probe=5f9d5bdd10) | Apr 09, 2025 |
+| ASRock        | AB350 Pro4                  | [012f84c209](https://linux-hardware.org/?probe=012f84c209) | Jan 14, 2025 |
 | MSI           | MPG Z390 GAMING EDGE AC     | [08ef8b7453](https://linux-hardware.org/?probe=08ef8b7453) | Jan 01, 2025 |
 | ASUSTek       | ROG STRIX X670E-E GAMING... | [97743675bd](https://linux-hardware.org/?probe=97743675bd) | Aug 25, 2024 |
 | Gigabyte      | P85-D3                      | [963dc3b162](https://linux-hardware.org/?probe=963dc3b162) | Aug 17, 2024 |
