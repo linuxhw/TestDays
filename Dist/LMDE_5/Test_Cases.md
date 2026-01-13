@@ -1,10 +1,22 @@
 LMDE 5 - Test Cases
 -------------------
 
-Total: 791
+Total: 803
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| ASUSTek       | H97-PLUS                    | Desktop     | [9a92ac1dae](https://linux-hardware.org/?probe=9a92ac1dae) | Nov 11, 2025 |
+| Dell          | 0YXT71 A02                  | Desktop     | [d1f5f0d7ef](https://linux-hardware.org/?probe=d1f5f0d7ef) | Nov 03, 2025 |
+| Dell          | 0GY6Y8 A02                  | Desktop     | [828cd03393](https://linux-hardware.org/?probe=828cd03393) | Aug 22, 2025 |
+| Dell          | 0YXT71 A02                  | Desktop     | [3c43359304](https://linux-hardware.org/?probe=3c43359304) | Jun 14, 2025 |
+| Gigabyte      | MZGLKAP-00                  | Desktop     | [8cc8191bd8](https://linux-hardware.org/?probe=8cc8191bd8) | May 04, 2025 |
+| PLEXHD        | X79 Turbo                   | Desktop     | [a272242927](https://linux-hardware.org/?probe=a272242927) | Feb 18, 2025 |
+| PLEXHD        | X79 Turbo                   | Desktop     | [52e126235e](https://linux-hardware.org/?probe=52e126235e) | Feb 18, 2025 |
+| HP            | Pavilion Notebook           | Notebook    | [ec12bd0e28](https://linux-hardware.org/?probe=ec12bd0e28) | Feb 12, 2025 |
+| HP            | Pavilion Notebook           | Notebook    | [45a006e359](https://linux-hardware.org/?probe=45a006e359) | Feb 07, 2025 |
+| Intel         | B75                         | Desktop     | [836553e146](https://linux-hardware.org/?probe=836553e146) | Feb 01, 2025 |
+| Login Info... | ISYNC ONE B75 V1            | Desktop     | [61c31eb3a0](https://linux-hardware.org/?probe=61c31eb3a0) | Feb 01, 2025 |
+| Login Info... | ISYNC ONE B75 V1            | Desktop     | [afc02cd20d](https://linux-hardware.org/?probe=afc02cd20d) | Jan 31, 2025 |
 | Acer          | Aspire XC600 v1.0           | Desktop     | [2f22befa4d](https://linux-hardware.org/?probe=2f22befa4d) | Jan 01, 2025 |
 | Acer          | Aspire XC600 v1.0           | Desktop     | [cad98a7856](https://linux-hardware.org/?probe=cad98a7856) | Jan 01, 2025 |
 | PLEXHD        | X79 Turbo                   | Desktop     | [e1891a209b](https://linux-hardware.org/?probe=e1891a209b) | Nov 22, 2024 |
