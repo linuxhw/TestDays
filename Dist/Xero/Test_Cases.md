@@ -1,10 +1,22 @@
 Xero - Test Cases
 -----------------
 
-Total: 614
+Total: 626
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| GEEKOM        | AE8                         | Desktop     | [e4aa169b73](https://linux-hardware.org/?probe=e4aa169b73) | Nov 23, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop TP41... | Convertible | [f268a415d3](https://linux-hardware.org/?probe=f268a415d3) | Nov 08, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop TP41... | Convertible | [46c0b36520](https://linux-hardware.org/?probe=46c0b36520) | Nov 02, 2025 |
+| Acer          | Swift SF316-51              | Notebook    | [2b20266ff1](https://linux-hardware.org/?probe=2b20266ff1) | Oct 23, 2025 |
+| Dell          | Latitude 9420               | Notebook    | [da0d4e1804](https://linux-hardware.org/?probe=da0d4e1804) | Sep 16, 2025 |
+| Shenzhen M... | F7BSC                       | Mini pc     | [de84f8b8b1](https://linux-hardware.org/?probe=de84f8b8b1) | Sep 15, 2025 |
+| Unknown       | Unknown                     | Desktop     | [377dd32e2f](https://linux-hardware.org/?probe=377dd32e2f) | Aug 31, 2025 |
+| HP            | Pavilion Gaming Laptop 1... | Notebook    | [190b168e00](https://linux-hardware.org/?probe=190b168e00) | Jul 31, 2025 |
+| Dell          | Precision 5520              | Notebook    | [ac675720cc](https://linux-hardware.org/?probe=ac675720cc) | Jul 13, 2025 |
+| ASUSTek       | TUF Gaming X570-PLUS        | Desktop     | [3179dba572](https://linux-hardware.org/?probe=3179dba572) | Jun 29, 2025 |
+| MSI           | 0A90                        | Desktop     | [b8a28ebfde](https://linux-hardware.org/?probe=b8a28ebfde) | May 31, 2025 |
+| ASUSTek       | VivoBook_ASUSLaptop X409... | Notebook    | [766ffa0d8c](https://linux-hardware.org/?probe=766ffa0d8c) | May 15, 2025 |
 | Dell          | 0T0MHW A03                  | Desktop     | [eb50cfecc0](https://linux-hardware.org/?probe=eb50cfecc0) | Dec 13, 2024 |
 | Lenovo        | ThinkPad T14 Gen 1 20UD0... | Notebook    | [614c58469c](https://linux-hardware.org/?probe=614c58469c) | Dec 01, 2024 |
 | Dell          | XPS 13 9310                 | Notebook    | [7443fb3ad9](https://linux-hardware.org/?probe=7443fb3ad9) | Nov 13, 2024 |
