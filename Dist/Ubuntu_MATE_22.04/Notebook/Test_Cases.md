@@ -1,10 +1,35 @@
 Ubuntu MATE 22.04 - Test Cases (Notebooks)
 ------------------------------------------
 
-Total: 507
+Total: 532
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| HP            | 350 G1                      | [b5560a9d30](https://linux-hardware.org/?probe=b5560a9d30) | Dec 29, 2025 |
+| ASUSTek       | G53SX                       | [dd6c3b82ef](https://linux-hardware.org/?probe=dd6c3b82ef) | Dec 21, 2025 |
+| ASUSTek       | G53SX                       | [2e780a44f8](https://linux-hardware.org/?probe=2e780a44f8) | Dec 05, 2025 |
+| Dell          | Latitude E5540              | [f6c018e24b](https://linux-hardware.org/?probe=f6c018e24b) | Nov 29, 2025 |
+| Dell          | Latitude E5540              | [5d616bcf7e](https://linux-hardware.org/?probe=5d616bcf7e) | Nov 28, 2025 |
+| Dell          | Latitude E5540              | [a646884c9f](https://linux-hardware.org/?probe=a646884c9f) | Nov 28, 2025 |
+| Dell          | Latitude E5540              | [8e7bd4a66c](https://linux-hardware.org/?probe=8e7bd4a66c) | Nov 28, 2025 |
+| ASUSTek       | X550LN                      | [dfad240177](https://linux-hardware.org/?probe=dfad240177) | Nov 21, 2025 |
+| Lenovo        | ThinkPad E16 Gen 2 21M50... | [914ed6021b](https://linux-hardware.org/?probe=914ed6021b) | Oct 03, 2025 |
+| Dell          | Vostro 3460                 | [43f4e1909b](https://linux-hardware.org/?probe=43f4e1909b) | Sep 13, 2025 |
+| ASUSTek       | X550LN                      | [962e0adddc](https://linux-hardware.org/?probe=962e0adddc) | Jun 21, 2025 |
+| ASUSTek       | X550LN                      | [00d9eb320b](https://linux-hardware.org/?probe=00d9eb320b) | Jun 21, 2025 |
+| Lenovo        | ThinkBook 15 G2 ITL 20VE    | [8bef5ab75c](https://linux-hardware.org/?probe=8bef5ab75c) | Jun 15, 2025 |
+| HP            | EliteBook 850 G6            | [2f0fd20ed5](https://linux-hardware.org/?probe=2f0fd20ed5) | May 31, 2025 |
+| Unknown       | Unknown                     | [5189d37805](https://linux-hardware.org/?probe=5189d37805) | May 18, 2025 |
+| HP            | Unknown                     | [a09d935302](https://linux-hardware.org/?probe=a09d935302) | Apr 28, 2025 |
+| Fujitsu       | LIFEBOOK S752               | [18d7206c5a](https://linux-hardware.org/?probe=18d7206c5a) | Apr 27, 2025 |
+| HP            | Pavilion Aero Laptop 13-... | [ca69b477da](https://linux-hardware.org/?probe=ca69b477da) | Apr 27, 2025 |
+| HUAWEI        | KLVL-WXX9                   | [db318ace22](https://linux-hardware.org/?probe=db318ace22) | Apr 16, 2025 |
+| Toshiba       | Satellite P50-B-10V         | [06c44c7b74](https://linux-hardware.org/?probe=06c44c7b74) | Mar 03, 2025 |
+| Lenovo        | B450 1S168003694001K        | [3a899614a8](https://linux-hardware.org/?probe=3a899614a8) | Feb 25, 2025 |
+| ASUSTek       | X550LN                      | [83bd92b78c](https://linux-hardware.org/?probe=83bd92b78c) | Feb 11, 2025 |
+| Dell          | Inspiron 3531               | [6fe6e86881](https://linux-hardware.org/?probe=6fe6e86881) | Feb 07, 2025 |
+| TUXEDO        | InfinityBook Pro Gen8 (M... | [3fd6e5505d](https://linux-hardware.org/?probe=3fd6e5505d) | Jan 26, 2025 |
+| Acer          | Aspire ES1-520              | [4c75b8f8ac](https://linux-hardware.org/?probe=4c75b8f8ac) | Jan 10, 2025 |
 | Lenovo        | IdeaPad U510 4941           | [78a774dc27](https://linux-hardware.org/?probe=78a774dc27) | Jan 01, 2025 |
 | HP            | Pavilion dv4                | [e09129add9](https://linux-hardware.org/?probe=e09129add9) | Dec 30, 2024 |
 | Lenovo        | ThinkPad T430 23498F0       | [4b2306ff9f](https://linux-hardware.org/?probe=4b2306ff9f) | Dec 19, 2024 |

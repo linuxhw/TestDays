@@ -1,10 +1,53 @@
 Ubuntu Unity - Test Cases (Desktops)
 ------------------------------------
 
-Total: 716
+Total: 759
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| GMKtec        | NucBox K8 Plus              | [cbbb102322](https://linux-hardware.org/?probe=cbbb102322) | Dec 10, 2025 |
+| MSI           | Z170A PC MATE               | [4aa4b7b07e](https://linux-hardware.org/?probe=4aa4b7b07e) | Dec 04, 2025 |
+| MSI           | Z170A PC MATE               | [4726fae678](https://linux-hardware.org/?probe=4726fae678) | Dec 04, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [48cf67c6fc](https://linux-hardware.org/?probe=48cf67c6fc) | Nov 19, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [0a004e58e0](https://linux-hardware.org/?probe=0a004e58e0) | Nov 08, 2025 |
+| Pegatron      | NARRA5                      | [246eb66bc0](https://linux-hardware.org/?probe=246eb66bc0) | Nov 01, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [7045b718ff](https://linux-hardware.org/?probe=7045b718ff) | Oct 31, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [a263411979](https://linux-hardware.org/?probe=a263411979) | Oct 20, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [857b3f2944](https://linux-hardware.org/?probe=857b3f2944) | Oct 03, 2025 |
+| ASUSTek       | PRIME B650M-A AX6           | [6cad9525eb](https://linux-hardware.org/?probe=6cad9525eb) | Sep 20, 2025 |
+| ASUSTek       | PRIME B650M-A AX6           | [c4d6e724c6](https://linux-hardware.org/?probe=c4d6e724c6) | Sep 20, 2025 |
+| ASRock        | N68-VS3 FX                  | [d46490c00f](https://linux-hardware.org/?probe=d46490c00f) | Sep 12, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [9141658497](https://linux-hardware.org/?probe=9141658497) | Sep 08, 2025 |
+| Gigabyte      | B550 AORUS ELITE V2         | [95b65524c3](https://linux-hardware.org/?probe=95b65524c3) | Sep 05, 2025 |
+| Gigabyte      | GA-880GM-UD2H               | [8e741cb158](https://linux-hardware.org/?probe=8e741cb158) | Sep 01, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [6ab2bfbd73](https://linux-hardware.org/?probe=6ab2bfbd73) | Aug 28, 2025 |
+| ASUSTek       | P8H77-M LE                  | [04dd4f08e2](https://linux-hardware.org/?probe=04dd4f08e2) | Aug 22, 2025 |
+| ECS           | G31T-M                      | [5bc8907435](https://linux-hardware.org/?probe=5bc8907435) | Aug 20, 2025 |
+| ASUSTek       | P8H77-M LE                  | [2e70d545df](https://linux-hardware.org/?probe=2e70d545df) | Aug 17, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [d362cd0402](https://linux-hardware.org/?probe=d362cd0402) | Jul 29, 2025 |
+| Gigabyte      | 970A-DS3P FX                | [49d7085340](https://linux-hardware.org/?probe=49d7085340) | Jul 23, 2025 |
+| ASUSTek       | PRIME X670-P WIFI           | [7ff4e62170](https://linux-hardware.org/?probe=7ff4e62170) | Jul 22, 2025 |
+| MSI           | MS-7369                     | [101559a840](https://linux-hardware.org/?probe=101559a840) | Jul 21, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [59f4cef8ba](https://linux-hardware.org/?probe=59f4cef8ba) | Jul 09, 2025 |
+| ASRock        | B650E PG Riptide WiFi       | [2ea90a57f1](https://linux-hardware.org/?probe=2ea90a57f1) | Jun 12, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [fa10c1d61c](https://linux-hardware.org/?probe=fa10c1d61c) | Jun 03, 2025 |
+| ASUSTek       | M5A78L-M LX PLUS            | [56c393629e](https://linux-hardware.org/?probe=56c393629e) | Jun 02, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [3913ae0bd9](https://linux-hardware.org/?probe=3913ae0bd9) | May 26, 2025 |
+| ASUSTek       | M5A78L-M LX PLUS            | [dc365c9643](https://linux-hardware.org/?probe=dc365c9643) | May 18, 2025 |
+| ASRock        | H370M-HDV                   | [fd61ae16a6](https://linux-hardware.org/?probe=fd61ae16a6) | May 13, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [b76630f131](https://linux-hardware.org/?probe=b76630f131) | May 04, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [6c13776b08](https://linux-hardware.org/?probe=6c13776b08) | May 02, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [2bbd2bbbf4](https://linux-hardware.org/?probe=2bbd2bbbf4) | May 01, 2025 |
+| HP            | 845A                        | [7109fb621d](https://linux-hardware.org/?probe=7109fb621d) | Apr 25, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [23722dd24b](https://linux-hardware.org/?probe=23722dd24b) | Apr 23, 2025 |
+| ASUSTek       | PRIME H610M-K D4            | [f0ddec3abe](https://linux-hardware.org/?probe=f0ddec3abe) | Apr 23, 2025 |
+| Dell          | 06JWJY A00                  | [78173cc97a](https://linux-hardware.org/?probe=78173cc97a) | Apr 17, 2025 |
+| ASRock        | H97 Pro4                    | [8e2c2d4487](https://linux-hardware.org/?probe=8e2c2d4487) | Apr 03, 2025 |
+| ASRock        | H97 Pro4                    | [00be998d07](https://linux-hardware.org/?probe=00be998d07) | Apr 03, 2025 |
+| ASRock        | H97 Pro4                    | [dde1635830](https://linux-hardware.org/?probe=dde1635830) | Mar 23, 2025 |
+| Fujitsu Si... | D2817-A1 S26361-D2817-A1    | [ab87296ce8](https://linux-hardware.org/?probe=ab87296ce8) | Mar 15, 2025 |
+| ASUSTek       | PRIME Z390-A                | [4b78f70cf0](https://linux-hardware.org/?probe=4b78f70cf0) | Feb 26, 2025 |
+| ASUSTek       | P8H77-M LE                  | [92d3e8dea0](https://linux-hardware.org/?probe=92d3e8dea0) | Jan 27, 2025 |
 | MSI           | 990XA-GD55                  | [5d282c8edc](https://linux-hardware.org/?probe=5d282c8edc) | Jan 04, 2025 |
 | ASUSTek       | PTGD2-VX                    | [0f9603dd40](https://linux-hardware.org/?probe=0f9603dd40) | Jan 03, 2025 |
 | ASUSTek       | PTGD2-VX                    | [c0ced145df](https://linux-hardware.org/?probe=c0ced145df) | Jan 03, 2025 |
