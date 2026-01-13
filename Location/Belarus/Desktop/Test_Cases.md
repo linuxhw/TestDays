@@ -1,10 +1,84 @@
 Linux in Belarus - Test Cases (Desktops)
 ----------------------------------------
 
-Total: 689
+Total: 763
 
 | Vendor        | Model                       | Probe                                                      | Date         |
 |---------------|-----------------------------|------------------------------------------------------------|--------------|
+| Lenovo        | SHARKBAY SDK0E50510 WIN     | [131893b445](https://linux-hardware.org/?probe=131893b445) | Dec 31, 2025 |
+| Gigabyte      | GA-970A-D3                  | [b831eb7a27](https://linux-hardware.org/?probe=b831eb7a27) | Dec 29, 2025 |
+| MSI           | B450M PRO-VDH V2            | [3452944fa4](https://linux-hardware.org/?probe=3452944fa4) | Dec 21, 2025 |
+| Gigabyte      | Z170-D3H-CF                 | [77f2a91bc5](https://linux-hardware.org/?probe=77f2a91bc5) | Dec 20, 2025 |
+| Gigabyte      | H370 HD3-CF                 | [4e2a2b9203](https://linux-hardware.org/?probe=4e2a2b9203) | Dec 14, 2025 |
+| ASRock        | B760M-HDV/M.2 D4            | [c2ba8228e2](https://linux-hardware.org/?probe=c2ba8228e2) | Dec 11, 2025 |
+| Gigabyte      | EP45-DS3L                   | [765871d1b7](https://linux-hardware.org/?probe=765871d1b7) | Dec 06, 2025 |
+| Gigabyte      | B650E AORUS ELITE X AX I... | [c5d52c0629](https://linux-hardware.org/?probe=c5d52c0629) | Nov 27, 2025 |
+| Gigabyte      | EP45-DS3L                   | [8933b78d4b](https://linux-hardware.org/?probe=8933b78d4b) | Nov 26, 2025 |
+| ASRock        | X570 Pro4                   | [704e149a1c](https://linux-hardware.org/?probe=704e149a1c) | Nov 26, 2025 |
+| MAXSUN        | MS-Challenger B650M         | [3b1b805830](https://linux-hardware.org/?probe=3b1b805830) | Nov 24, 2025 |
+| MAXSUN        | MS-Challenger B650M         | [7cb9d9ceb6](https://linux-hardware.org/?probe=7cb9d9ceb6) | Nov 22, 2025 |
+| ASUSTek       | P5QL/EPU                    | [4b04d369b0](https://linux-hardware.org/?probe=4b04d369b0) | Nov 20, 2025 |
+| retsamarre... | 000-F4424Pro-FBA006-2000    | [8dfae40f51](https://linux-hardware.org/?probe=8dfae40f51) | Nov 14, 2025 |
+| Unknown       | Unknown                     | [fe3dd90732](https://linux-hardware.org/?probe=fe3dd90732) | Nov 12, 2025 |
+| ASRock        | B650M-HDV/M.2               | [9717e1ed5b](https://linux-hardware.org/?probe=9717e1ed5b) | Nov 02, 2025 |
+| Gigabyte      | B650E AORUS ELITE X AX I... | [64a72b7969](https://linux-hardware.org/?probe=64a72b7969) | Nov 02, 2025 |
+| ASUSTek       | P5QL/EPU                    | [12b1617d50](https://linux-hardware.org/?probe=12b1617d50) | Oct 27, 2025 |
+| ASUSTek       | TUF B450M-PLUS GAMING       | [af22a48c1f](https://linux-hardware.org/?probe=af22a48c1f) | Oct 22, 2025 |
+| ASUSTek       | P5QL/EPU                    | [9aa41bf0e9](https://linux-hardware.org/?probe=9aa41bf0e9) | Oct 21, 2025 |
+| ASRock        | X870E Nova WiFi             | [49b378e10d](https://linux-hardware.org/?probe=49b378e10d) | Oct 19, 2025 |
+| ASUSTek       | PRIME H410M-R               | [92c7a57a65](https://linux-hardware.org/?probe=92c7a57a65) | Oct 16, 2025 |
+| ASUSTek       | P5QL/EPU                    | [37c28e8aa9](https://linux-hardware.org/?probe=37c28e8aa9) | Oct 10, 2025 |
+| Gigabyte      | B85M-D3V-A                  | [0b83417a91](https://linux-hardware.org/?probe=0b83417a91) | Oct 01, 2025 |
+| ASUSTek       | PRIME H410M-A               | [68208e88ce](https://linux-hardware.org/?probe=68208e88ce) | Sep 20, 2025 |
+| Gigabyte      | B365 HD3                    | [8f0f38267e](https://linux-hardware.org/?probe=8f0f38267e) | Sep 12, 2025 |
+| Gigabyte      | G41M-ES2L                   | [f16d27cbc0](https://linux-hardware.org/?probe=f16d27cbc0) | Aug 30, 2025 |
+| HP            | 86E9 A                      | [8b0959cde8](https://linux-hardware.org/?probe=8b0959cde8) | Aug 23, 2025 |
+| MSI           | G41M-P26                    | [214cd077d5](https://linux-hardware.org/?probe=214cd077d5) | Aug 04, 2025 |
+| ASRock        | B450M-HDV R4.0              | [3e741fa20d](https://linux-hardware.org/?probe=3e741fa20d) | Jul 31, 2025 |
+| Biostar       | B450MH                      | [782454e4ac](https://linux-hardware.org/?probe=782454e4ac) | Jul 17, 2025 |
+| Kllisre       | X79 V1.2                    | [ac238cfdce](https://linux-hardware.org/?probe=ac238cfdce) | Jul 14, 2025 |
+| Intel         | E5-A99 V1.2                 | [912528af99](https://linux-hardware.org/?probe=912528af99) | Jul 13, 2025 |
+| Gigabyte      | B550 AORUS ELITE V2         | [5d4094de05](https://linux-hardware.org/?probe=5d4094de05) | Jul 04, 2025 |
+| Gigabyte      | B550 AORUS ELITE V2         | [443fffe80b](https://linux-hardware.org/?probe=443fffe80b) | Jul 04, 2025 |
+| Gigabyte      | EP45-DS3L                   | [21ba024960](https://linux-hardware.org/?probe=21ba024960) | Jul 03, 2025 |
+| Gigabyte      | EP45-DS3L                   | [c0815cc18d](https://linux-hardware.org/?probe=c0815cc18d) | Jun 12, 2025 |
+| Gigabyte      | B560M DS3H                  | [3b5c180106](https://linux-hardware.org/?probe=3b5c180106) | Jun 01, 2025 |
+| Gigabyte      | B85-HD3                     | [45b0e39cb6](https://linux-hardware.org/?probe=45b0e39cb6) | Jun 01, 2025 |
+| AFOX          | I610M4                      | [a7d3f24dd2](https://linux-hardware.org/?probe=a7d3f24dd2) | Jun 01, 2025 |
+| MSI           | 760GM-P33                   | [d829b54f20](https://linux-hardware.org/?probe=d829b54f20) | May 30, 2025 |
+| ASRock        | 960GM-VGS3 FX               | [b0374aba53](https://linux-hardware.org/?probe=b0374aba53) | May 27, 2025 |
+| ASRock        | B560 Pro4                   | [67ab7815f8](https://linux-hardware.org/?probe=67ab7815f8) | May 22, 2025 |
+| ASRock        | Z87 Pro3                    | [dbc6708b92](https://linux-hardware.org/?probe=dbc6708b92) | May 20, 2025 |
+| ASUSTek       | PRIME H410M-A               | [688609f797](https://linux-hardware.org/?probe=688609f797) | May 17, 2025 |
+| MSI           | MAG B550 TOMAHAWK           | [1f8781a56e](https://linux-hardware.org/?probe=1f8781a56e) | May 12, 2025 |
+| MSI           | MAG B550 TOMAHAWK           | [0ea0fac266](https://linux-hardware.org/?probe=0ea0fac266) | May 11, 2025 |
+| ASRock        | B360M Pro4                  | [11cb510adf](https://linux-hardware.org/?probe=11cb510adf) | May 04, 2025 |
+| Gigabyte      | B550M AORUS ELITE           | [9c56e30478](https://linux-hardware.org/?probe=9c56e30478) | Apr 29, 2025 |
+| Gigabyte      | EP45-DS3L                   | [0602a748f6](https://linux-hardware.org/?probe=0602a748f6) | Apr 22, 2025 |
+| ASUSTek       | M5A78L-M PLUS/USB3          | [ff31aa152a](https://linux-hardware.org/?probe=ff31aa152a) | Apr 16, 2025 |
+| Gigabyte      | EP45-DS3L                   | [45b1b48495](https://linux-hardware.org/?probe=45b1b48495) | Apr 15, 2025 |
+| ASRock        | A320M-HDV                   | [e77693824a](https://linux-hardware.org/?probe=e77693824a) | Apr 13, 2025 |
+| Kllisre       | X79 V1.2                    | [8dead564b3](https://linux-hardware.org/?probe=8dead564b3) | Apr 11, 2025 |
+| HP            | 198E                        | [8724f703d5](https://linux-hardware.org/?probe=8724f703d5) | Apr 10, 2025 |
+| ASRock        | 990FX Extreme3              | [8427e4584c](https://linux-hardware.org/?probe=8427e4584c) | Apr 07, 2025 |
+| OEM           | X79-Turbo                   | [10454cd61f](https://linux-hardware.org/?probe=10454cd61f) | Apr 06, 2025 |
+| MSI           | PRO Z790-A MAX WIFI         | [e9692e9a76](https://linux-hardware.org/?probe=e9692e9a76) | Mar 31, 2025 |
+| OEM           | X79-Turbo                   | [20b1c83073](https://linux-hardware.org/?probe=20b1c83073) | Mar 29, 2025 |
+| Gigabyte      | EP45-DS3L                   | [2fdd5b7a26](https://linux-hardware.org/?probe=2fdd5b7a26) | Mar 25, 2025 |
+| MSI           | Z370-A PRO                  | [fd05f1143e](https://linux-hardware.org/?probe=fd05f1143e) | Mar 21, 2025 |
+| Lenovo        | SHARKBAY SDK0E50510 WIN     | [b32e088dcb](https://linux-hardware.org/?probe=b32e088dcb) | Mar 18, 2025 |
+| OEM           | X79-Turbo                   | [10ed52540f](https://linux-hardware.org/?probe=10ed52540f) | Mar 16, 2025 |
+| ASUSTek       | PRIME A520M-E               | [442daa5638](https://linux-hardware.org/?probe=442daa5638) | Mar 14, 2025 |
+| Gigabyte      | B560M H                     | [a7957acc67](https://linux-hardware.org/?probe=a7957acc67) | Mar 13, 2025 |
+| OEM           | X79-Turbo                   | [e38e146134](https://linux-hardware.org/?probe=e38e146134) | Mar 09, 2025 |
+| ASUSTek       | PRIME A320M-R               | [e6b0677475](https://linux-hardware.org/?probe=e6b0677475) | Mar 04, 2025 |
+| OEM           | X79-Turbo                   | [7d6daaa489](https://linux-hardware.org/?probe=7d6daaa489) | Feb 26, 2025 |
+| ASRock        | B450M-HDV R4.0              | [e070a3edb9](https://linux-hardware.org/?probe=e070a3edb9) | Feb 15, 2025 |
+| ASRock        | 970M Pro3                   | [12312b1bdd](https://linux-hardware.org/?probe=12312b1bdd) | Feb 11, 2025 |
+| HP            | 198E                        | [a950d44186](https://linux-hardware.org/?probe=a950d44186) | Feb 10, 2025 |
+| ASUSTek       | P5QL                        | [82cdd14650](https://linux-hardware.org/?probe=82cdd14650) | Jan 12, 2025 |
+| Gigabyte      | GA-970A-D3                  | [281d7eb611](https://linux-hardware.org/?probe=281d7eb611) | Jan 08, 2025 |
+| ASUSTek       | P5B-VM                      | [3ab840e997](https://linux-hardware.org/?probe=3ab840e997) | Jan 06, 2025 |
 | ASRock        | 960GM-VGS3 FX               | [e4da7ca430](https://linux-hardware.org/?probe=e4da7ca430) | Jan 05, 2025 |
 | Biostar       | A320MH                      | [a6f434cc49](https://linux-hardware.org/?probe=a6f434cc49) | Jan 04, 2025 |
 | Gigabyte      | H87-HD3                     | [0d4b3ad560](https://linux-hardware.org/?probe=0d4b3ad560) | Dec 27, 2024 |
