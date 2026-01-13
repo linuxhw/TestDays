@@ -1,10 +1,29 @@
 MX 21 - Test Cases
 ------------------
 
-Total: 604
+Total: 623
 
 | Vendor        | Model                       | Form-Factor | Probe                                                      | Date         |
 |---------------|-----------------------------|-------------|------------------------------------------------------------|--------------|
+| Apple         | Mac-77EB7D7DAF985301 iMa... | All in one  | [ccc3e59b14](https://linux-hardware.org/?probe=ccc3e59b14) | Dec 22, 2025 |
+| NEC Comput... | G1BVR2 A                    | All in one  | [6a2210fb28](https://linux-hardware.org/?probe=6a2210fb28) | Dec 18, 2025 |
+| ASUSTek       | M5A78L-M LX PLUS            | Desktop     | [212a29eda9](https://linux-hardware.org/?probe=212a29eda9) | Dec 01, 2025 |
+| Dell          | Vostro 3500                 | Notebook    | [d2ba738f11](https://linux-hardware.org/?probe=d2ba738f11) | Nov 23, 2025 |
+| Dell          | Vostro 3400                 | Notebook    | [5803878a17](https://linux-hardware.org/?probe=5803878a17) | Nov 09, 2025 |
+| HP            | ProBook 470 G3              | Notebook    | [097eca27df](https://linux-hardware.org/?probe=097eca27df) | Sep 06, 2025 |
+| HP            | Pavilion 15                 | Notebook    | [ab1864300c](https://linux-hardware.org/?probe=ab1864300c) | Sep 02, 2025 |
+| HP            | ProBook 470 G3              | Notebook    | [07e76d8dd5](https://linux-hardware.org/?probe=07e76d8dd5) | Aug 23, 2025 |
+| ECS           | P43G                        | Desktop     | [399e8e60fa](https://linux-hardware.org/?probe=399e8e60fa) | Jul 22, 2025 |
+| AMI           | Aptio CRB                   | Mini pc     | [d35d5d19fe](https://linux-hardware.org/?probe=d35d5d19fe) | Jul 13, 2025 |
+| Alienware     | 17 R4                       | Notebook    | [91ebf4cf72](https://linux-hardware.org/?probe=91ebf4cf72) | Jul 10, 2025 |
+| Alienware     | 17 R4                       | Notebook    | [1557d34a34](https://linux-hardware.org/?probe=1557d34a34) | Jul 08, 2025 |
+| Fujitsu       | LIFEBOOK E734               | Notebook    | [a208fc1359](https://linux-hardware.org/?probe=a208fc1359) | Jul 02, 2025 |
+| Alienware     | 17 R4                       | Notebook    | [68d5433cb2](https://linux-hardware.org/?probe=68d5433cb2) | May 11, 2025 |
+| HP            | Laptop 15s-fq2xxx           | Notebook    | [b11cb00993](https://linux-hardware.org/?probe=b11cb00993) | Apr 17, 2025 |
+| Fujitsu       | LIFEBOOK LH532              | Notebook    | [53242d1ed3](https://linux-hardware.org/?probe=53242d1ed3) | Apr 10, 2025 |
+| HP            | 18E5                        | Desktop     | [ad19b3112b](https://linux-hardware.org/?probe=ad19b3112b) | Jan 23, 2025 |
+| Unknown       | Unknown                     | Desktop     | [8d647549f4](https://linux-hardware.org/?probe=8d647549f4) | Jan 15, 2025 |
+| Unknown       | Unknown                     | Desktop     | [c3d2f04421](https://linux-hardware.org/?probe=c3d2f04421) | Jan 15, 2025 |
 | HP            | ZBook Firefly 14 inch G8... | Notebook    | [a322d502b8](https://linux-hardware.org/?probe=a322d502b8) | Jan 05, 2025 |
 | Razer         | Blade 15 Mid 2019-Base      | Notebook    | [e052122061](https://linux-hardware.org/?probe=e052122061) | Dec 20, 2024 |
 | HP            | Laptop 17-cp0xxx            | Notebook    | [fb6b122d69](https://linux-hardware.org/?probe=fb6b122d69) | Dec 19, 2024 |
