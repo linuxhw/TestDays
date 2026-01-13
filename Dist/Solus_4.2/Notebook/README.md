@@ -690,7 +690,7 @@ Hard drive models
 | Micron 1100_MTFDDAV256TBN 256GB SSD      | 1         | 5.56%   |
 | Kingston SA400S37240G 240GB SSD          | 1         | 5.56%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 5.56%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 5.56%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 5.56%   |
 | A-DATA SX8200PNP-512GT 512GB             | 1         | 5.56%   |
 
 HDD Vendor
@@ -717,13 +717,14 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Micron Technology   | 2         | 3      | 25%     |
-| WDC                 | 1         | 1      | 12.5%   |
-| Transcend           | 1         | 1      | 12.5%   |
-| SanDisk             | 1         | 1      | 12.5%   |
-| Kingston            | 1         | 1      | 12.5%   |
-| Intel               | 1         | 1      | 12.5%   |
-| Gigabyte Technology | 1         | 1      | 12.5%   |
+| Micron Technology   | 2         | 3      | 22.22%  |
+| WDC                 | 1         | 1      | 11.11%  |
+| Transcend           | 1         | 1      | 11.11%  |
+| SanDisk             | 1         | 1      | 11.11%  |
+| Samsung Electronics | 1         | 1      | 11.11%  |
+| Kingston            | 1         | 1      | 11.11%  |
+| Intel               | 1         | 1      | 11.11%  |
+| Gigabyte Technology | 1         | 1      | 11.11%  |
 
 Drive Kind
 ----------
@@ -735,9 +736,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 7         | 9      | 46.67%  |
-| HDD  | 6         | 7      | 40%     |
-| NVMe | 2         | 4      | 13.33%  |
+| SSD  | 8         | 10     | 50%     |
+| HDD  | 6         | 7      | 37.5%   |
+| NVMe | 2         | 3      | 12.5%   |
 
 Drive Connector
 ---------------
@@ -763,8 +764,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 8         | 10     | 61.54%  |
-| 0.51-1.0   | 5         | 6      | 38.46%  |
+| 0.01-0.5   | 9         | 11     | 64.29%  |
+| 0.51-1.0   | 5         | 6      | 35.71%  |
 
 Space Total
 -----------
@@ -1097,9 +1098,9 @@ Graphics card models
 | Nvidia TU106M [GeForce RTX 2060 Mobile]                                   | 1         | 5.26%   |
 | Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                                | 1         | 5.26%   |
 | Nvidia GM108M [GeForce 940MX]                                             | 1         | 5.26%   |
-| Intel Skylake GT2 [HD Graphics 520]                                       | 1         | 5.26%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                     | 1         | 5.26%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller              | 1         | 5.26%   |
-| Intel HD Graphics 620                                                     | 1         | 5.26%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 1         | 5.26%   |
 | Intel Haswell-ULT Integrated Graphics Controller                          | 1         | 5.26%   |
 | Intel CometLake-H GT2 [UHD Graphics]                                      | 1         | 5.26%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                 | 1         | 5.26%   |
@@ -1180,7 +1181,7 @@ Monitor models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 6.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 6.67%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 6.67%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 6.67%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 6.67%   |
@@ -1590,7 +1591,7 @@ Memory module models
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 2400MT/s     | 1         | 16.67%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 16.67%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 16.67%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 16.67%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 16.67%  |
 | Crucial RAM CT32G4SFD832A.M16FB 32GB SODIMM DDR4 3200MT/s | 1         | 16.67%  |

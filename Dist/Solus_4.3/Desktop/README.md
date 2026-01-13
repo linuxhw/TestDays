@@ -578,18 +578,18 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2014 | 9        | 23.08%  |
+| 2014 | 8        | 20.51%  |
 | 2018 | 7        | 17.95%  |
 | 2011 | 4        | 10.26%  |
-| 2020 | 3        | 7.69%   |
 | 2008 | 3        | 7.69%   |
 | 2021 | 2        | 5.13%   |
+| 2020 | 2        | 5.13%   |
 | 2017 | 2        | 5.13%   |
 | 2016 | 2        | 5.13%   |
+| 2015 | 2        | 5.13%   |
+| 2013 | 2        | 5.13%   |
 | 2012 | 2        | 5.13%   |
 | 2019 | 1        | 2.56%   |
-| 2015 | 1        | 2.56%   |
-| 2013 | 1        | 2.56%   |
 | 2010 | 1        | 2.56%   |
 | 2006 | 1        | 2.56%   |
 
@@ -866,48 +866,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart/drive_model.svg)
 
 
-| Model                                             | Desktops | Percent |
-|---------------------------------------------------|----------|---------|
-| Samsung SSD 850 EVO 250GB                         | 4        | 4%      |
-| Seagate ST4000DM004-2CV104 4TB                    | 3        | 3%      |
-| Seagate ST2000DM006-2DM164 2TB                    | 3        | 3%      |
-| Samsung NVMe SSD Drive 500GB                      | 3        | 3%      |
-| WDC WD10EZEX-08WN4A0 1TB                          | 2        | 2%      |
-| WDC WD10EZEX-08M2NA0 1TB                          | 2        | 2%      |
-| Toshiba DT01ACA050 500GB                          | 2        | 2%      |
-| Kingston Company A2000 NVMe SSD 500GB             | 2        | 2%      |
-| Kingston SA400S37480G 480GB SSD                   | 2        | 2%      |
-| Kingston SA400S37240G 240GB SSD                   | 2        | 2%      |
-| Crucial CT1000P1SSD8 1TB                          | 2        | 2%      |
-| Crucial CT1000MX500SSD1 1TB                       | 2        | 2%      |
-| WDC WDS480G2G0B-00EPW0 480GB SSD                  | 1        | 1%      |
-| WDC WD6400AAKS-75A7B2 640GB                       | 1        | 1%      |
-| WDC WD5000AVDS-63U7B1 500GB                       | 1        | 1%      |
-| WDC WD5000AVCS-632DY1 500GB                       | 1        | 1%      |
-| WDC WD5000AAKX-003CA0 500GB                       | 1        | 1%      |
-| WDC WD40EZRZ-00GXCB0 4TB                          | 1        | 1%      |
-| WDC WD3200AAJS-00YZCA0 320GB                      | 1        | 1%      |
-| WDC WD32 00AAJS-00L7A0 320GB                      | 1        | 1%      |
-| WDC WD3000GLFS-01F8U0 304GB                       | 1        | 1%      |
-| WDC WD2500HHTZ-04N21V1 250GB                      | 1        | 1%      |
-| WDC WD20EARX-00PASB0 2TB                          | 1        | 1%      |
-| WDC WD2003FZEX-00Z4SA0 2TB                        | 1        | 1%      |
-| WDC WD2003FZEX-00SRLA0 2TB                        | 1        | 1%      |
-| WDC WD1600AAJS-00PSA0 160GB                       | 1        | 1%      |
-| WDC WD1600AAJS-00M0A0 160GB                       | 1        | 1%      |
-| WDC WD140EFGX-68B0GN0 14TB                        | 1        | 1%      |
-| WDC WD10SPSX-00A6WT0 1TB                          | 1        | 1%      |
-| WDC WD10EZRX-00L4HB0 1TB                          | 1        | 1%      |
-| WDC WD10EZEX-21WN4A0 1TB                          | 1        | 1%      |
-| WDC WD10EADS-00P8B0 1TB                           | 1        | 1%      |
-| WDC WD10EADS-00M2B0 1TB                           | 1        | 1%      |
-| WDC WD1003FBYX-01Y7B0 1TB                         | 1        | 1%      |
-| WDC WD My Passport 25F3 1024GB                    | 1        | 1%      |
-| Unknown SD/MMC/MS PRO 128GB                       | 1        | 1%      |
-| Toshiba DT01ACA100 1TB                            | 1        | 1%      |
-| SPCC Sol id State Disk 256GB SSD                  | 1        | 1%      |
-| SK hynix HFS512GD9TNG-L2A0A 512GB                 | 1        | 1%      |
-| Silicon Motion SM2262/SM2262EN SSD Controller 2TB | 1        | 1%      |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| Samsung SSD 850 EVO 250GB                           | 4        | 4%      |
+| Seagate ST4000DM004-2CV104 4TB                      | 3        | 3%      |
+| Seagate ST2000DM006-2DM164 2TB                      | 3        | 3%      |
+| Samsung NVMe SSD Drive 500GB                        | 3        | 3%      |
+| WDC WD10EZEX-08WN4A0 1TB                            | 2        | 2%      |
+| WDC WD10EZEX-08M2NA0 1TB                            | 2        | 2%      |
+| Toshiba DT01ACA050 500GB                            | 2        | 2%      |
+| Kingston Company A2000 NVMe SSD 250GB               | 2        | 2%      |
+| Kingston SA400S37480G 480GB SSD                     | 2        | 2%      |
+| Kingston SA400S37240G 240GB SSD                     | 2        | 2%      |
+| Crucial CT1000P1SSD8 1TB                            | 2        | 2%      |
+| Crucial CT1000MX500SSD1 1TB                         | 2        | 2%      |
+| WDC WDS480G2G0B-00EPW0 480GB SSD                    | 1        | 1%      |
+| WDC WD6400AAKS-75A7B2 640GB                         | 1        | 1%      |
+| WDC WD5000AVDS-63U7B1 500GB                         | 1        | 1%      |
+| WDC WD5000AVCS-632DY1 500GB                         | 1        | 1%      |
+| WDC WD5000AAKX-003CA0 500GB                         | 1        | 1%      |
+| WDC WD40EZRZ-00GXCB0 4TB                            | 1        | 1%      |
+| WDC WD3200AAJS-00YZCA0 320GB                        | 1        | 1%      |
+| WDC WD32 00AAJS-00L7A0 320GB                        | 1        | 1%      |
+| WDC WD3000GLFS-01F8U0 304GB                         | 1        | 1%      |
+| WDC WD2500HHTZ-04N21V1 250GB                        | 1        | 1%      |
+| WDC WD20EARX-00PASB0 2TB                            | 1        | 1%      |
+| WDC WD2003FZEX-00Z4SA0 2TB                          | 1        | 1%      |
+| WDC WD2003FZEX-00SRLA0 2TB                          | 1        | 1%      |
+| WDC WD1600AAJS-00PSA0 160GB                         | 1        | 1%      |
+| WDC WD1600AAJS-00M0A0 160GB                         | 1        | 1%      |
+| WDC WD140EFGX-68B0GN0 14TB                          | 1        | 1%      |
+| WDC WD10SPSX-00A6WT0 1TB                            | 1        | 1%      |
+| WDC WD10EZRX-00L4HB0 1TB                            | 1        | 1%      |
+| WDC WD10EZEX-21WN4A0 1TB                            | 1        | 1%      |
+| WDC WD10EADS-00P8B0 1TB                             | 1        | 1%      |
+| WDC WD10EADS-00M2B0 1TB                             | 1        | 1%      |
+| WDC WD1003FBYX-01Y7B0 1TB                           | 1        | 1%      |
+| WDC WD My Passport 25F3 512GB                       | 1        | 1%      |
+| Unknown SD/MMC/MS PRO 2GB                           | 1        | 1%      |
+| Toshiba DT01ACA100 1TB                              | 1        | 1%      |
+| SPCC Sol id State Disk 256GB SSD                    | 1        | 1%      |
+| SK hynix HFS512GD9TNG-L2A0A 512GB                   | 1        | 1%      |
+| Silicon Motion SM2262/SM2262EN SSD Controller 960GB | 1        | 1%      |
 
 HDD Vendor
 ----------
@@ -990,10 +990,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 28       | 55     | 48.28%  |
-| 0.51-1.0   | 16       | 23     | 27.59%  |
+| 0.01-0.5   | 29       | 57     | 50%     |
+| 0.51-1.0   | 16       | 22     | 27.59%  |
 | 1.01-2.0   | 8        | 9      | 13.79%  |
-| 3.01-4.0   | 5        | 6      | 8.62%   |
+| 3.01-4.0   | 4        | 5      | 6.9%    |
 | 10.01-20.0 | 1        | 1      | 1.72%   |
 
 Space Total
@@ -1442,7 +1442,7 @@ Graphics card models
 | Nvidia GF106GL [Quadro 2000]                                                | 1        | 2.22%   |
 | Nvidia GA104 [GeForce RTX 3060 Ti Lite Hash Rate]                           | 1        | 2.22%   |
 | Nvidia G92 [GeForce 9800 GT]                                                | 1        | 2.22%   |
-| Intel HD Graphics 530                                                       | 1        | 2.22%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 1        | 2.22%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 1        | 2.22%   |
 | Intel 82946GZ/GL Integrated Graphics Controller                             | 1        | 2.22%   |
 | AMD Vega 20 [Radeon VII]                                                    | 1        | 2.22%   |
@@ -1553,7 +1553,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM029A 1920x1200 582x364mm 27.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM0272 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
 | Samsung Electronics SyncMaster SAM01CE 1024x768 304x228mm 15.0-inch  | 1        | 2%      |
-| Samsung Electronics SyncMaster SAM01B7 1280x1024 338x270mm 17.0-inch | 1        | 2%      |
+| Samsung Electronics SyncMaster SAM01B7 1280x1024 340x270mm 17.1-inch | 1        | 2%      |
 | Samsung Electronics S27D590C SAM0BEA 1920x1080 598x336mm 27.0-inch   | 1        | 2%      |
 | Samsung Electronics S22B150 SAM08A3 1920x1080 477x268mm 21.5-inch    | 1        | 2%      |
 | Samsung Electronics LCD Monitor SM2333TN 1920x1080                   | 1        | 2%      |
@@ -1568,7 +1568,7 @@ Monitor models
 | Goldstar W1942 GSM4B70 1440x900 408x255mm 18.9-inch                  | 1        | 2%      |
 | Goldstar W1642 GSM3E86 1360x768 344x194mm 15.5-inch                  | 1        | 2%      |
 | Goldstar Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch              | 1        | 2%      |
-| Goldstar L227W GSM566F 1680x1050 474x296mm 22.0-inch                 | 1        | 2%      |
+| Goldstar L227W GSM566F 1680x1050 490x320mm 23.0-inch                 | 1        | 2%      |
 | Goldstar E2050 GSM4EAE 1600x900 443x249mm 20.0-inch                  | 1        | 2%      |
 | Goldstar 19EN33 GSM4C18 1366x768 410x230mm 18.5-inch                 | 1        | 2%      |
 | Dell SE2419HR DELF113 1920x1080 527x296mm 23.8-inch                  | 1        | 2%      |
@@ -1580,10 +1580,10 @@ Monitor models
 | ASUSTek Computer VG245 AUS24A1 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
 | ASUSTek Computer MG248 AUS24A3 1920x1080 531x299mm 24.0-inch         | 1        | 2%      |
 | AOC Q29G2G5 AOC2902 2560x1080 681x287mm 29.1-inch                    | 1        | 2%      |
-| AOC Q27G2WG4 AOC2702 2560x1440 597x336mm 27.0-inch                   | 1        | 2%      |
+| AOC G2460 AOC2460 1920x1080 531x299mm 24.0-inch                      | 1        | 2%      |
+| AOC 27G2G4 AOC2702 1920x1080 598x336mm 27.0-inch                     | 1        | 2%      |
 | AOC 2481W AOC2481 1920x1080 527x296mm 23.8-inch                      | 1        | 2%      |
 | AOC 2470W AOC2470 1920x1080 521x293mm 23.5-inch                      | 1        | 2%      |
-| AOC 2460G4 AOC2460 1920x1080 531x299mm 24.0-inch                     | 1        | 2%      |
 | AOC 1970W AOC1970 1366x768 410x230mm 18.5-inch                       | 1        | 2%      |
 
 Monitor Resolution
@@ -2020,9 +2020,9 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 6        | 7.23%   |
 | AMD Starship/Matisse HD Audio Controller                                   | 6        | 7.23%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 5        | 6.02%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 5        | 6.02%   |
+| AMD Ryzen HD Audio Controller                                              | 5        | 6.02%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 4        | 4.82%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 4        | 4.82%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 4        | 4.82%   |
 | AMD FCH Azalia Controller                                                  | 4        | 4.82%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 3        | 3.61%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 3        | 3.61%   |
@@ -2088,21 +2088,21 @@ Memory module models
 ![Memory Model](./images/pie_chart/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 7.69%   |
-| Unknown RAM Module 1GB DIMM 667MT/s                      | 1        | 7.69%   |
-| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s       | 1        | 7.69%   |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1600MT/s        | 1        | 7.69%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
-| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s      | 1        | 7.69%   |
-| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s      | 1        | 7.69%   |
-| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1600MT/s      | 1        | 7.69%   |
-| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s    | 1        | 7.69%   |
-| Crucial RAM CT51264BA160BJ.M8F 4096MB DIMM DDR3 1600MT/s | 1        | 7.69%   |
-| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s   | 1        | 7.69%   |
-| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s    | 1        | 7.69%   |
-| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s              | 1        | 7.69%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 7.69%   |
+| Unknown RAM Module 1GB DIMM 667MT/s                    | 1        | 7.69%   |
+| Unknown RAM 3600 C17 Series 8GB DIMM DDR4 3200MT/s     | 1        | 7.69%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s      | 1        | 7.69%   |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s    | 1        | 7.69%   |
+| Patriot RAM 2133 CL11 Series 4GB DIMM DDR3 2400MT/s    | 1        | 7.69%   |
+| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1867MT/s    | 1        | 7.69%   |
+| Kingston RAM KHX1600C10D3/4G 4GB DIMM DDR3 1866MT/s    | 1        | 7.69%   |
+| Kingston RAM 9905403-176.A00LF 2GB DIMM DDR3 1333MT/s  | 1        | 7.69%   |
+| Crucial RAM CT51264BA160BJ.M8F 4GB DIMM DDR3 1600MT/s  | 1        | 7.69%   |
+| Crucial RAM BLS8G4D32AESBK.M8FE 8GB DIMM DDR4 3400MT/s | 1        | 7.69%   |
+| Corsair RAM CMK16GX4M2Z3200C16 8GB DIMM DDR4 3200MT/s  | 1        | 7.69%   |
+| A-DATA RAM Module 8192MB DIMM DDR4 2400MT/s            | 1        | 7.69%   |
 
 Memory Kind
 -----------
@@ -2237,14 +2237,15 @@ Camera device models
 
 | Model                                | Desktops | Percent |
 |--------------------------------------|----------|---------|
-| Logitech HD Pro Webcam C920          | 2        | 22.22%  |
 | MacroSilicon ShadowCast              | 1        | 11.11%  |
 | Logitech Webcam C270                 | 1        | 11.11%  |
+| Logitech HD Pro Webcam C920          | 1        | 11.11%  |
 | Logitech C922 Pro Stream Webcam      | 1        | 11.11%  |
+| Logitech C920 PRO HD Webcam          | 1        | 11.11%  |
 | LG Optimus (Various Models) MTP Mode | 1        | 11.11%  |
-| HP HP Webcam HD 2300                 | 1        | 11.11%  |
+| HP Webcam HD 2300                    | 1        | 11.11%  |
 | Bison LENOVO LBG 720P CAM            | 1        | 11.11%  |
-| A4Tech A4tech FHD 1080P PC Camera    | 1        | 11.11%  |
+| A4Tech FHD 1080P PC Camera           | 1        | 11.11%  |
 
 Security
 --------
@@ -2269,9 +2270,9 @@ Fingerprint sensor models
 ![Fingerprint Model](./images/pie_chart/fingerprint_model.svg)
 
 
-| Model                                     | Desktops | Percent |
-|-------------------------------------------|----------|---------|
-| Focal-systems.Corp FT9201Fingerprint.Ì | 1        | 100%    |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| Focal-systems.Corp FT9201Fingerprint. | 1        | 100%    |
 
 Chipcard Vendor
 ---------------

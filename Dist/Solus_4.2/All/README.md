@@ -802,7 +802,7 @@ Hard drive models
 | SanDisk SDSSDP064G 64GB                  | 1         | 2.22%   |
 | SanDisk SDSSDA240G 240GB                 | 1         | 2.22%   |
 | SanDisk SD7SN6S512G1001 512GB SSD        | 1         | 2.22%   |
-| SanDisk Extreme SSD 250GB                | 1         | 2.22%   |
+| SanDisk Extreme SSD 1TB                  | 1         | 2.22%   |
 | Samsung SSD 970 EVO Plus 2TB             | 1         | 2.22%   |
 | Samsung SSD 970 EVO 500GB                | 1         | 2.22%   |
 | Samsung PSSD T7 500GB                    | 1         | 2.22%   |
@@ -813,7 +813,7 @@ Hard drive models
 | Kingston NVMe SSD Drive 1TB              | 1         | 2.22%   |
 | Intel SSDSC2CW120A3 120GB                | 1         | 2.22%   |
 | HGST HTS721010A9E630 1TB                 | 1         | 2.22%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB         | 1         | 2.22%   |
+| Gigabyte GP-GSTFS31120GNTD 120GB SSD     | 1         | 2.22%   |
 | Corsair Force LS SSD 64GB                | 1         | 2.22%   |
 | China SATA SSD 240GB                     | 1         | 2.22%   |
 | Apple SSD SM1024G 1TB                    | 1         | 2.22%   |
@@ -844,20 +844,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| SanDisk             | 4         | 5      | 21.05%  |
-| Samsung Electronics | 2         | 2      | 10.53%  |
-| Micron Technology   | 2         | 3      | 10.53%  |
-| WDC                 | 1         | 1      | 5.26%   |
-| Unknown             | 1         | 1      | 5.26%   |
-| Transcend           | 1         | 1      | 5.26%   |
-| Patriot             | 1         | 1      | 5.26%   |
-| Kingston            | 1         | 1      | 5.26%   |
-| Intel               | 1         | 1      | 5.26%   |
-| Gigabyte Technology | 1         | 1      | 5.26%   |
-| Corsair             | 1         | 1      | 5.26%   |
-| China               | 1         | 1      | 5.26%   |
-| Apple               | 1         | 3      | 5.26%   |
-| A-DATA Technology   | 1         | 1      | 5.26%   |
+| SanDisk             | 4         | 5      | 20%     |
+| Samsung Electronics | 3         | 3      | 15%     |
+| Micron Technology   | 2         | 3      | 10%     |
+| WDC                 | 1         | 1      | 5%      |
+| Unknown             | 1         | 1      | 5%      |
+| Transcend           | 1         | 1      | 5%      |
+| Patriot             | 1         | 1      | 5%      |
+| Kingston            | 1         | 1      | 5%      |
+| Intel               | 1         | 1      | 5%      |
+| Gigabyte Technology | 1         | 1      | 5%      |
+| Corsair             | 1         | 1      | 5%      |
+| China               | 1         | 1      | 5%      |
+| Apple               | 1         | 3      | 5%      |
+| A-DATA Technology   | 1         | 1      | 5%      |
 
 Drive Kind
 ----------
@@ -869,9 +869,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 17        | 23     | 47.22%  |
-| HDD  | 14        | 21     | 38.89%  |
-| NVMe | 5         | 9      | 13.89%  |
+| SSD  | 18        | 24     | 48.65%  |
+| HDD  | 14        | 21     | 37.84%  |
+| NVMe | 5         | 8      | 13.51%  |
 
 Drive Connector
 ---------------
@@ -897,8 +897,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 24     | 61.29%  |
-| 0.51-1.0   | 10        | 15     | 32.26%  |
+| 0.01-0.5   | 19        | 23     | 61.29%  |
+| 0.51-1.0   | 10        | 17     | 32.26%  |
 | 3.01-4.0   | 1         | 1      | 3.23%   |
 | 1.01-2.0   | 1         | 4      | 3.23%   |
 
@@ -1304,9 +1304,9 @@ Graphics card models
 | Nvidia GM108M [GeForce 940MX]                                               | 1         | 3.03%   |
 | Nvidia GF108 [GeForce GT 730]                                               | 1         | 3.03%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 1         | 3.03%   |
-| Intel Skylake GT2 [HD Graphics 520]                                         | 1         | 3.03%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                       | 1         | 3.03%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                | 1         | 3.03%   |
-| Intel HD Graphics 620                                                       | 1         | 3.03%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                     | 1         | 3.03%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 1         | 3.03%   |
 | Intel GeminiLake [UHD Graphics 600]                                         | 1         | 3.03%   |
 | Intel CometLake-H GT2 [UHD Graphics]                                        | 1         | 3.03%   |
@@ -1410,15 +1410,15 @@ Monitor models
 | Unknown LCD Monitor HIC 3200x1080                                    | 1         | 3.45%   |
 | Samsung Electronics S19C200 SAM09B3 1440x900 408x255mm 18.9-inch     | 1         | 3.45%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 309x174mm 14.0-inch | 1         | 3.45%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 344x193mm 15.5-inch | 1         | 3.45%   |
 | LG Electronics LCD Monitor W1952 1440x900                            | 1         | 3.45%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 344x194mm 15.5-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD0465 1366x768 344x194mm 15.5-inch          | 1         | 3.45%   |
 | LG Display LCD Monitor LGD044F 1920x1080 345x194mm 15.6-inch         | 1         | 3.45%   |
 | LG Display LCD Monitor LGD020C 1600x900 345x194mm 15.6-inch          | 1         | 3.45%   |
 | JRY Analog JRY1950 1600x900 368x207mm 16.6-inch                      | 1         | 3.45%   |
-| Iiyama PLE2483H IVM6113 1920x1080 530x300mm 24.0-inch                | 1         | 3.45%   |
-| Hewlett-Packard ZR24w HWP2869 1920x1200 546x352mm 25.6-inch          | 1         | 3.45%   |
+| Iiyama PLE2483H IVM6113 1920x1080 531x299mm 24.0-inch                | 1         | 3.45%   |
+| Hewlett-Packard ZR24w HWP2869 1920x1200 518x324mm 24.1-inch          | 1         | 3.45%   |
 | Goldstar L1953H GSM4B3D 1280x1024 338x270mm 17.0-inch                | 1         | 3.45%   |
 | Goldstar E1911 GSM4BF9 1366x768 410x230mm 18.5-inch                  | 1         | 3.45%   |
 | Dell 1908WFP DELF007 1440x900 408x255mm 18.9-inch                    | 1         | 3.45%   |
@@ -1888,9 +1888,9 @@ Sound card models
 | Blue Microphones Yeti Stereo Microphone                                    | 1         | 2.27%   |
 | BEHRINGER International UMC202HD 192k                                      | 1         | 2.27%   |
 | AMD Tonga HDMI Audio [Radeon R9 285/380]                                   | 1         | 2.27%   |
+| AMD Ryzen HD Audio Controller                                              | 1         | 2.27%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1         | 2.27%   |
 | AMD Navi 10 HDMI Audio                                                     | 1         | 2.27%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1         | 2.27%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1         | 2.27%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 1         | 2.27%   |
 
@@ -1928,7 +1928,7 @@ Memory module models
 |-----------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 8192MB SODIMM DDR3 1867MT/s            | 1         | 11.11%  |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 2400MT/s     | 1         | 11.11%  |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s      | 1         | 11.11%  |
+| Nanya RAM NT2GC64B88B0NS-CG 2048MB SODIMM DDR3 1334MT/s   | 1         | 11.11%  |
 | Micron RAM Module 4096MB SODIMM DDR3 1867MT/s             | 1         | 11.11%  |
 | Micron RAM 16KTF51264HZ-1G6M1 4GB SODIMM DDR3 1600MT/s    | 1         | 11.11%  |
 | Kingston RAM 9905624-044.A00G 8GB SODIMM DDR4 2400MT/s    | 1         | 11.11%  |
@@ -2081,7 +2081,7 @@ Camera device models
 | Chicony Integrated Camera                 | 1         | 7.14%   |
 | Chicony HD WebCam                         | 1         | 7.14%   |
 | Chicony 2.0M UVC WebCam                   | 1         | 7.14%   |
-| Apple iPhone 5/5C/5S/6/SE/7/8/X/XR        | 1         | 7.14%   |
+| Apple iPhone 5/5C/5S/6/SE/7/8/X           | 1         | 7.14%   |
 | Apple FaceTime HD Camera (Built-in)       | 1         | 7.14%   |
 
 Security
